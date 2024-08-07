@@ -1,13 +1,13 @@
 # from pelican_settings import *
 import logging
 
-PATH = '/Users/tomyates/niche_sites/sites/christianity/content' 
+PATH = '/Users/tomyates/niche_sites/sites/biblebasedliving/content' 
 ARTICLE_PATHS = [''] 
 ARTICLE_EXCLUDES = ['pages'] 
 PAGE_PATHS = ['pages'] 
 PAGE_EXCLUDES = [''] 
 THEME = '/Users/tomyates/niche_sites/themes/genus' 
-OUTPUT_PATH = '/Users/tomyates/niche_sites/sites/christianity/output' 
+OUTPUT_PATH = '/Users/tomyates/niche_sites/sites/biblebasedliving/output' 
 READERS = {} 
 STATIC_PATHS = ['images', 'css', 'misc', 'social-cards', 'extras'] 
 STATIC_EXCLUDES = [] 
