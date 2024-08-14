@@ -11,7 +11,7 @@ font-size: 1em;
     padding: 0;
     margin: 1rem 0; 
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 .site-header nav li {
@@ -21,10 +21,11 @@ font-size: 1em;
 .site-header nav a {
     color: white;
     text-decoration: none;
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     padding: 0.5rem 1rem;
     border-radius: 4px;
     transition: background-color 0.3s ease;
+    font-family: 'Source Sans Pro';
 }
 
 .site-header nav a:hover {
@@ -285,7 +286,7 @@ h3.related-articles-header {
 
 @media screen and (min-width: 54em) {
     .site-header {
-        padding: 1rem 6rem 3rem;
+        padding: 1rem 0rem 1.3rem;
     }
 }
 
