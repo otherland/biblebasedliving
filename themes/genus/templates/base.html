@@ -1,0 +1,114 @@
+<!doctype html>
+<html class="no-js" lang="{{ DEFAULT_LANG }}">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X2G3FTR6TD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X2G3FTR6TD');
+</script>
+    {% block head %}
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    <meta name="description" content="{% block meta_description %}{{ SITENAME }}{% endblock %}">
+    <meta name="keywords" content="{% block meta_keywords %}{{ SITENAME }}{% endblock %}">
+
+    {# Open Graph meta tags for better social media sharing #}
+    <meta property="og:title" content="{% block og_title %}{{ SITENAME }}{% endblock %}">
+    <meta property="og:description" content="{% block og_description %}{{ SITENAME }}{% endblock %}">
+    <meta property="og:type" content="{% block og_type %}website{% endblock %}">
+    <meta property="og:url" content="{% block og_url %}{{ SITEURL }}{% endblock %}">
+    <meta property="og:image" content="{% block og_image %}{{ SITEURL }}{% endblock %}">
+    <meta property="og:site_name" content="BibleBasedLiving.com">
+
+    {# Twitter Card meta tags #}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{% block twitter_title %}{{ SITENAME }}{% endblock %}">
+    <meta name="twitter:description" content="{% block twitter_description %}{{ SITENAME }}{% endblock %}">
+    <meta property="twitter:image" content="{% block twitter_image %}{{ SITEURL }}{% endblock %}">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+    <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Serif+Pro:400,700&display=swap"
+    media="print"
+    onload="this.media='all'"
+/>
+<noscript>
+    <link
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Serif+Pro:400,700&display=swap"
+        rel="stylesheet"
+        type="text/css"
+        
+    />
+</noscript>
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/css/custom.css">
+    <!-- <base target="_blank"> -->
+    <link rel="icon" type="image/x-icon" href="/extras/favicon.ico">
+
+    {% endblock %}
+
+</head>
+<body itemscope itemtype="http://schema.org/Blog">
+    <div class="overlay"></div>
+    <header class="site-header">
+        <!-- <a href="{{ SITEURL }}" aria-label="BibleBasedLiving.com">
+            {% if SITELOGO %}
+            <img src="{{ SITELOGO }}" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
+            {% else %}
+            {% endif %}
+        </a>
+        <h1 itemprop="name"><a href="{{ SITEURL }}" aria-label="BibleBasedLiving.com">{{ SITETITLE }}</a></h1>
+        {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %} -->
+        <nav>
+            <ul>
+                <li><a href="{{ SITEURL }}" aria-label="BibleBasedLiving.com" style="font-weight: bold;">{{ SITETITLE }}</a></li>
+                <li><a href="{{ SITEURL }}">Home</a></li>
+                <li><a href="{{ SITEURL }}/categories">Read</a></li>
+                <li><a href="{{ SITEURL }}/pages/about.html">About</a></li>
+                <li><a href="{{ SITEURL }}/pages/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <button class="drawer-toggle" aria-label="Toggle navigation menu"></button>
+        <div class="search_box">
+        </div>
+    </header>
+
+    <div class="drawer">
+        <nav>
+            <ul>
+                <li><a href="{{ SITEURL }}">Home</a></li>
+                <li><a href="{{ SITEURL }}/categories">Read</a></li>
+                <li><a href="{{ SITEURL }}/pages/about.html">About</a></li>
+                <li><a href="{{ SITEURL }}/pages/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <main class="main-content">
+    {% block content %}{% endblock %}
+    </main>
+
+    {% include "fragments/footer.html" %}
+</body>
+
+<script>
+    const drawerToggle = document.querySelector('.drawer-toggle');
+    const drawer = document.querySelector('.drawer');
+    const overlay = document.querySelector('.overlay');
+  
+    drawerToggle.addEventListener('click', () => {
+      drawer.classList.toggle('open');
+      overlay.classList.toggle('active');
+    });
+  
+    overlay.addEventListener('click', () => {
+      drawer.classList.remove('open');
+      overlay.classList.remove('active');
+    });
+</html>

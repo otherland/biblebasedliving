@@ -1,0 +1,95 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="flex">
+    <div id="article-list-container" style="width:70%">
+        {% set path_parts = page_name.split('/')[1:] %}
+        {% if path_parts %}
+        <div class="breadcrumbs">
+            <a href="{{ SITEURL }}" class="home-link">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home">
+                    <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                    <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                </svg> Home
+            </a>
+            {% set path_parts = page_name.split('/')[1:] %}
+            {% for i in range(path_parts|length) %}
+                <span class="breadcrumb-separator">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+                        <polyline points="9 18 15 12 9 6"></polyline>
+                    </svg>
+                </span>
+                {% set current_path = '/'.join(path_parts[:i+1]).lower() %}
+                {% if i == path_parts|length - 1 %}
+                    <span class="current-category">{{ path_parts[i]|capitalize }}</span>
+                {% else %}
+                    <a href="{{ SITEURL }}/category/{{ current_path }}">{{ path_parts[i]|capitalize }}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        {% for article in articles_page.object_list %}
+        
+            <article class="article_list">
+                
+            <header>
+                <h2>
+                    <a href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">{{ article.title }}</a>
+                </h2>
+                {% if article.image %}
+                <img src="{{ SITEURL }}/{{ article.image }}" alt="{{ article.title }}"/>
+                {% endif %}
+                <p>
+                    <meta itemprop="datePublished" content="{{ article.date.isoformat() }}">
+                    <meta itemprop="dateModified" content="{{ article.date.isoformat() }}">
+                    {% if GRAVATAR_IMAGE %}
+                    <meta itemprop="image" content="{{ GRAVATAR_IMAGE }}">
+                    {% endif %}
+                    Posted on {{ article.date | strftime('%d %B %Y') }}
+                </p>
+            </header>
+
+            {% if summarise or article.metadata['summary'] or SUMMARY_MAX_LENGTH %}
+                {{ article.summary }}
+                <a class="button" href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">Continue reading</a>
+            {% else %}
+                {{ article.content }}
+            {% endif %}
+        
+        </article>
+        
+        {% endfor %}
+
+        <div class="pagination" style="margin-top:1rem;width:100%;text-align:center;">
+                <!-- Pagination -->
+                    {% if articles_page.has_previous() %}
+                    <a href="/{{ articles_previous_page.url }}" class="button large previous">Previous Page</a>
+                    {% else %}
+                <a href="" class="disabled button large previous">Previous Page</a>
+                {% endif %}
+                
+                {% if articles_page.has_next() %}
+                <a href="/{{ articles_next_page.url }}" class="button large next">Next Page</a>
+                {% else %}
+                <a href="#" class="disabled button large next">Next Page</a>
+                {% endif %}
+            </div>
+    </div>
+    <aside class="sidebar">
+        <h3>Recent Articles</h3>
+        {% for article in articles_page.object_list %}
+        <a href="{{ SITEURL }}/{{ article.url }}">
+            {% if article.image %}
+            <img  loading="lazy" src="{{ SITEURL }}/{{ article.image }}" alt="{{ article.title }}"/>
+            {% endif %}
+        <h3>
+            {{ article.title }}
+        </h3>
+                
+        </a>
+        {% endfor %}
+        {% include 'fragments/subscribe.html' %}
+    </aside>
+</div>
+{% endblock %}

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Topics</h1>
+
+{% macro display_category(category, level=0) %}
+    <div style="margin-left: {{ level * 20 }}px;">
+        <a href="{{ SITEURL }}/{{ category.url }}">{{ category.shortname or category }}</a>
+        {% if category.children %}
+            {% for child in category.children %}
+                {{ display_category(child, level+1) }}
+            {% endfor %}
+        {% endif %}
+    </div>
+{% endmacro %}
+
+{% for category, articles in categories %}
+    {% if not category.parent %}
+        {{ display_category(category) }}
+    {% endif %}
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title | striptags }}{% endblock %}
+
+{% block meta_description %}{{ article.description or article.summary | striptags | truncate(160) }}{% endblock %}
+{% block meta_keywords %}{{ article.tags }}{% endblock %}
+
+{% block og_title %}{{ article.title }}{% endblock %}
+{% block og_description %}{{ article.description or article.summary | striptags | truncate(150) }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block og_url %}{{ SITEURL }}/{{ article.url }}{% endblock %}
+{% block og_image %}{{ SITEURL }}/social-cards/{{ article.slug }}.png{% endblock %}
+
+{% block twitter_title %}{{ article.title }}{% endblock %}
+{% block twitter_description %}{{ article.description or article.summary | striptags | truncate(150) }}{% endblock %}
+{% block twitter_image %}{{ SITEURL }}/social-cards/{{ article.slug }}.png{% endblock %}
+
+{% block content %}
+<div class="flex">
+    
+    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+            {% include "fragments/breadcrumbs.html" %}
+            {% if article.image %}
+            <img loading="lazy" src="{{ SITEURL }}/{{ article.image }}" alt="{{ article.title }}"/>
+            {% endif %}
+            <h1 itemprop="headline" id="{{ article.slug }}">{{ article.title }}</h1>
+            <p>
+                <meta itemprop="datePublished" content="{{ article.date.isoformat() }}">
+                <meta itemprop="dateModified" content="{{ article.date.isoformat() }}">
+                {% if GRAVATAR_IMAGE %}
+                <meta itemprop="image" content="{{ GRAVATAR_IMAGE }}">
+                {% endif %}
+                Posted on {{ article.date | strftime('%d %B %Y') }}
+            </p>
+            <div class="share-buttons" style="margin-bottom: 1rem;">
+                <!-- AddToAny BEGIN -->
+                <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+                    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+                    <a class="a2a_button_facebook"></a>
+                    <a class="a2a_button_email"></a>
+                    <a class="a2a_button_whatsapp"></a>
+                    <a class="a2a_button_x"></a>
+                    <a class="a2a_button_print"></a>
+                    <a class="a2a_button_linkedin"></a>
+                    <a class="a2a_button_reddit"></a>
+                </div>
+                <script async src="https://static.addtoany.com/menu/page.js"></script>
+                <!-- AddToAny END -->
+            </div>
+            <div class="verification-box">
+                <svg class="verification-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#4caf50">
+                    <path d="M0 0h24v24H0z" fill="none"/>
+                    <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
+                </svg>
+                <span class="verification-text">This article has been fact-checked and verified for accuracy.</span>
+            </div>
+        </header>
+        <main>
+            <section id="content" itemprop="mainEntityOfPage">
+                {{ article.content }}
+            </section>
+            {% set author_info = AUTHORS[article.author] %}
+            <div class="author-info">
+                {% if author_info.image %}
+                    <img loading="lazy" src="{{ SITEURL }}{{ author_info.image }}" alt="{{ author_info.name }}" class="author-image">
+                {% endif %}
+                <div class="author-details">
+                    <h4>{{ author_info.name }}</h4>
+                    <p>{{ author_info.bio }} — Updated on {{ article.date | strftime('%d %B %Y') }}.</p>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <div class="related-articles">
+                <h3 class="related-articles-header">RELATED ARTICLES</h3>
+                <ul class="related-articles-list">
+                    {% for similar in article.similar_posts %}
+                        <li class="related-article-item">
+                            <a href="{{ SITEURL }}/{{ similar.url }}">{{ similar.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </footer>
+    </article>
+
+    <aside class="sidebar">
+        <h3>Recent Articles</h3>
+        {% for article in articles[:5] %}
+        <a href="{{ SITEURL }}/{{ article.url }}">
+            {% if article.image %}
+            <img loading="lazy" src="{{ SITEURL }}/{{ article.image }}" alt="{{ article.title }}"/>
+            {% endif %}
+        <h3>
+            {{ article.title }}
+        </h3>
+                
+        </a>
+        {% endfor %}
+        {% include 'fragments/subscribe.html' %}
+    </aside>
+</div>
+{% endblock %}
