@@ -8,8 +8,6 @@ Tags: what chapter does the new testament start, when does new testament start, 
 Description: The New Testament begins with the Book of Matthew which is the first book in the New Testament section of the Bible Matthew is one of the four Gospels that recount the life ministry death and resurrection of Jesus Christ It serves as an introduction to the teachings and significance
 ---
 
-# Where does the New Testament begin?
-
 ** The New Testament begins with the Book of Matthew, which is the first book in the New Testament section of the Bible. Matthew is one of the four Gospels that recount the life, ministry, death, and resurrection of Jesus Christ. It serves as an introduction to the teachings and significance of Jesus for Christians. **
 
 In [Matthew 1:1](https://www.bibleref.com/Matthew/1/Matthew-1-1.html), the opening verse of the New Testament, it states, "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham." This verse immediately establishes the lineage of Jesus, connecting Him to the promises made to David and Abraham in the Old Testament.
@@ -34,7 +32,7 @@ The portrayal of Jesus as the King of the Jews is a central theme in Matthew. Th
 
 > "Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant."
 
-The concept of the New Covenant is fundamental to understanding the significance of the New Testament. This covenant, prophesied in Jeremiah 31:31-34, represents a new relationship between God and His people, made possible through the sacrifice of Jesus Christ. Unlike the Old Covenant, which was based on adherence to the law, the New Covenant is characterized by grace, forgiveness, and the indwelling of the Holy Spirit in believers.
+The concept of the New Covenant is fundamental to understanding the significance of the New Testament. This covenant, prophesied in Jeremiah 31:31-34, represents a new relationship between God and His people, made possible through the sacrifice of Jesus Christ. Unlike the Old Covenant, which was based on adherence to the law, the New Covenant is characterized by grace, forgiveness, and the indwelling of [the Holy Spirit](/pray-for-the-weak) in believers.
 
 The early Christian community recognized the profound implications of this new era. They saw themselves as participants in a new chapter of God's redemptive history, tasked with spreading the good news of salvation through Jesus Christ. This understanding shaped their writings, which would eventually form the New Testament canon.
 
@@ -99,7 +97,7 @@ The New Testament also provides extensive teaching on Christian ethics and behav
 
 The transition from the Old to the New Testament is not merely a change in chronology but represents a significant shift in God's dealings with humanity. While there is continuity in God's overall plan of redemption, the New Testament presents the fulfillment of Old Testament promises and the inauguration of a new era in salvation history.
 
-Jesus Himself emphasizes this continuity and fulfillment. Throughout the Gospels, He frequently references Old Testament scriptures, demonstrating how they point to Him. The New Testament authors, particularly Matthew and the writer of Hebrews, go to great lengths to show how Jesus fulfills and, in some cases, supersedes Old Testament institutions and prophecies.
+Jesus Himself emphasizes this continuity and fulfillment. Throughout the Gospels, He frequently references Old Testament scriptures, demonstrating how they point to Him. [The New Testament](/navigating-the-scriptures-comprehensive-guide-books-of-the-bible) authors, particularly Matthew and the writer of Hebrews, go to great lengths to show how Jesus fulfills and, in some cases, supersedes Old Testament institutions and prophecies.
 
 ## The Early Church and Beyond in the start of the new testament
 

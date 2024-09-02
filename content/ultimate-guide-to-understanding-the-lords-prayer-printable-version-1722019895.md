@@ -8,8 +8,6 @@ Tags: the lord's prayer pdf, the lord's prayer printable pdf free, free printabl
 Description: The Lords Prayer also known as the Our Father prayer is a foundational prayer in Christianity that was taught by Jesus to his disciples It holds great significance for Christians as it serves as a model for how believers should pray prayer covers various aspects of faith including adoration confession
 ---
 
-
-
 ## What is The Lord's Prayer and why is it significant for Christians?
 
 The Lord's Prayer, also known as the Our Father prayer, is a **foundational prayer** in Christianity that was taught by Jesus to his disciples. It holds **great significance** for Christians as it serves as a model for how believers should pray.  prayer covers various aspects of faith, including **adoration, confession, petition, and supplication**. It reflects the essence of Christian beliefs and values.
@@ -56,7 +54,7 @@ The Lord's Prayer is not merely a set of words to be recited, but a **sacred dia
 
 In times of **trial** or **confusion**, The Lord's Prayer serves as a **source of comfort** and **guidance**. Its words offer reassurance that God is in control and His will is ultimately **purposeful**.  leaning on the truths encapsulated in this prayer, you can find strength, peace, and **direction** amidst life's challenges.
 
-*"Give us this day our daily bread, and forgive us our debts, as we also have forgiven our debtors." - [Matthew 6:11-12](https://www.bibleref.com/Matthew/6/Matthew-6-11.html)*
+*"Give us this day [our daily bread](/devotional-resources), and forgive us our debts, as we also have forgiven our debtors." - [Matthew 6:11-12](https://www.bibleref.com/Matthew/6/Matthew-6-11.html)*
 
 - The Lord's Prayer can serve as a **daily reminder** of the importance of forgiveness and **gratitude**.  reflecting on the words "forgive us our debts, as we also have forgiven our debtors," individuals can strive to cultivate a mindset of **forgiveness** and **generosity** in their daily interactions.
 

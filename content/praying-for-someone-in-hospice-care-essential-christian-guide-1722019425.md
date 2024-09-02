@@ -8,8 +8,6 @@ Tags: prayer for someone in hospice care, prayer for hospice, prayers for someon
 Description: When praying for someone in hospice care it is important to focus on bringing comfort peace and strength to the individual during this challenging time You can pray for their physical comfort asking God to alleviate any pain or discomfort they may be experiencing Additionally you can pray for their
 ---
 
-
-
 When **praying for someone in hospice care**, it is important to focus on bringing comfort, peace, and strength to the individual during this challenging time. You can pray for their physical comfort, asking God to alleviate any pain or discomfort they may be experiencing. Additionally, you can pray for their emotional well-being, asking God to surround them with His love and peace. Remember to also pray for their spiritual needs, asking God to grant them assurance of His presence and eternal hope.
 
 **Bible verse:**
@@ -21,7 +19,7 @@ When **praying for someone in hospice care**, it is important to focus on bringi
 
 ## How can I pray for the family and loved ones of someone in hospice care?
 
-Praying for the **family and loved ones of someone in hospice care** is just as important as praying for the patient themselves. You can pray for God's comfort and peace to surround [the family members](/praying-for-grief-how-to-support-those-who-have-experienced-loss), giving them strength and support during this difficult time. Ask God to provide them with the grace to navigate the emotions and challenges that come with caring for a loved one in hospice. Pray for unity and love to prevail among family members, fostering a sense of togetherness and support.
+Praying for the **family and loved ones of someone in hospice care** is just as important as praying for the patient themselves. You can pray for God's comfort and peace to surround [the family members](/praying-for-grief-how-to-support-those-who-have-experienced-loss), giving them strength and support during [this difficult time](/praying-for-grief-how-to-support-those-who-have-experienced-loss). Ask God to provide them with the grace to navigate the emotions and challenges that come with caring for a loved one in hospice. Pray for unity and love to prevail among family members, fostering a sense of togetherness and support.
 
 **Bible verse:**
 *Roman - "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of [the Holy Spirit](/discover-the-12-appearances-of-jesus-after-his-resurrection-a-comprehensive-guide-for-christian-readers)."*

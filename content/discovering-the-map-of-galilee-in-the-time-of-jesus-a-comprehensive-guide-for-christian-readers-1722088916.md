@@ -8,13 +8,11 @@ Tags: map of sea of galilee in jesus day, map of the sea of galilee in jesus day
 Description: If you were to look at a map of Galilee during the time of Jesus you would see that it was a region located in the northern part of Israel The most prominent feature of this area was the Sea of Galilee which was a freshwater lake known for its
 ---
 
-
-
 If you were to look at a **map of Galilee** during the time of Jesus, you would see that it was a region located in the northern part of Israel. The most prominent feature of this area was the **Sea of Galilee**, which was a freshwater lake known for its fishing industry and the many miracles performed by Jesus on its shores.
 
 In **Jesus' day**, the map of the **Sea of Galilee** would show several towns and villages scattered around its shores. Some of the well-known places around the sea included Capernaum, Bethsaida, and Tiberias. These locations played significant roles in the ministry of Jesus and are frequently mentioned in the Bible.
 
-* **[Matthew 4:18-20](https://www.bibleref.com/Matthew/4/Matthew-4-18.html)** - "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. 'Come, follow me,' Jesus said, 'and I will send you out to fish for people.' At once they left their nets and followed him."
+* **[Matthew 4:18-20](https://www.bibleref.com/Matthew/4/Matthew-4-18.html)** - "As Jesus was walking beside [the Sea of Galilee](/unraveling-the-mystery-jesus-lost-years-and-biblical-journeys), he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. 'Come, follow me,' Jesus said, 'and I will send you out to fish for people.' At once they left their nets and followed him."
 
 - The Sea of Galilee was not only important for its fishing industry, but it also served as a major transportation route, connecting various towns and villages in the region. This made it a hub of activity and a central location for Jesus to reach a wide audience with his teachings.
 

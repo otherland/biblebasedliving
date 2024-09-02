@@ -8,8 +8,6 @@ Tags: christ the physician, jesus as physician, jesus the physician, jesus physi
 Description: As Christ the physician Jesus demonstrated profound compassion and miraculous healing throughout His ministry on earth Gospels are filled with accounts of Jesus healing the sick restoring sight to the blind and even raising the dead His divine power and love for humanity were evident in every healing touch and
 ---
 
-
-
 As **Christ the physician**, Jesus demonstrated profound compassion and miraculous healing throughout His ministry on earth.  Gospels are filled with accounts of Jesus healing the sick, restoring sight to the blind, and even raising the dead. [His divine power](/10-fascinating-facts-about-jesus-christ-a-comprehensive-guide-for-christian-readers) and love for humanity were evident in every healing touch and word spoken.
 
 **Bible Verse:**
@@ -24,7 +22,7 @@ As **Christ the physician**, Jesus demonstrated profound compassion and miraculo
 In [His earthly ministry](/discover-the-12-appearances-of-jesus-after-his-resurrection-a-comprehensive-guide-for-christian-readers), **Jesus as a physician** went beyond physical healing to address the spiritual and emotional needs of those He encountered. He healed not only bodies but also hearts, offering forgiveness, restoration, and hope to all who sought Him. His miracles were a tangible expression of God's love and power to bring wholeness to the broken.
 
 **Bible Verse:**
-*"Jesus went through all the towns and villages, teaching in their synagogues, proclaiming the good news of the kingdom and healing every disease and sickness." *
+*"Jesus went through all the towns and villages, teaching in their synagogues, proclaiming [the good news](/uk-christian-identity) of the kingdom and healing every disease and sickness." *
 
 - Jesus' role as a physician was not limited to just physical healing, but also involved addressing the root causes of suffering and providing holistic restoration to individuals.
 
@@ -40,12 +38,12 @@ While Jesus walked the earth over two thousand years ago, His role as **Jesus th
 *"And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues; they will pick up snakes with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on sick people, and they will get well." *
 
 - Just as Jesus healed the blind, the lame, and the sick during His time on earth, believers today can also witness miracles of physical and spiritual healing through prayer and faith.
-- The role of Jesus as a physician extends beyond just physical healing; He also offers emotional and mental healing, bringing peace and comfort to those who are hurting.
+- The role of Jesus as a physician extends beyond just physical healing; He also offers [emotional and mental](/prayers-to-pray-for-others) healing, bringing peace and comfort to those who are hurting.
 - By surrendering our ailments and struggles to Jesus, we allow Him to work in our lives and bring about transformation and wholeness in ways that surpass human understanding.
 
 ## How can we approach Jesus as a doctor in times of sickness?
 
-When facing illness or suffering, it is important to **approach Jesus as a doctor** with faith and trust in His healing power. Pray fervently, seek the intercession of others, and believe in the promises of God's Word for physical and spiritual healing. Surrender your fears and doubts to Jesus, knowing that He is the ultimate physician who can bring wholeness and restoration.
+When facing illness or suffering, it is important to **approach Jesus as a doctor** with faith and trust in His healing power. Pray fervently, seek the intercession of others, and believe in the promises of God's Word for [physical and spiritual](/prayer-to-the-holy-spirit-for-healing) healing. Surrender your fears and doubts to Jesus, knowing that He is the ultimate physician who can bring wholeness and restoration.
 
 **Bible Verse:**
 *"Is anyone among you sick? Let them call the elders of the church to pray over them and anoint them with oil in the name of the Lord.  the prayer offered in faith will make the sick person well; the Lord will raise them up." *

@@ -8,8 +8,6 @@ Tags: water baptism vs holy spirit baptism, spiritual baptism vs water baptism, 
 Description: Water baptism and baptism of the Holy Spirit are two distinct experiences for believers Water baptism is an outward expression of an inward faith symbolizing the cleansing of sins and identification with Christs death burial and resurrection It is typically done by immersion in water On the other hand baptism
 ---
 
-
-
 ## What is the difference between water baptism and baptism of the Holy Spirit?
 
 **Water baptism** and **baptism of the Holy Spirit** are two distinct experiences for believers. **Water baptism** is an outward expression of an inward faith, symbolizing the cleansing of sins and identification with Christ's death, burial, and resurrection. It is typically done by immersion in water. On the other hand, **baptism of the Holy Spirit** is the empowering of believers by the Holy Spirit for ministry and living a godly life.

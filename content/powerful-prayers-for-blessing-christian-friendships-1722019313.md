@@ -8,8 +8,6 @@ Tags: good friend prayer, prayer for good friends, prayer for friendship and lov
 Description: As you seek to cultivate and nurture good friendships in your life it is important to bring your desires and hopes before the Lord in prayer Begin by expressing your gratitude for the friendships you already have and ask God to bless them abundantly Pray for wisdom and discernment to
 ---
 
-
-
 **As you seek to cultivate and nurture **good friendships** in your life, it is important to bring your desires and hopes before the Lord in prayer. Begin by expressing your gratitude for the **friendships** you already have and ask God to bless them abundantly. Pray for wisdom and discernment to choose **good friends** who will uplift you spiritually and emotionally. Ask God to guide your interactions with others and to help you be a **good friend** in return. Remember that **God** cares about your relationships and is always ready to listen to your prayers.
 
 In **[Proverbs 17:17](https://www.bibleref.com/Proverbs/17/Proverbs-17-17.html)**, it says, "A friend loves at all times, and a brother is born for a time of adversity." This verse reminds us of the importance of **good friends** who stand by us through all circumstances. When you pray for **good friends**, you can trust that **God** will provide those who will love and support you unconditionally. Trust in **God's** faithfulness and provision as you lift up your desires for **good friendships** in prayer.
@@ -22,7 +20,7 @@ In **[Proverbs 17:17](https://www.bibleref.com/Proverbs/17/Proverbs-17-17.html)*
 
 ## What is the significance of friendship in the Bible?
 
-**Friendship** holds a prominent place in the **Bible**, reflecting the value and importance of **relationships** in our lives.  **Bible** tells us that **friends** are there to help us in times of need, to provide comfort and encouragement, and to walk alongside us on our spiritual journey. **Jesus** Himself emphasized the value of **friendship** when He said in **[John 15:13](https://www.bibleref.com/John/15/John-15-13.html)**, "Greater love has no one than this: to lay down one's life for one's **friends**."
+**Friendship** holds a prominent place in the **Bible**, reflecting the value and importance of **relationships** in our lives.  **Bible** tells us that **friends** are there to help us in times of need, to provide comfort and encouragement, and to walk alongside us on [our spiritual journey](/songs-about-prayer). **Jesus** Himself emphasized the value of **friendship** when He said in **[John 15:13](https://www.bibleref.com/John/15/John-15-13.html)**, "Greater love has no one than this: to lay down one's life for one's **friends**."
 
 In **[Ecclesiastes 4:9-10](https://www.bibleref.com/Ecclesiastes/4/Ecclesiastes-4-9.html)**, it is written, "Two are better than one because they have a good return for their labor: If either of them falls down, one can help the other up.  pity anyone who falls and has no one to help them up." This verse emphasizes the strength and support that **friendship** provides. When you understand the significance of **friendship** in the **Bible**, you can see how **God** designed us to thrive in **community and relationship** with others.
 

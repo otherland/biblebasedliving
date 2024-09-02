@@ -8,13 +8,11 @@ Tags: how to know if you have the gift of prophecy, signs you have a prophetic g
 Description: If you are wondering whether you have the gift of prophecy there are several signs to look out for One common indicator is having a strong sense of discernment and being able to see things from a spiritual perspective You may also find yourself having vivid dreams or visions that
 ---
 
-
-
 ## What are the signs that you have a prophetic gift?
 
 If you are wondering whether you have the **gift of prophecy**, there are several signs to look out for. One common indicator is having a strong sense of discernment and being able to see things from a spiritual perspective. You may also find yourself having vivid dreams or visions that provide insight into future events. Additionally, you might feel a deep burden to pray for others and receive specific messages from God for them.
 
-The Bible supports the idea of **prophetic gifts** in [1 Corinthians 12:10](https://www.bibleref.com/1-Corinthians/12/1-Corinthians-12-10.html), which mentions the gift of prophecy as one of the spiritual gifts given by [the Holy Spirit](/understanding-the-difference-between-water-baptism-and-spirit-baptism-a-comprehensive-guide-for-christian-believers). This verse highlights that prophecy is a supernatural ability to receive and communicate messages from God, emphasizing the importance of discerning spiritual gifts within the Christian community.
+The Bible supports the idea of **prophetic gifts** in [1 Corinthians 12:10](https://www.bibleref.com/1-Corinthians/12/1-Corinthians-12-10.html), which mentions the gift of prophecy as one of the spiritual gifts given by [the Holy Spirit](/understanding-the-difference-between-water-baptism-and-spirit-baptism-a-comprehensive-guide-for-christian-believers). This verse highlights that prophecy is a supernatural ability to receive and communicate messages from God, emphasizing the importance of discerning spiritual gifts within [the Christian community](/songs-about-prayer).
 
 - Another sign of having a prophetic gift is experiencing a strong urge to speak out about certain situations or issues, even if it may be uncomfortable or unpopular. This sense of conviction and boldness in sharing insights can be a clear indicator of a prophetic gift at work.
 
@@ -24,7 +22,7 @@ The Bible supports the idea of **prophetic gifts** in [1 Corinthians 12:10](http
 
 ## How do I know if I have a prophetic gift?
 
-If you are unsure about whether you possess a **prophetic gift**, consider seeking confirmation from trusted spiritual leaders or mentors in your church community. They can provide guidance and discernment regarding your spiritual gifts. Additionally, spend time in prayer and meditation, asking God to reveal His will for your life and to clarify any gifts He has bestowed upon you.
+If you are unsure about whether you possess a **prophetic gift**, consider seeking confirmation from trusted spiritual leaders or mentors in your church community. They can provide guidance and discernment regarding [your spiritual gifts](/unlocking-your-divine-potential-comprehensive-guide-spiritual-gifts). Additionally, spend time in prayer and meditation, asking God to reveal His will for your life and to clarify any gifts He has bestowed upon you.
 
 In [1 Thessalonians 5:19-21](https://www.bibleref.com/1-Thessalonians/5/1-Thessalonians-5-19.html), the Bible encourages believers to not quench the Spirit but to test everything and hold fast to what is good. This verse emphasizes the importance of discerning and testing spiritual gifts, including the gift of prophecy, to ensure that they align with God's Word and are used for His glory.
 

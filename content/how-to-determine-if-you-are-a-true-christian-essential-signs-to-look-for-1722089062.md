@@ -8,8 +8,6 @@ Tags: how can you tell if someone is a christian, how to tell if someone is a ch
 Description: Being a Christian means that you have accepted Jesus Christ as your Lord and Savior It involves having a personal relationship with Him believing in His sacrifice for your sins and following His teachings in your daily life One Bible verse that highlights this is John 316 which says For
 ---
 
-
-
 ## What does it mean to be a Christian?
 
 Being a **Christian** means that you have accepted **Jesus Christ** as your **Lord and Savior**. It involves having a personal relationship with Him, believing in His sacrifice for your sins, and following His teachings in [your daily life](/ultimate-bible-study-guides-by-book-enhance-your-understanding-and-faith).

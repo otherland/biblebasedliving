@@ -8,8 +8,6 @@ Tags: christian books for 10-12 year olds girl, christian fiction for kids, chri
 Description: If youre looking for Christian books for 1012 year old girls you might consider titles like The Princess Parables series by Jeanna Young and Jacqueline Johnson or The Adventures of Lily Lapp series by Mary Ann Kinsinger and Suzanne Woods Fisher These books offer engaging stories with positive Christian messages
 ---
 
-
-
 ## What are some popular Christian books for 10-12 year old girls?
 
 If you're looking for **Christian books for 10-12 year old girls**, you might consider titles like "The Princess Parables" series by Jeanna Young and Jacqueline Johnson, or "The Adventures of Lily Lapp" series by Mary Ann Kinsinger and Suzanne Woods Fisher. These books offer engaging stories with positive Christian messages that are perfect for young girls.
@@ -48,7 +46,7 @@ Yes, there are **Christian chapter books for tweens** that offer age-appropriate
 
 When it comes to **Christian novels for tweens**, you might want to check out books like "The Secret of the Hidden Scrolls" series by M.J. Thomas or "The T.J. and the Time Stumblers" series by Bill Myers. These novels combine elements of mystery, adventure, and faith, making them appealing to tween readers.
 
-[Psalm 119:105](https://www.bibleref.com/Psalm/119/Psalm-119-105.html) reminds us that God's word is a lamp to our feet and a light to our path. Christian novels for tweens can illuminate biblical truths in a way that guides young readers on their own spiritual journey.
+[Psalm 119:105](https://www.bibleref.com/Psalm/119/Psalm-119-105.html) reminds us that God's word is a lamp to our feet and a light to our path. Christian novels for tweens can illuminate biblical truths in a way that guides young readers on their [own spiritual journey](/discover-the-longest-chapter-in-the-bible-and-its-significance).
 
 - Christian novels for tweens can provide positive role models and teach valuable lessons about faith, forgiveness, and compassion.  example, books like "The Chronicles of Narnia" series by C.S. Lewis or "The Green Ember" series by S.D. Smith showcase characters who demonstrate courage and resilience in the face of challenges.
 

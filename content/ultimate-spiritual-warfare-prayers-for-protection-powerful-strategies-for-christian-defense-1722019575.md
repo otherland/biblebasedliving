@@ -8,8 +8,6 @@ Tags: prayer against spiritual attack, prayer for spiritual attack, prayer for s
 Description: When you are facing spiritual attacks it is essential to arm yourself with prayer Begin by declaring the power of God over your life and situation You can pray Psalm 914 which says He will cover you with his feathers and under his wings you will find refuge his faithfulness
 ---
 
-
-
 ## How can I pray against spiritual attacks?
 
 When you are facing **spiritual attacks**, it is essential to arm yourself with **prayer**. Begin by **declaring the power of God** over your life and situation. You can pray **[Psalm 91:4](https://www.bibleref.com/Psalm/91/Psalm-91-4.html)**, which says, "He will cover you with his feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart." Ask **God for protection** and deliverance from any spiritual attacks that may be coming against you. **Pray** for **God's angels** to surround you and fight on your behalf.
@@ -24,7 +22,7 @@ When you are facing **spiritual attacks**, it is essential to arm yourself with 
 
 ## How can I pray for spiritual warfare?
 
-When engaging in **spiritual warfare**, it is crucial to put on the **armor of God** as mentioned in **[Ephesians 6:10-18](https://www.bibleref.com/Ephesians/6/Ephesians-6-10.html)**.  includes the belt of truth, the breastplate of righteousness, the shoes of [the gospel of](/ultimate-guide-best-order-to-read-the-bible-for-beginners) peace, the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God. **Pray** for **discernment** to recognize spiritual attacks and the **strength** to stand firm in **faith**. **Declare** the **victory** that is already yours through **Christ**.
+When engaging in **spiritual warfare**, it is crucial to put on the **armor of God** as mentioned in **[Ephesians 6:10-18](https://www.bibleref.com/Ephesians/6/Ephesians-6-10.html)**.  includes the belt of truth, the breastplate of righteousness, the shoes of [the gospel of](/ultimate-guide-best-order-to-read-the-bible-for-beginners) peace, the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the [word of God](/top-50-spiritual-weapons-for-warfare-a-biblical-guide-for-christian-warriors). **Pray** for **discernment** to recognize spiritual attacks and the **strength** to stand firm in **faith**. **Declare** the **victory** that is already yours through **Christ**.
 
 **Bible Verse:** [Ephesians 6:10-18](https://www.bibleref.com/Ephesians/6/Ephesians-6-10.html) - "Put on the full armor of God, so that you can take your stand against the devil's schemes."
 
@@ -32,7 +30,7 @@ When engaging in **spiritual warfare**, it is crucial to put on the **armor of G
 
 - **Pray with other believers**: Joining together with other believers in prayer can amplify your spiritual warfare efforts. Praying in unity with others can strengthen your resolve and provide additional support and encouragement.
 
-- **Pray for wisdom**: Ask God for wisdom and guidance in recognizing the tactics of the enemy. Pray for clarity in understanding spiritual attacks and discernment in knowing how to effectively combat them. Trust in God's wisdom to lead you in the battle.
+- **Pray for wisdom**: Ask God for wisdom and guidance in recognizing the tactics of the enemy. Pray for clarity in understanding spiritual attacks and discernment in knowing how to effectively combat them. [Trust in God](/transformative-power-of-christian-prayer-comprehensive-guide)'s wisdom to lead you in the battle.
 
 ## How can I pray for protection in spiritual warfare?
 

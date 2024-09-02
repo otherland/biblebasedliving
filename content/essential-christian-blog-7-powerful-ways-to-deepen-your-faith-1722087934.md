@@ -8,8 +8,6 @@ Tags: what color eyes did jesus christ have, what color was jesus christ eyes, w
 Description: Many people wonder about the physical appearance of Jesus Christ including the color of His eyes While the Bible does not explicitly mention the eye color of Jesus it is believed that He likely had dark eyes This assumption is based on historical and geographical factors as Jesus was of
 ---
 
-
-
 ## What color eyes did Jesus have?
 
 Many people wonder about the physical appearance of Jesus Christ, including the color of His eyes. While the Bible does not explicitly mention the eye color of Jesus, it is believed that He likely had **dark eyes**. This assumption is based on historical and geographical factors, as Jesus was of Middle Eastern descent.

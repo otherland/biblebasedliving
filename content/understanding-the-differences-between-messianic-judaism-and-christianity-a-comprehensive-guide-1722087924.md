@@ -8,8 +8,6 @@ Tags: messianic jew vs christianity, messianic vs christianity, are messianic je
 Description: Messianic Judaism is a movement that combines Jewish traditions with the belief in Jesus as the Messiah This blend of Jewish customs and Christian beliefs sets it apart from traditional Christianity Messianic Jews see themselves as fulfilled or completed Jews acknowledging their Jewish heritage while accepting Jesus as the promised
 ---
 
-
-
 **Messianic Judaism** is a movement that combines **Jewish** traditions with the belief in **Jesus** as the **Messiah**. This blend of Jewish customs and Christian beliefs sets it apart from traditional Christianity. **Messianic Jews** see themselves as **fulfilled** or **completed** Jews, acknowledging their Jewish heritage while accepting Jesus as the **promised** **Savior**. Unlike traditional Christianity, which often emphasizes the **divinity** of Jesus, Messianic Judaism focuses on **Jesus'** **Jewish** identity and roots.
 
 *[Acts 18:28](https://www.bibleref.com/Acts/18/Acts-18-28.html)* - "For he vigorously refuted his Jewish opponents in public debate, proving from the Scriptures that Jesus was the Messiah."
@@ -18,7 +16,7 @@ Description: Messianic Judaism is a movement that combines Jewish traditions wit
 
 - Some Messianic Jewish congregations may use Hebrew names for God and Jesus, such as Yeshua for Jesus and Adonai for God, to emphasize their Jewish roots and connection to the Hebrew Scriptures.
 
-- Messianic Jews may face challenges from both the Jewish community, who may view them as no longer being Jewish, and from some Christian denominations who do not fully accept their combination of Jewish traditions with belief in Jesus as the Messiah.
+- Messianic Jews may face challenges from both the Jewish community, who may view them as no longer being Jewish, and from [some Christian denominations](/understanding-the-difference-between-holy-ghost-and-holy-spirit-a-comprehensive-guide-for-christians) who do not fully accept their combination of Jewish traditions with belief in Jesus as the Messiah.
 
 ## Are Messianic Jews considered Christians?
 
