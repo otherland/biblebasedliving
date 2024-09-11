@@ -18,7 +18,7 @@ The goal of Bible study is to discover the intended meaning of a passage of Scri
 - [2 Timothy 3:16-17](https://www.bibleref.com/2-Timothy/3/2-Timothy-3-16.html) - "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for [every good work](/devotional-resources)."
 - [Psalm 119:105](https://www.bibleref.com/Psalm/119/Psalm-119-105.html) - "Your word is a lamp to my feet and a light to my path."
 
-## 2. What are effective Bible study methods?
+## 2. What are [effective Bible study](/top-bible-study-workbooks-for-adults-enhance-your-spiritual-growth) methods?
 
 There are several effective methods for studying the Bible, each with its own unique approach and emphasis. Here are some popular methods:
 
@@ -146,13 +146,13 @@ The knowledge and insights we gain from studying the Bible are not meant to be k
 
 Studying the Bible strengthens our faith by deepening our understanding of God's character, His promises, and His faithfulness throughout history. It builds a solid foundation for our beliefs, equipping us to withstand challenges to our faith and enabling us to grow in trust and obedience.
 
-**Key Bible Verses:**
+**[Key Bible Verses](/prayer-life):**
 - [Romans 10:17](https://www.bibleref.com/Romans/10/Romans-10-17.html) - "So faith comes from hearing, and hearing through the word of Christ."
 - [Psalm 119:105](https://www.bibleref.com/Psalm/119/Psalm-119-105.html) - "Your word is a lamp to my feet and a light to my path."
 
-## 8. How does studying the Bible impact our daily lives?
+## 8. How does studying the Bible impact [our daily lives](/adoration-songs)?
 
-Studying the Bible impacts our daily lives in profound ways. It guides us in making wise decisions, provides comfort in times of difficulty, convicts us of sin, encourages us in our spiritual journey, and brings us closer to God. The principles and truths we learn from Scripture shape our thoughts, actions, relationships, and priorities.
+Studying the Bible impacts our daily lives in profound ways. It guides us in making wise decisions, provides comfort in times of difficulty, convicts us of sin, encourages us in [our spiritual journey](/songs-about-prayer), and brings us closer to God. The principles and truths we learn from Scripture shape our thoughts, actions, relationships, and priorities.
 
 **Key Bible Verse:**
 - [Psalm 119:11](https://www.bibleref.com/Psalm/119/Psalm-119-11.html) - "I have stored up your word in my heart, that I might not sin against you."

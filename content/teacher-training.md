@@ -14,7 +14,7 @@ In a world where secular ideologies dominate educational institutions, it is cru
 
 ### Question 1: What is the importance of teacher training for Christian educators?
 
-As Christian educators, our role extends beyond imparting knowledge; we have the privilege and responsibility to shape the hearts and minds of the next generation. Teacher training equips us with pedagogical skills, content knowledge, and a biblical worldview necessary to fulfill this calling effectively. [Proverbs 22:6](https://www.bibleref.com/Proverbs/22/Proverbs-22-6.html) reminds us to "train up a child in the way he should go; even when he is old he will not depart from it." Through teacher training, we can lay a strong foundation of faith in our students' lives.
+As Christian educators, our role extends beyond imparting knowledge; we have the privilege and responsibility to shape the hearts and minds of [the next generation](/parental-rights). Teacher training equips us with pedagogical skills, content knowledge, and a biblical worldview necessary to fulfill this calling effectively. [Proverbs 22:6](https://www.bibleref.com/Proverbs/22/Proverbs-22-6.html) reminds us to "train up a child in the way he should go; even when he is old he will not depart from it." Through teacher training, we can lay a strong foundation of faith in our students' lives.
 
 ### Question 2: How can creationist teacher training programs support Christian educators?
 
@@ -26,7 +26,7 @@ Creationist teacher training programs offer a wide range of resources designed t
 
 ### Question 4: How can a faith-based science pedagogy enhance student learning?
 
-Faith-based science pedagogy integrates scientific inquiry with biblical truth, creating a holistic approach to education that nurtures students' intellectual and spiritual growth. By teaching science through the lens of God's creation, educators can help students develop a deep appreciation for the wonders of the natural world while reinforcing their faith in God as the ultimate Creator. This approach encourages critical thinking, fosters curiosity, and instills a sense of purpose and meaning in students' scientific pursuits.
+Faith-based science pedagogy integrates scientific inquiry with biblical truth, creating a holistic approach to education that nurtures students' intellectual and spiritual growth. By teaching science through the lens of God's creation, educators can help students develop a deep appreciation for the wonders of [the natural world](/scientific-research-creationism) while reinforcing their faith in God as the ultimate Creator. This approach encourages critical thinking, fosters curiosity, and instills a sense of purpose and meaning in students' scientific pursuits.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNivNycOQI8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -38,11 +38,11 @@ Creationist teacher training programs recognize that secular ideologies often ch
 
 ### Question 6: How can Christian educators integrate biblical creation teachings within the curriculum?
 
-Integrating biblical creation teachings within the curriculum requires intentional planning and creativity. Educators can incorporate biblical principles into various subjects by highlighting the compatibility between science and faith. For example, in biology classes, teachers can present scientific evidence that supports the complexity and design found in living organisms, pointing to God as the ultimate source of life. In geology classes, educators can explore how geological formations align with the biblical account of the Flood. By intentionally integrating biblical truths into their lessons, Christian educators create an environment where students can see how faith and science complement each other.
+Integrating biblical creation teachings within the curriculum requires intentional planning and creativity. Educators can incorporate biblical principles into various subjects by highlighting the compatibility between science and faith. For example, in biology classes, teachers can present scientific evidence that supports the complexity and design found in living organisms, pointing to God as the ultimate source of life. In geology classes, educators can explore how geological formations align with [the biblical account](/scientific-research-creationism) of the Flood. By intentionally integrating biblical truths into their lessons, Christian educators create an environment where students can see how faith and science complement each other.
 
 ### Question 7: What role does biblical authority play in creationist teacher training?
 
-Biblical authority is the foundation of creationist teacher training. These programs emphasize the sufficiency and supremacy of Scripture as the ultimate source of truth. By grounding their teaching in biblical authority, educators can confidently navigate scientific theories and worldly philosophies, ensuring that their instruction aligns with God's Word. The Apostle Paul reminds us in [2 Timothy 3:16-17](https://www.bibleref.com/2-Timothy/3/2-Timothy-3-16.html) that "all Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness." Thus, creationist teacher training programs prioritize biblical truth above all else.
+Biblical authority is the foundation of creationist teacher training. These programs emphasize the sufficiency and supremacy of Scripture as the ultimate source of truth. By grounding their teaching in biblical authority, educators can confidently navigate scientific theories and worldly philosophies, ensuring that their instruction aligns with God's Word. [The Apostle Paul](/debunking-5-common-myths-about-christianity) reminds us in [2 Timothy 3:16-17](https://www.bibleref.com/2-Timothy/3/2-Timothy-3-16.html) that "all Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness." Thus, creationist teacher training programs prioritize biblical truth above all else.
 
 ### Question 8: How can Christian educators apply their training within the classroom?
 

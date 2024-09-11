@@ -16,7 +16,7 @@ As Christians, prayer is a fundamental aspect of our relationship with God. We b
 2. How should we approach prayer in order to have our prayers answered?
 3. Does God always answer our prayers in the way we expect?
 4. What are some examples of answered prayers in the Bible?
-5. How can we grow in faith when our prayers seem unanswered?
+5. [How can we grow in faith](/7-essential-steps-to-grow-your-faith-stronger) when our prayers seem unanswered?
 6. Are there any conditions or requirements for prayers to be answered?
 7. How can we discern whether a prayer has been answered?
 8. What should we do when our prayers are not answered?
@@ -43,7 +43,7 @@ No, God does not always answer our prayers in the way we expect. His ways are hi
 
 Sometimes, God's answers may be different from what we desire or anticipate. However, we can trust that His plans are ultimately for our good ([Romans 8:28](https://www.bibleref.com/Romans/8/Romans-8-28.html)) and aligned with His perfect wisdom. It is important to remember that God's answers are based on His infinite knowledge and love for us.
 
-In [Matthew 26:39](https://www.bibleref.com/Matthew/26/Matthew-26-39.html) (NIV), Jesus provides an example of praying according to God's will even when it differs from His own desire. In the Garden of Gethsemane, Jesus prayed, "My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will." Jesus submitted His desires to the Father's will, demonstrating a profound trust in God's plan.
+In [Matthew 26:39](https://www.bibleref.com/Matthew/26/Matthew-26-39.html) (NIV), Jesus provides an example of praying according to God's will even when it differs from His own desire. In the Garden of Gethsemane, Jesus prayed, "My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will." Jesus submitted His desires to the Father's will, demonstrating a profound [trust in God](/transformative-power-of-christian-prayer-comprehensive-guide)'s plan.
 
 ## Bible verses:
 

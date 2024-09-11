@@ -70,6 +70,6 @@ Moreover, [Joshua 1:9](https://www.bibleref.com/Joshua/1/Joshua-1-9.html) remind
 
 - Engaging in regular fellowship and accountability with other Christian men can provide a source of strength and encouragement in [your faith journey](/unveiling-the-power-of-bible-study-fellowship-bsf-a-comprehensive-guide-to-spiritual-growth).  may include attending a men's small group, Bible study, or accountability group where you can share struggles and victories with like-minded individuals.
 
-- Taking time for personal reflection and introspection can help you evaluate your spiritual growth and identify areas where you may need to deepen your relationship with God.  may involve journaling, meditating on scripture, or seeking guidance from a spiritual mentor.
+- Taking time for personal reflection and introspection can help you evaluate [your spiritual growth](/10-essential-bible-verses-for-strength-and-encouragement) and identify areas where you may need to deepen your relationship with God.  may involve journaling, meditating on scripture, or seeking guidance from a spiritual mentor.
 
 - Serving others and practicing acts of kindness and generosity can help you live out your faith in tangible ways. Whether it's volunteering at a local shelter, helping a neighbor in need, or participating in a mission trip, serving others can strengthen your connection to God and reinforce your commitment to living a life of faith and compassion.## How can I find motivation and strength in challenging times?

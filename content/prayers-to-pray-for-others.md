@@ -20,9 +20,9 @@ Through His example, Jesus teaches us the significance of lifting others up in p
 
 ### Bible Verses:
 - "Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours." ([Mark 11:24](https://www.bibleref.com/Mark/11/Mark-11-24.html))
-- "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God." ([Philippians 4:6](https://www.bibleref.com/Philippians/4/Philippians-4-6.html))
+- "Do not be anxious about anything, but in everything by [prayer and supplication](/scripture-on-prayer-and-supplication) with thanksgiving let your requests be made known to God." ([Philippians 4:6](https://www.bibleref.com/Philippians/4/Philippians-4-6.html))
 
-## What are some specific prayers we can pray for others?
+## What are [some specific prayers](/prayers-for-a-broken-heart) we can pray for others?
 
 1. Prayer for physical healing:
 

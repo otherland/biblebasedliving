@@ -50,7 +50,7 @@ Description: Prayer is a powerful tool that can bring comfort and healing to a b
 
 *"He sent out his word and healed them; he rescued them from the grave." - [Psalm 107:20](https://www.bibleref.com/Psalm/107/Psalm-107-20.html)*
 
-- Prayer can also provide emotional and mental healing, which in turn can positively impact the health of the heart. Stress, anxiety, and emotional trauma can all contribute to heart disease, and prayer can help alleviate these negative emotions, leading to a healthier heart.
+- Prayer can also provide [emotional and mental](/prayers-to-pray-for-others) healing, which in turn can positively impact the health of the heart. Stress, anxiety, and emotional trauma can all contribute to heart disease, and prayer can help alleviate these negative emotions, leading to a healthier heart.
 
 - Studies have shown that individuals who engage in regular prayer and meditation have lower levels of inflammation in their bodies, which is a key factor in heart disease.  incorporating prayer into [your daily routine](/christian-prayer-for-anger-discovering-peace-and-patience-in-gods-grace), you may be reducing your risk of developing heart-related issues.
 

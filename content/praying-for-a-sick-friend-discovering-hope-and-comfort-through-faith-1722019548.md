@@ -31,7 +31,7 @@ When praying against illness that is affecting your friend, you can **declare Go
 When praying for a loved one in critical condition, it is crucial to **pray fervently** and **without ceasing**. Ask God to **intervene in their situation** and bring about a **miraculous healing**. Trust in God's timing and plan, knowing that **His ways are higher** than ours. Roman assures us, "[Likewise the Spirit](/scripture-on-prayer-and-supplication) helps us in our weakness.  we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words."
 
 - Consider asking others to join you in prayer for your loved one in critical condition. **Praying together** can bring a sense of community and support during difficult times.
-- Remember to **pray for strength and peace** for both your loved one and their caregivers. It is important to lift up not only their physical healing, but also their emotional and spiritual well-being.
+- Remember to **pray for strength and peace** for both your loved one and their caregivers. It is important to lift up not only their physical healing, but also their [emotional and spiritual](/prayer-to-the-holy-spirit-for-healing) well-being.
 - Be open to God's will, even if it may not align with [your own desires](/5-powerful-prayers-for-trust-in-god-strengthen-your-faith-today). Trust that God knows what is best for your loved one and that He will provide comfort and guidance during this challenging time.
 
 ## How can I pray for my friend's recovery?
@@ -54,7 +54,7 @@ When offering a prayer for someone in the hospital, you can **pray for their com
 
 ## How can I pray black prayers for healing over my sick friend?
 
-Praying black prayers for healing over your sick friend involves **boldly declaring** God's promises of restoration and **victory over sickness**. Rebuke the illness in **Jesus' name** and ask for **complete healing** in every area of your friend's life. Trust in God's **power to heal** and **restore**. [Philippians 4:6-7](https://www.bibleref.com/Philippians/4/Philippians-4-6.html) encourages us, "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God."
+Praying black prayers for healing over your sick friend involves **boldly declaring** God's promises of restoration and **victory over sickness**. Rebuke the illness in **Jesus' name** and ask for **complete healing** in every area of your friend's life. Trust in God's **power to heal** and **restore**. [Philippians 4:6-7](https://www.bibleref.com/Philippians/4/Philippians-4-6.html) encourages us, "Do not be anxious about anything, but in everything by [prayer and supplication](/scripture-on-prayer-and-supplication) with thanksgiving let your requests be made known to God."
 
 - **Pray with faith**: When praying black prayers for healing, it is important to have faith that God is able to do miracles. Trust in His power and believe that He can bring complete healing to your friend.
 

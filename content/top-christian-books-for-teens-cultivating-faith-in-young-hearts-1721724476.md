@@ -24,7 +24,7 @@ When looking for good **Christian books for teenagers**, it's essential to find 
 
 **Christian books for teenagers** can have a profound impact on their **spiritual growth** by offering **insightful perspectives** on faith, **guidance** in navigating challenges, and **encouragement** to stay true to their beliefs. These books provide **role models** and **exemplify** how to live out one's faith in a world that often challenges Christian values.
 
-[Hebrews 4:12](https://www.bibleref.com/Hebrews/4/Hebrews-4-12.html) reminds us of the **power** of God's Word in shaping our lives: "For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart." By reading **Christian books** that align with biblical principles, teens can deepen their **relationship with God** and grow in their faith.
+[Hebrews 4:12](https://www.bibleref.com/Hebrews/4/Hebrews-4-12.html) reminds us of the **power** of God's Word in shaping our lives: "For [the word of God](/top-50-spiritual-weapons-for-warfare-a-biblical-guide-for-christian-warriors) is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart." By reading **Christian books** that align with biblical principles, teens can deepen their **relationship with God** and grow in their faith.
 
 - Christian books for teens can also provide a sense of community and belonging, helping them connect with other young believers who share their values and beliefs.  can be especially important for teenagers who may feel isolated in their faith at school or among their peers.
 

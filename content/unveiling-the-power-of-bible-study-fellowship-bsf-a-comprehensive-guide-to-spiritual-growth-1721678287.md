@@ -36,7 +36,7 @@ Participating in BSF classes can help you deepen your understanding of the Bible
 
 - **Application to Daily Life:** Through studying the Bible in BSF, you can learn how to apply its teachings to your everyday life.  practical application can help you navigate challenges, make decisions, and live in a way that aligns with your beliefs.
 
-- **Accountability and Growth:** The structure of BSF classes, with regular meetings and discussions, can provide accountability in your spiritual growth. Being part of a group that challenges you to dig deeper into the Word can lead to personal growth and a stronger faith foundation.
+- **Accountability and Growth:** The structure of BSF classes, with regular meetings and discussions, can provide accountability in [your spiritual growth](/10-essential-bible-verses-for-strength-and-encouragement). Being part of a group that challenges you to dig deeper into the Word can lead to personal growth and a stronger faith foundation.
 
 - **Deeper Relationship with God:** By engaging in consistent study and reflection on God's Word through BSF, you can develop a deeper and [more intimate relationship](/ultimate-guide-to-understanding-the-lords-prayer-printable-version) with Him.  closeness with God can bring peace, joy, and a sense of purpose to your faith journey.
 

@@ -16,7 +16,7 @@ The year 2024 has brought forth a wave of incredible Christian songs that have r
 
 ### a. "Goodness of God (Live)" by CeCe Winans
 
-This powerful anthem speaks of God's unwavering love and His goodness in all circumstances. The song's lyrics remind us that no matter what we face, God's goodness follows us all the days of our lives.
+This powerful anthem speaks of God's unwavering love and His goodness in all circumstances. The song's lyrics remind us that no matter what we face, God's goodness follows us [all the days](/the-timeline-from-adam-and-eve-to-moses-unveiling-biblical-history-and-connections) of our lives.
 
 > "For you were bought with a price. So glorify God in your body." - [1 Corinthians 6:20](https://www.bibleref.com/1-Corinthians/6/1-Corinthians-6-20.html)
 
@@ -118,7 +118,7 @@ Using biblical references in worship songs holds great significance for believer
 
 ### a. Anchoring Worship in Truth
 
-Worship songs that are grounded in biblical references help believers anchor their worship in truth. The Word of God serves as a firm foundation, guiding our praise and adoration. By using biblical references, worship songs remind us of who God is, what He has done, and what He promises.
+Worship songs that are grounded in biblical references help believers anchor their worship in truth. [The Word of God](/top-50-spiritual-weapons-for-warfare-a-biblical-guide-for-christian-warriors) serves as a firm foundation, guiding our praise and adoration. By using biblical references, worship songs remind us of who God is, what He has done, and what He promises.
 
 > "Your word is a lamp to my feet and a light to my path." - [Psalm 119:105](https://www.bibleref.com/Psalm/119/Psalm-119-105.html)
 

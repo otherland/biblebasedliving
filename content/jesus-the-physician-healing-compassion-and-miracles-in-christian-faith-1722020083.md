@@ -54,7 +54,7 @@ When facing illness or suffering, it is important to **approach Jesus as a docto
 
 ## What does it mean for Jesus to be our healer and physician?
 
-As **Jesus is doctor**, He embodies the fullness of divine healing and restoration for His followers. His sacrifice on the cross not only secured our salvation but also provided for our physical and emotional well-being.  trusting in His redemptive work and seeking [His healing touch](/healing-prayers-for-a-broken-heart-finding-peace-and-comfort-in-gods-love), we can experience true wholeness and abundant life in Him.
+As **Jesus is doctor**, He embodies the fullness of divine healing and restoration for His followers. His sacrifice on the cross not only secured our salvation but also provided for our physical and emotional well-being.  trusting in [His redemptive work](/adoration-songs) and seeking [His healing touch](/healing-prayers-for-a-broken-heart-finding-peace-and-comfort-in-gods-love), we can experience true wholeness and abundant life in Him.
 
 **Bible Verse:**
 *"Heal me, Lord, and I will be healed; save me and I will be saved, for you are the one I praise." *

@@ -20,7 +20,7 @@ In terms of beliefs and practices, Presbyterians emphasize the sovereignty of Go
 
 ## Are Presbyterians Catholic?
 
-**Presbyterians are not Catholic. The Presbyterian Church is considered a Protestant denomination, having originated from the Protestant Reformation in the 16th century. In contrast, the Catholic Church traces its roots back to [the early Christian](/where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers) church and has a distinct hierarchy with the Pope as its leader.**
+**Presbyterians are not Catholic. The Presbyterian Church is considered a Protestant denomination, having originated from the Protestant Reformation in [the 16th century](/key-differences-between-the-catholic-and-protestant-bibles-a-comprehensive-comparison). In contrast, the Catholic Church traces its roots back to [the early Christian](/where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers) church and has a distinct hierarchy with the Pope as its leader.**
 
 Presbyterians and Catholics have theological differences in areas such as the understanding of the sacraments, the role of Mary and the saints, and the structure of the church. While both traditions share some common beliefs, such as the belief in the Trinity and [the divinity of Jesus](/jesus-the-physician-healing-compassion-and-miracles-in-christian-faith) Christ, they differ in their interpretation of scripture and church teachings.
 

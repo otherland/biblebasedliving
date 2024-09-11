@@ -24,7 +24,7 @@ In **Jesus' day**, the map of the **Sea of Galilee** would show several towns an
 
 The **Sea of Galilee** was not just a body of water on the map; it held great **spiritual significance** in the time of Jesus. It was a place where Jesus performed many miracles, such as walking on water, calming the storm, and multiplying the loaves and fishes.
 
-The presence of the **Sea of Galilee** played a crucial role in the ministry of Jesus, as it provided a backdrop for many of his teachings and interactions with his disciples. The sea and its surrounding areas were where Jesus called his first disciples, preached to the crowds, and demonstrated his power over nature.
+The presence of the **Sea of Galilee** played a crucial role in the ministry of Jesus, as it provided a backdrop for many of his teachings and interactions with his disciples. The sea and its surrounding areas were where Jesus called [his first disciples](/unraveling-the-mystery-jesus-lost-years-and-biblical-journeys), preached to the crowds, and demonstrated his power over nature.
 
 * The Sea of Galilee was also known as Lake Tiberias or Lake Kinneret, and its freshwater was a vital resource for fishing and agriculture in the region during the time of Jesus. This added to its importance as a central location for many communities.
 
@@ -44,7 +44,7 @@ Bethsaida, another town on the eastern shore of the **Sea of Galilee**, was wher
 
 - **Chorazin**: Another town near the Sea of Galilee that is mentioned in the Bible is Chorazin. Jesus pronounced woes on Chorazin, along with Bethsaida and Capernaum, for not repenting despite witnessing his miracles ([Matthew 11:21](https://www.bibleref.com/Matthew/11/Matthew-11-21.html)).
 
-- **Gadara**: Although not directly on the shores of the Sea of Galilee, Gadara was a significant city in the region during Jesus' time. It was in the region of the Gadarenes that Jesus performed the miracle of casting out demons into a herd of pigs ([Mark 5:1-20](https://www.bibleref.com/Mark/5/Mark-5-1.html)).
+- **Gadara**: Although not directly on the shores of the Sea of Galilee, Gadara was a significant city in the region during Jesus' time. It was in the region of the Gadarenes that Jesus performed the miracle of [casting out demons](/unveiling-the-divine-comprehensive-exploration-jesus-christ-divinity) into a herd of pigs ([Mark 5:1-20](https://www.bibleref.com/Mark/5/Mark-5-1.html)).
 
 ## How did the geography of Galilee impact the ministry of Jesus?
 

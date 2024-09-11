@@ -26,7 +26,7 @@ Attending **Christian concerts** is a great way to support your favorite artists
 
 - Consider volunteering at Christian concerts to support the artists and organizers. By offering your time and skills, you can help make the event a success and show your dedication to the ministry of Christian music.
 - Follow Christian artists on social media and engage with their posts to help boost their online presence. By liking, commenting, and sharing their content, you can help increase their visibility and reach a wider audience with their message.
-- Host a house concert or small gathering featuring Christian artists to support their music and ministry. By providing a platform for them to perform and share their message, you can help them connect with new fans and supporters in a more intimate setting.
+- Host a house concert or small gathering featuring Christian artists to support their music and ministry. By providing a platform for them to perform and share their message, you can help them connect with new fans and supporters in a [more intimate setting](/7-essential-steps-to-grow-your-faith-stronger).
 
 ## What can I expect from **Christian concerts** in terms of music and worship experience?
 
@@ -68,7 +68,7 @@ To fully engage with the worship experience at **Christian concerts**, it is imp
 
 - Take time to reflect on your personal relationship with God before attending the concert. Consider areas where you may need to seek forgiveness, renewal, or guidance, and come with a humble and repentant heart.
 
-- Connect with other believers who will be attending the concert and spend time in fellowship and prayer together beforehand. Building community and unity with other Christians can enhance the worship experience and create a sense of belonging and support.
+- Connect with other believers who will be attending the concert and spend time in fellowship and prayer together beforehand. Building community and unity with other Christians can enhance [the worship experience](/black-church-congregational-songs) and create a sense of belonging and support.
 
 - Consider creating a worship playlist or listening to the music of the artists performing at the concert in the days leading up to the event. This can help familiarize yourself with the songs, connect with the lyrics and themes, and prepare your heart to engage in worship when you hear them live.
 

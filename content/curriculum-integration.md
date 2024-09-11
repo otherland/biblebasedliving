@@ -12,7 +12,7 @@ Title: 'Transform Your Christian Education: 5 Essential Strategies for Curriculu
 
 ## Introduction
 
-Curriculum integration is a topic that has gained significant attention in education circles in recent years. It refers to the practice of combining different subjects or disciplines when teaching a particular topic or theme. From a conservative Christian perspective, curriculum integration raises important questions about how to approach the teaching of various subjects in light of biblical truth and values. In this article, we will explore eight key questions related to curriculum integration from a staunchly conservative, biblical viewpoint.
+Curriculum integration is a topic that has gained significant attention in education circles in recent years. It refers to the practice of combining different subjects or disciplines when teaching a particular topic or theme. From a conservative Christian perspective, curriculum integration raises important questions about how to approach the teaching of various subjects in light of biblical truth and values. In this article, we will explore [eight key questions](/academic-recognition-creationisn) related to curriculum integration from a staunchly conservative, biblical viewpoint.
 
 ## 1. What is the purpose of curriculum integration?
 
@@ -68,11 +68,11 @@ According to Leslie Owen Wilson's "The Second Principle," curriculum integration
 
 ## 6. How can faith be integrated into curriculum alongside secular subjects?
 
-Integrating faith into curriculum alongside secular subjects involves intentionally infusing biblical truths, values, and principles into the teaching of different subjects. This can be done by incorporating relevant Bible verses, discussing moral implications and ethical considerations from a biblical standpoint, and encouraging students to think critically about how their faith intersects with the subject matter at hand. By integrating faith in this way, students can develop a deeper understanding of how their faith informs all aspects of their lives.
+Integrating faith into curriculum alongside secular subjects involves intentionally infusing biblical truths, values, and principles into the teaching of different subjects. This can be done by incorporating [relevant Bible verses](/prayer-of-hopelessness), discussing moral implications and ethical considerations from a biblical standpoint, and encouraging students to think critically about how their faith intersects with the subject matter at hand. By integrating faith in this way, students can develop a deeper understanding of how their faith informs all aspects of their lives.
 
 **Biblical Foundation:**
 
-> "Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths." ([Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html))
+> "Trust in the LORD with [all your heart](/scripture-prayers-for-pastors), and do not lean on your own understanding. In [all your ways](/devotional-resources) acknowledge him, and he will make straight your paths." ([Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html))
 
 > "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him." ([Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html))
 
@@ -92,6 +92,6 @@ Curriculum integration enhances students' understanding of God's creation by hel
 
 > "The heavens declare the glory of God; the skies proclaim the work of his hands." ([Psalm 19:1](https://www.bibleref.com/Psalm/19/Psalm-19-1.html))
 
-> "For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse." ([Romans 1:20](https://www.bibleref.com/Romans/1/Romans-1-20.html))
+> "For since the creation of the world God’s invisible qualities—[his eternal power](/scientific-research-creationism) and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse." ([Romans 1:20](https://www.bibleref.com/Romans/1/Romans-1-20.html))
 
 In conclusion, curriculum integration from a conservative Christian perspective seeks to provide a holistic educational experience rooted in biblical truth. By integrating different subjects and intentionally infusing them with biblical principles, values, and narratives, we can equip students to think critically and discerningly while deepening their understanding of God's creation. Curriculum integration offers an opportunity to cultivate a biblical worldview and nurture students' faith in all areas of life.

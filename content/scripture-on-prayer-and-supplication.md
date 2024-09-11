@@ -12,7 +12,7 @@ Prayer is a vital part of [the Christian faith](/prayers-to-pray-for-others). It
 
 ## What is supplication and why is it important?
 
-Supplication is an essential aspect of prayer as it involves making specific requests to God. It goes beyond general prayers of praise or thanksgiving and allows believers to bring their specific needs before the Lord. When we engage in supplication, we humbly acknowledge our dependence on God and His ability to meet our needs. It is an act of surrendering our desires to His will and seeking His guidance in all matters.
+Supplication is [an essential aspect](/prayer-life) of prayer as it involves making specific requests to God. It goes beyond general prayers of praise or thanksgiving and allows believers to bring their specific needs before the Lord. When we engage in supplication, we humbly acknowledge our dependence on God and His ability to meet our needs. It is an act of surrendering our desires to His will and seeking His guidance in all matters.
 
 ### Bible Verses on Supplication:
 
@@ -28,7 +28,7 @@ Prayer is not just about reciting words but having a genuine conversation with G
 
 ### Bible Verses on Prayer and Supplication:
 
-1. [Matthew 6:9-13](https://www.bibleref.com/Matthew/6/Matthew-6-9.html) (NIV): "This, then, is how you should pray: 'Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation but deliver us from the evil one.'"
+1. [Matthew 6:9-13](https://www.bibleref.com/Matthew/6/Matthew-6-9.html) (NIV): "This, then, is how you should pray: 'Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Give us today [our daily bread](/devotional-resources). And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation but deliver us from the evil one.'"
 
 2. [James 1:5](https://www.bibleref.com/James/1/James-1-5.html) (ESV): "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."
 
@@ -40,7 +40,7 @@ Supplication allows us to present our specific needs and desires before God. Whi
 
 ### Bible Verses on Praying for Various Needs:
 
-1. [Philippians 4:19](https://www.bibleref.com/Philippians/4/Philippians-4-19.html) (NIV): "And my God will meet all your needs according to the riches of his glory in Christ Jesus."
+1. [Philippians 4:19](https://www.bibleref.com/Philippians/4/Philippians-4-19.html) (NIV): "And my God will meet [all your needs](/scripture-prayers-for-pastors) according to the riches of his glory in Christ Jesus."
 
 2. [Psalm 34:17](https://www.bibleref.com/Psalm/34/Psalm-34-17.html) (ESV): "When the righteous cry for help, the Lord hears and delivers them out of [all their troubles](/prayer-of-hopelessness)."
 
@@ -76,7 +76,7 @@ These verses remind us that God desires a relationship with us through prayer an
 
 ## How does supplication relate to faith?
 
-Supplication is intimately connected to faith. It requires trust in God's character, believing that He is good, loving, and able to answer our prayers according to His perfect will. Genuine supplication involves surrendering our desires to Him in faith and accepting His timing and answers.
+Supplication is intimately connected to faith. It requires trust in God's character, believing that He is good, loving, and able to answer our prayers according to [His perfect will](/prayer-of-hopelessness). Genuine supplication involves surrendering our desires to Him in faith and accepting His timing and answers.
 
 ### Bible Verses on Supplication and Faith:
 
@@ -84,7 +84,7 @@ Supplication is intimately connected to faith. It requires trust in God's charac
 
 2. [Hebrews 11:6](https://www.bibleref.com/Hebrews/11/Hebrews-11-6.html) (ESV): "And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him."
 
-These verses emphasize the importance of faith in supplication. We are encouraged to believe that God hears our prayers and will answer them according to His perfect plan. Without faith, it is impossible to please God or experience the rewards of seeking Him through supplication.
+These verses emphasize the importance of faith in supplication. We are encouraged to believe that God hears our prayers and will answer them according to [His perfect plan](/praying-over-people). Without faith, it is impossible to please God or experience the rewards of seeking Him through supplication.
 
 ## How does supplication relate to thanksgiving?
 

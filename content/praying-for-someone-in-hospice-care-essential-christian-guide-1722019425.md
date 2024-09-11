@@ -14,7 +14,7 @@ When **praying for someone in hospice care**, it is important to focus on bringi
 *[Psalm 23:4](https://www.bibleref.com/Psalm/23/Psalm-23-4.html) - "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me."*
 
 - Praying for someone in hospice care can also involve asking God to provide strength and wisdom to their family and caregivers, as they navigate this difficult situation.
-- It is important to approach these prayers with a sense of humility and trust in God's plan, recognizing that we may not always understand why certain things happen but trusting that God is ultimately in control.
+- It is important to approach these prayers with a sense of humility and [trust in God](/transformative-power-of-christian-prayer-comprehensive-guide)'s plan, recognizing that we may not always understand why certain things happen but trusting that God is ultimately in control.
 - Encouraging the individual in hospice care to engage in prayer themselves, if they are able, can provide a sense of comfort and connection to their faith during this challenging time.
 
 ## How can I pray for the family and loved ones of someone in hospice care?
@@ -78,6 +78,6 @@ When **praying for peace and acceptance for someone in hospice care**, you can a
 
 - Ask God to provide strength and courage to the individual, enabling them to face their situation with grace and peace that surpasses all understanding.
 
-- Pray for the person's loved ones and caregivers to also experience peace and acceptance, as they journey alongside their loved one in hospice care.When **praying for someone in hospice care**, it is important to focus on bringing comfort, peace, and strength to the individual during this challenging time. You can pray for their physical comfort, asking God to alleviate any pain or discomfort they may be experiencing. Additionally, you can pray for their emotional well-being, asking God to surround them with His love and peace. Remember to also pray for their spiritual needs, asking God to grant them assurance of His presence and eternal hope.
+- Pray for the person's loved ones and caregivers to also experience peace and acceptance, as they journey alongside their loved one in hospice care.When **[praying for someone](/prayers-to-pray-for-others) in hospice care**, it is important to focus on bringing comfort, peace, and strength to the individual during this challenging time. You can pray for their physical comfort, asking God to alleviate any pain or discomfort they may be experiencing. Additionally, you can pray for their emotional well-being, asking God to surround them with His love and peace. Remember to also pray for their spiritual needs, asking God to grant them assurance of His presence and eternal hope.
 
 - Pray for the person's loved ones and caregivers to also experience peace and acceptance, as they journey alongside their loved one in hospice care.

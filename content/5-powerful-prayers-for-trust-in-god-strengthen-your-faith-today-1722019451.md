@@ -14,7 +14,7 @@ When **praying for trust** in God, it is important to **acknowledge your need fo
 
 - Trusting in God requires a willingness to let go of control and surrender to His plan, even when it may not align with our own understanding or desires.
 - Building trust in God is a process that involves actively seeking His presence through prayer, reading scripture, and surrounding yourself with a community of believers who can support and encourage you.
-- It is important to remember that trust in God is not based on our circumstances or feelings, but on the unchanging character of God and His promises to never leave us or forsake us.
+- It is important to remember that [trust in God](/transformative-power-of-christian-prayer-comprehensive-guide) is not based on our circumstances or feelings, but on the unchanging character of God and His promises to never leave us or forsake us.
 
 ## How [can prayer help](/healing-prayers-for-a-broken-heart-finding-peace-and-comfort-in-gods-love) me to trust and rely on God?
 
@@ -69,7 +69,7 @@ Trusting in **God's timing** through prayer involves **surrendering your timelin
 
 *"But they who wait [for the Lord](/unlocking-the-power-of-the-word-of-knowledge-a-comprehensive-guide-for-christian-believers) shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint." - [Isaiah 40:31](https://www.bibleref.com/Isaiah/40/Isaiah-40-31.html)*
 
-- **God's timing is often different from our own**: It's important to recognize that God's timing may not align with our own desires or expectations.  surrendering our timeline to Him and trusting in His plan, we can find peace in knowing that His timing is always perfect.
+- **God's timing is often different from our own**: It's important to recognize that God's timing may not align with [our own desires](/praying-over-people) or expectations.  surrendering our timeline to Him and trusting in His plan, we can find peace in knowing that His timing is always perfect.
 
 - **Prayer helps us align our will with God's**: Through prayer, we can seek guidance and wisdom from God to help us align our will with His.  allows us to trust in His timing and have faith that His plan for us is ultimately for our good.
 

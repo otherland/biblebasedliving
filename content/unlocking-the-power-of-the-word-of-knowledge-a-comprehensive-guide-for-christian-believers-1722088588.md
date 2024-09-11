@@ -22,7 +22,7 @@ Scripture Reference: [1 Corinthians 12:8](https://www.bibleref.com/1-Corinthians
 
 The **gift of knowledge** can manifest in various ways, such as knowing details about someone's past, present, or future that you wouldn't naturally know, understanding complex situations with clarity, or receiving insights into spiritual truths. For example, you might suddenly know someone's name and background without them telling you, or you could discern the root cause of a problem in a person's life through divine revelation.
 
-Scripture Reference: [Colossians 2:2-3](https://www.bibleref.com/Colossians/2/Colossians-2-2.html) - "My goal is that they may be encouraged in heart and united in love so that they may have the full riches of complete understanding, in order that they may know the mystery of God, namely, Christ, in whom are hidden all the treasures of wisdom and knowledge."
+Scripture Reference: [Colossians 2:2-3](https://www.bibleref.com/Colossians/2/Colossians-2-2.html) - "My goal is that they may be encouraged in heart and united in love so that they may have the full riches of complete understanding, in order that they may know the mystery of God, namely, Christ, in whom are hidden [all the treasures](/curriculum-integration) of wisdom and knowledge."
 
 - The gift of knowledge can also be seen in the ability to interpret dreams, as seen in the story of Joseph in the Bible who was able to interpret Pharaoh's dream and predict a coming famine.
 - Some people with the gift of knowledge may have a knack for remembering and recalling obscure facts or details that prove to be valuable in certain situations.

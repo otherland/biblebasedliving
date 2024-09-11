@@ -18,7 +18,7 @@ The Bible supports the idea of **prophetic gifts** in [1 Corinthians 12:10](http
 
 - People with a prophetic gift may also have a heightened sensitivity to the spiritual atmosphere around them, being able to discern between good and evil influences. This ability to sense the presence of spiritual forces can help guide them in their prophetic ministry.
 
-- It's important to note that having a prophetic gift does not mean having all the answers or being infallible. Prophetic individuals are still human and may make mistakes, but their gift allows them to tap into divine wisdom and guidance to bring messages of hope, encouragement, and correction to others.
+- It's important to note that having a prophetic gift does not mean having [all the answers](/pray-for-resilience) or being infallible. Prophetic individuals are still human and may make mistakes, but their gift allows them to tap into divine wisdom and guidance to bring messages of hope, encouragement, and correction to others.
 
 ## How do I know if I have a prophetic gift?
 

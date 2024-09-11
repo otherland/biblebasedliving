@@ -48,7 +48,7 @@ Description: The Holy Spirit possesses a variety of attributes that are central 
 
 - The Holy Ghost also exhibits attributes of wisdom and guidance. In [John 16:13](https://www.bibleref.com/John/16/John-16-13.html), it is mentioned that the Holy Ghost will guide believers into all truth, showing His role as a source of divine wisdom and direction.
 
-- Another attribute of the Holy Ghost is comfort. In [John 14:16](https://www.bibleref.com/John/14/John-14-16.html), Jesus promises to send the Holy Spirit as a Comforter to be with believers forever. This shows the comforting and reassuring presence of the Holy Ghost in the lives of believers.
+- Another attribute of [the Holy Ghost](/unveiling-the-mystery-holy-spirits-transformative-work-christian-life) is comfort. In [John 14:16](https://www.bibleref.com/John/14/John-14-16.html), Jesus promises to send the Holy Spirit as a Comforter to be with believers forever. This shows the comforting and reassuring presence of the Holy Ghost in the lives of believers.
 
 - The Holy Ghost also exhibits attributes of conviction and transformation. In [John 16:8](https://www.bibleref.com/John/16/John-16-8.html), it is mentioned that the Holy Spirit convicts the world of sin, righteousness, and judgment, leading to transformation and repentance in the lives of believers.
 

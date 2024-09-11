@@ -48,7 +48,7 @@ The message of Christianity is one of hope and transformation. It is not about b
 
 - Christianity is not about being "good enough" but about recognizing our need for a savior. The Bible teaches that all have sinned and fall short of the glory of God ([Romans 3:23](https://www.bibleref.com/Romans/3/Romans-3-23.html)), emphasizing the universal need for redemption.
 
-- Many of the key figures in the Bible, such as King David and the Apostle Paul, were far from perfect individuals. Their stories serve as a reminder that Christianity is for those who have made mistakes and need forgiveness.
+- Many of the key figures in the Bible, such as King David and [the Apostle Paul](/teacher-training), were far from perfect individuals. Their stories serve as a reminder that Christianity is for those who have made mistakes and need forgiveness.
 
 - The essence of Christianity is love and grace. Jesus taught that it is the sick who need a doctor, not the healthy ([Mark 2:17](https://www.bibleref.com/Mark/2/Mark-2-17.html)). This highlights the fact that Christianity is for those who are broken and in need of healing and restoration.
 As a Christian, you may encounter **common myths about Christianity** that can lead to misconceptions about your faith. Let's address some of these myths and provide clarity based on biblical truths.

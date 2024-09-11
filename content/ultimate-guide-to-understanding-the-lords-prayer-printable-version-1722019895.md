@@ -56,7 +56,7 @@ In times of **trial** or **confusion**, The Lord's Prayer serves as a **source o
 
 *"Give us this day [our daily bread](/devotional-resources), and forgive us our debts, as we also have forgiven our debtors." - [Matthew 6:11-12](https://www.bibleref.com/Matthew/6/Matthew-6-11.html)*
 
-- The Lord's Prayer can serve as a **daily reminder** of the importance of forgiveness and **gratitude**.  reflecting on the words "forgive us our debts, as we also have forgiven our debtors," individuals can strive to cultivate a mindset of **forgiveness** and **generosity** in their daily interactions.
+- The Lord's Prayer can serve as a **daily reminder** of the importance of forgiveness and **gratitude**.  reflecting on the words "forgive us our debts, as we also have forgiven our debtors," individuals can strive to cultivate a mindset of **forgiveness** and **generosity** in [their daily interactions](/nurturing-faith-and-family-comprehensive-guide-christian-parenting-life).
 
 - When facing **uncertainty** or **anxiety**, reciting The Lord's Prayer can provide a sense of **peace** and **calm**.  repetition of familiar words can help to **center** the mind and **reconnect** with one's faith, allowing for a moment of **reflection** and **reassurance**.
 

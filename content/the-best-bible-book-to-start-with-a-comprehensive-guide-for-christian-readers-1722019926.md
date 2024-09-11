@@ -30,7 +30,7 @@ While all books in the Bible are valuable, some are particularly encouraging and
 
 - For those interested in exploring the life and teachings of Jesus Christ, the books of Matthew, Mark, Luke, and John provide a detailed account of his ministry, miracles, death, and resurrection. These books offer a deeper understanding of the central figure of Christianity.
 
-- The letters written by the apostle Paul, such as Romans, Corinthians, and Philippians, provide valuable insights into the early Christian church and address various theological and practical issues. They offer guidance on topics like faith, love, unity, and Christian living.
+- The letters written by [the apostle Paul](/debunking-5-common-myths-about-christianity), such as Romans, Corinthians, and Philippians, provide valuable insights into the early Christian church and address various theological and practical issues. They offer guidance on topics like faith, love, unity, and Christian living.
 
 ## What Bible should I read first?
 

@@ -22,7 +22,7 @@ The **Holy Spirit** serves as our teacher by illuminating the Scriptures, helpin
 
 - The Holy Spirit empowers us to live out our faith and walk in obedience to God. Through the Holy Spirit, we receive spiritual gifts and abilities that enable us to serve others and fulfill our calling in Christ. [Acts 1:8](https://www.bibleref.com/Acts/1/Acts-1-8.html) reminds us that we will receive power when the Holy Spirit comes upon us.
 
-- The Holy Spirit convicts us of sin and prompts us to repent and turn back to God. He reveals areas in our lives that need to be surrendered to God's control and helps us grow in holiness and righteousness. In [John 16:8](https://www.bibleref.com/John/16/John-16-8.html), Jesus promises that the Holy Spirit will convict the world of sin, righteousness, and judgment.
+- [The Holy Spirit convicts us of sin](/unlocking-the-power-of-the-holy-spirit-understanding-conviction-for-christian-growth) and prompts us to repent and turn back to God. He reveals areas in our lives that need to be surrendered to God's control and helps us grow in holiness and righteousness. In [John 16:8](https://www.bibleref.com/John/16/John-16-8.html), Jesus promises that the Holy Spirit will convict the world of sin, righteousness, and judgment.
 
 ## How does the Holy Spirit act as our helper?
 
@@ -30,7 +30,7 @@ The **Holy Spirit** acts as our helper by empowering us to live out our faith an
 
 - The Holy Spirit also helps us by convicting us of sin and leading us towards repentance and transformation. [John 16:8](https://www.bibleref.com/John/16/John-16-8.html) says, "And when he comes, he will convict the world concerning sin and righteousness and judgment." This shows that the Holy Spirit plays a crucial role in guiding us towards a life that is pleasing to God.
 - The Holy Spirit acts as our counselor, providing wisdom and guidance in making decisions and navigating through life's challenges. [John 14:26](https://www.bibleref.com/John/14/John-14-26.html) says, "But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you." This highlights the Holy Spirit's role in teaching us and reminding us of God's truth.
-- The Holy Spirit also helps us by equipping us with spiritual gifts for the purpose of building up the body of Christ. [1 Corinthians 12:7](https://www.bibleref.com/1-Corinthians/12/1-Corinthians-12-7.html) says, "To each is given the manifestation of the Spirit for the common good." This shows that the Holy Spirit empowers us to serve and edify others within the church community.
+- The Holy Spirit also helps us by equipping us with spiritual gifts for the purpose of building up the body of Christ. [1 Corinthians 12:7](https://www.bibleref.com/1-Corinthians/12/1-Corinthians-12-7.html) says, "To each is given the manifestation of the Spirit for the common good." This shows that the Holy Spirit empowers us to serve and edify others within [the church community](/unveiling-the-prophetic-gift-meaning-and-relevance-for-christian-believers).
 
 ## How does the Holy Spirit guide us in our lives?
 

@@ -105,7 +105,7 @@ By incorporating prayers for healing images and quotes into our personal devotio
 
 Within Christianity, various saints have become associated with prayers for healing due to their intercessory role and reputations for miraculous healings. Although it is important to note that Christians do not worship saints but rather seek their intercession and emulate their faith.
 
-One notable figure is Saint Raphael the Archangel. Raphael is known as the angel of healing and has been revered for his role in bringing healing and guidance to those in need. Many Christians turn to him in prayer, seeking his intercession for physical, emotional, and spiritual healing.
+One notable figure is Saint Raphael the Archangel. Raphael is known as the angel of healing and has been revered for his role in bringing healing and guidance to those in need. Many Christians turn to him in prayer, seeking his intercession for physical, emotional, [and spiritual healing](/prayer-to-the-holy-spirit-for-healing).
 
 Saint Luke the Evangelist is another figure associated with prayers for healing. As a physician and one of the Gospel writers, Saint Luke's patronage extends to the medical profession. Christians often invoke his intercession for healing, both for themselves and for healthcare professionals involved in their care.
 
@@ -142,7 +142,7 @@ Engaging in prayers for healing is not just about reciting words but also about 
 
 3. **Keep a Prayer Journal:** Maintain a prayer journal where you record your thoughts, emotions, and prayers for healing. Document the ways in which God answers your prayers, providing evidence of His faithfulness and reinforcing your trust in Him.
 
-4. **Practice Gratitude:** Cultivate a spirit of gratitude by intentionally focusing on the blessings and goodness of God, even in the midst of pain or illness. Express gratitude for answered prayers, moments of comfort, and the support of loved ones.
+4. **Practice Gratitude:** Cultivate a spirit of gratitude by intentionally focusing on the blessings and [goodness of God](/best-new-worship-songs-2024), even in the midst of pain or illness. Express gratitude for answered prayers, moments of comfort, and the support of loved ones.
 
 5. **Lean on God's Promises:** Remind yourself of God's promises for healing, restoration, and His abiding presence. Write them down or memorize them so that you can draw upon them during times of doubt or discouragement.
 

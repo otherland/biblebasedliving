@@ -16,7 +16,7 @@ If you are wondering **what is the longest chapter in the Bible**, you will find
 
 ## What can we learn about the nature of God from Psalm 119?
 
-**What insights can we gain about the character of God** from the longest chapter in the Bible? Psalm 119 reveals God's faithfulness, goodness, and sovereignty as demonstrated through His word.  psalmist's reflections on God's statutes and promises highlight His unchanging nature and steadfast love for His people.
+**What insights can we gain about the character of God** from the longest chapter in the Bible? Psalm 119 reveals God's faithfulness, goodness, and sovereignty as demonstrated through His word.  psalmist's reflections on God's statutes and promises highlight [His unchanging nature](/devotional-resources) and steadfast love for His people.
 
 [Psalm 119:89](https://www.bibleref.com/Psalm/119/Psalm-119-89.html) proclaims, "Forever, O Lord, your word is firmly fixed in the heavens." This verse affirms the eternal nature of God's word and His unshakable faithfulness.  enduring truths found in Scripture reflect [the unchanging character](/5-powerful-prayers-for-trust-in-god-strengthen-your-faith-today) of God and His unwavering commitment to His people.
 

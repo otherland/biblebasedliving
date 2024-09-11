@@ -40,7 +40,7 @@ Black church congregational songs serve as markers of cultural identity and heri
 
 Black church congregational songs create a vibrant worship experience that engages both the mind and the spirit. The lively melodies, rhythmic clapping, foot-stomping, and call-and-response patterns encourage active participation from the congregation. This communal engagement fosters a sense of unity, joy, and fellowship among believers.
 
-> "Let everything that has breath praise the LORD. Praise the LORD." ([Psalm 150:6](https://www.bibleref.com/Psalm/150/Psalm-150-6.html))
+> "Let everything that has breath praise the LORD. [Praise the LORD](/prayers-for-healing-images-and-quotes)." ([Psalm 150:6](https://www.bibleref.com/Psalm/150/Psalm-150-6.html))
 
 ## What are some popular black church congregational songs?
 
@@ -148,4 +148,4 @@ Black church congregational songs have a unique ability to bring healing and del
 
 ## Conclusion
 
-Black church congregational songs hold a cherished place within African American Christian worship. They reflect the rich heritage and experiences of the African American community while providing spiritual nourishment, encouragement, and communal bonding. These songs have the power to shape worship experiences, impact individuals' lives, and serve as a testament to God's faithfulness throughout history. As we continue to sing these songs, let us remember their significance and the profound impact they have on our faith journey.
+Black church congregational songs hold a cherished place within African American Christian worship. They reflect the rich heritage and experiences of the African American community while providing spiritual nourishment, encouragement, and communal bonding. These songs have the power to shape worship experiences, impact individuals' lives, and serve as a testament to God's faithfulness throughout history. As we continue to sing these songs, let us remember their significance and the profound impact they have on [our faith journey](/prayer-of-hopelessness).

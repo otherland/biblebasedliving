@@ -26,13 +26,13 @@ Pastors play a vital role in [the spiritual growth](/prayers-to-pray-for-others)
 
    > "I pray that from his glorious, unlimited resources he will empower you with inner strength through his Spirit." - [Ephesians 3:16](https://www.bibleref.com/Ephesians/3/Ephesians-3-16.html) (NLT)
 
-   > "We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives, so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work, growing in the knowledge of God." - [Colossians 1:9-10](https://www.bibleref.com/Colossians/1/Colossians-1-9.html) (NIV)
+   > "We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives, so that you may live a life worthy of the Lord and please him in every way: bearing fruit in [every good work](/amazing-grace-lyrics), growing in the knowledge of God." - [Colossians 1:9-10](https://www.bibleref.com/Colossians/1/Colossians-1-9.html) (NIV)
 
 2. **Pray for Wisdom and Discernment**: Pastors need wisdom and discernment as they make decisions that impact the lives of their congregation. Pray that they will seek God's guidance in all matters and make choices aligned with His will.
 
    > "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you." - [James 1:5](https://www.bibleref.com/James/1/James-1-5.html) (NIV)
 
-   > "Trust in the Lord with all your heart and lean not on [your own understanding](/ultimate-guide-praying-for-wisdom-and-guidance-from-god); in all your ways submit to him, and he will make your paths straight." - [Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html) (NIV)
+   > "Trust in the Lord with [all your heart](/curriculum-integration) and lean not on [your own understanding](/ultimate-guide-praying-for-wisdom-and-guidance-from-god); in all your ways submit to him, and he will make your paths straight." - [Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html) (NIV)
 
 3. **Pray for Emotional and Physical Strength**: Pastoring can be emotionally draining, and pastors often face physical exhaustion due to their demanding schedules. Pray that they will find rest in God and experience His supernatural strength.
 

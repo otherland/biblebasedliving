@@ -65,7 +65,7 @@ In Jesus' name, Amen.
 
 *Bible Verses:*
 
-- "Trust in the Lord with all your heart, and do not lean on your own understanding. In [all your ways](/devotional-resources) acknowledge him, and he will make straight your paths." ([Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html))
+- "Trust in the Lord with [all your heart](/curriculum-integration), and do not lean on your own understanding. In [all your ways](/devotional-resources) acknowledge him, and he will make straight your paths." ([Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html))
 - "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him." ([James 1:5](https://www.bibleref.com/James/1/James-1-5.html))
 
 ### c. Prayer for peace and surrender
@@ -78,7 +78,7 @@ In Jesus' name, Amen.
 
 *Bible Verses:*
 
-- "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus." ([Philippians 4:6-7](https://www.bibleref.com/Philippians/4/Philippians-4-6.html))
+- "Do not be anxious about anything, but in everything by [prayer and supplication](/scripture-on-prayer-and-supplication) with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus." ([Philippians 4:6-7](https://www.bibleref.com/Philippians/4/Philippians-4-6.html))
 - "Cast all your anxieties on him because he cares for you." ([1 Peter 5:7](https://www.bibleref.com/1-Peter/5/1-Peter-5-7.html))
 
 ## Conclusion

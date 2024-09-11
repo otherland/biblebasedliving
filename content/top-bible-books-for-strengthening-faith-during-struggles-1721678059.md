@@ -22,7 +22,7 @@ When you're seeking solace and guidance in the midst of challenging circumstance
  - The book of Job is another valuable resource for finding guidance during hardship, showcasing resilience and faith in the face of adversity.
  - Lamentations is a book that delves into the depths of sorrow and grief, offering a voice for our pain and anguish during difficult times.
  - Proverbs provides wisdom and practical advice for navigating life's challenges, offering insights on how to make sound decisions even in the midst of turmoil.
- - The Gospel of John emphasizes the importance of faith and trust in God, reminding us of [His unfailing love](/discover-the-shortest-chapter-in-the-bible-a-hidden-gem-for-christian-readers) and presence in our lives even in [the darkest moments](/prayer-of-hopelessness).
+ - The [Gospel of John](/ultimate-guide-best-order-to-read-the-bible-for-beginners) emphasizes the importance of faith and trust in God, reminding us of [His unfailing love](/discover-the-shortest-chapter-in-the-bible-a-hidden-gem-for-christian-readers) and presence in our lives even in [the darkest moments](/prayer-of-hopelessness).
 
 Reading and reflecting on these various books can offer a multifaceted approach to finding guidance and comfort in times of trouble, ultimately leading to a deeper connection with God and a renewed sense of hope. 
 
