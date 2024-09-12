@@ -129,7 +129,7 @@ Pray for comfort in times of grief, loss, or heartache. Ask God to wrap His lovi
 
 **3. Provision**
 
-Pray for God's provision when facing financial difficulties or material needs. Ask Him to open doors of opportunity, provide for your daily needs, and grant you wisdom in managing your resources. Trust in His faithfulness to supply all your needs according to His riches.
+Pray for God's provision when facing financial difficulties or material needs. Ask Him to open doors of opportunity, provide for your daily needs, and grant you wisdom in managing your resources. Trust in His faithfulness to supply [all your needs](/scripture-prayers-for-pastors) according to His riches.
 
 **Biblical Foundation:**
 *"Trust in the Lord with [all your heart](/pray-for-resilience) and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight." ([Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html) NIV)*

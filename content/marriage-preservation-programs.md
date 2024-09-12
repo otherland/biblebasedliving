@@ -40,7 +40,7 @@ Christian marriage counseling in the UK offers couples the opportunity to seek g
 
 ## 4. What role do church-based couple interventions play in preserving marriages?
 
-Church-based couple interventions are an integral part of marriage preservation programs. These interventions involve mentorship or counseling provided by experienced couples within the church community. They offer a supportive environment where couples can seek guidance, share concerns, and learn from mature believers who have navigated similar challenges in their own marriages. Church-based couple interventions provide biblically-grounded advice and encouragement while fostering a sense of community and accountability.
+Church-based couple interventions are [an integral part](/resisting-gender-confusion) of marriage preservation programs. These interventions involve mentorship or counseling provided by experienced couples within [the church community](/unveiling-the-prophetic-gift-meaning-and-relevance-for-christian-believers). They offer a supportive environment where couples can seek guidance, share concerns, and learn from mature believers who have navigated similar challenges in their own marriages. Church-based couple interventions provide biblically-grounded advice and encouragement while fostering a sense of community and accountability.
 
 *Biblical Foundation:*
 - "And let us consider how to stir up one another to love and good works..." ([Hebrews 10:24](https://www.bibleref.com/Hebrews/10/Hebrews-10-24.html))
@@ -72,7 +72,7 @@ Pre-divorce Christian counseling offers couples considering divorce an opportuni
 
 *Biblical Foundation:*
 - "So they are no longer two but one flesh. What therefore God has joined together, let not man separate." ([Matthew 19:6](https://www.bibleref.com/Matthew/19/Matthew-19-6.html))
-- "Trust in the LORD with all your heart, and do not lean on your own understanding." ([Proverbs 3:5](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html))
+- "Trust in the LORD with all your heart, and do not lean on [your own understanding](/dive-into-inspiring-christian-biographies-the-ultimate-guide-for-believers)." ([Proverbs 3:5](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html))
 
 ## 8. How can marriage preservation programs promote healthy, lasting marriages based on biblical principles?
 

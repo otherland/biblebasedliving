@@ -84,7 +84,7 @@ The people of Galilee witnessed firsthand the compassion and love that Jesus had
 
 * The miracles performed by Jesus around the Sea of Galilee also served as a sign of the coming Kingdom of God. They foreshadowed the restoration and renewal that would come through Jesus' ultimate sacrifice on the cross, offering hope and redemption to all who believed in him.
 
-* The impact of Jesus' miracles in Galilee extended beyond the physical healing and provision. They also challenged the religious authorities and societal norms of the time, highlighting the importance of faith, humility, and compassion in the Kingdom of God.
+* The impact of Jesus' miracles in Galilee extended beyond the physical healing and provision. They also challenged the religious authorities and societal norms of the time, highlighting the importance of faith, humility, and compassion in [the Kingdom of God](/christian-music-industry).
 
 * The stories of Jesus' miracles around the Sea of Galilee continue to inspire and impact people today, serving as a reminder of God's power, love, and mercy. They encourage believers to trust in Jesus and to actively participate in bringing about God's Kingdom here on earth.
 If you were to look at a **map of Galilee** during the time of Jesus, you would see that it was a region located in the northern part of Israel. The most prominent feature of this area was the **Sea of Galilee**, which was a freshwater lake known for its fishing industry and the many miracles performed by Jesus on its shores.

@@ -34,7 +34,7 @@ Christian historical education plays a vital role in forming personal and commun
 
 *"Remember your leaders, those who spoke to you [the word of](/top-50-spiritual-weapons-for-warfare-a-biblical-guide-for-christian-warriors) God. Consider the outcome of their way of life, and imitate their faith." ([Hebrews 13:7](https://www.bibleref.com/Hebrews/13/Hebrews-13-7.html))*
 
-*"But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light." ([1 Peter 2:9](https://www.bibleref.com/1-Peter/2/1-Peter-2-9.html))*
+*"But you are a chosen race, a royal priesthood, a holy nation, a people for [his own possession](/defending-traditional-values), that you may proclaim the excellencies of him who called you out of darkness into his marvelous light." ([1 Peter 2:9](https://www.bibleref.com/1-Peter/2/1-Peter-2-9.html))*
 
 *Source Material Integration:* In "Christianity - Education, Schools, Theology," it is highlighted that Christian education aims to pass on the faith to future generations, contributing to the development of a strong Christian identity.
 
@@ -52,7 +52,7 @@ Christian historical education has a profound impact on society by shaping cultu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onHIpArMENU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-*Source Material Integration:* In "The Great Vision of Christian Education" by Justin Taylor, he emphasizes the importance of Christian education in fulfilling the Great Commission by making disciples and teaching them to observe all that Jesus commanded.
+*Source Material Integration:* In "The Great Vision of Christian Education" by Justin Taylor, he emphasizes the importance of Christian education in fulfilling [the Great Commission](/exploring-the-sacred-sites-of-bethany-and-jerusalem-a-christian-pilgrimage-guide) by making disciples and teaching them to observe all that Jesus commanded.
 
 ## 4. What Role does Christian Historical Education Play in British Identity?
 
@@ -96,7 +96,7 @@ Christian historical education provides a counterbalance to secular influences b
 
 **Biblical Foundation:**
 
-*"See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ." ([Colossians 2:8](https://www.bibleref.com/Colossians/2/Colossians-2-8.html))*
+*"See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to [the elemental spirits](/critiquing-modern-art) of the world, and not according to Christ." ([Colossians 2:8](https://www.bibleref.com/Colossians/2/Colossians-2-8.html))*
 
 *"Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will." ([Romans 12:2](https://www.bibleref.com/Romans/12/Romans-12-2.html))*
 

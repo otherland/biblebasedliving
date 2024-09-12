@@ -16,7 +16,7 @@ Furthermore, **[Genesis 2:7](https://www.bibleref.com/Genesis/2/Genesis-2-7.html
 
 - Understanding life as a gift from God can inspire gratitude and humility, leading us to cherish and steward our lives well. **[1 Corinthians 6:19-20](https://www.bibleref.com/1-Corinthians/6/1-Corinthians-6-19.html)** encourages us to honor God with our bodies, recognizing that we belong to Him and are called to glorify Him in all that we do.
 
-- Recognizing the inherent value of every life as a divine creation can also shape our attitudes towards others, prompting us to treat each person with dignity and respect. **[Matthew 25:40](https://www.bibleref.com/Matthew/25/Matthew-25-40.html)** teaches us that whatever we do for the least of our brothers and sisters, we do for Christ himself, emphasizing the importance of valuing and caring for all individuals as reflections of God's image.
+- Recognizing [the inherent value](/abstinence-education) of every life as a divine creation can also shape our attitudes towards others, prompting us to treat each person with dignity and respect. **[Matthew 25:40](https://www.bibleref.com/Matthew/25/Matthew-25-40.html)** teaches us that whatever we do for the least of our brothers and sisters, we do for Christ himself, emphasizing the importance of valuing and caring for all individuals as reflections of God's image.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5qnKe3iNzrM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

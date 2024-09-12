@@ -20,7 +20,7 @@ The Bible encourages believers to worship through music. In [Colossians 3:16](ht
 Christian music is blessed with a multitude of talented male artists who have made a significant impact on the genre. Let's take a look at some of these remarkable musicians:
 
 ### 1. Chris Tomlin
-Chris Tomlin is one of the most influential figures in contemporary Christian music. Known for his powerful worship songs like "How Great is Our God" and "Amazing Grace (My Chains Are Gone)," Tomlin has won numerous awards and has sold millions of albums worldwide.
+Chris Tomlin is one of the most influential figures in [contemporary Christian music](/christian-music-industry). Known for his powerful worship songs like "How Great is Our God" and "Amazing Grace (My Chains Are Gone)," Tomlin has won numerous awards and has sold millions of albums worldwide.
 
 ### 2. TobyMac
 TobyMac, a former member of the Christian hip-hop group DC Talk, has achieved great success as a solo artist. His unique blend of hip-hop, pop, and rock has garnered him a dedicated fan base. Some of his popular songs include "I just need U," "Me Without You," and "Speak Life."

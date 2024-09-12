@@ -115,7 +115,7 @@ While prayer is ultimately a matter of the heart and a conversation between you 
 
 **b. Align with God's Will:** As you pray about your request, seek alignment with God's will. Ask for wisdom to discern His plan for your life and pray for His guidance in your circumstances.
 
-**c. Seek Accountability:** Consider finding an accountability partner or mentor who can walk alongside you in your journey of prayer. They can provide encouragement, offer guidance, and pray with you.
+**c. Seek Accountability:** Consider finding [an accountability partner](/fighting-pornography) or mentor who can walk alongside you in your journey of prayer. They can provide encouragement, offer guidance, and pray with you.
 
 **d. Trust in God's Timing:** Remember that God works in [His perfect timing](/what-to-pray), which may not align with our immediate desires. Trust that He knows what is best for you and be open to His leading.
 

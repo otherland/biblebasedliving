@@ -44,7 +44,7 @@ While divorce may be permitted in certain circumstances such as adultery or aban
 
 ## 4. How can covenant marriage strengthen Christian couples?
 
-Covenant marriage provides a solid foundation for Christian couples to thrive in their relationship. By embracing the biblical model of marriage, couples commit to selflessness, mutual submission, and sacrificial love. [Ephesians 5:22-33](https://www.bibleref.com/Ephesians/5/Ephesians-5-22.html) provides a powerful framework for understanding the roles of husbands and wives within a covenant marriage. Husbands are called to love their wives sacrificially, just as Christ loved the church. Wives are called to submit to their husbands as the church submits to Christ.
+Covenant marriage provides a solid foundation for Christian couples to thrive in their relationship. By embracing [the biblical model](/biblical-marriage-hierarchy) of marriage, couples commit to selflessness, mutual submission, and sacrificial love. [Ephesians 5:22-33](https://www.bibleref.com/Ephesians/5/Ephesians-5-22.html) provides a powerful framework for understanding the roles of husbands and wives within a covenant marriage. Husbands are called to love their wives sacrificially, just as Christ loved the church. Wives are called to submit to their husbands as the church submits to Christ.
 
 Covenant marriage promotes a deep spiritual connection between spouses, fostering an environment of trust, respect, and honor. It encourages couples to prioritize their relationship above personal desires and to seek God's guidance in all decisions. By committing to a lifelong covenant, Christian couples demonstrate their dedication to growing together in faith, love, and unity.
 
@@ -56,7 +56,7 @@ Covenant marriage promotes a deep spiritual connection between spouses, fosterin
 
 Covenant marriage serves as the foundation for strong families and healthy communities. By prioritizing lifelong commitment and fidelity, covenant marriages provide stability and security for couples and their children. Children raised in homes where covenant marriage is valued have the benefit of witnessing a strong marital bond based on biblical principles.
 
-When couples commit to a covenant marriage, they make a public declaration of their intent to honor their vows. This commitment not only strengthens their own relationship but also sets an example for others in their community. Covenant marriages promote the biblical view of marriage as a lifelong commitment that reflects God's faithfulness and love.
+When couples commit to a covenant marriage, they make a public declaration of their intent to honor their vows. This commitment not only strengthens their own relationship but also sets an example for others in their community. Covenant marriages promote [the biblical view](/critiquing-racial-ideologies) of marriage as a lifelong commitment that reflects God's faithfulness and love.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NBesEXEwG-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

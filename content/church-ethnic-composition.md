@@ -27,7 +27,7 @@ As Christians, our response to demographic changes in our churches should be roo
 
 Instead of viewing demographic changes as a threat, we should see them as an opportunity for growth and enrichment. It is a chance to learn about different cultures, traditions, and perspectives, deepening our understanding of God's diverse creation. By embracing diversity, we reflect the beauty of God's creativity and demonstrate His love for all people.
 
-Christians should actively seek ways to engage with individuals from different ethnic backgrounds within their churches. This can include hosting events that celebrate various cultural traditions, promoting cross-cultural friendships and mentorships, and creating spaces for open dialogue where people can share their experiences and perspectives. Through intentional efforts to build relationships and foster inclusivity, we can create a church community that reflects God's heart for unity in diversity.
+Christians should actively seek ways to engage with individuals from [different ethnic backgrounds](/mission-and-ethnicity) within their churches. This can include hosting events that celebrate various cultural traditions, promoting cross-cultural friendships and mentorships, and creating spaces for open dialogue where people can share their experiences and perspectives. Through intentional efforts to build relationships and foster inclusivity, we can create a church community that reflects God's heart for unity in diversity.
 
 ## 3. What is the debate surrounding ethnic churches versus integration within the church?
 
@@ -93,7 +93,7 @@ By promoting unity through Christ-centered teaching, fostering mutual respect an
 
 ## 8. Conclusion
 
-The ethnic composition of churches presents both challenges and opportunities. As Christians, we are called to preserve our cultural heritage while embracing diversity and promoting unity in Christ. By maintaining a conservative biblical perspective, upholding traditional Christian values, and prioritizing love and acceptance, we can navigate the complexities of ethnic composition with grace and humility.
+The ethnic composition of churches presents both challenges and opportunities. As Christians, we are called to preserve our cultural heritage while embracing diversity and promoting unity in Christ. By maintaining a conservative biblical perspective, upholding [traditional Christian values](/critiquing-modern-art), and prioritizing love and acceptance, we can navigate the complexities of ethnic composition with grace and humility.
 
 Preserving UK church cultural heritage requires honoring our historical traditions while recognizing the changing demographics of our communities. Responding to demographic changes should involve love, acceptance, and intentional efforts to engage with individuals from different ethnic backgrounds. The debate between ethnic churches versus integration within the church calls for a balanced approach that celebrates cultural distinctiveness while fostering unity in Christ.
 

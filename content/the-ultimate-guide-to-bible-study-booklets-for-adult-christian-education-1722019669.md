@@ -46,7 +46,7 @@ Engaging with **group bible study books** can create a platform for mutual accou
 
 In [James 5:16](https://www.bibleref.com/James/5/James-5-16.html), it states, "Therefore, confess your sins to one another and pray for one another, that you may be healed.  prayer of a righteous person has great power as it is working." This verse highlights the power of confessing to one another and praying together. **Small group bible study books** create a safe space for vulnerability and prayer, fostering a supportive environment for spiritual growth.
 
-- Group Bible study books can help members of the group to hold each other accountable in applying biblical teachings to [their daily lives](/discover-the-shortest-chapter-in-the-bible-a-hidden-gem-for-christian-readers).  example, discussing how to show love and forgiveness in practical ways can encourage group members to actively practice these principles in their interactions with others.
+- Group Bible study books can help members of the group to hold each other accountable in [applying biblical teachings](/unveiling-the-power-of-scripture-deep-dive-biblical-teachings-holy-spirit) to [their daily lives](/discover-the-shortest-chapter-in-the-bible-a-hidden-gem-for-christian-readers).  example, discussing how to show love and forgiveness in practical ways can encourage group members to actively practice these principles in their interactions with others.
 
 - Through group Bible study books, individuals can gain diverse perspectives and insights from fellow group members, leading to a deeper understanding of the scriptures and how they can be applied in various life situations.  shared learning experience can strengthen the bond within the group and provide a sense of unity in faith.
 

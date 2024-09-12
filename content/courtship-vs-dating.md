@@ -62,7 +62,7 @@ Courtship stands in stark contrast to the modern dating culture that often promo
 
 **Biblical Foundation:** [Romans 12:2](https://www.bibleref.com/Romans/12/Romans-12-2.html) encourages us not to conform to the patterns of this world but to be transformed by the renewing of our minds. This verse reminds us to align our thinking with God's Word rather than adopting worldly ideologies.
 
-Courtship challenges the prevailing cultural norms and values by prioritizing biblical principles and seeking God's guidance in every aspect of the relationship. It rejects the idea of "playing the field" or treating relationships as disposable, instead emphasizing commitment, purity, and long-term partnership.
+Courtship challenges the [prevailing cultural norms](/exposing-cultural-subversion) and values by prioritizing biblical principles and seeking God's guidance in every aspect of the relationship. It rejects the idea of "playing the field" or treating relationships as disposable, instead emphasizing commitment, purity, and long-term partnership.
 
 ## 7. How does courtship protect against sexual immorality?
 
@@ -76,7 +76,7 @@ In courtship, couples commit to abstaining from sexual intimacy until marriage. 
 
 Navigating courtship in today's culture requires a firm commitment to biblical principles and a reliance on God's wisdom and guidance.
 
-**Biblical Foundation:** [Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html) reminds us to trust in the Lord with [all our hearts](/prayers-for-faith-and-trust) and lean not on our own understanding but to acknowledge Him in all our ways. This verse encourages us to seek God's direction and guidance in every aspect of our lives, including courtship.
+**Biblical Foundation:** [Proverbs 3:5-6](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html) reminds us to trust in the Lord with [all our hearts](/prayers-for-faith-and-trust) and lean not on [our own understanding](/5-powerful-prayers-for-trust-in-god-strengthen-your-faith-today) but to acknowledge Him in all our ways. This verse encourages us to seek God's direction and guidance in every aspect of our lives, including courtship.
 
 To navigate courtship successfully, Christians should prioritize prayer, seek counsel from wise mentors or pastors, and immerse themselves in God's Word. They should also remain steadfast in their commitment to purity, maintain open communication with their partner, and actively involve their families in the process.
 

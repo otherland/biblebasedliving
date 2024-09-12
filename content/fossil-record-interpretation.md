@@ -30,7 +30,7 @@ Young earth creationists interpret the fossil record within the context of a you
 
 ## 5. What is flood geology and how does it interpret fossils?
 
-Flood geology is a geological interpretation that seeks to explain the features of the Earth's crust and the fossil record in light of the biblical Flood. According to flood geology, the global Flood described in Genesis was a cataclysmic event that reshaped the Earth's surface and deposited sedimentary layers containing fossils. Flood geologists argue that the fossil record can be explained by rapid burial and sorting of organisms during the Flood. They interpret the different fossil assemblages found in different layers as a result of ecological zonation and hydrodynamic sorting during the Flood.
+Flood geology is a geological interpretation that seeks to explain the features of the Earth's crust and the fossil record in light of [the biblical Flood](/scripture-based-scientific-models). According to flood geology, the global Flood described in Genesis was a cataclysmic event that reshaped the Earth's surface and deposited sedimentary layers containing fossils. Flood geologists argue that the fossil record can be explained by rapid burial and sorting of organisms during the Flood. They interpret the different fossil assemblages found in different layers as a result of ecological zonation and hydrodynamic sorting during the Flood.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jHKdC0n_EJg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

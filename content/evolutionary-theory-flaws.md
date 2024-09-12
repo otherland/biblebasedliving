@@ -30,7 +30,7 @@ Additionally, the concept of irreducible complexity poses a challenge to natural
 
 Mathematical improbability is a significant flaw in evolutionary theory. The probability of complex biological systems evolving by chance is exceedingly low. For example, the probability of a functional protein forming by chance is astronomically small. The sheer number of precise arrangements required for functional proteins makes it highly improbable that they could have formed through random processes.
 
-Furthermore, the fossil record does not provide the expected transitional forms that would support gradual changes over time. This lack of evidence for transitional forms challenges the notion that evolution occurred through small, incremental changes. Instead, it points to the sudden appearance of distinct kinds of organisms, which aligns with the biblical account of creation.
+Furthermore, the fossil record does not provide the expected transitional forms that would support gradual changes over time. This lack of evidence for transitional forms challenges the notion that evolution occurred through small, incremental changes. Instead, it points to the sudden appearance of distinct kinds of organisms, which aligns with [the biblical account](/creation-science-institutions) of creation.
 
 ### 4. Can faith and evolution coexist?
 
@@ -42,7 +42,7 @@ As Christians, we believe in the sufficiency and authority of Scripture. The Bib
 
 The theory of evolution can have implications for morality if it suggests that life has no inherent meaning or purpose. If humans are merely the result of random processes, then there is no objective basis for moral values and ethics. However, the Bible provides a foundation for moral values and ethical behavior.
 
-In [Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html), it says, "So God created mankind in [his own image](/legal-challenges), in the image of God he created them; male and female he created them." This verse affirms the inherent value and dignity of [every human being](/genetic-evidence-challenges) as bearers of God's image. The biblical worldview provides a solid foundation for moral values based on God's character and commands.
+In [Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html), it says, "So God created mankind in [his own image](/legal-challenges), in the image of God he created them; male and female he created them." This verse affirms the inherent value and dignity of [every human being](/genetic-evidence-challenges) as bearers of God's image. [The biblical worldview](/creation-science-institutions) provides a solid foundation for moral values based on God's character and commands.
 
 ### 6. Are there gaps in the evolutionary record?
 

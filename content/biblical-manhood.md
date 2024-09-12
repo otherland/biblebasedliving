@@ -63,7 +63,7 @@ Restoring biblical manhood is a lifelong journey that requires intentional effor
 
 Biblical manhood has a profound impact on relationships and marriages. When men embrace their God-given roles and responsibilities, it sets a foundation for healthy, loving, and Christ-centered relationships.
 
-In marriage, biblical manhood is characterized by sacrificial love, servant leadership, and selflessness. The apostle Paul instructs husbands to love their wives as Christ loved the church and gave Himself up for her ([Ephesians 5:25](https://www.bibleref.com/Ephesians/5/Ephesians-5-25.html)). This sacrificial love involves putting the needs of one's wife before his own and actively seeking her spiritual, emotional, and physical well-being.
+In marriage, biblical manhood is characterized by sacrificial love, servant leadership, and selflessness. [The apostle Paul](/mission-and-ethnicity) instructs husbands to love their wives as Christ loved the church and gave Himself up for her ([Ephesians 5:25](https://www.bibleref.com/Ephesians/5/Ephesians-5-25.html)). This sacrificial love involves putting the needs of one's wife before his own and actively seeking her spiritual, emotional, and physical well-being.
 
 A biblical man leads his family spiritually by setting an example of faithfulness and obedience to God. He takes responsibility for the spiritual growth of his wife and children, leading them in worship, prayer, and the study of God's Word. By prioritizing spiritual leadership, a man creates an environment where his family can thrive spiritually.
 
@@ -71,7 +71,7 @@ Biblical manhood also impacts relationships outside of marriage. A godly man tre
 
 By embracing biblical manhood in relationships, men can create an atmosphere of love, trust, and security. They become partners and co-laborers with their spouses, building strong foundations for lasting marriages and nurturing healthy relationships with others.
 
-### How can Christian men develop courage and faith in their daily lives?
+### How can Christian men develop courage and faith in [their daily lives](/ultimate-guide-understanding-the-true-meaning-of-being-a-christian)?
 
 Developing courage and faith is essential for Christian men as they navigate the challenges and trials of daily life. Here are some practical steps to cultivate courage and faith:
 

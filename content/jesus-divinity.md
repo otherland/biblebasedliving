@@ -58,7 +58,7 @@ Key aspects of Jesus' divinity include:
 - His ability to forgive sins
 - His resurrection and ascension
 
-Understanding these aspects can deepen your faith and provide a solid foundation for your Christian walk.
+Understanding these aspects can deepen your faith and provide a solid foundation for [your Christian walk](/the-ultimate-guide-to-bible-study-booklets-for-adult-christian-education).
 
 ## Comparative Religious Perspectives
 

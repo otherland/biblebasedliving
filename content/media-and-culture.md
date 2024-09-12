@@ -14,7 +14,7 @@ As Christians, we are called to live according to the teachings of the Bible and
 
 ### 1. Why is LGBTQ+ representation a contentious issue in Christian media?
 
-The issue of LGBTQ+ representation in Christian media is contentious because it raises questions about the compatibility of biblical teachings on sexuality and gender with the modern push for inclusivity and acceptance of diverse sexual orientations and gender identities. As Christians, we believe that God created human beings as male and female, and that sexual relationships are intended to be between one man and one woman within the bounds of marriage ([Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html); [Matthew 19:4-6](https://www.bibleref.com/Matthew/19/Matthew-19-4.html)). This understanding is at odds with the promotion of same-sex relationships and transgender identities.
+The issue of LGBTQ+ representation in Christian media is contentious because it raises questions about the compatibility of biblical teachings on sexuality and gender with the modern push for inclusivity and acceptance of diverse sexual orientations and gender identities. As Christians, we believe that God created human beings as [male and female](/gender-distinct-parenting), and that sexual relationships are intended to be between one man and one woman within the bounds of marriage ([Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html); [Matthew 19:4-6](https://www.bibleref.com/Matthew/19/Matthew-19-4.html)). This understanding is at odds with the promotion of same-sex relationships and transgender identities.
 
 ### 2. How does [the Bible address](/biblical-view-of-race) LGBTQ+ representation in media?
 
@@ -22,7 +22,7 @@ The Bible does not directly address the issue of LGBTQ+ representation in media 
 
 ### 3. How can Christians engage with media that includes LGBTQ+ representation?
 
-As Christians, we are called to be discerning in our media consumption and to ensure that what we watch aligns with biblical values. This does not mean we should completely avoid media that includes LGBTQ+ representation. Instead, we should critically evaluate the messages being presented and consider whether they align with biblical principles. We can engage with media that includes LGBTQ+ representation by using it as an opportunity to engage in conversations about biblical truth and to demonstrate Christ's love to those with different perspectives.
+As Christians, we are called to be discerning in [our media consumption](/exposing-cultural-subversion) and to ensure that what we watch aligns with biblical values. This does not mean we should completely avoid media that includes LGBTQ+ representation. Instead, we should critically evaluate the messages being presented and consider whether they align with biblical principles. We can engage with media that includes LGBTQ+ representation by using it as an opportunity to engage in conversations about biblical truth and to demonstrate Christ's love to those with different perspectives.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNOBlyvaPKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

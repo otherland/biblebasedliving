@@ -18,7 +18,7 @@ In a world that is constantly changing and shifting, it is important for Christi
 
 Christian traditions are not mere rituals or empty customs; they are rooted in the teachings of Scripture and have been passed down through generations of believers. These traditions serve as a tangible expression of our faith and provide a framework for worship, fellowship, and spiritual growth. They connect us to the rich history of the Church and help us to cultivate a deep sense of belonging and identity as members of the body of Christ.
 
-1. **What is the biblical basis for reviving Christian traditions?**
+1. **What is [the biblical basis](/resisting-lgbtq-education) for reviving Christian traditions?**
 
    The Bible affirms the importance of tradition in preserving and transmitting the faith. In [2 Thessalonians 2:15](https://www.bibleref.com/2-Thessalonians/2/2-Thessalonians-2-15.html), Paul instructs the believers to "stand firm and hold to the traditions that you were taught by us, either by our spoken word or by our letter." Similarly, in [1 Corinthians 11:2](https://www.bibleref.com/1-Corinthians/11/1-Corinthians-11-2.html), Paul commends the church for keeping the traditions he delivered to them. These verses highlight the value of tradition as a means of passing down essential teachings and practices from one generation to another.
 
@@ -92,7 +92,7 @@ One significant challenge facing the Church today is declining church attendance
 
 ### Reviving Christian Rites of Passage: Nurturing Spiritual Formation
 
-Finally, reviving Christian traditions involves reclaiming and reimagining the rites of passage that mark significant milestones in the life of a believer. Traditions such as baptism, confirmation, and marriage are not mere social customs; they are sacred acts that signify our commitment to Christ and our journey of faith.
+Finally, reviving Christian traditions involves reclaiming and reimagining the rites of passage that mark significant milestones in [the life of](/uncovering-the-divine-journey-of-jesus-exploring-the-life-of-christ) a believer. Traditions such as baptism, confirmation, and marriage are not mere social customs; they are sacred acts that signify our commitment to Christ and our journey of faith.
 
 9. **Why is reviving Christian rites of passage important?**
 

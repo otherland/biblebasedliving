@@ -16,7 +16,7 @@ The academic recognition of creationism, specifically the belief in the divine c
 
 ## 1. What is ID theory and how does it differ from other perspectives on the origin of life?
 
-Intelligent design (ID) theory posits that certain features of the universe and living organisms are best explained by an intelligent cause rather than solely natural processes. It argues that these features exhibit complexity and specificity that cannot be adequately explained by random chance or undirected natural processes alone. In contrast to other perspectives on the origin of life, such as evolutionary theory, ID theory holds that an intelligent designer played a role in the creation and development of life.
+Intelligent design (ID) theory posits that certain features of the universe and living organisms are best explained by [an intelligent cause](/public-engagement-intelligent-design) rather than solely natural processes. It argues that these features exhibit complexity and specificity that cannot be adequately explained by random chance or undirected natural processes alone. In contrast to other perspectives on the origin of life, such as evolutionary theory, ID theory holds that [an intelligent designer](/divine-design-in-nature) played a role in the creation and development of life.
 
 *"In the beginning, God created the heavens and the earth." - [Genesis 1:1](https://www.bibleref.com/Genesis/1/Genesis-1-1.html) (ESV)*
 

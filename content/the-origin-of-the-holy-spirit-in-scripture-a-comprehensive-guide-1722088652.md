@@ -20,7 +20,7 @@ The verse in question is [Genesis 1:2](https://www.bibleref.com/Genesis/1/Genesi
 
 ## What is the promise of the Holy Spirit in the Old Testament?
 
-As you explore the Old Testament, you may wonder about the promise of the Holy Spirit and how it unfolds in scripture. The Old Testament contains prophecies that foretell the coming of the Holy Spirit and the outpouring of God's Spirit on His people. One such prophecy can be found in the book of Joel, where God promises to pour out His Spirit on all people, empowering them to prophesy, dream dreams, and see visions.
+As you explore the Old Testament, you may wonder about the promise of the Holy Spirit and how it unfolds in scripture. The Old Testament contains prophecies that foretell the coming of the Holy Spirit and the outpouring of God's Spirit on His people. One such prophecy can be found in [the book of](/where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers) Joel, where God promises to pour out His Spirit on all people, empowering them to prophesy, dream dreams, and see visions.
 
 In [Joel 2:28-29](https://www.bibleref.com/Joel/2/Joel-2-28.html), God declares, "I will pour out my Spirit upon all people. Your sons and daughters will prophesy. Your old men will dream dreams, and your young men will see visions. In those days, I will pour out my Spirit even on servants, men and women alike." This promise of the Holy Spirit signifies a new era of God's presence and power among His people, marking a significant shift in how God interacts with humanity.
 

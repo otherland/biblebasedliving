@@ -24,7 +24,7 @@ Countering feminization is important for the church because it upholds the bibli
 
 ## 2. How can we revive robust Christian theology to counter feminization?
 
-To counter feminization, we must revive robust Christian theology that upholds biblical truth. This involves a return to sound doctrine and a rejection of theological compromises that accommodate cultural trends. We need a renewed emphasis on biblical authority, the sufficiency of Scripture, and the timeless truths found in God's Word.
+To counter feminization, we must revive robust Christian theology that upholds biblical truth. This involves a return to sound doctrine and a rejection of theological compromises that accommodate cultural trends. We need a renewed emphasis on biblical authority, the sufficiency of Scripture, and [the timeless truths](/traditional-art-revival) found in God's Word.
 
 **Biblical Foundation:** "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness" ([2 Timothy 3:16](https://www.bibleref.com/2-Timothy/3/2-Timothy-3-16.html), ESV)
 
@@ -46,7 +46,7 @@ The Christian response to the decline of masculinity is not to retreat or confor
 
 To counter feminization in worship styles, we must embrace a robust theology of worship that reflects both the transcendence and immanence of God. While it is important to cultivate an atmosphere of intimacy and heartfelt praise, we must also honor God's holiness and majesty. This can be achieved through a balance of contemporary and traditional elements, incorporating hymns, liturgy, Scripture reading, and reverence.
 
-**Biblical Foundation:** "Worship the Lord in the splendor of holiness; tremble before him, all the earth!" ([Psalm 96:9](https://www.bibleref.com/Psalm/96/Psalm-96-9.html), ESV)
+**Biblical Foundation:** "Worship the Lord in the splendor of holiness; tremble before him, [all the earth](/black-church-congregational-songs)!" ([Psalm 96:9](https://www.bibleref.com/Psalm/96/Psalm-96-9.html), ESV)
 
 **Application:** Churches should intentionally evaluate their worship practices to ensure they reflect a biblically balanced approach that honors God's nature and engages both men and women in meaningful worship.
 
@@ -72,7 +72,7 @@ The feminization of Christian media is a concern that must be addressed. The con
 
 **Biblical Foundation:** "Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things." ([Philippians 4:8](https://www.bibleref.com/Philippians/4/Philippians-4-8.html), ESV)
 
-**Application:** Christian media outlets should prioritize content that highlights godly masculinity, shares testimonies of men living out their faith courageously, and provides resources for men to grow spiritually and fulfill their biblical roles.
+**Application:** [Christian media outlets](/media-accountability) should prioritize content that highlights godly masculinity, shares testimonies of men living out their faith courageously, and provides resources for men to grow spiritually and fulfill their biblical roles.
 
 ## 8. How can the church engage with secular ideologies that contribute to feminization?
 

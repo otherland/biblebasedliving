@@ -89,7 +89,7 @@ Maintaining focus during prayer can be challenging for children. Here are three 
 
 Teaching children to pray for others cultivates empathy and compassion within them. Here are three ways you can teach your child to pray for others:
 
-1. **Model intercessory prayer**: Include intercessory prayers in your own prayer routine and let your child witness it. Pray for family members, friends, missionaries, and even global issues together with your child.
+1. **Model intercessory prayer**: Include intercessory prayers in your own prayer routine and let your child witness it. Pray for family members, friends, missionaries, and [even global issues](/types-of-prayers) together with your child.
 
 2. **Create a prayer list**: Help your child create a prayer list that includes names of people they want to pray for regularly. Encourage them to add specific requests next to each name.
 

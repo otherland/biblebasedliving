@@ -44,7 +44,7 @@ The **difference** between **Messianic Judaism** and **traditional Christianity*
 
 In **Messianic** **Judaism**, the idea of a **"completed** **Jew" reflects the belief that accepting **Jesus** as the **Messiah** **fulfills** and **completes** **Jewish** **faith**. **Messianic Jews** see themselves as **continuing** their **Jewish** **heritage** while also **embracing** **Jesus** as the **promised** **Savior**. This concept highlights the **integration** of **Jewish** **traditions** and **Christian** **beliefs** in **Messianic** **Judaism**, emphasizing the **wholeness** of their **faith**.
 
-*[Galatians 3:28](https://www.bibleref.com/Galatians/3/Galatians-3-28.html)* - "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus."
+*[Galatians 3:28](https://www.bibleref.com/Galatians/3/Galatians-3-28.html)* - "There is neither Jew nor Gentile, neither slave nor free, nor is there [male and female](/gender-distinct-parenting), for you are all one in Christ Jesus."
 
 - The concept of a "completed Jew" in Messianic Judaism also emphasizes the belief that Jesus is the fulfillment of prophecies found in [the Hebrew Bible](/key-differences-between-the-catholic-and-protestant-bibles-a-comprehensive-comparison), connecting [the Old Testament](/ultimate-guide-best-order-to-read-the-bible-for-beginners) with [the New Testament](/where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers).
 - Some critics argue that the idea of a "completed Jew" in Messianic Judaism can be seen as a form of religious syncretism, blending elements of Judaism with Christianity in a way that is not traditionally accepted by either faith.

@@ -44,7 +44,7 @@ This means providing opportunities for repentance, restoration, and growth. It i
 
 ## 5. How can discipline be tailored to individual children?
 
-Each child is unique and may respond differently to various forms of discipline. It is important to understand your child's temperament, strengths, weaknesses, and learning style. [Proverbs 22:15](https://www.bibleref.com/Proverbs/22/Proverbs-22-15.html) (NIV) says, "Folly is bound up in the heart of a child, but the rod of discipline will drive it far away." Tailoring discipline to individual children involves considering their specific needs and using methods that resonate with them.
+Each child is unique and may respond differently to various forms of discipline. It is important to understand your child's temperament, strengths, weaknesses, and learning style. [Proverbs 22:15](https://www.bibleref.com/Proverbs/22/Proverbs-22-15.html) (NIV) says, "Folly is bound up in the heart of a child, but the rod of discipline will drive it far away." Tailoring discipline to individual children involves considering [their specific needs](/scripture-on-prayer-and-supplication) and using methods that resonate with them.
 
 Observing your child's reactions and adjusting your approach accordingly can help ensure that discipline is effective and meaningful. This requires patience, discernment, and continuous communication with your child.
 

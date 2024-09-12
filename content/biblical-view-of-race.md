@@ -38,7 +38,7 @@ As Christians, we are called to be ambassadors of reconciliation ([2 Corinthians
 
 The Bible does not explicitly endorse any particular political or social ideology, including nationalism or globalism. However, it does provide principles that can guide our understanding of these issues.
 
-The Bible teaches that all believers are citizens of God's kingdom ([Philippians 3:20](https://www.bibleref.com/Philippians/3/Philippians-3-20.html)), and our ultimate allegiance is to Christ. While it is important to honor and respect our earthly citizenships, we should not prioritize any national identity over our identity as followers of Christ.
+The Bible teaches that all believers are citizens of God's kingdom ([Philippians 3:20](https://www.bibleref.com/Philippians/3/Philippians-3-20.html)), and [our ultimate allegiance](/political-and-economic-perspectives) is to Christ. While it is important to honor and respect our earthly citizenships, we should not prioritize any national identity over our identity as followers of Christ.
 
 At the same time, the Bible also emphasizes the importance of caring for our neighbors and being good stewards of the resources God has entrusted to us. This includes showing hospitality to foreigners and welcoming strangers ([Leviticus 19:34](https://www.bibleref.com/Leviticus/19/Leviticus-19-34.html); [Matthew 25:35](https://www.bibleref.com/Matthew/25/Matthew-25-35.html)). As Christians, we should seek to promote justice, peace, and compassion both within our own nations and globally.
 
@@ -46,7 +46,7 @@ At the same time, the Bible also emphasizes the importance of caring for our nei
 
 Christians should value and appreciate their own ethnic heritage as part of God's diverse creation. Each culture and ethnicity brings unique contributions to humanity's collective understanding of God and His purposes.
 
-However, it is important to remember that our primary identity as Christians is found in Christ. Our ethnic heritage should not be a source of division or superiority, but rather an opportunity to learn from and celebrate the richness of God's creation.
+However, it is important to remember that [our primary identity](/critiquing-racial-ideologies) as Christians is found in Christ. Our ethnic heritage should not be a source of division or superiority, but rather an opportunity to learn from and celebrate the richness of God's creation.
 
 ### <h3>6. What can we learn from the story of the Tower of Babel?</h3>
 
@@ -62,7 +62,7 @@ Christians should also examine their own hearts and actions, repenting of any pr
 
 ### <h3>8. How can Christians promote racial unity?</h3>
 
-Promoting racial unity requires intentional efforts towards understanding, empathy, and reconciliation. Here are some practical steps Christians can take:
+Promoting racial unity requires intentional efforts towards understanding, empathy, and reconciliation. Here are [some practical steps](/authority-and-obedience) Christians can take:
 
 1. Educate yourself: Learn about the history of racial injustice and listen to the experiences of marginalized communities.
 2. Engage in dialogue: Have meaningful conversations with people from different racial backgrounds, seeking to understand their perspectives.

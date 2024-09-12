@@ -58,7 +58,7 @@ When it comes to **Christian novels for tweens**, you might want to check out bo
 
 For **Christian books for 7 year olds** or **8 year olds**, you might want to consider titles like "The Berenstain Bears" series by Stan and Jan Berenstain or "The VeggieTales" books based on the popular animated series. These books offer simple yet impactful lessons about faith and values that are perfect for younger children.
 
-In [Matthew 19:14](https://www.bibleref.com/Matthew/19/Matthew-19-14.html), Jesus said, "Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these." Introducing young children to Christian books can help them grow in their understanding of God's love and teachings.
+In [Matthew 19:14](https://www.bibleref.com/Matthew/19/Matthew-19-14.html), Jesus said, "Let the little children come to me, and do not hinder them, for [the kingdom of](/christian-music-industry) heaven belongs to such as these." Introducing young children to Christian books can help them grow in their understanding of God's love and teachings.
 
 - Another popular series for young children is "The Jesus Storybook Bible" by Sally Lloyd-Jones, which presents the stories of the Bible in a way that highlights God's love and redemption throughout history.  can be a great introduction to the Bible for young readers.
 

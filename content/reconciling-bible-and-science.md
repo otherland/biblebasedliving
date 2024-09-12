@@ -14,7 +14,7 @@ Science and faith are often seen as opposing forces, but as Christians, we belie
 
 ## Question 1: How do we harmonize the accounts of creation in Genesis with scientific data?
 
-The book of Genesis provides an account of creation that is foundational to our understanding of God's work. While scientific discoveries may challenge certain interpretations, it is crucial to remember that scripture is [the ultimate authority](/policy-influence-christian). As Christians, we should approach science with humility and seek to understand how it aligns with the biblical narrative.
+[The book of](/where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers) Genesis provides an account of creation that is foundational to our understanding of God's work. While scientific discoveries may challenge certain interpretations, it is crucial to remember that scripture is [the ultimate authority](/policy-influence-christian). As Christians, we should approach science with humility and seek to understand how it aligns with the biblical narrative.
 
 [Genesis 1:1-2](https://www.bibleref.com/Genesis/1/Genesis-1-1.html) says, "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep." This verse affirms God as the creator of all things. While scientific theories such as the Big Bang may offer explanations for the formation of the universe, they do not negate the fact that God initiated and orchestrated this process.
 
@@ -42,7 +42,7 @@ As Christians, we value the supremacy and sufficiency of Scripture for guiding o
 
 [2 Timothy 3:16-17](https://www.bibleref.com/2-Timothy/3/2-Timothy-3-16.html) says, "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for [every good work](/spiritual-formation)." This verse emphasizes the authority and practical relevance of Scripture in our lives.
 
-While scientific discoveries may inform our understanding of the natural world, they should not supersede biblical teachings. We should approach scientific data with discernment, recognizing its limitations and the potential for conflicting interpretations. Ultimately, our commitment to biblical interpretation should guide our understanding of scientific findings.
+While scientific discoveries may inform our understanding of [the natural world](/scientific-research-creationism), they should not supersede biblical teachings. We should approach scientific data with discernment, recognizing its limitations and the potential for conflicting interpretations. Ultimately, our commitment to biblical interpretation should guide our understanding of scientific findings.
 
 ## Question 5: How can we maintain faith-friendly scientific explanations?
 
@@ -60,7 +60,7 @@ While engaging with scientific theories, we should also recognize the limitation
 
 Theistic evolution is a viewpoint that has gained traction in some Christian circles, including in the United Kingdom. However, it is important to approach this perspective with discernment and evaluate it against biblical teachings.
 
-In the UK context, Christians may encounter a cultural pressure to conform to secular worldviews. It is crucial to resist compromising essential Christian doctrines and to uphold the authority of Scripture in the face of cultural trends.
+In the UK context, Christians may encounter a cultural pressure to conform to secular worldviews. It is crucial to resist compromising [essential Christian doctrines](/critiquing-progressive-christian-authors) and to uphold the authority of Scripture in the face of cultural trends.
 
 [Romans 12:2](https://www.bibleref.com/Romans/12/Romans-12-2.html) says, "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." This verse reminds us of the importance of renewing our minds according to biblical truth and resisting societal pressures that may lead us astray.
 

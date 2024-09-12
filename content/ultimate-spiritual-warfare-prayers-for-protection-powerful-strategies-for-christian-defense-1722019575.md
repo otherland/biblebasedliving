@@ -24,7 +24,7 @@ When you are facing **spiritual attacks**, it is essential to arm yourself with 
 
 When engaging in **spiritual warfare**, it is crucial to put on the **armor of God** as mentioned in **[Ephesians 6:10-18](https://www.bibleref.com/Ephesians/6/Ephesians-6-10.html)**.  includes the belt of truth, the breastplate of righteousness, the shoes of [the gospel of](/ultimate-guide-best-order-to-read-the-bible-for-beginners) peace, the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the [word of God](/top-50-spiritual-weapons-for-warfare-a-biblical-guide-for-christian-warriors). **Pray** for **discernment** to recognize spiritual attacks and the **strength** to stand firm in **faith**. **Declare** the **victory** that is already yours through **Christ**.
 
-**Bible Verse:** [Ephesians 6:10-18](https://www.bibleref.com/Ephesians/6/Ephesians-6-10.html) - "Put on the full armor of God, so that you can take your stand against the devil's schemes."
+**Bible Verse:** [Ephesians 6:10-18](https://www.bibleref.com/Ephesians/6/Ephesians-6-10.html) - "Put on [the full armor](/exposing-cultural-subversion) of God, so that you can take your stand against the devil's schemes."
 
 - **Pray for protection**: In addition to putting on the armor of God, it is important to specifically pray for God's protection over your mind, heart, and spirit during spiritual warfare. Ask for a hedge of protection to surround you and your loved ones.
 

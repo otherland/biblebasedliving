@@ -87,7 +87,7 @@ Christians often encounter legal challenges that directly conflict with their co
 
 **Biblical Foundation**:
 - "Speak up for those who cannot speak for themselves; ensure justice for those being crushed." - [Proverbs 31:8](https://www.bibleref.com/Proverbs/31/Proverbs-31-8.html)
-- "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us." - [Romans 5:8](https://www.bibleref.com/Romans/5/Romans-5-8.html)
+- "But God demonstrates [his own love](/amazing-grace-lyrics) for us in this: While we were still sinners, Christ died for us." - [Romans 5:8](https://www.bibleref.com/Romans/5/Romans-5-8.html)
 
 **Conservative Christian Perspective**:
 - Christians should advocate for the sanctity of life and the biblical definition of marriage, engaging in legal battles to protect these values.

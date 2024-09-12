@@ -60,7 +60,7 @@ What sets a **Christian** apart is their **relationship** with **Jesus**. This p
 
 - **Following the teachings of Jesus**: Christians not only believe in Jesus as their Savior but also strive to live according to his teachings. This includes practicing love, forgiveness, and compassion towards others, as modeled by Jesus during his time on earth.
 
-- **Community and fellowship**: Being a Christian also involves being part of a community of believers who support and encourage each other in their faith. This sense of fellowship and belonging is an important aspect of Christian identity and helps individuals grow in their relationship with Jesus.
+- **Community and fellowship**: Being a Christian also involves being part of a community of believers who support and encourage each other in their faith. This sense of fellowship and belonging is [an important aspect](/modesty-and-dress) of Christian identity and helps individuals grow in their relationship with Jesus.
 
 ## [What makes someone a Christian](/ultimate-guide-understanding-the-true-meaning-of-being-a-christian)?
 

@@ -14,7 +14,7 @@ The intersection of biblical prophecy and science has long been a topic of inter
 
 ## 1. How does scientific evidence support biblical prophecies?
 
-Scientific evidence can provide valuable confirmation of the accuracy and reliability of biblical prophecies. While the primary purpose of prophecy is to reveal God's plans and purposes, scientific discoveries can serve as external evidence validating the truth of these prophetic words. For example, consider the prophecies in the book of Isaiah that describe the suffering and crucifixion of Jesus Christ. The fulfillment of these prophecies, as confirmed by historical records and eyewitness accounts, provides compelling evidence for the divine inspiration and accuracy of Scripture.
+Scientific evidence can provide valuable confirmation of the accuracy and reliability of biblical prophecies. While the primary purpose of prophecy is to reveal God's plans and purposes, scientific discoveries can serve as external evidence validating the truth of these prophetic words. For example, consider the prophecies in [the book of](/where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers) Isaiah that describe the suffering and crucifixion of Jesus Christ. The fulfillment of these prophecies, as confirmed by historical records and eyewitness accounts, provides compelling evidence for the divine inspiration and accuracy of Scripture.
 
 Biblical prophecy often includes specific details that go beyond general predictions. When these details are later confirmed by scientific discoveries, it lends credibility to the prophetic message. For instance, [Psalm 8:8](https://www.bibleref.com/Psalm/8/Psalm-8-8.html) mentions ocean currents, which were not fully understood until modern scientific study. Similarly, [Ecclesiastes 1:6](https://www.bibleref.com/Ecclesiastes/1/Ecclesiastes-1-6.html) accurately describes atmospheric circulation, a concept that was not known until much later in human history. These instances demonstrate how scientific discoveries can align with biblical prophecies, providing additional support for their accuracy.
 
@@ -78,7 +78,7 @@ Scientific discoveries can provide additional insights into the interpretation o
 
 When interpreting biblical prophecies in light of scientific discoveries, it is important to remember that scientific knowledge is constantly evolving and subject to revision. Therefore, we should be cautious about basing our interpretation solely on current scientific theories or findings.
 
-Instead, we should prioritize the supremacy of Scripture and allow its timeless truths to guide our understanding of prophecy. As new scientific discoveries emerge, we can evaluate them in light of biblical principles and adjust our interpretations accordingly, always seeking to align with the unchanging Word of God.
+Instead, we should prioritize the supremacy of Scripture and allow [its timeless truths](/critiquing-progressive-christian-authors) to guide our understanding of prophecy. As new scientific discoveries emerge, we can evaluate them in light of biblical principles and adjust our interpretations accordingly, always seeking to align with the unchanging Word of God.
 
 * **Biblical Foundation:** "The grass withers, the flower fades, but the word of our God will stand forever" ([Isaiah 40:8](https://www.bibleref.com/Isaiah/40/Isaiah-40-8.html) ESV).
 

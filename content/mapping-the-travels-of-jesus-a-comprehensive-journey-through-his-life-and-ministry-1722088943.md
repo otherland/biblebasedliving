@@ -40,7 +40,7 @@ In [John 4:3-4](https://www.bibleref.com/John/4/John-4-3.html), we learn that Je
 
 - Jesus's journey through Samaria also highlights his willingness to break societal norms and engage with those who were considered outsiders. This challenges us to rethink our own biases and prejudices, and to reach out to those who may be different from us.
 - The geographical path Jesus took from Judea to Galilee and Samaria serves as a reminder that God's love knows no boundaries and reaches all people, regardless of their background or circumstances.
-- By intentionally choosing to pass through Samaria, Jesus set an example for us to actively seek out opportunities to share the message of love and redemption with those who may be overlooked or marginalized in our own communities.
+- By intentionally choosing to pass through Samaria, Jesus set an example for us to actively seek out opportunities to share the message of love and redemption with those who may be overlooked or marginalized in [our own communities](/mission-and-ethnicity).
 
 ## What was the significance of the places where Jesus traveled?
 

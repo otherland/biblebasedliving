@@ -77,7 +77,7 @@ Faith plays a crucial role when it comes to receiving healing through prayer to 
 
 ### 1. Meditate on God's Word
 
-Spending time reading and meditating on God's Word strengthens our faith. [Romans 10:17](https://www.bibleref.com/Romans/10/Romans-10-17.html) says, "So faith comes from hearing, and hearing through the word of Christ." As you immerse yourself in Scripture, you will discover God's promises of healing and His faithfulness to fulfill them. Meditate on these verses, allowing them to build your faith and confidence in the Holy Spirit's ability to bring healing into your life.
+Spending time reading and meditating on God's Word strengthens our faith. [Romans 10:17](https://www.bibleref.com/Romans/10/Romans-10-17.html) says, "So faith comes from hearing, and hearing through [the word of](/top-50-spiritual-weapons-for-warfare-a-biblical-guide-for-christian-warriors) Christ." As you immerse yourself in Scripture, you will discover God's promises of healing and His faithfulness to fulfill them. Meditate on these verses, allowing them to build your faith and confidence in the Holy Spirit's ability to bring healing into your life.
 
 ### 2. Reflect on past testimonies of healing
 

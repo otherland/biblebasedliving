@@ -14,7 +14,7 @@ As Christians, it is important for us to understand the changing demographics of
 
 ## 1. Why is it important to maintain a Christian majority?
 
-The maintenance of a Christian majority is vital for several reasons. First and foremost, Christianity offers humanity [the only way](/christian-islamic-relations) to eternal salvation through faith in Jesus Christ ([John 14:6](https://www.bibleref.com/John/14/John-14-6.html)). As believers, it is our duty to share the gospel and make disciples of all nations ([Matthew 28:19-20](https://www.bibleref.com/Matthew/28/Matthew-28-19.html)). A Christian majority provides a favorable environment for the preaching of the gospel and the growth of the Kingdom of God.
+The maintenance of a Christian majority is vital for several reasons. First and foremost, Christianity offers humanity [the only way](/christian-islamic-relations) to eternal salvation through faith in Jesus Christ ([John 14:6](https://www.bibleref.com/John/14/John-14-6.html)). As believers, it is our duty to share the gospel and make disciples of all nations ([Matthew 28:19-20](https://www.bibleref.com/Matthew/28/Matthew-28-19.html)). A Christian majority provides a favorable environment for the preaching of the gospel and the growth of [the Kingdom of](/christian-music-industry) God.
 
 Additionally, a Christian majority has historically influenced society with biblical values, shaping laws and policies that uphold righteousness and justice. It promotes a moral framework that protects human dignity, defends life from conception to natural death, and supports traditional marriage and family. A Christian majority also fosters an environment that encourages the freedom to practice one's faith without persecution.
 

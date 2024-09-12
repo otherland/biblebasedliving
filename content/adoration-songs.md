@@ -18,7 +18,7 @@ In this article, we will explore the significance of adoration songs in Christia
 
 Adoration songs are a genre of Christian music specifically designed to express deep love, reverence, and worship towards God. These songs focus on the greatness, holiness, and beauty of God's character and invite believers to respond with adoration and praise. They are meant to inspire awe and wonder, drawing worshippers into a deeper connection with God.
 
-### The biblical foundation for adoration songs
+### [The biblical foundation](/preserving-traditional-marriage) for adoration songs
 
 Biblically speaking, adoration is [an essential aspect](/prayer-life) of our relationship with God. Throughout the Bible, we find countless examples of people expressing their adoration for the Lord. In [Psalm 95:6](https://www.bibleref.com/Psalm/95/Psalm-95-6.html), the psalmist says, "Come, let us bow down in worship, let us kneel before the Lord our Maker." This verse illustrates the act of worshiping God through physical postures as an expression of adoration.
 

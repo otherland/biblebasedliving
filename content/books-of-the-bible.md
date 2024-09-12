@@ -24,7 +24,7 @@ Understanding this structure provides a framework for [your Bible study](/unlock
 
 ## Where to Begin: Navigating the [Books of the Bible](/ultimate-guide-to-understanding-the-lords-prayer-printable-version)
 
-For those new to Bible study, deciding where to start can be overwhelming. [The best Bible book to start with](/the-best-bible-book-to-start-with-a-comprehensive-guide-for-christian-readers) often depends on your personal goals and interests. However, many recommend beginning with the Gospels in the New Testament, particularly the Book of John, as it provides a clear introduction to Jesus' life and teachings.
+For those new to Bible study, deciding where to start can be overwhelming. [The best Bible book to start with](/the-best-bible-book-to-start-with-a-comprehensive-guide-for-christian-readers) often depends on your personal goals and interests. However, many recommend beginning with the Gospels in the New Testament, particularly [the Book of](/where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers) John, as it provides a clear introduction to Jesus' life and teachings.
 
 When considering [the best order to read the Bible for beginners](/ultimate-guide-best-order-to-read-the-bible-for-beginners), keep these tips in mind:
 

@@ -27,7 +27,7 @@ Among the **fun Jesus facts** is the account of Jesus calming a storm while he w
 In [Luke 2:52](https://www.bibleref.com/Luke/2/Luke-2-52.html), it is mentioned that Jesus grew in wisdom and stature, indicating that he experienced a full range of human emotions and experiences during his time on earth. These **fun Jesus facts** humanize Jesus and make his teachings and actions relatable to us today.
 
 - Jesus is often depicted as a healer in the Bible, performing miracles such as restoring sight to the blind, healing the sick, and even raising the dead. These acts of compassion and love show his heart for those who are suffering and in need of help.
-- Jesus was known for his powerful teachings, often using parables to convey deep spiritual truths in a simple and understandable way. His words continue to inspire and challenge people of all ages and backgrounds.
+- Jesus was known for his powerful teachings, often using parables to convey [deep spiritual truths](/christian-aesthetics-philosophy) in a simple and understandable way. His words continue to inspire and challenge people of all ages and backgrounds.
 - One of [the most famous](/discovering-the-map-of-galilee-in-the-time-of-jesus-a-comprehensive-guide-for-christian-readers) events in Jesus' life is his crucifixion and resurrection, which Christians believe is the ultimate act of love and sacrifice for humanity.  event has shaped the beliefs and practices of millions of people around the world.
 
 ## What are some interesting things about Jesus?

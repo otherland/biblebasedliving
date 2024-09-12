@@ -75,7 +75,7 @@ Internet filtering software can block access to explicit content on all devices 
 Parental control features available on many devices and platforms allow you to restrict access to explicit content and set time limits for internet usage. By utilizing these controls, you can protect your children from accidental exposure to pornography.
 
 ### c. Media literacy education
-Educating yourself and your family about the harmful effects of pornography through media literacy programs can equip everyone with the knowledge and skills necessary to navigate the digital world responsibly.
+Educating yourself and your family about the harmful effects of pornography through media literacy programs can equip everyone with the knowledge and skills necessary to navigate [the digital world](/alternative-platforms) responsibly.
 
 By combining these technological solutions with open communication, biblical teaching, and intentional discipleship within the home, we can create an environment that fosters purity and guards against the dangers of pornography.
 

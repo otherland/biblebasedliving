@@ -18,7 +18,7 @@ As Christians, we are called to be in the world but not of it ([John 17:14-16](h
 
 ## 2. How can we create a Christian bubble without isolating our children?
 
-Creating a Christian bubble does not mean isolating our children from the world or depriving them of necessary experiences. Rather, it involves intentionally surrounding them with Christian influences that align with biblical values. This can be achieved by prioritizing their involvement in a local church community, providing Christian education or homeschooling, and carefully monitoring their media consumption.
+Creating a Christian bubble does not mean isolating our children from the world or depriving them of necessary experiences. Rather, it involves intentionally surrounding them with Christian influences that align with biblical values. This can be achieved by prioritizing their involvement in a [local church community](/christian-cultural-protectionism), providing Christian education or homeschooling, and carefully monitoring their media consumption.
 
 ## 3. What role does monitoring media consumption play in sheltering our children?
 

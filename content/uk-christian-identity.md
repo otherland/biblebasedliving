@@ -60,7 +60,7 @@ Source material: Christians can navigate their identity in a secular society by 
 
 The decline of Christian identity has significant implications for society as a whole. Christianity has played a foundational role in shaping Western civilization, influencing laws, ethics, and social norms. With the decline of Christian values, society risks losing the moral compass that has guided it for centuries.
 
-One consequence of this decline is the erosion of traditional family values. [The biblical view](/challenging-feminism) of marriage and family as a sacred institution is increasingly challenged, leading to the breakdown of the family unit and its vital role in nurturing future generations.
+One consequence of this decline is the erosion of [traditional family values](/countering-feminist-ideology). [The biblical view](/challenging-feminism) of marriage and family as a sacred institution is increasingly challenged, leading to the breakdown of the family unit and its vital role in nurturing future generations.
 
 Additionally, the decline of Christian identity can lead to a loss of moral absolutes and an increase in relativism. Without a firm foundation in God's Word, individuals may be more susceptible to subjective morality and the belief that truth is relative to personal preferences.
 

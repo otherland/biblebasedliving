@@ -86,7 +86,7 @@ The final verse speaks of the hope believers have in Christ beyond this earthly 
 
 ## How does Amazing Grace relate to [the Christian faith](/songs-about-prayer)?
 
-Amazing Grace holds significant meaning within the Christian faith. It encapsulates the core message of Christianity – the redemptive work of Jesus Christ and the transforming power of God's grace.
+Amazing Grace holds significant meaning within the Christian faith. It encapsulates the core message of Christianity – the redemptive work of Jesus Christ and [the transforming power](/sheltering-from-worldly-influence) of God's grace.
 
 **1. Salvation by Grace**
 

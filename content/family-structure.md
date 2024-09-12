@@ -8,7 +8,7 @@ Tags: Father-led Christian households, Biblical submission in marriage, Raising 
 Title: 'Faith-Filled Family Structure: Building a Strong Foundation in Christ'
 ---
 
-# The Biblical Perspective on Family Structure
+# [The Biblical Perspective](/critiquing-feminist-theology) on Family Structure
 
 Family structure is a topic of great importance in the Christian faith. As followers of Christ, it is essential that we understand and adhere to biblical principles when it comes to our families. In this article, we will explore [eight key questions](/identifying-marxist-influence) about family structure from a staunchly conservative, biblical perspective.
 
@@ -54,7 +54,7 @@ While there are various family structures in the world today, the biblical model
 
 ## 7. How does the Christian faith address non-traditional family structures?
 
-The Christian faith teaches us to love and respect all individuals, regardless of their family structure. However, it is important to recognize that non-traditional family structures such as single-parent households or same-sex families do not align with [the biblical model](/covenant-marriage-promotion) of family.
+[The Christian faith](/resisting-secular-influence) teaches us to love and respect all individuals, regardless of their family structure. However, it is important to recognize that non-traditional family structures such as single-parent households or same-sex families do not align with [the biblical model](/covenant-marriage-promotion) of family.
 
 While we should show compassion and support to those in non-[traditional family structures](/identifying-marxist-influence), we must also uphold biblical principles and advocate for God's design for the family. This includes encouraging individuals to seek God's guidance and healing in their lives and relationships.
 

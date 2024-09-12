@@ -8,7 +8,7 @@ Tags: Daily family Bible study, Child evangelism techniques, Scripture memorizat
 Title: 'Transform Your Faith: 5 Powerful Practices for Spiritual Formation'
 ---
 
-# Spiritual Formation: A Conservative Christian Perspective
+# Spiritual Formation: A [Conservative Christian Perspective](/curriculum-integration)
 
 ## What is spiritual formation?
 
@@ -75,13 +75,13 @@ Developing a child's prayer life involves teaching them how to pray, modeling pr
 - [Deuteronomy 6:6-7](https://www.bibleref.com/Deuteronomy/6/Deuteronomy-6-6.html) (ESV) - "And these words that I command you today shall be on your heart. You shall teach them diligently to your children..."
 - [Proverbs 22:6](https://www.bibleref.com/Proverbs/22/Proverbs-22-6.html) (ESV) - "Train up a child in the way he should go; even when he is old he will not depart from it."
 
-## How does spiritual formation impact our daily lives?
+## How does spiritual formation impact [our daily lives](/adoration-songs)?
 
 Spiritual formation impacts every aspect of our lives. As we grow in our relationship with God and become more like Christ, our thoughts, attitudes, behaviors, and relationships are transformed. We begin to see the world through the lens of Scripture and make decisions based on biblical principles.
 
 Spiritual formation also affects our interactions with others. As we cultivate the fruit of the Spirit in our lives (love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control), we become a source of blessing and encouragement to those around us. Our character and actions reflect the nature of Christ and His love for the world.
 
-In practical terms, spiritual formation means aligning our priorities with God's priorities, seeking His guidance in decision-making, and living out our faith in all areas of life – at home, at work, in our relationships, and in our involvement in the community. It means continually surrendering ourselves to the work of the Holy Spirit and allowing Him to transform us from the inside out.
+In practical terms, spiritual formation means aligning our priorities with God's priorities, seeking His guidance in decision-making, and living out our faith in all areas of life – at home, at work, in our relationships, and in our involvement in the community. It means continually surrendering ourselves to the [work of the Holy Spirit](/understanding-the-difference-between-holy-ghost-and-holy-spirit-a-comprehensive-guide-for-christians) and allowing Him to transform us from the inside out.
 
 **Biblical Foundation:**
 - [Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html) (ESV) - "And whatever you do, in word or deed, do everything in the name of [the Lord Jesus](/christian-symbols-in-public-spaces)..."

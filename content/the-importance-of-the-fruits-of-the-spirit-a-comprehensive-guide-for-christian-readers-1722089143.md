@@ -58,7 +58,7 @@ Description: The fruits of the spirit refer to a set of nine attributes that Chr
 
 *[John 15:8](https://www.bibleref.com/John/15/John-15-8.html) (NIV) - "This is to my Father's glory, that you bear much fruit, showing yourselves to be my disciples."*
 
-- Bearing spiritual fruit can lead to a ripple effect, inspiring others to also cultivate good qualities in their own lives. When others see the positive impact of spiritual fruit in your life, they may be encouraged to seek similar virtues for themselves.
+- Bearing spiritual fruit can lead to a ripple effect, inspiring others to also cultivate good qualities in [their own lives](/uncovering-the-divine-journey-of-jesus-exploring-the-life-of-christ). When others see the positive impact of spiritual fruit in your life, they may be encouraged to seek similar virtues for themselves.
 
 - The blessings of bearing spiritual fruit can manifest in various aspects of life, such as improved mental and emotional well-being, healthier relationships, and a sense of fulfillment and purpose. These blessings not only benefit the individual but also contribute to a more positive and harmonious community.
 

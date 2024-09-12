@@ -10,7 +10,7 @@ Title: 'Challenging Genetic Evidence: Unveiling the Truth in Christian Perspecti
 
 # Genetic Evidence Challenges in Light of a Christian Perspective
 
-Genetic evidence has become a significant area of study in various fields, including medicine, biology, and anthropology. However, as Christians, we must approach this topic with discernment and a biblical worldview. In this article, we will explore some key questions regarding genetic evidence and provide thoughtful, biblically-grounded responses that uphold [traditional Christian values](/reviving-christian-customs) and beliefs.
+Genetic evidence has become a significant area of study in various fields, including medicine, biology, and anthropology. However, as Christians, we must approach this topic with discernment and a biblical worldview. In this article, we will explore [some key questions](/biblical-view-of-race) regarding genetic evidence and provide thoughtful, biblically-grounded responses that uphold [traditional Christian values](/reviving-christian-customs) and beliefs.
 
 ## Question 1: How does genetic evidence challenge the Christian belief in the uniqueness and value of each human life?
 
@@ -46,7 +46,7 @@ Genetic evidence is often cited as support for the theory of common descent, whi
 
 As Christians, we believe in the special creation of distinct kinds by God. Genesis 1 clearly outlines God's creative acts, emphasizing the separation between different forms of life. While genetic similarities between species exist, they can be attributed to functional or design-based explanations rather than common descent.
 
-It is crucial to evaluate scientific theories in light of Scripture and maintain a critical stance towards secular ideologies that seek to undermine [the biblical account](/teacher-training) of creation. While genetic evidence may challenge the concept of common descent, it does not invalidate the biblical narrative of creation.
+It is crucial to evaluate scientific theories in light of Scripture and maintain a critical stance towards secular ideologies that seek to undermine [the biblical account](/teacher-training) of creation. While genetic evidence may challenge the concept of common descent, it does not invalidate [the biblical narrative](/unraveling-the-mystery-jesus-lost-years-and-biblical-journeys) of creation.
 
 ## Question 5: How can Christians engage with genetic evidence without compromising their faith?
 

@@ -35,7 +35,7 @@ While caring for those in need is a biblical mandate, the welfare state can have
 
 ### 3. Free Market Capitalism: A Christian Defense
 
-Free market capitalism aligns with biblical principles of individual liberty, personal responsibility, and voluntary exchange. It recognizes the inherent dignity and worth of individuals and allows for the flourishing of entrepreneurial spirit. However, it must be tempered by moral and ethical considerations to prevent exploitation and promote justice.
+Free market capitalism aligns with biblical principles of individual liberty, personal responsibility, and voluntary exchange. It recognizes [the inherent dignity](/challenging-diversity-initiatives) and worth of individuals and allows for the flourishing of entrepreneurial spirit. However, it must be tempered by moral and ethical considerations to prevent exploitation and promote justice.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a0Tk7vNSTp8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -101,7 +101,7 @@ The Bible recognizes the role of government in maintaining order, promoting just
 
 ### 8. Christian Responsibility in Political and Economic Matters
 
-As Christians, we have a responsibility to engage in political and economic affairs with integrity, wisdom, and humility. We should seek to be salt and light in the world, advocating for biblical values and promoting the common good. Our ultimate allegiance is to Christ, and our actions should reflect His love and grace.
+As Christians, we have a responsibility to engage in political and economic affairs with integrity, wisdom, and humility. We should seek to be salt and light in the world, advocating for biblical values and promoting [the common good](/the-ultimate-guide-to-the-holy-spirit-your-helper-teacher-and-guide). [Our ultimate allegiance](/biblical-view-of-race) is to Christ, and our actions should reflect His love and grace.
 
 *[Matthew 5:13-16](https://www.bibleref.com/Matthew/5/Matthew-5-13.html) (ESV)*
 "You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet.

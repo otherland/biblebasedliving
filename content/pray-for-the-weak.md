@@ -20,7 +20,7 @@ Praying for the weak also fosters unity within the body of Christ. It reminds us
 
 ## **2. [How can prayer](/prayer-of-hopelessness) provide strength to the weak?**
 
-Prayer provides a direct line of communication with God, allowing us to express our concerns, fears, and weaknesses. When we bring our vulnerabilities before Him in prayer, we open ourselves up to receive His strength and grace. The Lord promises to be near to the brokenhearted and save those who are crushed in spirit ([Psalm 34:18](https://www.bibleref.com/Psalm/34/Psalm-34-18.html)). Through prayer, we invite God's presence into our lives, finding comfort and strength in His unfailing love.
+Prayer provides a direct line of communication with God, allowing us to express our concerns, fears, and weaknesses. When we bring our vulnerabilities before Him in prayer, we open ourselves up to receive His strength and grace. The Lord promises to be near to the brokenhearted and save those who are crushed in spirit ([Psalm 34:18](https://www.bibleref.com/Psalm/34/Psalm-34-18.html)). Through prayer, we invite God's presence into our lives, finding comfort and strength in [His unfailing love](/discover-the-shortest-chapter-in-the-bible-a-hidden-gem-for-christian-readers).
 
 Prayer also helps us shift our perspective from our own limitations to God's limitless power. When we acknowledge our weaknesses and surrender them to God, we allow Him to work in and through us ([2 Corinthians 12:9](https://www.bibleref.com/2-Corinthians/12/2-Corinthians-12-9.html)). Through prayer, we access the divine strength that surpasses our human limitations, empowering us to face challenges with courage and resilience.
 

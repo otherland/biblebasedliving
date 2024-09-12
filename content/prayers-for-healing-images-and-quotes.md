@@ -118,7 +118,7 @@ While these saints are associated with prayers for healing, it is important to r
 
 Sharing prayers for healing images and quotes with others can provide comfort, encouragement, and a tangible reminder of God's love during times of difficulty. Here are a few ways to share these resources:
 
-1. **Social Media:** Post an image or quote on your social media platforms along with a heartfelt message of encouragement. Invite others to join you in praying for healing or offer to pray specifically for those who comment or reach out.
+1. **Social Media:** Post an image or quote on your [social media platforms](/alternative-platforms) along with a heartfelt message of encouragement. Invite others to join you in praying for healing or offer to pray specifically for those who comment or reach out.
 
 2. **Personal Messages:** Send a personalized message to someone in need, including a relevant image or quote that resonates with their situation. Let them know you are thinking of them and offer words of comfort and support.
 
@@ -134,7 +134,7 @@ By sharing prayers for healing images and quotes with others, we participate in 
 
 ## Are there any practical steps we can take to strengthen our faith as we engage in prayers for healing?
 
-Engaging in prayers for healing is not just about reciting words but also about nurturing and strengthening our faith. Here are some practical steps to deepen your faith during times of prayer for healing:
+Engaging in prayers for healing is not just about reciting words but also about nurturing and strengthening our faith. Here are [some practical steps](/authority-and-obedience) to deepen your faith during times of prayer for healing:
 
 1. **Study Scripture:** Immerse yourself in God's Word. Study passages that speak about healing, God's faithfulness, and His promises. Meditate on these verses, allowing them to shape your understanding of God's character and His desire to bring healing.
 

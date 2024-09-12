@@ -30,7 +30,7 @@ There is significant debate regarding the effectiveness of conversion therapy. W
 
 ### Biblical Perspective:
 
-As Christians, we believe that true transformation comes through a personal relationship with Jesus Christ. The Bible teaches that when we surrender our lives to Him, He begins a process of sanctification, transforming us from the inside out. While conversion therapy may have limited success stories, our ultimate hope for transformation rests in the power of the Gospel and the work of the Holy Spirit.
+As Christians, we believe that true transformation comes through a personal relationship with Jesus Christ. The Bible teaches that when we surrender our lives to Him, He begins a process of sanctification, transforming us from the inside out. While conversion therapy may have limited success stories, our ultimate hope for transformation rests in the power of the Gospel and the work of [the Holy Spirit](/uk-christian-identity).
 
 [Romans 12:2](https://www.bibleref.com/Romans/12/Romans-12-2.html) exhorts believers, "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." This transformation occurs through the renewing of our minds according to God's Word, not through external interventions.
 

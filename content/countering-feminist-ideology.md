@@ -21,7 +21,7 @@ Radical feminism often rejects the concept of biblical submission, viewing it as
 ## 2. How does the Bible expose the anti-family agenda of feminism?
 Feminism, particularly in its radical form, has been criticized for promoting an anti-family agenda that devalues traditional family structures. The Bible places great importance on the family as the foundation of society ([Psalm 127:3-5](https://www.bibleref.com/Psalm/127/Psalm-127-3.html)). It affirms marriage between one man and one woman as the ideal context for procreation and raising children ([Genesis 2:24](https://www.bibleref.com/Genesis/2/Genesis-2-24.html)).
 
-Feminism often promotes individualism and personal fulfillment at the expense of family commitments. While personal fulfillment is important, it should not overshadow the biblical call to sacrificial love and commitment within marriage and family relationships ([Ephesians 5:25](https://www.bibleref.com/Ephesians/5/Ephesians-5-25.html)). The anti-family agenda of feminism is at odds with the biblical model of a strong, loving, and nurturing family unit.
+Feminism often promotes individualism and personal fulfillment at the expense of family commitments. While personal fulfillment is important, it should not overshadow the biblical call to sacrificial love and commitment within marriage and family relationships ([Ephesians 5:25](https://www.bibleref.com/Ephesians/5/Ephesians-5-25.html)). The anti-family agenda of feminism is at odds with [the biblical model](/biblical-marriage-hierarchy) of a strong, loving, and nurturing family unit.
 
 ## 3. How does the Bible provide a biblical response to the Me Too movement?
 The Me Too movement has shed light on the prevalence of sexual harassment and assault, particularly against women. While it is crucial to address these issues and support survivors, the Bible offers a unique perspective on justice and healing that goes beyond the scope of secular movements.
@@ -42,7 +42,7 @@ Feminism often perpetuates myths about Christianity that portray it as oppressiv
 
 One common myth is that Christianity promotes gender inequality. In reality, the Bible affirms the equal value and worth of men and women as bearers of God's image ([Galatians 3:28](https://www.bibleref.com/Galatians/3/Galatians-3-28.html)). Another myth is that Christianity restricts women's roles and opportunities. However, the Bible provides examples of women who played significant roles in God's plan and were commended for their faithfulness and leadership (e.g., Deborah, Esther, Lydia).
 
-By debunking these myths and highlighting [the biblical perspective](/restricting-divorce-grounds) on gender equality, Christians can challenge feminist misconceptions about Christianity.
+By debunking these myths and highlighting [the biblical perspective](/restricting-divorce-grounds) on gender equality, Christians can challenge feminist [misconceptions about Christianity](/debunking-5-common-myths-about-christianity).
 
 ## 6. How does the Bible affirm the importance of traditional family values?
 [Traditional family values](/uk-christian-identity), which emphasize marriage between one man and one woman, are often criticized or dismissed by feminists. However, the Bible consistently upholds the importance of traditional family structures as the foundation for a healthy society.
@@ -61,7 +61,7 @@ By embracing the complementarity of men and women, Christians uphold God's desig
 ## 8. How can Christians promote biblical gender roles in a culture that rejects them?
 In a culture that increasingly rejects traditional gender roles, Christians face the challenge of promoting biblical principles while being faithful to God's Word. To do so effectively, we must first understand and embrace the biblical teachings on gender roles.
 
-Christians can promote biblical gender roles by living out these principles in their own lives, marriages, and families. By exemplifying godly masculinity and femininity, we can counter cultural narratives that devalue or dismiss traditional gender roles.
+Christians can promote biblical gender roles by living out these principles in [their own lives](/uncovering-the-divine-journey-of-jesus-exploring-the-life-of-christ), marriages, and families. By exemplifying godly masculinity and femininity, we can counter cultural narratives that devalue or dismiss traditional gender roles.
 
 Additionally, teaching and mentoring opportunities within churches provide platforms for equipping individuals with a biblical understanding of gender roles. By providing solid biblical teaching, Christians can equip men and women to embrace their God-given roles with joy, confidence, and purpose.
 

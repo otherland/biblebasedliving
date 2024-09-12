@@ -92,7 +92,7 @@ Despite their differences, **Baptist** and **non-denominational** churches share
 
 While **Baptist** and **non-denominational** churches may have distinct practices and traditions, they are part of the larger body of Christ, with a shared commitment to living out the teachings of Jesus and making disciples of all nations. Both groups seek to glorify God in all that they do and to fulfill [the Great Commission](/exploring-the-sacred-sites-of-bethany-and-jerusalem-a-christian-pilgrimage-guide) of spreading [the good news](/mapping-the-travels-of-jesus-a-comprehensive-journey-through-his-life-and-ministry) of salvation to the ends of the earth.
 
-**Bible Verse:** "For just as each of us has one body with many members, and these members do not all have the same function, so in Christ we, though many, form one body, and each member belongs to all the others." - [Romans 12:4-5](https://www.bibleref.com/Romans/12/Romans-12-4.html)
+**Bible Verse:** "For just as each of us has one body with many members, and these members do not all have the same function, so in Christ we, though many, form one body, and each member belongs to [all the others](/christian-cultural-institutions)." - [Romans 12:4-5](https://www.bibleref.com/Romans/12/Romans-12-4.html)
 
 - Both Baptist and non-denominational churches prioritize community outreach and social justice initiatives, seeking to address the needs of the marginalized and vulnerable in society.
 

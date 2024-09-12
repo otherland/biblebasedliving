@@ -36,7 +36,7 @@ The word "Christian" appears three times in the **Bible**, specifically in **[Ac
 
 Although the word "Christian" is limited in its occurrence, its significance lies in the commitment and devotion it signifies. In **[1 Peter 4:16](https://www.bibleref.com/1-Peter/4/1-Peter-4-16.html)**, the verse mentions suffering as a **Christian**, underscoring the idea that being a **Christian** involves a willingness to endure challenges and persecution for **Christ**'s sake.
 
-- The term "Christian" was originally used as a derogatory label for followers of Jesus Christ in the early days of the faith. It eventually became embraced by believers as a badge of honor and identity.
+- The term "Christian" was originally used as a derogatory label for followers of Jesus Christ in [the early days](/christian-cultural-institutions) of the faith. It eventually became embraced by believers as a badge of honor and identity.
 
 - While the word "Christian" may not be explicitly used in every book of the Bible, the principles and teachings of Christianity are woven throughout the entire text. The essence of being a Christian is rooted in love, forgiveness, and faith in Jesus Christ.
 

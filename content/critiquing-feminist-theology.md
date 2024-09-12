@@ -14,7 +14,7 @@ Title: 'Unveiling Truths: Critiquing Feminist Theology in Christian Perspective'
 
 Feminist theology has gained significant traction in recent decades, challenging traditional Christian teachings on gender roles and the interpretation of Scripture. As Christians who hold a conservative, biblically-grounded perspective, it is crucial to critically examine feminist theology in light of God's Word. In this article, we will address key questions about feminist theology and provide a thorough biblical critique.
 
-## 1. What is the biblical foundation for gender roles?
+## 1. What is [the biblical foundation](/adoration-songs) for gender roles?
 
 The Bible teaches that God created [male and female](/gender-distinct-parenting) in His image ([Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html)) and assigned them distinct but complementary roles within the family and the church. While both genders are equal in value and worth, they have different responsibilities. The apostle Paul affirms this in [Ephesians 5:22-33](https://www.bibleref.com/Ephesians/5/Ephesians-5-22.html), where he instructs wives to submit to their husbands and husbands to love their wives sacrificially. This passage reveals the beauty of God's design for marriage, with the husband as the loving leader and the wife as the respectful helper.
 
@@ -44,7 +44,7 @@ Christian feminist theology can give rise to various heresies when it deviates f
 
 ## 7. How can conservative women engage with feminist theology?
 
-Conservative women can engage with feminist theology by critically examining its teachings in light of Scripture. It is essential to approach this dialogue with a firm commitment to biblical truth and a willingness to challenge unbiblical assumptions. By engaging in respectful conversations, conservative women can articulate the biblical perspective on gender roles and the authority of Scripture. They can also affirm women's worth and value as equal image-bearers of God while upholding the unique roles assigned by God.
+Conservative women can engage with feminist theology by critically examining its teachings in light of Scripture. It is essential to approach this dialogue with a firm commitment to biblical truth and a willingness to challenge unbiblical assumptions. By engaging in respectful conversations, conservative women can articulate [the biblical perspective](/family-structure) on gender roles and the authority of Scripture. They can also affirm women's worth and value as equal image-bearers of God while upholding the unique roles assigned by God.
 
 ## 8. How can the church address the challenges posed by feminist theology?
 

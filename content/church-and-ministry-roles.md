@@ -26,7 +26,7 @@ Furthermore, when Paul gives instructions for orderly worship in [1 Corinthians 
 
 While women are valued members of the church with important roles to play, Scripture reserves the position of elder and the authoritative teaching of doctrine for qualified men. This is not a reflection of women's abilities or intelligence, but rather a reflection of God's design for leadership within the church.
 
-## 3. What is the biblical basis for a complementarian church structure in the UK?
+## 3. What is [the biblical basis](/mens-ministry) for a complementarian church structure in the UK?
 
 The biblical basis for a complementarian church structure in the UK is rooted in the teachings of Scripture regarding gender roles and relationships. In [Ephesians 5:22-33](https://www.bibleref.com/Ephesians/5/Ephesians-5-22.html), Paul instructs husbands to love their wives sacrificially, just as Christ loved the church. This passage emphasizes the unique roles and responsibilities of husbands and wives within marriage.
 
@@ -96,4 +96,4 @@ Cultivating unity and harmony within the congregation is a vital task for church
 
 By actively cultivating unity and harmony within the congregation, church leaders can create a healthy and vibrant community where individuals feel valued, supported, and equipped to fulfill their God-given purposes.
 
-In conclusion, understanding church and ministry roles from a conservative biblical perspective is crucial for the health and growth of the church. By adhering to biblical principles and upholding [traditional Christian values](/reviving-christian-customs), church leaders can effectively guide the congregation toward spiritual maturity, promote unity, address cultural challenges, and create a thriving Christian community.
+In conclusion, understanding church and ministry roles from a [conservative biblical perspective](/critiquing-progressive-christian-authors) is crucial for the health and growth of the church. By adhering to biblical principles and upholding [traditional Christian values](/reviving-christian-customs), church leaders can effectively guide the congregation toward spiritual maturity, promote unity, address cultural challenges, and create a thriving Christian community.

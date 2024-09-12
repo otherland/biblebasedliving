@@ -24,7 +24,7 @@ Furthermore, embracing gender fluidity can lead to confusion and instability in 
 
 Christian parents play a vital role in protecting their children from gender indoctrination. This can be achieved through intentional parenting and creating an environment grounded in biblical truth.
 
-Firstly, parents should teach their children about God's design for gender from an early age. They can do this by reading and discussing relevant Bible passages, such as [Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html) and [Matthew 19:4](https://www.bibleref.com/Matthew/19/Matthew-19-4.html), which affirm the binary nature of gender.
+Firstly, parents should teach their children about God's design for gender from [an early age](/christian-television-programming). They can do this by reading and discussing relevant Bible passages, such as [Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html) and [Matthew 19:4](https://www.bibleref.com/Matthew/19/Matthew-19-4.html), which affirm the binary nature of gender.
 
 Secondly, Christian parents should be discerning about the media and educational materials their children are exposed to. Many schools and media outlets promote gender ideology that contradicts biblical truth. By carefully choosing what their children consume, parents can shield them from harmful influences and provide alternative resources that align with a biblical worldview.
 
@@ -102,7 +102,7 @@ Secondly, pray for individuals dealing with gender dysphoria. Pray for God's gui
 
 Thirdly, encourage individuals to seek biblical counseling or professional help from therapists who uphold a conservative Christian worldview. These counselors can provide guidance and support rooted in biblical truth while addressing the emotional and psychological aspects of gender dysphoria.
 
-Lastly, be a source of love and acceptance. Show individuals struggling with gender dysphoria that they are valued and cherished by God and by the Christian community. Demonstrate Christ's love through your actions and words, treating them with kindness, respect, and dignity.
+Lastly, be a source of love and acceptance. Show individuals struggling with gender dysphoria that they are valued and cherished by God and by [the Christian community](/divorced-persons-church-status). Demonstrate Christ's love through your actions and words, treating them with kindness, respect, and dignity.
 
 > Source Material:
 >
@@ -116,7 +116,7 @@ Firstly, anchor our beliefs in the authority of Scripture. The Bible is our ulti
 
 Secondly, engage in respectful dialogue with those who hold differing views. Present biblical truths with love and grace, seeking to understand their perspectives while firmly articulating [our own beliefs](/exploring-faith-from-biblical-differences-to-personal-growth). Remember that our goal is not to win arguments but to lead others closer to Christ.
 
-Thirdly, support and participate in organizations that promote biblical values and provide resources on gender and identity from a conservative Christian perspective. By standing together as a community, we can have a greater impact in resisting the pressure to affirm transgender ideology.
+Thirdly, support and participate in organizations that promote biblical values and provide resources on gender and identity from a [conservative Christian perspective](/legal-challenges). By standing together as a community, we can have a greater impact in resisting the pressure to affirm transgender ideology.
 
 Lastly, pray for wisdom and discernment. Ask God to guide you in your interactions with others and to give you the words to speak when defending biblical truth. Trust in His strength and rely on His Spirit to empower you in your witness.
 

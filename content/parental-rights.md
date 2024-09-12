@@ -12,7 +12,7 @@ Title: 'Divine Guidance: 6 Essential Insights on Christian Parental Rights'
 
 In today's society, the concept of parental rights is being challenged and undermined, with government actors and agencies increasingly encroaching on the decisions parents make for their children. As conservative Christians, it is vital to understand the biblical foundation of parental rights and how it relates to our responsibility as parents to guide the upbringing and education of our children. In this article, we will address [eight key questions](/legal-challenges) regarding parental rights from a staunchly conservative, biblical perspective.
 
-## 1. What is the biblical basis for parental rights?
+## 1. What is [the biblical basis](/church-and-ministry-roles) for parental rights?
 
 As Christians, we believe that parental rights are rooted in [the biblical principle](/scientific-freedom-advocacy) of stewardship. God has entrusted parents with the responsibility to raise and nurture their children according to His Word. In [Ephesians 6:4](https://www.bibleref.com/Ephesians/6/Ephesians-6-4.html), the apostle Paul instructs fathers (and by extension, parents) to bring up their children in the discipline and instruction of the Lord. This verse emphasizes the importance of parents being actively involved in shaping the spiritual, moral, and intellectual development of their children.
 
@@ -30,7 +30,7 @@ As Christian parents, we may face objections to teaching evolution in schools or
 
 First, we must recognize that creationism is consistent with [the biblical account](/teacher-training) of creation in Genesis. As Christians, we believe that God created the heavens and the earth and that human beings were uniquely created in His image ([Genesis 1:1](https://www.bibleref.com/Genesis/1/Genesis-1-1.html), 26-27). Therefore, parents have the right to request alternative approaches to science education that align with their faith, such as teaching creationism alongside evolution or opting for faith-based curriculum options.
 
-However, it is also important to teach our children critical thinking skills and equip them to engage with differing viewpoints. We can use these opportunities to help them understand the scientific evidence for creationism and respectfully engage in discussions about evolution from a biblical perspective.
+However, it is also important to teach our children [critical thinking skills](/exposing-cultural-subversion) and equip them to engage with differing viewpoints. We can use these opportunities to help them understand the scientific evidence for creationism and respectfully engage in discussions about evolution from a biblical perspective.
 
 ## 4. What are the parental rights regarding homeschooling?
 
@@ -74,7 +74,7 @@ Prayer is also a powerful tool for Christian parents. We should seek God's wisdo
 
 Teaching our children about their parental rights is [an essential part](/prayer-request-ideas) of their education and spiritual development. We can start by explaining to them [the biblical foundation](/adoration-songs) for parental rights and the responsibility entrusted to us by God.
 
-In [Deuteronomy 4:9](https://www.bibleref.com/Deuteronomy/4/Deuteronomy-4-9.html), Moses instructs the Israelites to teach their children diligently about God's commandments, emphasizing the importance of passing down knowledge and values from one generation to another. Similarly, [Psalm 78:4](https://www.bibleref.com/Psalm/78/Psalm-78-4.html) urges parents to tell the next generation about the praiseworthy deeds of the Lord.
+In [Deuteronomy 4:9](https://www.bibleref.com/Deuteronomy/4/Deuteronomy-4-9.html), Moses instructs the Israelites to teach their children diligently about God's commandments, emphasizing the importance of passing down knowledge and values from one generation to another. Similarly, [Psalm 78:4](https://www.bibleref.com/Psalm/78/Psalm-78-4.html) urges parents to tell [the next generation](/biblical-womanhood) about the praiseworthy deeds of the Lord.
 
 Through age-appropriate conversations, we can help our children understand their rights within the family structure and society. We can teach them about their responsibility to honor and obey their parents while also encouraging critical thinking skills and providing guidance on how to navigate conflicts or challenges they may face regarding their faith or values.
 

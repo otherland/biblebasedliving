@@ -72,7 +72,7 @@ Writing prayers is a personal and intimate journey with God. While there are no 
 
 8. **Be Persistent**: Develop a consistent prayer writing habit. Set aside a specific time each day or week to write your prayers. Consistency builds discipline and deepens your relationship with God.
 
-Remember, prayer is not about eloquence or the number of words you use but rather about the sincerity of your heart and your desire to connect with God. As you embark on this journey of prayer writing, may you experience the transformative power of communing with the Creator of the universe.
+Remember, prayer is not about eloquence or the number of words you use but rather about the sincerity of your heart and your desire to connect with God. As you embark on this journey of prayer writing, may you experience [the transformative power](/critiquing-racial-ideologies) of communing with the Creator of the universe.
 
 > "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God." ([Philippians 4:6](https://www.bibleref.com/Philippians/4/Philippians-4-6.html) ESV)
 

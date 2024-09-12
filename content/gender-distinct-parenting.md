@@ -88,7 +88,7 @@ Gender-specific rites of passage provide significant opportunities for Christian
 3. Coming of age: Celebrate milestones such as a child's 13th birthday or high school graduation with a time of reflection, prayer, and imparting wisdom. This allows parents to affirm their child's growth and provide guidance as they step into greater responsibilities.
 
 **Biblical Foundation:** 
-- "Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might. And these words that I command you today shall be on your heart." ([Deuteronomy 6:4-6](https://www.bibleref.com/Deuteronomy/6/Deuteronomy-6-4.html) ESV)
+- "Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with [all your heart](/promoting-christian-monoculture) and with all your soul and with all your might. And these words that I command you today shall be on your heart." ([Deuteronomy 6:4-6](https://www.bibleref.com/Deuteronomy/6/Deuteronomy-6-4.html) ESV)
 - "So teach us to number our days that we may get a heart of wisdom." ([Psalm 90:12](https://www.bibleref.com/Psalm/90/Psalm-90-12.html) ESV)
 
 (Source: UNICEF)
@@ -99,7 +99,7 @@ Gender-specific rites of passage provide significant opportunities for Christian
 
 ## 6. How does gender-distinct parenting align with biblical gender roles in marriage?
 
-Gender-distinct parenting aligns with biblical gender roles in marriage by recognizing and embracing the complementary roles of husbands and wives as described in Scripture. In marriage, parents can:
+Gender-distinct parenting aligns with [biblical gender roles](/countering-feminist-ideology) in marriage by recognizing and embracing the complementary roles of husbands and wives as described in Scripture. In marriage, parents can:
 
 1. Emphasize teamwork: Teach children the importance of mutual respect, cooperation, and shared responsibilities within the family. Show them how a husband and wife work together to lead and nurture their children.
 
@@ -124,7 +124,7 @@ Christian parents can address gender-neutral parenting from a biblical perspecti
 3. Address cultural influences: Equip children to discern and resist cultural pressures that promote gender neutrality. Teach them to rely on biblical truth rather than conforming to the ever-changing ideologies of the world.
 
 **Biblical Foundation:** 
-- "So God created man in his own image, in the image of God he created him; male and female he created them." ([Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html) ESV)
+- "So God created man in [his own image](/resisting-lgbtq-education), in the image of God he created him; male and female he created them." ([Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html) ESV)
 - "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." ([Romans 12:2](https://www.bibleref.com/Romans/12/Romans-12-2.html) ESV)
 
 (Source: The Bump)

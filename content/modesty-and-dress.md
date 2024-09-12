@@ -16,7 +16,7 @@ As Christians, our beliefs and values should shape every aspect of our lives, in
 
 Modesty is not just about how much skin we show or the clothes we wear; it is a heart attitude that reflects our reverence for God and respect for ourselves and others. The Bible provides several principles to guide us in dressing modestly. 
 
-Firstly, [1 Timothy 2:9-10](https://www.bibleref.com/1-Timothy/2/1-Timothy-2-9.html) teaches that women should adorn themselves in modest apparel, with decency and propriety. This means avoiding clothing that is revealing or provocative. Additionally, [1 Peter 3:3-4](https://www.bibleref.com/1-Peter/3/1-Peter-3-3.html) emphasizes inner beauty over outward adornment, encouraging women to focus on a gentle and quiet spirit.
+Firstly, [1 Timothy 2:9-10](https://www.bibleref.com/1-Timothy/2/1-Timothy-2-9.html) teaches that women should adorn themselves in modest apparel, with decency and propriety. This means avoiding clothing that is revealing or provocative. Additionally, [1 Peter 3:3-4](https://www.bibleref.com/1-Peter/3/1-Peter-3-3.html) emphasizes inner beauty over outward adornment, encouraging women to focus on a [gentle and quiet](/biblical-womanhood) spirit.
 
 For men, the principle of modesty involves dressing in a way that does not draw attention to oneself or promote sensuality. In [Matthew 5:28](https://www.bibleref.com/Matthew/5/Matthew-5-28.html), Jesus warns against lusting after someone based on their appearance, highlighting the importance of guarding our hearts and minds.
 

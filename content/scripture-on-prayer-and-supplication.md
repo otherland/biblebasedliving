@@ -12,7 +12,7 @@ Prayer is a vital part of [the Christian faith](/prayers-to-pray-for-others). It
 
 ## What is supplication and why is it important?
 
-Supplication is [an essential aspect](/prayer-life) of prayer as it involves making specific requests to God. It goes beyond general prayers of praise or thanksgiving and allows believers to bring their specific needs before the Lord. When we engage in supplication, we humbly acknowledge our dependence on God and His ability to meet our needs. It is an act of surrendering our desires to His will and seeking His guidance in all matters.
+Supplication is [an essential aspect](/prayer-life) of prayer as it involves making specific requests to God. It goes beyond general prayers of praise or thanksgiving and allows believers to bring [their specific needs](/discipline-methods) before the Lord. When we engage in supplication, we humbly acknowledge our dependence on God and His ability to meet our needs. It is an act of surrendering our desires to His will and seeking His guidance in all matters.
 
 ### Bible Verses on Supplication:
 

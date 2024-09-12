@@ -64,7 +64,7 @@ Christians are called to extend compassion and hospitality to those in need, reg
 
 ## 7. How does Christian belief influence social policy?
 
-Christian belief influences social policy by emphasizing the importance of strong families, the sanctity of marriage, and the well-being of children. Christians believe that marriage is a sacred covenant between one man and one woman ([Genesis 2:24](https://www.bibleref.com/Genesis/2/Genesis-2-24.html)), and that the family unit plays a crucial role in society.
+Christian belief influences social policy by emphasizing the importance of strong families, the sanctity of marriage, and the well-being of children. Christians believe that marriage is a sacred covenant between one man and one woman ([Genesis 2:24](https://www.bibleref.com/Genesis/2/Genesis-2-24.html)), and that [the family unit](/authority-and-obedience) plays a crucial role in society.
 
 Christian beliefs shape our views on issues such as abortion, same-sex marriage, and gender identity. We believe that life begins at conception and should be protected, that marriage is a sacred institution designed for one man and one woman, and that gender is determined by biological sex.
 

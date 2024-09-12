@@ -19,7 +19,7 @@ Reaching unreached people groups should be a top priority for Christians, as it 
 In prioritizing unreached people groups, we should prioritize proximity, need, and strategic opportunities. Proximity refers to focusing on those who are geographically closer to us, as it allows for easier access and cultural understanding. Need refers to targeting areas with limited access to the gospel and where the spiritual darkness is prevalent. Strategic opportunities refer to regions where governments are more open to Christian missions or where there are existing networks and partnerships that can be leveraged for effective outreach.
 
 ## 2. How can Christians engage in home missions within ethnic British communities?
-Engaging in home missions within ethnic British communities is essential for the advancement of the gospel within our own nation. As Christians, we are called to love our neighbors as ourselves ([Matthew 22:39](https://www.bibleref.com/Matthew/22/Matthew-22-39.html)), which includes reaching out to those within our own communities.
+Engaging in home missions within ethnic British communities is essential for the advancement of the gospel within our own nation. As Christians, we are called to love our neighbors as ourselves ([Matthew 22:39](https://www.bibleref.com/Matthew/22/Matthew-22-39.html)), which includes reaching out to those within [our own communities](/mapping-the-travels-of-jesus-a-comprehensive-journey-through-his-life-and-ministry).
 
 To engage in home missions effectively, we should embrace cultural sensitivity and understanding. This involves learning about the traditions, beliefs, and needs of ethnic British communities. By investing time in building relationships, addressing social and practical needs, and demonstrating Christ's love through our actions, we can create opportunities to share the gospel.
 
@@ -36,10 +36,10 @@ In [1 Corinthians 9:19-23](https://www.bibleref.com/1-Corinthians/9/1-Corinthian
 
 Cross-cultural ministry also involves learning the language and customs of the people we are ministering to. This demonstrates respect for their culture and opens doors for effective communication. It is essential to remember that while cultural adaptation is important, biblical principles must always guide our actions and decisions.
 
-## 4. How should Christians respond to mass migration from different ethnic backgrounds?
+## 4. How should Christians respond to mass migration from [different ethnic backgrounds](/church-ethnic-composition)?
 As Christians, our response to mass migration from different ethnic backgrounds should be rooted in love, compassion, and biblical principles. The Bible repeatedly commands us to show hospitality to strangers ([Hebrews 13:2](https://www.bibleref.com/Hebrews/13/Hebrews-13-2.html)), love our neighbors as ourselves ([Matthew 22:39](https://www.bibleref.com/Matthew/22/Matthew-22-39.html)), and care for the vulnerable ([Leviticus 19:34](https://www.bibleref.com/Leviticus/19/Leviticus-19-34.html)).
 
-While recognizing the complexities surrounding migration policies and national security concerns, we should strive to extend Christ's love to those who are displaced or seeking refuge. This can be done through practical acts of kindness, such as providing food, shelter, and support to those in need. It is also important to offer emotional and spiritual support, recognizing that many migrants often face trauma and uncertainty.
+While recognizing the complexities surrounding migration policies and national security concerns, we should strive to extend Christ's love to those who are displaced or seeking refuge. This can be done through practical acts of kindness, such as providing food, shelter, and support to those in need. It is also important to offer [emotional and spiritual](/prayer-to-the-holy-spirit-for-healing) support, recognizing that many migrants often face trauma and uncertainty.
 
 At the same time, we must uphold the rule of law and respect the sovereignty of nations. Finding a balance between compassion and the need for orderly immigration processes is crucial. Christians should engage in advocating for just policies that protect the dignity and rights of all individuals involved.
 

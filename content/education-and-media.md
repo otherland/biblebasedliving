@@ -76,7 +76,7 @@ Biblical Foundation:
 Biblical Foundation:
 - [Matthew 5:11-12](https://www.bibleref.com/Matthew/5/Matthew-5-11.html) - "Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."
 
-2. **Compare Multiple Sources**: Engage with a variety of news sources to gain a more comprehensive understanding of current events. Different news outlets may have their own biases, and comparing multiple perspectives allows you to discern the underlying biases and narratives at play.
+2. **Compare Multiple Sources**: Engage with a variety of news sources to gain a [more comprehensive understanding](/media-accountability) of current events. Different news outlets may have their own biases, and comparing multiple perspectives allows you to discern the underlying biases and narratives at play.
 
 Biblical Foundation:
 - [Proverbs 18:17](https://www.bibleref.com/Proverbs/18/Proverbs-18-17.html) - "The one who states his case first seems right, until the other comes and examines him."
@@ -92,7 +92,7 @@ Biblical Foundation:
 
 Biblical Foundation:
 - [Colossians 4:6](https://www.bibleref.com/Colossians/4/Colossians-4-6.html) - "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person."
-- [Ephesians 4:29](https://www.bibleref.com/Ephesians/4/Ephesians-4-29.html) - "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear."
+- [Ephesians 4:29](https://www.bibleref.com/Ephesians/4/Ephesians-4-29.html) - "Let [no corrupting talk](/promoting-christian-alternatives) come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear."
 
 ### Responding to Media Bias Against Christianity
 
@@ -114,6 +114,6 @@ Biblical Foundation:
 - [Colossians 4:6](https://www.bibleref.com/Colossians/4/Colossians-4-6.html) - "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person."
 - [1 Peter 3:15](https://www.bibleref.com/1-Peter/3/1-Peter-3-15.html) - "But in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect."
 
-By being aware of media bias, employing critical thinking skills, and responding to bias with grace and truth, Christians can navigate the media landscape effectively and contribute to discussions with a biblical perspective. Remember that our ultimate allegiance is to Christ, and our response to media bias should reflect His love, wisdom, and truth.
+By being aware of media bias, employing critical thinking skills, and responding to bias with grace and truth, Christians can navigate the media landscape effectively and contribute to discussions with a biblical perspective. Remember that [our ultimate allegiance](/political-and-economic-perspectives) is to Christ, and our response to media bias should reflect His love, wisdom, and truth.
 
 [Source Material - Critical Media Literacy in Teacher Education, Theory, and Practice](https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1404)

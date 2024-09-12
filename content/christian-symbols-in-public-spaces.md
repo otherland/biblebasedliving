@@ -12,7 +12,7 @@ Title: '7 Christian Symbols Transforming Public Spaces: A Faithful Perspective'
 
 ### Introduction
 
-Christian symbols in public spaces have long been a topic of debate and controversy. From the display of crosses on public buildings to the preservation of Christian monuments, questions arise about the place of Christianity in [the public sphere](/public-engagement-intelligent-design). As Christians, it is important to approach this topic from a staunchly conservative, biblical perspective. In this article, we will address [eight key questions](/preserving-christian-demographics) about Christian symbols in public spaces and provide biblically-grounded answers that uphold traditional Christian values.
+Christian symbols in public spaces have long been a topic of debate and controversy. From the display of crosses on public buildings to the preservation of Christian monuments, questions arise about the place of Christianity in [the public sphere](/public-engagement-intelligent-design). As Christians, it is important to approach this topic from a staunchly conservative, biblical perspective. In this article, we will address [eight key questions](/preserving-christian-demographics) about Christian symbols in public spaces and provide biblically-grounded answers that uphold [traditional Christian values](/critiquing-modern-art).
 
 ### 1. Is it appropriate to reinstate crosses on public buildings?
 
@@ -32,7 +32,7 @@ Preserving Christian monuments in the UK is a worthy endeavor as they serve as r
 
 ### 3. Should nativity scenes be displayed on public property?
 
-The display of nativity scenes on public property can be a meaningful way to celebrate the birth of Jesus Christ, but it is important to approach this issue with wisdom and sensitivity. While we should seek to honor the true meaning of Christmas, we must also respect the diverse beliefs and perspectives of others. It is crucial to ensure that such displays do not promote the establishment of a particular religion or exclude those who do not share our faith.
+The display of nativity scenes on public property can be a meaningful way to celebrate the birth of Jesus Christ, but it is important to approach this issue with wisdom and sensitivity. While we should seek to honor [the true meaning](/journey-to-faith-understanding-and-embracing-christianity) of Christmas, we must also respect the diverse beliefs and perspectives of others. It is crucial to ensure that such displays do not promote the establishment of a particular religion or exclude those who do not share our faith.
 
 **Biblical Foundation:**
 - "And she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger because there was no guest room available for them" ([Luke 2:7](https://www.bibleref.com/Luke/2/Luke-2-7.html)).
@@ -47,7 +47,7 @@ The display of Christian symbols in government offices should be approached with
 
 
 **Biblical Foundation:**
-- "Whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him" ([Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html)).
+- "Whatever you do, whether in word or deed, do it all in the name of [the Lord Jesus](/critiquing-modern-art), giving thanks to God the Father through him" ([Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html)).
 - "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves" ([Philippians 2:3](https://www.bibleref.com/Philippians/2/Philippians-2-3.html)).
 
 ### 5. Is there a need for prayer rooms in public institutions?

@@ -36,7 +36,7 @@ Description: The Holy Spirit possesses a variety of attributes that are central 
 
 - The personality of the Holy Spirit is also characterized by His **power** and **authority**. Throughout the Bible, we see the Holy Spirit empowering believers to do extraordinary things, such as speaking boldly, performing miracles, and spreading the gospel. This demonstrates His strength and sovereignty in bringing about God's will on earth.
 
-- The Holy Spirit's personality is also marked by His **holiness** and **purity**. As the third person of the Trinity, He is without sin and serves as a guide for believers to live righteous and holy lives. His presence convicts us of sin, leads us to repentance, and helps us grow in sanctification.
+- The Holy Spirit's personality is also marked by His **holiness** and **purity**. As [the third person](/understanding-the-difference-between-holy-ghost-and-holy-spirit-a-comprehensive-guide-for-christians) of the Trinity, He is without sin and serves as a guide for believers to live righteous and holy lives. His presence convicts us of sin, leads us to repentance, and helps us grow in sanctification.
 
 - The personality of the Holy Spirit is further shown through His **unity** with the Father and the Son. The Holy Spirit is in perfect harmony with the other members of the Trinity, working together to accomplish the purposes of God. This unity reflects His relational nature and desire for unity among believers as well.
 

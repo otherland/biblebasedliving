@@ -21,7 +21,7 @@ In **water baptism**, believers publicly declare their faith in Jesus Christ and
 * **Purpose**: Water baptism symbolizes the believer's identification with Christ's death and resurrection, while baptism of the Holy Spirit empowers the believer for spiritual growth and ministry.
 * **Scriptural examples**: In the Bible, we see examples of water baptism being practiced by John the Baptist and by Jesus' disciples, while the baptism of the Holy Spirit was experienced by [the early church](/the-origin-of-the-holy-spirit-in-scripture-a-comprehensive-guide) on the day of Pentecost.
 
-## How does water baptism differ from baptism of the Holy Spirit in terms of their spiritual significance?
+## How does water baptism differ from baptism of the Holy Spirit in terms of [their spiritual significance](/christian-historical-sites-preservation)?
 
 **Water baptism** symbolizes the believer's union with Christ in His death, burial, and resurrection. It signifies the washing away of sins and the believer's commitment to follow Christ. This act of obedience is an important step in a believer's journey of faith. **Baptism of the Holy Spirit**, on the other hand, is a spiritual empowerment that enables believers to live a victorious Christian life and be effective witnesses for Christ.
 

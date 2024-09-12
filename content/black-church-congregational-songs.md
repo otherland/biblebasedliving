@@ -122,7 +122,7 @@ Church choirs and music ministries play a significant role in preserving and pas
 
 The gospel music industry has played a pivotal role in preserving and popularizing black church congregational songs. Gospel artists record and release albums featuring these songs, making them accessible to a wider audience. This exposure helps to ensure that these songs continue to be sung not only within African American churches but also in churches of diverse backgrounds around the world.
 
-> "Sing to the LORD a new song; sing to the LORD, all the earth." ([Psalm 96:1](https://www.bibleref.com/Psalm/96/Psalm-96-1.html))
+> "Sing to the LORD a new song; sing to the LORD, [all the earth](/christian-arts-and-media-dominance)." ([Psalm 96:1](https://www.bibleref.com/Psalm/96/Psalm-96-1.html))
 
 ## How can black church congregational songs impact individuals' lives?
 

@@ -22,7 +22,7 @@ The Ten Commandments, found in [Exodus 20:1-17](https://www.bibleref.com/Exodus/
 
 Evolutionary ethics posits that morality is a product of natural selection and has evolved over time. This perspective undermines the belief in objective moral values that are grounded in God's nature. In contrast, biblical ethics asserts that moral values are absolute and unchanging because they flow from the character of God Himself ([Malachi 3:6](https://www.bibleref.com/Malachi/3/Malachi-3-6.html), [James 1:17](https://www.bibleref.com/James/1/James-1-17.html)).
 
-Furthermore, evolutionary ethics reduces morality to a mere adaptation for survival. It fails to provide a solid foundation for moral obligations and the recognition of human dignity. In contrast, the biblical perspective teaches that humans are created in the image of God ([Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html)), and as such, we have inherent worth and value. Our moral obligations stem from our relationship with God and our responsibility to reflect His character in our actions.
+Furthermore, evolutionary ethics reduces morality to a mere adaptation for survival. It fails to provide a solid foundation for moral obligations and the recognition of human dignity. In contrast, [the biblical perspective](/critiquing-feminist-theology) teaches that humans are created in the image of God ([Genesis 1:27](https://www.bibleref.com/Genesis/1/Genesis-1-27.html)), and as such, we have inherent worth and value. Our moral obligations stem from our relationship with God and our responsibility to reflect His character in our actions.
 
 ## 3. What dangers are associated with social Darwinism?
 

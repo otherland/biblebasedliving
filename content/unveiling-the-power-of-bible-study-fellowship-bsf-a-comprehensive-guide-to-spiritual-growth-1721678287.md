@@ -15,7 +15,7 @@ BSF classes typically meet once a week for group discussions led by trained lead
 - The structured format of BSF classes helps participants stay organized and focused on their study goals, promoting consistency in their Bible study routine.
 - Through the sharing of personal experiences and reflections, participants in BSF classes can gain new perspectives and insights into the teachings of the Bible. 
 
-[Proverbs 27:17](https://www.bibleref.com/Proverbs/27/Proverbs-27-17.html) reminds us of the importance of studying the Bible in community: "As iron sharpens iron, so one person sharpens another." This verse highlights the value of learning and growing together in a community of believers, such as in a BSF class, where individuals can encourage and challenge one another in their faith journey.
+[Proverbs 27:17](https://www.bibleref.com/Proverbs/27/Proverbs-27-17.html) reminds us of the importance of studying the Bible in community: "As [iron sharpens iron](/education-and-media), so one person sharpens another." This verse highlights the value of learning and growing together in a community of believers, such as in a BSF class, where individuals can encourage and challenge one another in their faith journey.
 
 
 BSF classes include a variety of questions that prompt participants to engage with the biblical text on a deeper level. These questions may focus on understanding the context of a passage, exploring its themes and messages, applying its teachings to one's life, and reflecting on the implications for personal growth and spiritual development.  questions are designed to encourage critical thinking, reflection, and discussion among participants.
