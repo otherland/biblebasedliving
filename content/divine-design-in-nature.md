@@ -21,7 +21,7 @@ Scientific discoveries continuously unveil the intricate design woven into every
 
 ### 2. How does biological complexity serve as proof of divine design?
 
-Biological organisms display an astounding level of complexity that defies naturalistic explanations. The intricate mechanisms within cells, the complexity of ecosystems, and the marvels of adaptation all point to a masterful Designer. The irreducible complexity observed in biological systems further strengthens the case for divine design. Irreducible complexity refers to systems that require all their parts functioning together to perform their intended function. Such complexity suggests a purposeful design rather than gradual evolution.
+Biological organisms display an astounding level of complexity that defies naturalistic explanations. The intricate mechanisms within cells, the complexity of ecosystems, and the marvels of adaptation all point to a masterful Designer. [The irreducible complexity](/public-engagement-intelligent-design) observed in biological systems further strengthens the case for divine design. Irreducible complexity refers to systems that require [all their parts](/evolutionary-theory-flaws) functioning together to perform their intended function. Such complexity suggests a purposeful design rather than gradual evolution.
 
 **Biblical Foundation:**
 *"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well."* ([Psalm 139:14](https://www.bibleref.com/Psalm/139/Psalm-139-14.html) NIV)
@@ -60,7 +60,7 @@ Sacred geometry explores the geometric patterns and proportions that appear both
 
 ### 7. What role does beauty play in understanding divine design?
 
-Beauty is an integral part of God's creation, evoking awe and wonder in our hearts. The exquisite beauty found in nature points to the existence of a loving Creator who delights in His creation. Beauty serves as a reminder of God's character, His attention to detail, and His desire to bring joy to our lives through His handiwork.
+Beauty is [an integral part](/reviving-christian-customs) of God's creation, evoking awe and wonder in our hearts. The exquisite beauty found in nature points to the existence of a loving Creator who delights in His creation. Beauty serves as a reminder of God's character, His attention to detail, and His desire to bring joy to our lives through His handiwork.
 
 **Biblical Foundation:**
 *"One thing I ask from the LORD, this only do I seek: that I may dwell in the house of the LORD all the days of my life, to gaze on the beauty of the LORD..."* ([Psalm 27:4](https://www.bibleref.com/Psalm/27/Psalm-27-4.html) NIV)
@@ -70,6 +70,6 @@ Beauty is an integral part of God's creation, evoking awe and wonder in our hear
 As stewards of God's creation, we have a responsibility to cherish and care for what He has entrusted to us. Recognizing the divine design in nature should inspire us to marvel at its beauty and intricacy. Additionally, we should strive to live in harmony with God's creation, practicing sustainable habits that honor His design and protect our environment for future generations.
 
 **Biblical Foundation:**
-*"The LORD God took the man and put him in the Garden of Eden to work it and take care of it."* ([Genesis 2:15](https://www.bibleref.com/Genesis/2/Genesis-2-15.html) NIV)
+*"The LORD God took the man and put him in [the Garden of Eden](/the-timeline-from-adam-and-eve-to-moses-unveiling-biblical-history-and-connections) to work it and take care of it."* ([Genesis 2:15](https://www.bibleref.com/Genesis/2/Genesis-2-15.html) NIV)
 
 In conclusion, the divine design in nature reveals God's wisdom, power, and glory. Scientific evidence, biological complexity, natural laws, order in ecosystems, the Golden Ratio, sacred geometry, beauty, and stewardship all point to a Creator who carefully crafted every aspect of His creation. By looking to Scripture and examining the wonders of nature, we can deepen our understanding of God's divine design and grow in awe of His magnificent works. As we appreciate and steward His creation, we honor the Creator and draw closer to Him.

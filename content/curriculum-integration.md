@@ -56,13 +56,13 @@ Curriculum integration can promote a biblical worldview by intentionally incorpo
 
 ## 5. What are the potential challenges of curriculum integration from a conservative Christian perspective?
 
-One potential challenge of curriculum integration from a conservative Christian perspective is the need for discernment when selecting materials and resources. Not all resources align with biblical truth, and teachers must carefully vet them to ensure they do not compromise biblical values. Additionally, there may be resistance or opposition from secular ideologies that seek to undermine or dismiss biblical perspectives. Teachers must be prepared to navigate these challenges while remaining faithful to biblical principles.
+One potential challenge of curriculum integration from a [conservative Christian perspective](/limiting-islamic-visibility) is the need for discernment when selecting materials and resources. Not all resources align with biblical truth, and teachers must carefully vet them to ensure they do not compromise biblical values. Additionally, there may be resistance or opposition from secular ideologies that seek to undermine or dismiss biblical perspectives. Teachers must be prepared to navigate these challenges while remaining faithful to biblical principles.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z6kgvhG3AkI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-**Source Material Integration:**
+**[Source Material Integration](/christian-arts-and-media-dominance):**
 
 According to Leslie Owen Wilson's "The Second Principle," curriculum integration requires a willingness to learn about other disciplines and fully understand their perspectives. This approach enables educators to explore new possibilities and create interesting fusions that align with a biblical worldview.
 

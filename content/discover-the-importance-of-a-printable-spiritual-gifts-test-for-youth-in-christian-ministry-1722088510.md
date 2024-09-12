@@ -24,7 +24,7 @@ A **spiritual gifts assessment test** in a printable format is a practical tool 
 
 - Utilizing a printable spiritual gifts test can not only help individuals identify their own gifts but also create a sense of community and unity within a church or small group. By sharing and discussing the results of the test, members can encourage and support one another in using their gifts for the greater good. 
 
-- Printable spiritual gifts tests can be customized to include specific questions or prompts tailored to a particular denomination or theological perspective. This allows individuals to reflect on their beliefs and values while discerning their spiritual gifts, leading to a more holistic understanding of how they can serve God and others effectively. 
+- Printable spiritual gifts tests can be customized to include specific questions or prompts tailored to a particular denomination or theological perspective. This allows individuals to reflect on their beliefs and values while discerning their spiritual gifts, leading to a [more holistic understanding](/policy-influence-christian) of how they can serve God and others effectively. 
 
 ## What are some key benefits of using a printable spiritual gifts test for youth? 
 
@@ -42,7 +42,7 @@ Upon receiving the results of a **short spiritual gifts test pdf**, youth can be
 
 - By understanding their spiritual gifts, youth can also gain clarity on their unique purpose and calling in life. This can provide them with direction and motivation as they navigate important decisions and pursue their passions. 
 
-- Utilizing their spiritual gifts can also help youth build valuable skills and character traits, such as empathy, leadership, and teamwork. These experiences can contribute to their personal and professional development in the long run. 
+- Utilizing [their spiritual gifts](/opposing-womens-ordination) can also help youth build valuable skills and character traits, such as empathy, leadership, and teamwork. These experiences can contribute to their personal and professional development in the long run. 
 
 - Through the process of using their spiritual gifts, youth may also discover new interests and talents that they were previously unaware of. This can lead to a sense of discovery and exploration as they continue to grow and mature in [their faith journey](/unveiling-the-power-of-bible-study-fellowship-bsf-a-comprehensive-guide-to-spiritual-growth). 
 

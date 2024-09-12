@@ -18,7 +18,7 @@ Resilience is often described as the ability to overcome obstacles, adapt to cha
 
 Developing resilience is important because it equips us to handle the challenges that life throws at us. It allows us to maintain our peace, hope, and trust in God despite the storms raging around us. Resilience helps us grow spiritually, deepen our reliance on God's strength, and become more Christ-like in character. It enables us to be a source of encouragement and support to others who may be going through similar struggles.
 
-## 2. How can prayer help build resilience?
+## 2. [How can prayer](/prayer-of-hopelessness) help build resilience?
 
 Prayer is a powerful tool that connects us with God and invites His presence into our lives. Through prayer, we can seek guidance, find comfort, and experience renewal. When it comes to building resilience, prayer plays a crucial role in several ways:
 

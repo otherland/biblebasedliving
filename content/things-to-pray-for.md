@@ -159,7 +159,7 @@ Pray for spiritual strength and endurance to resist temptation and overcome tria
 Pray prayers of intercession on behalf of others who may be oppressed or influenced by demonic forces. Ask God to break chains, set captives free, and bring deliverance to those in need.
 
 **Biblical Foundation:**
-*"Put on the full armor of God, so that you can take your stand against the devil’s schemes." ([Ephesians 6:11](https://www.bibleref.com/Ephesians/6/Ephesians-6-11.html) NIV)*
+*"Put on [the full armor](/ultimate-spiritual-warfare-prayers-for-protection-powerful-strategies-for-christian-defense) of God, so that you can take your stand against the devil’s schemes." ([Ephesians 6:11](https://www.bibleref.com/Ephesians/6/Ephesians-6-11.html) NIV)*
 
 *"Submit yourselves, then, to God. Resist the devil, and he will flee from you." ([James 4:7](https://www.bibleref.com/James/4/James-4-7.html) NIV)*
 

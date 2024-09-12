@@ -62,7 +62,7 @@ Baptism is a crucial element of Christian faith and practice, symbolizing a beli
 
 Key points to consider:
 
-- Water baptism is an outward expression of an inward faith
+- Water baptism is an outward expression of [an inward faith](/understanding-the-difference-between-water-baptism-and-spirit-baptism-a-comprehensive-guide-for-christian-believers)
 - Spirit baptism refers to the indwelling of the Holy Spirit in believers
 - Both forms of baptism play vital roles in a Christian's spiritual journey
 

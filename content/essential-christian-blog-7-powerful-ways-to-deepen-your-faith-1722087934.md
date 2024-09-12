@@ -26,7 +26,7 @@ The color of Jesus' eyes may not have held any significance in His ministry and 
 
 In the Bible, [Matthew 9:36](https://www.bibleref.com/Matthew/9/Matthew-9-36.html) describes Jesus as having compassion on the crowds because they were like sheep without a shepherd. This highlights the importance of Jesus' heart and His deep care for humanity, rather than focusing on superficial physical attributes like eye color. Jesus' eyes would have radiated kindness and understanding, drawing people to Him with His love and grace.
 
-- The emphasis on Jesus' eye color may distract from the core teachings and messages He shared during His time on earth. It is important to focus on the spiritual significance of His actions and words rather than physical characteristics.
+- The emphasis on Jesus' eye color may distract from the core teachings and messages He shared during His time on earth. It is important to focus on [the spiritual significance](/christian-historical-sites-preservation) of His actions and words rather than physical characteristics.
 
 - Across different cultures and artistic depictions, Jesus has been portrayed with a variety of eye colors, showing that His message and impact transcend physical appearance. This further underscores the universal nature of His teachings and the ability to connect with people of all backgrounds.
 

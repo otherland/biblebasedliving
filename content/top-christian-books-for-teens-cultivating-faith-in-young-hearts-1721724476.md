@@ -54,7 +54,7 @@ When searching for **recommended Christian books for young adults**, consider ti
 
 **Christian fiction books for teens** can create a sense of **community** and **belonging** by depicting characters who face similar **struggles** and **challenges** in their faith journey. These stories can resonate with young adults, showing them that they are not alone in their **experiences** and **emotions**.
 
-[Romans 12:5](https://www.bibleref.com/Romans/12/Romans-12-5.html) reminds us of our **unity** in Christ: "so in Christ we, though many, form one body, and each member belongs to all the others." By engaging with **Christian fiction** that highlights **shared values** and **spiritual truths**, teens can feel connected to a **wider community** of believers and find **encouragement** in their own walk of faith.
+[Romans 12:5](https://www.bibleref.com/Romans/12/Romans-12-5.html) reminds us of our **unity** in Christ: "so in Christ we, though many, form one body, and each member belongs to [all the others](/christian-cultural-institutions)." By engaging with **Christian fiction** that highlights **shared values** and **spiritual truths**, teens can feel connected to a **wider community** of believers and find **encouragement** in their own walk of faith.
 
 - Christian fiction books for teens can also provide a safe space for young readers to explore complex theological concepts and questions in a relatable and accessible way. Through the characters' journeys and interactions, teens can deepen their understanding of their faith and develop a sense of intellectual community.
 

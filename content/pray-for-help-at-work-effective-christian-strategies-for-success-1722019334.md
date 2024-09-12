@@ -13,7 +13,7 @@ When you find yourself in need of **prayer for help at work**, it's essential to
 In [James 1:5](https://www.bibleref.com/James/1/James-1-5.html), it says, "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you." This verse reminds us that we can seek God's wisdom through prayer, especially in the workplace. When you pray for help at work, you can also turn to [Philippians 4:6-7](https://www.bibleref.com/Philippians/4/Philippians-4-6.html), which encourages us to present our requests to God with thanksgiving, knowing that His peace will guard our hearts and minds. Trust in the Lord's provision as you lift up your workplace concerns in prayer.
 
 - Remember that prayer is not just about asking for help, but also about expressing gratitude for the blessings you have received at work. Take time to thank God for the opportunities, colleagues, and resources He has provided.
-- Consider starting or ending your workday with a brief prayer to set a positive and focused tone for your tasks.  can help you stay connected to God throughout the day and seek His guidance in all your work endeavors.
+- Consider starting or ending your workday with a brief prayer to set a positive and focused tone for your tasks.  can help you stay connected to God throughout the day and seek His guidance in [all your work](/reviving-christian-customs) endeavors.
 - Seek out a trusted mentor or colleague who shares your faith and can pray with you for specific work-related challenges. Having a support system of believers can strengthen your resolve and provide encouragement in times of need.
 
 ## How can I pray for a good day at work?

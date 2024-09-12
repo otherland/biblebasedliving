@@ -37,7 +37,7 @@ In addition to **prayer** and **spiritual** **support**, it is important to **pr
 *"Carry each other's burdens, and in this way, you will fulfill the law of Christ." - [Galatians 6:2](https://www.bibleref.com/Galatians/6/Galatians-6-2.html)*
 
 - Offer to accompany your sick mother to doctor's appointments or medical treatments to provide emotional support and help her navigate any medical decisions or information.
-- Create a schedule with other family members or friends to ensure that your mother receives consistent care and assistance, especially if you have other responsibilities or commitments.
+- Create a schedule with [other family members](/divorced-persons-church-status) or friends to ensure that your mother receives consistent care and assistance, especially if you have other responsibilities or commitments.
 - Research support groups or community resources that may provide additional help or assistance for both your mother and yourself as a caregiver, such as respite care services or counseling.
 
 ## How can I trust God's plan for my sick mother's healing?

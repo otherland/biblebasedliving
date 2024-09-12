@@ -42,7 +42,7 @@ Writing a prayer involves more than simply putting words on paper. It requires t
 
 > "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him." ([James 1:5](https://www.bibleref.com/James/1/James-1-5.html) ESV)
 
-6. **Express Trust and Surrender**: Conclude your prayer by expressing your trust in God's sovereignty and surrendering all outcomes to Him. Affirm your faith in His goodness, even if the answer or resolution may not be what you expect or desire.
+6. **Express Trust and Surrender**: Conclude your prayer by expressing your [trust in God](/transformative-power-of-christian-prayer-comprehensive-guide)'s sovereignty and surrendering all outcomes to Him. Affirm your faith in His goodness, even if the answer or resolution may not be what you expect or desire.
 
 7. **Close with a Benediction**: End your prayer with a word of blessing or a benediction, acknowledging God's power and authority over your life. Thank Him for hearing your prayer and trusting His faithfulness to answer according to [His perfect will](/discover-the-longest-chapter-in-the-bible-and-its-significance).
 

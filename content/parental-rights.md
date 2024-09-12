@@ -28,7 +28,7 @@ Education plays a critical role in shaping a child's worldview, values, and beli
 
 As Christian parents, we may face objections to teaching evolution in schools or encounter conflicts with our faith when it comes to scientific theories that contradict biblical creationism. It is essential to approach these objections with grace and wisdom while remaining firmly rooted in the truth of God's Word.
 
-First, we must recognize that creationism is consistent with the biblical account of creation in Genesis. As Christians, we believe that God created the heavens and the earth and that human beings were uniquely created in His image ([Genesis 1:1](https://www.bibleref.com/Genesis/1/Genesis-1-1.html), 26-27). Therefore, parents have the right to request alternative approaches to science education that align with their faith, such as teaching creationism alongside evolution or opting for faith-based curriculum options.
+First, we must recognize that creationism is consistent with [the biblical account](/teacher-training) of creation in Genesis. As Christians, we believe that God created the heavens and the earth and that human beings were uniquely created in His image ([Genesis 1:1](https://www.bibleref.com/Genesis/1/Genesis-1-1.html), 26-27). Therefore, parents have the right to request alternative approaches to science education that align with their faith, such as teaching creationism alongside evolution or opting for faith-based curriculum options.
 
 However, it is also important to teach our children critical thinking skills and equip them to engage with differing viewpoints. We can use these opportunities to help them understand the scientific evidence for creationism and respectfully engage in discussions about evolution from a biblical perspective.
 
@@ -50,11 +50,11 @@ Parents have the right to request faith-based curriculum options for their child
 
 Parents can request faith-based curriculum options that align with their specific beliefs and values, ensuring that their children receive an education grounded in biblical truth. This allows parents to instill in their children a solid foundation of faith while equipping them with the knowledge and skills necessary for academic success.
 
-It is important for parents to research and select faith-based curriculum options carefully, ensuring that they align with orthodox Christian teachings and provide a comprehensive education that meets academic standards.
+It is important for parents to research and select faith-based curriculum options carefully, ensuring that they align with [orthodox Christian teachings](/critiquing-feminist-theology) and provide a comprehensive education that meets academic standards.
 
 ## 6. What are the limitations on parental rights?
 
-While parents have the primary responsibility for raising and educating their children, there are limitations on parental rights when it comes to neglect or abuse. The Bible teaches us the importance of nurturing and caring for our children's physical, emotional, and spiritual well-being.
+While parents have [the primary responsibility](/policy-influence-christian) for raising and educating their children, there are limitations on parental rights when it comes to neglect or abuse. The Bible teaches us the importance of nurturing and caring for our children's physical, emotional, and spiritual well-being.
 
 [Ephesians 6:4](https://www.bibleref.com/Ephesians/6/Ephesians-6-4.html) warns fathers (and by extension, parents) not to provoke their children to anger but to bring them up in the discipline and instruction of the Lord. This verse reminds us that our authority as parents should be exercised in love and with a focus on our children's best interests.
 

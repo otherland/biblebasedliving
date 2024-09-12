@@ -46,7 +46,7 @@ Christian biographies offer:
 - Inspiration for overcoming challenges
 - Historical context for understanding [the Christian faith](/praying-over-people)
 
-Reading about the lives of faithful men and women who have gone before us can inspire and guide us in our own spiritual journeys.
+Reading about the lives of faithful men and women who have gone before us can inspire and guide us in [our own spiritual](/discover-the-longest-chapter-in-the-bible-and-its-significance) journeys.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i9YXtKGJX_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -56,7 +56,7 @@ Becoming a Christian is not just about what you believe; it's about how you live
 
 Consider these aspects of Christian living:
 
-- Cultivating a regular prayer and Bible study habit
+- Cultivating a regular prayer and [Bible study habit](/how-to-study-the-bible)
 - Serving others in your community
 - Making ethical decisions based on biblical principles
 - Sharing your faith with others

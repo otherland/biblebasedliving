@@ -23,7 +23,7 @@ Prayer is a means of communicating with God, expressing our thoughts, feelings, 
 
 ## Question 1: How can I introduce prayer to my child?
 
-Introducing prayer to your child at an early age sets a solid foundation for [their spiritual growth](/ultimate-guide-best-order-to-read-the-bible-for-beginners). Here are three practical ways to introduce prayer to your child:
+Introducing prayer to your child at [an early age](/resisting-gender-confusion) sets a solid foundation for [their spiritual growth](/ultimate-guide-best-order-to-read-the-bible-for-beginners). Here are three practical ways to introduce prayer to your child:
 
 1. **Lead by example**: Children learn best by observing the actions of those around them. Make sure they witness you praying regularly. Pray before meals, before bedtime, and during family devotion times. Let them see that prayer is a natural part of your life.
 
@@ -112,7 +112,7 @@ Gratitude is [an essential aspect](/adoration-songs) of prayer, helping us culti
 
 ### Bible Verses:
 
-- [Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html) (NIV): "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him."
+- [Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html) (NIV): "And whatever you do, whether in word or deed, do it all in the name of [the Lord Jesus](/christian-symbols-in-public-spaces), giving thanks to God the Father through him."
 - [1 Thessalonians 5:18](https://www.bibleref.com/1-Thessalonians/5/1-Thessalonians-5-18.html) (NIV): "Give thanks in all circumstances; for this is God's will for you in Christ Jesus."
 
 ## Question 7: How can I teach my child about the Lord's Prayer?

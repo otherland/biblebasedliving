@@ -8,7 +8,7 @@ Tags: people praying for people, praying for someone else, prayers to pray for o
 Title: 10 Powerful Prayers for Interceding on Behalf of Others
 ---
 
-Praying for others is a vital part of the Christian faith. It is an act of selflessness and love, where we lift up the needs, concerns, and wellbeing of others before God. When we intercede for others through prayer, we are showing our care and concern for them, trusting in God's power and provision to meet their needs. In this article, we will explore the importance of praying for others and provide specific prayers that you can pray for those in need.
+Praying for others is a vital part of [the Christian faith](/attributes-of-the-holy-spirit-understanding-the-power-and-presence-of-the-spirit-in-christianity). It is an act of selflessness and love, where we lift up the needs, concerns, and wellbeing of others before God. When we intercede for others through prayer, we are showing our care and concern for them, trusting in God's power and provision to meet their needs. In this article, we will explore the importance of praying for others and provide specific prayers that you can pray for those in need.
 
 ## Why is it important to pray for others?
 

@@ -26,7 +26,7 @@ When asking **is Christianity true**, it's essential to consider the impact of J
 
 - The personal experiences of individuals who have encountered Jesus Christ play a significant role in affirming the truth of Christianity. Many believers testify to experiencing a profound sense of peace, joy, and transformation upon accepting Jesus as their savior. These personal encounters with the living Christ serve as powerful evidence of the reality and truth of Christianity in the lives of individuals.
 
-- The enduring impact of Christianity on society and culture throughout history provides further validation of its truth. The teachings of Jesus Christ have inspired countless acts of compassion, justice, and love, shaping the moral fabric of civilizations around the world. [The transformative power](/discover-the-meaning-of-being-a-christian-ultimate-guide-for-believers) of Christianity in individuals and communities serves as a testament to its enduring truth and relevance in today's world.
+- [The enduring impact](/christian-cultural-artifacts) of Christianity on society and culture throughout history provides further validation of its truth. The teachings of Jesus Christ have inspired countless acts of compassion, justice, and love, shaping the moral fabric of civilizations around the world. [The transformative power](/discover-the-meaning-of-being-a-christian-ultimate-guide-for-believers) of Christianity in individuals and communities serves as a testament to its enduring truth and relevance in today's world.
 
 ## The Reliability of Christianity
 

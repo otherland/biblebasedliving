@@ -10,7 +10,7 @@ Description: The word of knowledge is a spiritual gift mentioned in the Bible sp
 
 The **word of knowledge** is a spiritual gift mentioned in the Bible, specifically in [1 Corinthians 12:8](https://www.bibleref.com/1-Corinthians/12/1-Corinthians-12-8.html). It is a supernatural revelation or insight into a specific situation or information that is not known through natural means. This gift allows individuals to receive divine knowledge about a person, event, or circumstance to bring understanding, guidance, or revelation. It is a manifestation of the Holy Spirit's wisdom and understanding given to believers for the edification of the church.
 
-Scripture Reference: [1 Corinthians 12:8](https://www.bibleref.com/1-Corinthians/12/1-Corinthians-12-8.html) - "To one there is given through the Spirit a message of wisdom, to another a message of knowledge by means of the same Spirit,"
+Scripture Reference: [1 Corinthians 12:8](https://www.bibleref.com/1-Corinthians/12/1-Corinthians-12-8.html) - "To one there is given through the Spirit a message of wisdom, to another a message of knowledge by means of [the same Spirit](/discover-the-7-gifts-of-the-holy-spirit-a-comprehensive-guide-for-christian-believers),"
 
 - The word of knowledge is often accompanied by the word of wisdom, another spiritual gift mentioned in the same passage in [1 Corinthians 12:8](https://www.bibleref.com/1-Corinthians/12/1-Corinthians-12-8.html). While the word of knowledge pertains to insight and information, the word of wisdom involves the application of that knowledge in a practical and wise manner.
 
@@ -32,7 +32,7 @@ Scripture Reference: [Colossians 2:2-3](https://www.bibleref.com/Colossians/2/Co
 
 If you possess the **gift of knowledge**, you may experience moments of sudden insight or understanding that surprise you. You might find yourself knowing things about people or situations that you couldn't have known naturally. This gift often operates in conjunction with other spiritual gifts, such as discernment, prophecy, or wisdom. Pay attention to these instances of supernatural knowledge and seek to use them for the benefit of others and the advancement of God's kingdom.
 
-Scripture Reference: [1 Corinthians 2:10-11](https://www.bibleref.com/1-Corinthians/2/1-Corinthians-2-10.html) - "These are the things God has revealed to us by his Spirit. The Spirit searches all things, even the deep things of God. For who knows a person’s thoughts except their own spirit within them? In the same way no one knows the thoughts of God except the Spirit of God."
+Scripture Reference: [1 Corinthians 2:10-11](https://www.bibleref.com/1-Corinthians/2/1-Corinthians-2-10.html) - "These are the things God has revealed to us by his Spirit. The Spirit searches all things, even the deep things of God. For who knows a person’s thoughts except their own spirit within them? In [the same way](/discover-the-true-meaning-of-being-a-christian-essential-guide-for-believers) no one knows the thoughts of God except the Spirit of God."
 
 - People with the gift of knowledge may often feel a strong sense of responsibility to share what they have learned with others, as they see it as a way to bring light and understanding to those around them.
 

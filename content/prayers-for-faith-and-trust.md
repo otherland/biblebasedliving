@@ -12,7 +12,7 @@ In the journey of faith, there are times when we may find ourselves struggling t
 
 ## 1. How can I pray to trust God?
 
-**Prayer for Trust:** Heavenly Father, I come before You with a humble heart, acknowledging my need for a deeper trust in You. Help me to surrender my doubts and fears at Your feet. Fill me with Your Holy Spirit so that I may have unwavering faith in Your plan for my life. Strengthen my trust in Your character and remind me of Your unfailing love. Grant me the grace to rest in Your promises and find peace in knowing that You are always with me, guiding me through every season. In Jesus' name, amen.
+**Prayer for Trust:** Heavenly Father, I come before You with a humble heart, acknowledging my need for a deeper trust in You. Help me to surrender my doubts and fears at Your feet. Fill me with [Your Holy Spirit](/pray-for-resilience) so that I may have unwavering faith in Your plan for my life. Strengthen my trust in Your character and remind me of Your unfailing love. Grant me the grace to rest in Your promises and find peace in knowing that You are always with me, guiding me through every season. In Jesus' name, amen.
 
 When praying for trust, it is important to approach God with an open heart and a willingness to surrender control. Acknowledge your doubts and fears, and ask God to help you overcome them. Pray for the Holy Spirit's presence in your life, as He is the source of true faith and trust. As you meditate on God's character and [His past faithfulness](/top-bible-books-for-strengthening-faith-during-struggles), your trust in Him will grow.
 
@@ -32,7 +32,7 @@ Trusting in God's plan may require us to let go of our own ambitions and surrend
 
 Doubts can often weaken our faith and make it difficult to trust in God wholeheartedly. However, through prayer, we can bring our doubts before God and ask for His help in overcoming them. As we seek His presence and meditate on His Word, our faith will be strengthened.
 
-**Biblical Support:** In the Gospel of Mark, a man cries out to Jesus, saying, "I believe; help my unbelief!" ([Mark 9:24](https://www.bibleref.com/Mark/9/Mark-9-24.html)). Jesus reassures us that even faith as small as a mustard seed has the power to move mountains ([Matthew 17:20](https://www.bibleref.com/Matthew/17/Matthew-17-20.html)). The writer of Hebrews reminds us that faith is the assurance of things hoped for and the conviction of things not seen ([Hebrews 11:1](https://www.bibleref.com/Hebrews/11/Hebrews-11-1.html)).
+**Biblical Support:** In [the Gospel of](/ultimate-guide-best-order-to-read-the-bible-for-beginners) Mark, a man cries out to Jesus, saying, "I believe; help my unbelief!" ([Mark 9:24](https://www.bibleref.com/Mark/9/Mark-9-24.html)). Jesus reassures us that even faith as small as a mustard seed has the power to move mountains ([Matthew 17:20](https://www.bibleref.com/Matthew/17/Matthew-17-20.html)). The writer of Hebrews reminds us that faith is the assurance of things hoped for and the conviction of things not seen ([Hebrews 11:1](https://www.bibleref.com/Hebrews/11/Hebrews-11-1.html)).
 
 ## 4. How can I trust in God's provision?
 

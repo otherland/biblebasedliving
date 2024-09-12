@@ -44,7 +44,7 @@ As we explore these various aspects of faith, it's important to remember that de
 By learning about different perspectives within Christianity, we can:
 
 - Foster interfaith dialogue and understanding
-- Gain a deeper appreciation for our own beliefs
+- Gain a deeper appreciation for [our own beliefs](/resisting-gender-confusion)
 - Develop a more nuanced view of religious history and practice
 
 Whether you're a lifelong believer, a seeker, or simply curious about religious studies, exploring these topics can enrich your understanding of faith and its role in people's lives.

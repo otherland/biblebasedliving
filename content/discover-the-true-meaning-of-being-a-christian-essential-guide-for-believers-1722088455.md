@@ -32,7 +32,7 @@ A **Christian** is someone who has been **born again** through **faith** in **Je
 
 Being a **Christian** is not just a label or a title; it is a way of life. A **Christian** is someone who seeks to follow **Jesus** and live according to His teachings. This includes **loving** God and **loving** others, **practicing** forgiveness, and **serving** those in need.
 
-*[Matthew 22:37-39](https://www.bibleref.com/Matthew/22/Matthew-22-37.html) (NIV)* - "Jesus replied: 'Love the Lord your God with [all your heart](/5-powerful-prayers-for-trust-in-god-strengthen-your-faith-today) and with all your soul and with all your mind.' This is the first and greatest commandment. And the second is like it: 'Love your neighbor as yourself.'"
+*[Matthew 22:37-39](https://www.bibleref.com/Matthew/22/Matthew-22-37.html) (NIV)* - "Jesus replied: 'Love the Lord your God with [all your heart](/5-powerful-prayers-for-trust-in-god-strengthen-your-faith-today) and with [all your soul](/promoting-christian-monoculture) and with [all your mind](/promoting-christian-monoculture).' This is the first and greatest commandment. And the second is like it: 'Love your neighbor as yourself.'"
 
 - Being a Christian also involves having a relationship with God through prayer, worship, and studying the Bible. It is about [growing in faith](/7-essential-steps-to-grow-your-faith-stronger) and seeking to live a life that reflects the character of Christ.
 

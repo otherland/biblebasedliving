@@ -48,7 +48,7 @@ When it comes to **Christian novels for tweens**, you might want to check out bo
 
 [Psalm 119:105](https://www.bibleref.com/Psalm/119/Psalm-119-105.html) reminds us that God's word is a lamp to our feet and a light to our path. Christian novels for tweens can illuminate biblical truths in a way that guides young readers on their [own spiritual journey](/discover-the-longest-chapter-in-the-bible-and-its-significance).
 
-- Christian novels for tweens can provide positive role models and teach valuable lessons about faith, forgiveness, and compassion.  example, books like "The Chronicles of Narnia" series by C.S. Lewis or "The Green Ember" series by S.D. Smith showcase characters who demonstrate courage and resilience in the face of challenges.
+- Christian novels for tweens can provide [positive role models](/promoting-christian-alternatives) and teach valuable lessons about faith, forgiveness, and compassion.  example, books like "The Chronicles of Narnia" series by C.S. Lewis or "The Green Ember" series by S.D. Smith showcase characters who demonstrate courage and resilience in the face of challenges.
 
 - Reading Christian novels can help tweens develop a deeper understanding of their own beliefs and values.  exploring themes of love, sacrifice, and redemption through fiction, young readers can strengthen their faith and gain new perspectives on biblical teachings.
 

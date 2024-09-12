@@ -52,7 +52,7 @@ Allow the truths and principles contained in these short books to shape your att
 
 **[3 John 1:11](https://www.bibleref.com/3-John/1/3-John-1-11.html) - "Dear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God."**
 
-- The brevity of these short books does not diminish the depth of wisdom and insight they contain.  fact, their concise nature can often make their messages more impactful and easier to remember in our daily lives.
+- The brevity of these short books does not diminish the depth of wisdom and insight they contain.  fact, their concise nature can often make their messages more impactful and easier to remember in [our daily lives](/how-to-study-the-bible).
 
 - By focusing on the key themes and principles found in the shortest [books of the Bible](/discover-the-longest-chapter-in-the-bible-and-its-significance), we can gain a clearer understanding of what it means to live a life of faith, love, and obedience to God's word.
 

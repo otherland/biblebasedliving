@@ -46,7 +46,7 @@ In **[Matthew 10:8](https://www.bibleref.com/Matthew/10/Matthew-10-8.html)**, Je
 
 - Some popular Christian artists and bands may offer free concerts or events as a way to reach a wider audience and spread their message of faith and hope. For example, artists like **Hillsong United** and **Chris Tomlin** have been known to hold free concerts in various cities, including in California.
 
-- Attending free Christian concerts can also be a great way to discover new music and artists within the Christian music genre. It provides an opportunity to experience different styles of worship music and connect with artists who share the same faith and beliefs.
+- Attending free Christian concerts can also be a great way to discover new music and artists within [the Christian music](/christian-arts-and-media-dominance) genre. It provides an opportunity to experience different styles of worship music and connect with artists who share the same faith and beliefs.
 
 - In addition to traditional concerts, some churches and organizations may host free outdoor worship events or music festivals that feature a lineup of Christian artists and speakers. These events can draw large crowds and provide a unique and uplifting experience for attendees.
 

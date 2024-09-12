@@ -36,7 +36,7 @@ Regardless of the number of chapters, each book in the Bible is inspired by God 
 
 *"The grass withers and the flowers fall, but the word of our God endures forever." *
 
-- The division of chapters in the Bible was not present in the original texts but was introduced later for the convenience of readers.  division was made by Stephen Langton in the 13th century for the Old Testament and by Robert Estienne in the 16th century for the New Testament.
+- The division of chapters in the Bible was not present in the original texts but was introduced later for the convenience of readers.  division was made by Stephen Langton in the 13th century for the Old Testament and by Robert Estienne in [the 16th century](/key-differences-between-presbyterian-and-christian-beliefs-explained) for the New Testament.
 
 - Some chapters in the Bible are more well-known and frequently cited than others.  example, Psalm 23, known as the "The Lord is my shepherd" is one of the most popular chapters in the book of Psalms and is often read at funerals and in times of comfort.
 

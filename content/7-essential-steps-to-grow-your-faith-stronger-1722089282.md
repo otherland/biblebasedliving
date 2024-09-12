@@ -21,7 +21,7 @@ Growing in **faith** is a journey that involves both **personal commitment** and
 
 ## How do you grow in faith?
 
-**What are some practical ways to grow your faith?**
+**What are [some practical ways](/modesty-and-dress) to grow your faith?**
 One practical way to grow in **faith** is through **regular attendance** at **church services** and **participation in spiritual activities**. Engaging in **worship**, **praise**, and **service** can help strengthen your connection with God and deepen your understanding of His word. **[Romans 10:17](https://www.bibleref.com/Romans/10/Romans-10-17.html)** reminds us that "faith comes from hearing the message, and the message is heard through the word about Christ."
 
 **[Romans 10:17](https://www.bibleref.com/Romans/10/Romans-10-17.html) (NIV)** - "Consequently, faith comes from hearing the message, and the message is heard through the word about Christ."

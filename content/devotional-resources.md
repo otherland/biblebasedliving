@@ -44,7 +44,7 @@ Online devotional communities provide a platform for believers to connect with o
 *Scriptural Foundation:*
 > "And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near." - [Hebrews 10:24-25](https://www.bibleref.com/Hebrews/10/Hebrews-10-24.html) (ESV)
 
-Online devotional communities fulfill the biblical mandate of encouraging one another and spurring each other on in love and good works. By participating in these communities, we can learn from others' insights, receive support, share our own experiences, and grow together in our understanding of God's Word.
+Online devotional communities fulfill [the biblical mandate](/opposing-womens-ordination) of encouraging one another and spurring each other on in love and good works. By participating in these communities, we can learn from others' insights, receive support, share our own experiences, and grow together in our understanding of God's Word.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rex9yJshjQ8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

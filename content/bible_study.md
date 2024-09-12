@@ -66,7 +66,7 @@ The Bible offers wisdom for every stage of life, and tailoring your study approa
 
 ## Diving Deeper into Scripture
 
-As you grow in your Bible study journey, you may want to explore more advanced study methods and resources.
+As you grow in [your Bible study](/navigating-the-scriptures-comprehensive-guide-books-of-the-bible) journey, you may want to explore more advanced study methods and resources.
 
 ### Biblical Numerology
 

@@ -54,7 +54,7 @@ For instance, a guide on the book of **Genesis** might delve into themes of crea
 
 To further enhance your understanding of specific biblical themes, consider delving into a book like "How to Read the Bible for All Its Worth" by Gordon D. Fee and Douglas Stuart.  resource provides valuable insights on interpreting different genres of literature found in the Bible, helping you grasp the nuances of each book and its themes.  applying the principles outlined in this book, you can deepen your understanding of the unique messages and theological concepts present in the Scriptures.
 
-Each book of the Bible offers a rich tapestry of themes that can be explored through the guidance of study resources.  example, a study guide focusing on the book of **Psalms** may lead you to uncover profound themes of worship, praise, lament, and trust in God. Verses such as **[Psalm 23:1](https://www.bibleref.com/Psalm/23/Psalm-23-1.html)** can be examined in the context of the entire book, shedding light on the overarching theme of God's faithful provision and guidance in our lives.
+Each book of the Bible offers a rich tapestry of themes that can be explored through the guidance of study resources.  example, a study guide focusing on the book of **Psalms** may lead you to uncover profound themes of worship, praise, lament, and [trust in God](/transformative-power-of-christian-prayer-comprehensive-guide). Verses such as **[Psalm 23:1](https://www.bibleref.com/Psalm/23/Psalm-23-1.html)** can be examined in the context of the entire book, shedding light on the overarching theme of God's faithful provision and guidance in our lives.
 
 ## How can Bible study guides by book help you apply biblical teachings to your life?
 

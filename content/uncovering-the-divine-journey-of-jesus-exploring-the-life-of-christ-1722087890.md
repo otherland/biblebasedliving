@@ -64,13 +64,13 @@ In **[1 John 2:6](https://www.bibleref.com/1-John/2/1-John-2-6.html)**, it is wr
 
 - "The Life of Christ" book by Fulton J. Sheen is not just a biographical account of Jesus' life, but a spiritual guide that prompts readers to contemplate their own faith journey and relationship with God. It encourages self-reflection and introspection, pushing readers to strive for a closer connection with Christ.
 
-- Through powerful storytelling and insightful commentary, Sheen's book helps readers see beyond the surface-level stories of Jesus and grasp the profound spiritual truths and lessons that can be applied to their own lives. It invites readers to ponder the deeper meanings behind Christ's actions and teachings, sparking a desire for personal growth and transformation.
+- Through powerful storytelling and insightful commentary, Sheen's book helps readers see beyond the surface-level stories of Jesus and grasp the profound spiritual truths and lessons that can be applied to [their own lives](/authority-and-obedience). It invites readers to ponder the deeper meanings behind Christ's actions and teachings, sparking a desire for personal growth and transformation.
 
 ## How can the life of Christ impact our daily walk with Him?
 
 As you delve into the **life of Christ**, you'll find that His **teachings** and **actions** have a profound impact on your daily walk with Him. By **meditating** on His **words** and **deeds**, you can cultivate a deeper **relationship** with Christ and align your life with His **will**. Every aspect of Christ's life serves as a guiding light, leading you closer to Him and shaping your **character** to reflect His **love** and **grace**.
 
-In **[Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html)**, it is written, "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him." This verse underscores the importance of **living** out your **faith** in **Christ** in every aspect of your life, allowing His **presence** to permeate your thoughts, words, and actions.
+In **[Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html)**, it is written, "And whatever you do, whether in word or deed, do it all in the name of [the Lord Jesus](/christian-symbols-in-public-spaces), giving thanks to God the Father through him." This verse underscores the importance of **living** out your **faith** in **Christ** in every aspect of your life, allowing His **presence** to permeate your thoughts, words, and actions.
 
 - Reflecting on the **sacrificial love** that Christ displayed on the cross can inspire us to **love** others **selflessly** and **forgive** those who have wronged us, mirroring His **compassion** and **mercy** in our interactions.
 

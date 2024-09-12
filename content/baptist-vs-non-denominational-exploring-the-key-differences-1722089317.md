@@ -52,7 +52,7 @@ In terms of worship styles, **Baptist** churches often have a more traditional a
 
 **Non-denominational** churches, on [the other hand](/understanding-the-difference-between-water-baptism-and-spirit-baptism-a-comprehensive-guide-for-christian-believers), tend to have a more contemporary and casual worship style. They may incorporate modern music, such as Christian rock or worship songs, along with multimedia presentations. Worship in **non-denominational** churches is often more expressive, with raised hands, clapping, and spontaneous prayers encouraged as a way to connect with God in a personal and emotional manner.
 
-**Bible Verse:** "Sing to the Lord, all the earth; proclaim his salvation day after day. Declare his glory among the nations, his marvelous deeds among all peoples." - [1 Chronicles 16:23-24](https://www.bibleref.com/1-Chronicles/16/1-Chronicles-16-23.html)
+**Bible Verse:** "Sing to the Lord, [all the earth](/black-church-congregational-songs); proclaim his salvation day after day. Declare his glory among the nations, his marvelous deeds among all peoples." - [1 Chronicles 16:23-24](https://www.bibleref.com/1-Chronicles/16/1-Chronicles-16-23.html)
 
 - Baptists may have a stronger emphasis on the authority of scripture and doctrinal teachings in their worship services, while non-denominational churches may focus more on personal experiences and spiritual growth.
 - Non-denominational churches may be more open to incorporating elements from different Christian traditions or cultural practices into their worship services, creating a diverse and inclusive environment.

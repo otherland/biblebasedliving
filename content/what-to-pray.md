@@ -32,7 +32,7 @@ Prayer is not only about asking for our needs but also about developing a deeper
 
 ### a) Set Aside Dedicated Time for Prayer
 
-In our busy lives, it can be easy to neglect prayer or rush through it. Setting aside a specific time each day for prayer helps us prioritize our communion with God. Whether it's in the morning, during lunch breaks, or before bed, find a time that works best for you and commit to spending it in dedicated prayer.
+In [our busy lives](/devotional-resources), it can be easy to neglect prayer or rush through it. Setting aside a specific time each day for prayer helps us prioritize our communion with God. Whether it's in the morning, during lunch breaks, or before bed, find a time that works best for you and commit to spending it in dedicated prayer.
 
 **Biblical Support:** In [Mark 1:35](https://www.bibleref.com/Mark/1/Mark-1-35.html), we see Jesus setting an example by finding a solitary place to pray: "And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed." This verse reminds us of the importance of carving out focused time for prayer.
 

@@ -47,7 +47,7 @@ MercyMe gained widespread recognition with their hit song "I Can Only Imagine." 
 Hillsong United is a worship band that has produced numerous powerful anthems, including "Oceans (Where Feet May Fail)" and "Mighty To Save." Known for their passionate live performances, Hillsong United has inspired countless believers to worship and draw closer to God.
 
 ### Bible References
-- [Psalm 96:1-2](https://www.bibleref.com/Psalm/96/Psalm-96-1.html) (NIV) - "Sing to the Lord a new song; sing to the Lord, all the earth. Sing to the Lord, praise his name; proclaim his salvation day after day."
+- [Psalm 96:1-2](https://www.bibleref.com/Psalm/96/Psalm-96-1.html) (NIV) - "Sing to the Lord a new song; sing to the Lord, [all the earth](/black-church-congregational-songs). Sing to the Lord, praise his name; proclaim his salvation day after day."
 - [Ephesians 5:19](https://www.bibleref.com/Ephesians/5/Ephesians-5-19.html) (NIV) - "Speak to one another with psalms, hymns, and spiritual songs. Sing and make music from your heart to the Lord."
 
 These verses emphasize the power of music as a means of praising God and encouraging one another.
@@ -124,7 +124,7 @@ Christian music encourages participation, inviting believers to join together in
 
 ### Bible References
 - [Psalm 95:6](https://www.bibleref.com/Psalm/95/Psalm-95-6.html) (NIV) - "Come, let us bow down in worship, let us kneel before the Lord our Maker."
-- [Psalm 150:6](https://www.bibleref.com/Psalm/150/Psalm-150-6.html) (NIV) - "Let everything that has breath praise the Lord. Praise the Lord."
+- [Psalm 150:6](https://www.bibleref.com/Psalm/150/Psalm-150-6.html) (NIV) - "Let everything that has breath [praise the Lord](/prayers-for-healing-images-and-quotes). Praise the Lord."
 
 These verses emphasize the importance of bowing down in worship and praising God with everything we have.
 
