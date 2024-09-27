@@ -8,7 +8,7 @@ Tags: Christian voices UK media platforms, Church leaders public policy input, C
 Title: 'Christian Influence: Shaping Public Discourse with Faith'
 ---
 
-# The Influence of Christianity on Public Discourse
+## The Influence of Christianity on Public Discourse
 
 In today's world, the influence of Christianity on public discourse is a topic of great importance. As Christians, we are called to engage with the world around us and be salt and light in society. This means that our faith should inform our perspectives on various issues and shape the way we contribute to public discussions. In this article, we will explore the impact of Christian voices on public discourse, the role of church leaders in shaping public policy, [the Christian perspective](/restricting-divorce-grounds) on current events, the influence of faith-based think tanks, and the prominence of Christian public intellectuals.
 
@@ -55,7 +55,4 @@ Christian public intellectuals have played a significant role in shaping public 
 Christian public intellectuals contribute to public discourse by offering thoughtful analysis and critique of prevailing ideologies and worldviews. They challenge secular assumptions and provide reasoned arguments for the relevance of Christian values in contemporary society. Through their writings, speeches, and engagements in academic and public forums, they shape the narrative on important issues.
 
 Prominent Christian public intellectuals have contributed to fields such as philosophy, theology, ethics, and social sciences. Their work addresses questions of meaning, purpose, truth, and the relationship between faith and reason. By engaging with these ideas, individuals can gain a deeper understanding of the Christian perspective on various issues and be better equipped to contribute to public discourse.
-
-## Conclusion
-
 Christianity has a significant influence on public discourse through the voices of Christians in media platforms, the input of church leaders in public policy discussions, the Christian perspective on current events, the influence of faith-based think tanks, and the prominence of Christian public intellectuals. As Christians, we are called to engage with the world around us and bring our faith to bear on important societal issues. By actively participating in public discourse, we can offer a unique perspective rooted in biblical principles and values. As we seek to be faithful witnesses in [the public square](/policy-influence-christian), let us remember the words of Jesus: "You are the light of the world. A city set on a hill cannot be hidden" ([Matthew 5:14](https://www.bibleref.com/Matthew/5/Matthew-5-14.html)).

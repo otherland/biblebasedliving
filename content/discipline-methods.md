@@ -8,7 +8,7 @@ Tags: Biblical corporal punishment UK, Godly discipline child-rearing, Christian
 Title: '7 Biblical Discipline Methods for Christian Parents: A Comprehensive Guide'
 ---
 
-# Discipline Methods: A Biblical Perspective
+## Discipline Methods: A Biblical Perspective
 
 Disciplining children is an important aspect of parenting, as it helps shape their behavior and character. As Christians, we are called to raise our children in a Godly manner, instilling biblical values and principles in their lives. In this article, we will explore discipline methods from a staunchly conservative, biblical perspective, addressing key questions and providing biblically-grounded answers.
 

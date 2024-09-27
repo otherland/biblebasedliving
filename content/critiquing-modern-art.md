@@ -9,9 +9,6 @@ Title: 'Redeeming Modern Art: A Christian Critique and Perspective'
 ---
 
 ## Critiquing Modern Art from a Christian Perspective
-
-### Introduction
-
 Modern art has always been a subject of controversy and debate, often challenging traditional aesthetic standards and pushing the boundaries of artistic expression. As Christians, it is important to approach the critique of modern art from a biblical perspective, seeking to understand and evaluate its impact on our faith and society. In this article, we will explore eight key questions about critiquing modern art from a staunchly conservative, biblical viewpoint.
 
 ### What is the role of art in [the Christian faith](/what-to-pray)?
@@ -81,7 +78,4 @@ Modern art can serve as a powerful tool for evangelism and discipleship by engag
 Bible Verses:
 - [Matthew 5:16](https://www.bibleref.com/Matthew/5/Matthew-5-16.html) - "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven."
 - 1 Corinthians 9:22b - "...I have become all things to all people so that by all possible means I might save some."
-
-### Conclusion
-
 Critiquing modern art from a Christian perspective requires discernment, wisdom, and a commitment to biblical truth. While modern art may challenge traditional Christian values and aesthetic standards, it also presents opportunities for meaningful engagement, cultural impact, and spiritual transformation. By approaching modern art with a critical mindset rooted in Scripture, we can navigate its complexities while upholding our faith and glorifying God in all aspects of life.

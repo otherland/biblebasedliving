@@ -8,7 +8,7 @@ Tags: Conservative vs liberal Christian art, Theological controversies literatur
 Title: 'Theological Artistry: Unveiling Divine Debates in Christian Expression'
 ---
 
-# Theological Debate in Arts: Defending Orthodoxy in Creative Works
+## Theological Debate in Arts: Defending Orthodoxy in Creative Works
 
 The intersection of theology and the arts has been a subject of ongoing debate within Christian circles. As artists seek to express their faith through their creative works, theological controversies often arise. These debates can be seen in the realm of literature, visual arts, music, and other forms of artistic expression. In this article, we will explore [some key questions](/biblical-view-of-race) related to the theological debate in the arts, defending orthodoxy in creative works from a [conservative Christian perspective](/identifying-marxist-influence).
 

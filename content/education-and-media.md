@@ -55,8 +55,7 @@ Christian alternative public education offers a compelling alternative for famil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eM70lm9aKO0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-[Source Material - Understanding What is Educational Media: A Comprehensive Guide](https://exquisitiveeducation.com/what-is-educational-media/)
-
+[
 ## Detecting Media Bias Against Christianity: A Call for Critical Discernment
 
 In today's media landscape, bias against Christianity is prevalent and often subtle. While the media claims to provide objective reporting, a closer examination reveals a consistent pattern of negative portrayal and misrepresentation of Christian beliefs and values. As Christians, it is crucial to discern media bias and equip ourselves with the tools necessary to engage with media in a critical and discerning manner. This section will explore strategies for detecting media bias against Christianity and how to respond as faithful followers of Christ.

@@ -8,7 +8,7 @@ Tags: Countering secular humanism literature, Christian resistance atheist autho
 Title: 7 Strategies to Defend Your Faith Against Secular Influences
 ---
 
-# Resisting Secular Influence: A Biblical Perspective
+## Resisting Secular Influence: A Biblical Perspective
 
 Secular influence has become increasingly pervasive in our modern society, challenging [the Christian faith](/resisting-lgbtq-education) and traditional values. As believers, it is crucial that we understand how to resist secular influence and uphold biblical principles in every aspect of our lives. In this article, we will address [eight key questions](/protecting-young-minds) about resisting secular influence from a staunchly conservative, biblical perspective.
 

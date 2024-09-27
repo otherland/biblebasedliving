@@ -8,7 +8,7 @@ Tags: Exposing liberal Christian writers, Biblical critique progressive theology
 Title: 'Unveiling Truth: Critiquing Progressive Christian Authors for Spiritual Growth'
 ---
 
-# Critiquing Progressive Christian Authors
+## Critiquing Progressive Christian Authors
 
 Progressive Christianity has gained traction in recent years, challenging traditional Christian beliefs and interpretations. As conservative Christians, it is important for us to critically examine the writings of progressive Christian authors to ensure that their teachings align with biblical truth. In this article, we will address [eight key questions](/critiquing-modern-art) regarding the critique of progressive Christian authors from a conservative, biblical perspective.
 

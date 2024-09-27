@@ -8,7 +8,7 @@ Tags: Father-led Christian households, Biblical submission in marriage, Raising 
 Title: 'Faith-Filled Family Structure: Building a Strong Foundation in Christ'
 ---
 
-# [The Biblical Perspective](/critiquing-feminist-theology) on Family Structure
+## [The Biblical Perspective](/critiquing-feminist-theology) on Family Structure
 
 Family structure is a topic of great importance in the Christian faith. As followers of Christ, it is essential that we understand and adhere to biblical principles when it comes to our families. In this article, we will explore [eight key questions](/identifying-marxist-influence) about family structure from a staunchly conservative, biblical perspective.
 

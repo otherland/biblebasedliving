@@ -1,4 +1,4 @@
-# Genus
+## Genus
 
 Genus is a theme for [Pelican](http://blog.getpelican.com/) static site generator designed mobile first and SEO in mind.
 

@@ -61,9 +61,3 @@ In conclusion, promoting Orthodox Christian literature is essential for [the spi
 > "Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom..." - [Colossians 3:16](https://www.bibleref.com/Colossians/3/Colossians-3-16.html) ESV
 
 > "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness." - [2 Timothy 3:16](https://www.bibleref.com/2-Timothy/3/2-Timothy-3-16.html) ESV
-
-[^1]: Source: [Recommended Readings](https://www.oca.org/orthodoxy/recommended-readings)
-[^2]: Source: [Recommended Readings](https://www.oca.org/orthodoxy/recommended-readings)
-[^3]: Source: [Recommended Readings](https://www.oca.org/orthodoxy/recommended-readings)
-[^4]: Source: [Recommended Readings](https://www.oca.org/orthodoxy/recommended-readings)
-[^5]: Source: [Recommended Readings](https://www.oca.org/orthodoxy/recommended-readings)

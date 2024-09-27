@@ -53,22 +53,18 @@ In addition to using effective Bible study methods, there are various tools that
 ### Study Bibles
 Study Bibles provide additional resources such as commentary, explanatory notes, cross-references, and study guides that help us navigate through the text and gain deeper insights into its meaning.
 
-**Source Material:** 6 Bible Study Methods You Need to Know (and Try) by Aaron Armstrong
 
 ### Concordances
 Concordances are comprehensive indexes that allow us to search for specific words or topics in the Bible. They provide a list of verses where a particular word or topic appears, helping us find related passages and gain a broader perspective on the subject.
 
-**Source Material:** How to Study the Bible - 3 Simple Steps
 
 ### Commentaries
 Commentaries are written by scholars and theologians who provide in-depth explanations and interpretations of the Bible. They offer insights into the historical, cultural, and literary context of the text, helping us understand its original meaning and application.
 
-**Source Material:** 6 Bible Study Methods You Need to Know (and Try) by Aaron Armstrong
 
 ### Lexicons and Dictionaries
 Lexicons and dictionaries provide definitions and explanations of key words in the original languages of the Bible (Hebrew, Aramaic, and Greek). They help us explore the nuances of biblical terms and deepen our understanding of their significance.
 
-**Source Material:** How to Study the Bible: A Complete Beginner's Guide
 
 ### Online Resources and Bible Apps
 There are numerous online resources and Bible apps available that offer a wide range of study tools, including multiple translations, commentaries, concordances, audio versions, and study plans. These resources can greatly enhance our study experience and provide convenient access to valuable information.
@@ -77,7 +73,6 @@ There are numerous online resources and Bible apps available that offer a wide r
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r6LXHB2p0Ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-**Source Material:** How to Study the Bible: A Complete Beginner's Guide
 
 ## 4. How can we gain a deeper understanding of Scripture?
 
@@ -108,17 +103,14 @@ Developing a consistent Bible study habit requires discipline and intentionality
 ### 1. Set aside dedicated time
 Schedule a specific time each day or week for Bible study and stick to it. Treat it as a priority and commit to spending uninterrupted, focused time with God's Word.
 
-**Source Material:** 11 Ways to Study the Bible: Methods, Techniques & Tips
 
 ### 2. Find a quiet and comfortable space
 Choose a quiet and comfortable space where you can concentrate on studying the Bible without distractions. Create an environment that fosters a sense of peace and solitude, allowing you to focus on God's Word.
 
-**Source Material:** How to Study the Bible: A Complete Beginner's Guide
 
 ### 3. Use study aids and resources
 Utilize study aids such as study Bibles, commentaries, and online resources to enhance your understanding of Scripture. These tools can provide valuable insights, context, and guidance in your study.
 
-**Source Material:** 11 Ways to Study the Bible: Methods, Techniques & Tips
 
 ## 6. How can we apply what we learn from studying the Bible?
 

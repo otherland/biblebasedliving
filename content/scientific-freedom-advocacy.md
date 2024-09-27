@@ -8,7 +8,7 @@ Tags: Christian scientists academic freedom, Religious discrimination science ca
 Title: 'Championing Scientific Freedom: A Christian Perspective on Advocacy'
 ---
 
-# Scientific Freedom Advocacy: A Biblical Perspective
+## Scientific Freedom Advocacy: A Biblical Perspective
 
 Scientific freedom advocacy is a topic of increasing significance in today's world. As Christians, we are called to engage with this issue from a staunchly conservative, biblical perspective. In this article, we will explore [eight key questions](/divine-design-in-nature) related to scientific freedom advocacy and provide thorough, biblically-grounded answers.
 

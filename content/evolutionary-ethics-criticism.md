@@ -8,7 +8,7 @@ Tags: Christian response evolutionary morality, Exposing social Darwinism danger
 Title: 'Unveiling the Flaws in Evolutionary Ethics: A Christian Perspective'
 ---
 
-# Evolutionary Ethics: A Critique from a Christian Perspective
+## Evolutionary Ethics: A Critique from a Christian Perspective
 
 Evolutionary ethics is a field of inquiry that seeks to understand the link between evolutionary theory and ethics or morality. It proposes that morality is a result of natural selection, rather than divine revelation or rational faculties. As Christians, we must critically examine this perspective and evaluate it in light of the biblical teachings on ethics and morality. In this article, we will address [eight key questions](/fossil-record-interpretation) about evolutionary ethics from a staunchly conservative, biblical perspective.
 

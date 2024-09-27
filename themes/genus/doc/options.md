@@ -1,4 +1,4 @@
-# Theme Options
+## Theme Options
 
 The options provided by the theme are listed below. There are still only few of
 them and more will be added along the development. However, the goal is to keep

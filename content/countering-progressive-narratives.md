@@ -8,7 +8,7 @@ Tags: Christian counter-narrative literature, Resisting leftist propaganda art, 
 Title: '10 Powerful Strategies to Combat Progressive Narratives: A Christian Perspective'
 ---
 
-# Countering Progressive Narratives: A [Conservative Christian Perspective](/curriculum-integration)
+## Countering Progressive Narratives: A [Conservative Christian Perspective](/curriculum-integration)
 
 In today's society, progressive narratives are becoming increasingly prevalent, shaping cultural norms and influencing public opinion. As conservative Christians, it is essential to counter these narratives with a biblical worldview rooted in the unchanging truth of God's Word. In this article, we will explore [eight key questions](/critiquing-modern-art) about countering progressive narratives, providing thorough and biblically-grounded answers from a staunchly conservative perspective.
 

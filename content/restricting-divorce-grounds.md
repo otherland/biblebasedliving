@@ -8,7 +8,7 @@ Tags: Biblical grounds divorce UK, Tightening divorce laws Christians, Fault-bas
 Title: Ultimate Guide to Christian Perspectives on Restricting Divorce Grounds
 ---
 
-# Restricting Divorce Grounds: A Biblical Perspective
+## Restricting Divorce Grounds: A Biblical Perspective
 
 Throughout history, the institution of marriage has been upheld as sacred and foundational to society. However, in recent years, there has been a growing movement to loosen the grounds for divorce, allowing couples to dissolve their marriages for reasons that may not align with conservative Christian values. As Christians, it is important for us to understand and uphold the biblical perspective on divorce and advocate for restrictions on divorce grounds that align with God's design for marriage.
 

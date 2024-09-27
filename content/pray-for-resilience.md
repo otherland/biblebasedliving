@@ -80,9 +80,6 @@ In Jesus' name, Amen.
 
 - "Do not be anxious about anything, but in everything by [prayer and supplication](/scripture-on-prayer-and-supplication) with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus." ([Philippians 4:6-7](https://www.bibleref.com/Philippians/4/Philippians-4-6.html))
 - "Cast all your anxieties on him because he cares for you." ([1 Peter 5:7](https://www.bibleref.com/1-Peter/5/1-Peter-5-7.html))
-
-## Conclusion
-
 Resilience is a quality that enables us to face life's challenges with unwavering faith and determination. Through prayer, we can draw near to God, seeking His guidance, finding comfort in His presence, and surrendering our burdens to Him. By praying for resilience, we invite God to work within us, strengthening our inner being and enabling us to endure difficult circumstances with grace.
 
 As you journey through life, remember that God is always ready to listen to your prayers. Seek His wisdom and guidance, find comfort in His presence, and surrender your burdens into His capable hands. Through prayer, you can develop resilience and experience [the transformative power](/journey-to-faith-understanding-and-embracing-christianity) of God's love in your life.

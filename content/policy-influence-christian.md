@@ -8,7 +8,7 @@ Tags: UK education policy ID inclusion, Christian MPs supporting ID, Lobbying fo
 Title: 'Influential Christian Policies: Transforming Faith and Society'
 ---
 
-# The Influence of Christian Beliefs on Public Policy
+## The Influence of Christian Beliefs on Public Policy
 
 Public policy plays a significant role in shaping the values and principles that govern a society. For Christians, the influence of their beliefs on public policy is of utmost importance. As followers of Christ, they are called to engage with the world and seek justice, mercy, and the flourishing of their neighbors. In this article, we will explore [eight key questions](/curriculum-integration) about the influence of Christian beliefs on public policy and provide biblically-grounded answers.
 

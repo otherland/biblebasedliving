@@ -8,7 +8,7 @@ Tags: UK Christian realist painting, Figurative sculpture religious themes, Narr
 Title: 'Reviving Faith: 7 Ways to Promote Figurative Christian Art'
 ---
 
-# Promoting Figurative Christian Art
+## Promoting Figurative Christian Art
 
 Figurative Christian art is a powerful medium for expressing and exploring the depths of Christian faith. It allows artists to visually represent biblical stories, theological concepts, and spiritual truths through the use of realistic and symbolic imagery. Promoting figurative Christian art is essential to preserve and celebrate the rich artistic heritage of Christianity, as well as to provide a platform for contemporary artists who continue to create meaningful and thought-provoking works.
 
@@ -57,9 +57,6 @@ Promoting representational Christian artists in the UK is crucial for preserving
 5. **Artist Residencies**: Establish artist residencies that focus on representational Christian art. These programs can provide artists with dedicated time and space to create, as well as opportunities to engage with the local community.
 
 By actively promoting representational Christian artists in the UK, we can ensure that this vibrant tradition of figurative art continues to flourish and impact believers and non-believers alike.
-
-## Conclusion
-
 Figurative Christian art holds immense value in expressing and exploring the depths of Christian faith. It promotes spiritual reflection, deepens believers' understanding of the Bible, and provides a visual representation of biblical narratives. Narrative Christian art exhibitions and contemporary depictions of biblical scenes further contribute to the rich tradition of Christian art. By promoting representational Christian artists in the UK, we can support their work and ensure the continued growth and impact of this important artistic tradition. Let us embrace and celebrate the beauty and power of figurative Christian art, as it continues to inspire, challenge, and uplift believers in their faith journey.
 
 ---
@@ -70,7 +67,6 @@ Figurative Christian art holds immense value in expressing and exploring the dep
 
 2. [Colossians 3:23](https://www.bibleref.com/Colossians/3/Colossians-3-23.html) (ESV): "Whatever you do, work heartily, as for the Lord and not for men."
 
-**Source Material:**
 
 - Seeing & Believing: Christian Imagery in Painting Now
 - Unlocking Hidden Symbolism in Christian Art
