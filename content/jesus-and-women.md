@@ -4,7 +4,7 @@ Date: '2024-05-09'
 Description: Discover how Jesus interacted with women in a groundbreaking exploration of gender equality and empowerment in biblical times. Gain insights into the profound impact of Jesus' teachings on women's roles and status.
 Image: images/1029b5204363f290621272ee920bc233-20240927154504.jpg
 Slug: jesus-and-women
-Tags: null
+Tags: christianity
 Title: 'Empowering Women Through Jesus: A Comprehensive Guide for Christian Readers'
 ---
 

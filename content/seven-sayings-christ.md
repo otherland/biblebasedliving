@@ -4,7 +4,7 @@ Date: '2024-08-25'
 Description: Discover the profound significance of the "Seven Sayings of Christ" on the cross. Explore the powerful messages behind each statement in this enlightening article.
 Image: images/c128bfeba077d62ff762986f97762202-20240927160005.jpg
 Slug: seven-sayings-christ
-Tags: null
+Tags: christianity
 Title: '7 Powerful Sayings of Christ: Inspiring Words for Christian Faith'
 ---
 

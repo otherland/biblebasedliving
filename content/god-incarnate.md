@@ -4,7 +4,7 @@ Date: '2024-05-07'
 Description: Discover the profound concept of God incarnate, exploring the divine manifestation in human form and its significance across religions. Explore the idea of deity taking on flesh and dwelling among humanity.
 Image: images/752807385e17037f134e62b9ccdae66b-20240927153906.jpg
 Slug: god-incarnate
-Tags: null
+Tags: christianity
 Title: 'Emmanuel: Understanding the Divine Concept of God Incarnate'
 ---
 

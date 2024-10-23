@@ -4,7 +4,7 @@ Date: '2024-08-27'
 Description: Discover the timeless message of love in the song "Jesus Loves the Little Children." Explore the significance and impact of this beloved hymn.
 Image: images/2429cc2f8c2dc18013c48338340418a2-20240927154507.jpg
 Slug: jesus-loves-the-little-children
-Tags: null
+Tags: christianity
 Title: 'Jesus'' Love for Children: Embracing His Compassionate Heart'
 ---
 

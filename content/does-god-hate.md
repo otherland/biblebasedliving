@@ -4,7 +4,7 @@ Date: '2024-06-28'
 Description: 'Discover the age-old question: "Does God hate?" Explore various perspectives and religious beliefs on this contentious topic. Delve into the complexities of divine love and judgment.'
 Image: images/ffa278f27232aa7bed9a021fa9ae684b-20240927144544.jpg
 Slug: does-god-hate
-Tags: null
+Tags: christianity
 Title: Does God Hate? Exploring the Truth Behind Divine Love and Judgment
 ---
 

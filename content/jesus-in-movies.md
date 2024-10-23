@@ -4,7 +4,7 @@ Date: '2024-04-09'
 Description: Explore the cinematic portrayals of Jesus in movies throughout history, capturing the diverse interpretations and impact on audiences. Discover how filmmakers have depicted the iconic figure in various genres and styles.
 Image: images/525906782dd92092359cd28e8119f559-20240927153758.jpg
 Slug: jesus-in-movies
-Tags: null
+Tags: christianity
 Title: Top 10 Inspiring Jesus Movies Every Christian Must Watch
 ---
 

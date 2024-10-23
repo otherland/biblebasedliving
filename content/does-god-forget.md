@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/He Cares for Us"
+Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-08-31'
 Description: Discover the concept of divine forgetfulness and whether God forgets in this insightful article exploring the nature of God's memory.
 Image: images/61c247550aab6e88dbebcc584e3b0966-20240927150318.jpg
 Slug: does-god-forget
-Tags: null
+Tags: christianity
 Title: Does God Forget? Exploring the Unwavering Memory of the Divine
 ---
 

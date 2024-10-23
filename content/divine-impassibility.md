@@ -4,7 +4,7 @@ Date: '2024-07-02'
 Description: Discover the theological concept of divine impassibility in this insightful article. Explore how this belief shapes our understanding of the nature of God and His interactions with the world.
 Image: images/d7199e47ed5aa1f0c7806b522b3ed4e8-20240927144531.jpg
 Slug: divine-impassibility
-Tags: null
+Tags: christianity
 Title: 'Understanding Divine Impassibility: The Unchanging Nature of God'
 ---
 

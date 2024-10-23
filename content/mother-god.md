@@ -3,7 +3,7 @@ Category: God/The Identity of God/The Faulty Assumptions
 Date: '2024-07-14'
 Description: Discover the concept of Mother God in various cultures and religions, exploring the divine feminine essence and its significance throughout history. Explore the diverse interpretations and roles of Mother God across different belief systems.
 Slug: mother-god
-Tags: null
+Tags: christianity
 Title: Unveiling the Divine Mystery of the Mother God in Christianity
 ---
 

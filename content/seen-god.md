@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Toward All People"
+Category: God/God's Relationship to Us/Toward All People
 Date: '2024-09-16'
 Description: Discover personal accounts of individuals who claim to have seen God firsthand, exploring the impact of these experiences on their lives. Explore the profound encounters with the divine in this thought-provoking article.
 Image: images/31b10f979885a1179af6da31a71cd3ab-20240927145831.jpg
 Slug: seen-god
-Tags: null
+Tags: christianity
 Title: 'Encountering the Divine: 7 Transformative Ways Christians Have Seen God'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-06-15'
 Description: Explore the humanity of Jesus in this enlightening article, delving into the compassionate and relatable aspects of his life on Earth. Discover how Jesus's human experiences resonate with believers today.
 Image: images/da132526e7107661484d11c678973e0b-20240927154223.jpg
 Slug: humanity-of-jesus
-Tags: null
+Tags: christianity
 Title: 'Revealing the Divine Humanity of Jesus: A Christian Exploration'
 ---
 

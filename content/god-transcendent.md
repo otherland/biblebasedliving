@@ -4,7 +4,7 @@ Date: '2024-05-11'
 Description: Explore the concept of God transcendent in this enlightening article, delving into the divine nature beyond human understanding. Discover the essence of a deity beyond worldly confines.
 Image: images/642398055750549589afc0f99569b6d7-20240927144100.jpg
 Slug: god-transcendent
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Transcendent Nature of God: A Divine Encounter for Christian Souls'
 ---
 

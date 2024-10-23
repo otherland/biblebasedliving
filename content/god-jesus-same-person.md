@@ -4,7 +4,7 @@ Date: '2024-07-15'
 Description: Discover the intriguing concept of whether God and Jesus are the same person in this thought-provoking article exploring religious beliefs and theological perspectives.
 Image: images/f5bcfab386603afe0c4e8faa7f974e24-20240927153909.jpg
 Slug: god-jesus-same-person
-Tags: null
+Tags: christianity
 Title: 'Ultimate Revelation: God and Jesus - One Divine Entity Revealed'
 ---
 

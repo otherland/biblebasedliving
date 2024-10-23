@@ -4,7 +4,7 @@ Date: '2024-04-26'
 Description: Explore the concept of Tritheism and its relation to the Trinity doctrine in Christian theology. Understand the distinctions and debates surrounding the belief in three separate divine beings.
 Image: images/883f9a9971e714901546dd8c6b276e94-20240927143509.jpg
 Slug: tritheism-trinity
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Divine Mystery: Understanding Tritheism and the Holy Trinity'
 ---
 

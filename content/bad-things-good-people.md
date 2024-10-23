@@ -4,7 +4,7 @@ Date: '2024-09-20'
 Description: Discover how good people navigate challenging situations and cope with the complexities of life when faced with bad circumstances in this insightful article.
 Image: images/abc0fd91035856154030d3d0bec3c29b-20240927152806.jpg
 Slug: bad-things-good-people
-Tags: null
+Tags: christianity
 Title: 'Redeeming Bad Things in Good People: A Christian Perspective'
 ---
 

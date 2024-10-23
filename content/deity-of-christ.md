@@ -3,7 +3,7 @@ Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-06-06'
 Description: Discover the deity of Christ and explore the theological significance of Jesus being considered divine in Christianity. Explore key aspects of this fundamental belief.
 Slug: deity-of-christ
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Deity of Christ: The Ultimate Truth for Christian Believers'
 ---
 

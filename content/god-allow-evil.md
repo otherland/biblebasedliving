@@ -4,7 +4,7 @@ Date: '2024-05-11'
 Description: Explore the age-old question of why God allows evil in the world. Delve into philosophical, religious, and ethical perspectives on this complex issue.
 Image: images/5f468dc3f2db512694bda2b9afeb79d3-20240927151809.jpg
 Slug: god-allow-evil
-Tags: null
+Tags: christianity
 Title: Why Does God Allow Evil? Understanding the Divine Purpose
 ---
 

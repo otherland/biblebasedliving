@@ -4,7 +4,7 @@ Date: '2024-07-25'
 Description: Explore the mystery of the empty tomb in this captivating article. Uncover the secrets behind this historical event and its significance.
 Image: images/ac658ef08d8450eeea89e7bbf7a9e825-20240927160325.jpg
 Slug: empty-tomb
-Tags: null
+Tags: christianity
 Title: '**Unveiling the Power of the Empty Tomb: A Christian''s Redemption Story**'
 ---
 

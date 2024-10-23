@@ -4,7 +4,7 @@ Date: '2024-04-17'
 Description: Explore the presence of Jesus in every book of the Bible, revealing the continuity and significance of His role throughout Scripture. Uncover the deep connections and themes that showcase Jesus from Genesis to Revelation.
 Image: images/2f3beabaa698d7bba7a490c509d8988b-20240927153328.jpg
 Slug: jesus-in-every-book-of-the-bible
-Tags: null
+Tags: christianity
 Title: 'Discover Jesus in Every Book of the Bible: A Comprehensive Christian Journey'
 ---
 

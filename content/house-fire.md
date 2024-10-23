@@ -2,9 +2,7 @@
 Category: God/God and Evil/Hardships
 Date: '2024-06-03'
 Description: Discover how to prevent house fires and learn essential safety tips in case of a fire emergency. Stay informed and protect your home and loved ones.
-Image: images/d9d9fdd796df9bf76e48855e4e72fd25-20240927152926.jpg
 Slug: house-fire
-Tags: null
 Title: 'Divine Hope Amid House Fire Tragedies: 5 Ways Christians Can Find Strength'
 ---
 

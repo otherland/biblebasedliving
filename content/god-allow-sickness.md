@@ -3,7 +3,7 @@ Category: God/God and Evil/Health Problems
 Date: '2024-08-06'
 Description: Explore the complex topic of why God allows sickness in this thought-provoking article that delves into the theological aspects of suffering and divine providence.
 Slug: god-allow-sickness
-Tags: null
+Tags: christianity
 Title: Why Does God Allow Sickness? Understanding Divine Healing
 ---
 

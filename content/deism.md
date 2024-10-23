@@ -4,7 +4,7 @@ Date: '2024-05-14'
 Description: Explore the principles of deism - a belief in a higher power based on reason and nature, without reliance on revealed religion. Understand the core tenets and historical significance of this philosophical stance.
 Image: images/1afc6f07907da1847675225930c95eed-20240927145727.jpg
 Slug: deism
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Truth About Deism: A Christian Perspective on God''s Plan'
 ---
 

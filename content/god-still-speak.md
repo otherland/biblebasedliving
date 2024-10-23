@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/He Cares for Us"
+Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-05-04'
 Description: Discover the profound belief that God still speaks to individuals, exploring the ways in which divine communication can be experienced in everyday life. Explore the significance and impact of listening for God's voice in a modern context.
 Image: images/0310e0f69c874543d587f5d1b642f126-20240927150502.jpg
 Slug: god-still-speak
-Tags: null
+Tags: christianity
 Title: 'Divine Revelation: God''s Continued Communication with His Believers'
 ---
 

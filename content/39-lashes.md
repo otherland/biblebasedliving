@@ -4,7 +4,7 @@ Date: '2024-07-16'
 Description: Discover the historical significance and cultural implications of the "39 lashes" punishment in various societies, delving into its origins and impact. Explore the enduring legacy of this severe form of corporal punishment.
 Image: images/902758739ba4ea0c062db71bcd407236-20240927155916.jpg
 Slug: 39-lashes
-Tags: null
+Tags: christianity
 Title: 'Unlocking the Mystery of 39 Lashes: A Deep Dive into Biblical Punishment'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-08-07'
 Description: Explore the historical debate surrounding whether Jesus had children, delving into religious texts and scholarly interpretations to uncover the truth.
 Image: images/7e93967f41f353a7ff014b323a975e65-20240927155421.jpg
 Slug: did-jesus-have-children
-Tags: null
+Tags: christianity
 Title: Did Jesus Have Children? Unveiling the Truth According to Scriptures
 ---
 

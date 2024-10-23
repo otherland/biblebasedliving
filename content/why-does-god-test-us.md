@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Father-God"
+Category: God/God's Relationship to Us/Father-God
 Date: '2024-07-26'
 Description: Discover why God tests us and the significance behind these trials in our spiritual journey. Explore the reasons and lessons behind God's tests.
 Image: images/e2ec706a03478df5abed6ec9a704fd8c-20240927150103.jpg
 Slug: why-does-god-test-us
-Tags: null
+Tags: christianity
 Title: 'Why Does God Test Us: Unveiling the Purpose Behind Trials'
 ---
 

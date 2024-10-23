@@ -4,7 +4,7 @@ Date: '2024-04-07'
 Description: Discover the significance of Jesus as a Nazirite in this insightful article. Explore the spiritual implications and historical context of this unique aspect of Jesus' life.
 Image: images/fd5b977cb3736ea6029b1237cfdf48f7-20240927155522.jpg
 Slug: jesus-nazirite
-Tags: null
+Tags: christianity
 Title: 'Discovering the Divine Truth: Jesus the Nazirite Revealed'
 ---
 

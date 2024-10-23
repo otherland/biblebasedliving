@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Toward All People"
+Category: God/God's Relationship to Us/Toward All People
 Date: '2024-06-26'
 Description: Discover the power and purpose of prayers for unbelievers in this insightful article. Explore how to intercede effectively for those who have not yet embraced faith.
 Image: images/1a4197db4f7f3d26df354a0ee1d2ba5a-20240927145948.jpg
 Slug: unbeliever-prayer
-Tags: null
+Tags: christianity
 Title: Powerful Unbeliever Prayer Strategies for Christian Victory
 ---
 

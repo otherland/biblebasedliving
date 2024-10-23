@@ -4,7 +4,7 @@ Date: '2024-05-25'
 Description: Discover the power and beauty of praising God in this uplifting article. Explore the significance of worship and gratitude in spiritual practice.
 Image: images/d6e9d91176fdace5f6c706c20b34228a-20240927151412.jpg
 Slug: praise-god
-Tags: null
+Tags: christianity
 Title: 'Praise God: 7 Transformative Ways to Deepen Your Worship Experience'
 ---
 

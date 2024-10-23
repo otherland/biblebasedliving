@@ -4,7 +4,7 @@ Date: '2024-05-16'
 Description: Discover the concept of why some believe that God cannot be proven scientifically. Explore the philosophical and theological perspectives in this compelling article.
 Image: images/722165d4a2603c15750277660bae64f8-20240927143834.jpg
 Slug: god-cannot
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Limitations of What God Cannot Do: A Christian Perspective'
 ---
 

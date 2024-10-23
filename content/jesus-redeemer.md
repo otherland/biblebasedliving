@@ -3,7 +3,7 @@ Category: Jesus Christ/The Ministry of Jesus/Salvation
 Date: '2024-05-12'
 Description: Discover the transformative power of Jesus as the Redeemer in this enlightening article. Explore how His love and sacrifice offer redemption and salvation to all.
 Slug: jesus-redeemer
-Tags: null
+Tags: christianity
 Title: 'Jesus the Redeemer: Embracing Salvation and Grace'
 ---
 

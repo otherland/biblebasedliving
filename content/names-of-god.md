@@ -4,7 +4,7 @@ Date: '2024-09-08'
 Description: Discover the significance and various names of God across different religions in this enlightening article. Explore the rich tapestry of divine titles and their meanings.
 Image: images/c9711cecb41df76a10b579f159a4ef68-20240927145106.jpg
 Slug: names-of-god
-Tags: null
+Tags: christianity
 Title: 7 Divine Names of God Every Christian Should Know
 ---
 

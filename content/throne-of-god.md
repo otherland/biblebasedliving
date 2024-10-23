@@ -4,7 +4,7 @@ Date: '2024-05-29'
 Description: Discover the majesty and significance of the Throne of God in this insightful article. Unveil the divine symbolism and spiritual importance in under 160 characters.
 Image: images/9fa92b5d276f84c8524499e667752168-20240927144131.jpg
 Slug: throne-of-god
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Majesty: The Throne of God Revealed in Scripture'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-07-28'
 Description: Discover the enigmatic persona of Jesus – his teachings, compassion, and impact on humanity. Delve into the life of this historical figure.
 Image: images/bd19c04c128f5132b6b778d814e04e72-20240927154320.jpg
 Slug: what-was-jesus-like
-Tags: null
+Tags: christianity
 Title: 'Discover the Divine Nature of Jesus: A Christian Insight'
 ---
 

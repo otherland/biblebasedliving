@@ -4,7 +4,7 @@ Date: '2024-07-10'
 Description: Explore the trials of Jesus, pivotal events in Christian history that led to his crucifixion, with insights on the legal proceedings and religious implications. Delve into the dramatic accounts of Jesus' arrest, trial before Pontius Pilate, and eventual condemnation to uncover profound spiritual truths.
 Image: images/becfa57c7dcd521ac72a9fc2c0bfa6ab-20240927155820.jpg
 Slug: trials-of-jesus
-Tags: null
+Tags: christianity
 Title: 'The Divine Trials: Unveiling the Journey of Jesus'
 ---
 

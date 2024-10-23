@@ -4,7 +4,7 @@ Date: '2024-08-08'
 Description: Discover the profound significance of being resurrected with Jesus in this enlightening article. Explore the spiritual implications and transformative power of this divine experience.
 Image: images/666f3db4e26ea423ac08d13e504b1c14-20240927155814.jpg
 Slug: resurrected-with-jesus
-Tags: null
+Tags: christianity
 Title: 'Resurrected with Jesus: 5 Transformative Truths for Christian Believers'
 ---
 

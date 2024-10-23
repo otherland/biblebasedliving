@@ -4,7 +4,7 @@ Date: '2024-06-26'
 Description: Discover the reasons why Jesus did not marry and explore the theological, historical, and cultural perspectives surrounding this intriguing aspect of his life.
 Image: images/abe720c0d65139b06e9a5cf22d216c8f-20240927155423.jpg
 Slug: why-didnt-jesus-marry
-Tags: null
+Tags: christianity
 Title: 'Why Jesus Chose Celibacy: Unveiling the Divine Purpose'
 ---
 

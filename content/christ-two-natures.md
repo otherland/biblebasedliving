@@ -4,7 +4,7 @@ Date: '2024-04-02'
 Description: Explore the profound concept of Christ's two natures in this enlightening article, delving into the divine and human aspects of Jesus. Dive into the theological implications and significance of this fundamental belief.
 Image: images/f3a3fd195361a3f2d21790e57ab38e17-20240927154111.jpg
 Slug: christ-two-natures
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Divine Mystery: Christ''s Dual Nature Explained'
 ---
 

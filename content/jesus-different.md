@@ -4,7 +4,7 @@ Date: '2024-04-23'
 Description: Discover how Jesus was different from other historical figures in this insightful article. Explore unique aspects of his life and teachings.
 Image: images/b056399bfba664040d54a2a8f165a6cf-20240927153705.jpg
 Slug: jesus-different
-Tags: null
+Tags: christianity
 Title: 'Discover 5 Ways Jesus Stands Out: What Makes Him Different'
 ---
 

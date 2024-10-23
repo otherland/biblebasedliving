@@ -3,7 +3,7 @@ Category: God/Our Response to God/Knowing God
 Date: '2024-08-06'
 Description: Explore the concept of "God's will" in this insightful article, delving into the idea of divine guidance and purpose in our lives. Understand how belief in God's will shapes perspectives and influences decision-making.
 Slug: gods-will
-Tags: null
+Tags: christianity
 Title: 'Discovering God''s Will: A Christian''s Guide to Divine Guidance'
 ---
 

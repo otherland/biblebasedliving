@@ -4,7 +4,7 @@ Date: '2024-09-23'
 Description: Discover the profound significance of Jesus' Passover atonement in this insightful article. Explore the transformative power of His sacrifice and its implications for believers.
 Image: images/2b94e1866268b357ad2672738fef4da6-20240927160605.jpg
 Slug: jesus-passover-atonement
-Tags: null
+Tags: christianity
 Title: 'Jesus'' Ultimate Passover Atonement: Revealing the Divine Sacrifice'
 ---
 

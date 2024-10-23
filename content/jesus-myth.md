@@ -4,7 +4,7 @@ Date: '2024-06-26'
 Description: 'Unveiling the Jesus Myth: Explore the historical, religious, and scholarly perspectives surrounding the debate over the existence of Jesus. Delve into the controversies and evidence in this intriguing discourse.'
 Image: images/6e18584e096929bf14319056bc898b37-20240927153800.jpg
 Slug: jesus-myth
-Tags: null
+Tags: christianity
 Title: 'Debunking the Jesus Myth: Unveiling the Truth for Believers'
 ---
 

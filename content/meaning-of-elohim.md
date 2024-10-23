@@ -4,7 +4,7 @@ Date: '2024-07-16'
 Description: Learn about the significance and meaning of Elohim, a Hebrew term for God, in this insightful article exploring its theological and cultural implications.
 Image: images/aae73047464961303dfe965822a9906f-20240927145233.jpg
 Slug: meaning-of-elohim
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Profound Meaning of Elohim: A Christian Perspective'
 ---
 

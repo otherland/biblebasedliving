@@ -4,7 +4,7 @@ Date: '2024-05-02'
 Description: Discover the multifaceted character of God in this insightful article. Explore His attributes, nature, and role in shaping beliefs and spirituality.
 Image: images/0fde024509e0e96de34de10fdbf6fb62-20240927143914.jpg
 Slug: character-of-god
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Divine Character: Exploring the Heart of God'
 ---
 

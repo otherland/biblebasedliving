@@ -4,7 +4,7 @@ Date: '2024-09-25'
 Description: Discover the divine attributes and significance of God the Father in Christianity. Explore His role as the creator and sustainer of the universe.
 Image: images/3f87ff7c4fc62d1dc253ec660c71460a-20240927143559.jpg
 Slug: god-the-father
-Tags: null
+Tags: christianity
 Title: Discover the Divine Majesty of God the Father in Christian Faith
 ---
 

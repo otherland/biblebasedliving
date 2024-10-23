@@ -3,7 +3,7 @@ Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-04-04'
 Description: Discover how to keep your nails, hands, and wrists healthy with expert tips and remedies. Explore care routines and preventive measures.
 Slug: nails-hands-wrists
-Tags: null
+Tags: christianity
 Title: 'Renewing Your Hands, Nails, and Wrists: A Christian Guide to Inner Healing'
 ---
 

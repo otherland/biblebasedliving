@@ -4,7 +4,7 @@ Date: '2024-09-01'
 Description: Discover the intriguing concept of a "cosmic killjoy" in this article, exploring its meaning and implications in the realm of cosmic phenomena.
 Image: images/367b7b23bad71aefe0b3ed5f58740b18-20240927144258.jpg
 Slug: cosmic-killjoy
-Tags: null
+Tags: christianity
 Title: 'Unmasking the Cosmic Killjoy: Unlocking Joy and Freedom in Christ'
 ---
 

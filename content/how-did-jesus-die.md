@@ -4,7 +4,7 @@ Date: '2024-08-15'
 Description: Discover the historical account of Jesus' crucifixion, the events leading up to it, and the significance of how Jesus died.
 Image: images/861bce1e6fcf76f013b549f61c14242e-20240927160210.jpg
 Slug: how-did-jesus-die
-Tags: null
+Tags: christianity
 Title: 'How Jesus Died: Revealing the Ultimate Sacrifice'
 ---
 

@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/He Cares for Us"
+Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-06-03'
 Description: Discover the comforting embrace of God as our refuge in times of trouble and uncertainty. Explore the profound sense of safety and solace found in faith.
 Image: images/34f831ee417e5e7bb8e72b12051a9b5e-20240927150436.jpg
 Slug: god-our-refuge
-Tags: null
+Tags: christianity
 Title: 'Ultimate Refuge: God''s Unfailing Protection for Christians'
 ---
 

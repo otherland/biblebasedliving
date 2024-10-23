@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Father-God"
+Category: God/God's Relationship to Us/Father-God
 Date: '2024-04-17'
 Description: Discover the concept of God punishing sin and its implications on morality, justice, and spiritual beliefs. Explore the role of divine retribution in religious teachings.
 Image: images/59194a37bc79123ae3cde2d85fb7644c-20240927150040.jpg
 Slug: god-punish-sin
-Tags: null
+Tags: christianity
 Title: 'Divine Justice: Understanding How God Punishes Sin'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-08-28'
 Description: Explore the intriguing parallels between Jesus and Dionysus, delving into their similarities in mythology and religious symbolism. Uncover the fascinating connections between these two iconic figures in this thought-provoking article.
 Image: images/15ccb9d15872cf2e8202d0627a905ea9-20240927153804.jpg
 Slug: jesus-dionysus
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Divine Connection: Jesus and Dionysus Revealed'
 ---
 

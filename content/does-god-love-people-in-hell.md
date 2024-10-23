@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Toward All People"
+Category: God/God's Relationship to Us/Toward All People
 Date: '2024-08-22'
 Description: Explore the complex question of whether God loves people in hell, delving into theological perspectives and interpretations. Discover varying viewpoints on divine love and justice in the context of the afterlife.
 Image: images/8047b87595fa3dc2c77950f6b6b11a2f-20240927145954.jpg
 Slug: does-god-love-people-in-hell
-Tags: null
+Tags: christianity
 Title: Does God Love People in Hell? Understanding Divine Compassion
 ---
 

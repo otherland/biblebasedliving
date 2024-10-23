@@ -4,7 +4,7 @@ Date: '2024-09-05'
 Description: '"Discover the transformative journey of Jesus from his early life to the momentous start of his ministry at the age of thirty in this insightful article."'
 Image: images/2b9c73da6b7e0c613bc8fcb8ad15195b-20240927155225.jpg
 Slug: jesus-thirty-years-start-ministry
-Tags: null
+Tags: christianity
 Title: 'Unveiling Jesus: The Thirty-Year Journey to Ministry Unleashed'
 ---
 

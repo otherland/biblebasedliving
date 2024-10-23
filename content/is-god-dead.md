@@ -4,7 +4,7 @@ Date: '2024-04-10'
 Description: Discover the eternal debate on the existence of God and explore various perspectives on the question, "Is God dead?" in this thought-provoking article.
 Image: images/8b5e447519e7d7c202712af403127189-20240927145719.jpg
 Slug: is-god-dead
-Tags: null
+Tags: christianity
 Title: Is God Dead? Unveiling the Eternal Truth for Christians
 ---
 

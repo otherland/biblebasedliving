@@ -4,7 +4,7 @@ Date: '2024-08-06'
 Description: Explore the theological differences between Miaphysitism and Dyophysitism in Christian doctrine. Discover how these beliefs shape interpretations of Christ's nature.
 Image: images/13d63b8863773f76df9001216fe525c0-20240927154229.jpg
 Slug: miaphysitism-dyophysitism
-Tags: null
+Tags: christianity
 Title: 'Understanding Miaphysitism vs. Dyophysitism: Unveiling the Christian Doctrinal Debate'
 ---
 

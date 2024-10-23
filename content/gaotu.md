@@ -4,7 +4,7 @@ Date: '2024-09-05'
 Description: Discover the mysterious origins and significance of GAOTU in Freemasonry. Unravel the enigmatic symbolism and historical context surrounding this intriguing term. Explore the hidden meanings behind GAOTU in this enlightening article.
 Image: images/964036d534f163338f32c5242a87bcf6-20240927145637.jpg
 Slug: gaotu
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Mystery of GAOTU: The Divine Architect Revealed'
 ---
 

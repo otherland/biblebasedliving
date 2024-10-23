@@ -3,7 +3,7 @@ Category: Jesus Christ/The Cross and the Empty Tomb/The Road to the Cross
 Date: '2024-06-18'
 Description: Discover the profound significance of the Passion of Christ in this insightful article. Delve into the emotional journey of Jesus leading to his crucifixion and explore the spiritual impact of this pivotal event.
 Slug: passion-of-christ
-Tags: null
+Tags: christianity
 Title: 'The Ultimate Sacrifice: Unveiling the Passion of Christ'
 ---
 

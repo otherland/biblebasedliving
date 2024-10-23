@@ -4,7 +4,7 @@ Date: '2024-04-15'
 Description: 'Discover the compelling argument that delves into the question: "Was Jesus a refugee?" Uncover the historical context and religious perspectives in this thought-provoking examination.'
 Image: images/681e80e397df6c27317ee9c778a4dedb-20240927155336.jpg
 Slug: was-jesus-a-refugee
-Tags: null
+Tags: christianity
 Title: Was Jesus a Refugee? Exploring the Biblical Truth Behind His Journey
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-04-10'
 Description: Explore the historical and religious significance of Jesus' circumcision in this article, shedding light on this lesser-known aspect of his life.
 Image: images/4e36d6fccf1c2511916f881bfb8a8545-20240927155325.jpg
 Slug: was-jesus-circumcised
-Tags: null
+Tags: christianity
 Title: Was Jesus Circumcised? Unveiling the Divine Act
 ---
 

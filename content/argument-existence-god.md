@@ -4,7 +4,7 @@ Date: '2024-07-15'
 Description: Explore the age-old debate on the existence of God, delving into various arguments and perspectives. Discover compelling insights on the topic.
 Image: images/243d6a976a76861894e64b16172b278e-20240927144835.jpg
 Slug: argument-existence-god
-Tags: null
+Tags: christianity
 Title: 'Discovering the Ultimate Argument for the Existence of God: A Christian Perspective'
 ---
 

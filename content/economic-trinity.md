@@ -4,7 +4,7 @@ Date: '2024-08-16'
 Description: Discover the concept of the economic Trinity and its theological implications in this insightful article. Explore how this doctrine shapes Christian beliefs and practices.
 Image: images/799e138c88df8df0ab2798d1a660252c-20240927143506.jpg
 Slug: economic-trinity
-Tags: null
+Tags: christianity
 Title: Unveiling the Divine Mystery of the Economic Trinity - Understanding the Godhead
 ---
 

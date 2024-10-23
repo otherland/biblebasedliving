@@ -4,7 +4,7 @@ Date: '2024-09-24'
 Description: Discover the significance and symbolism of Jesus tongues in religious art and iconography. Uncover the deeper meanings behind this unique depiction.
 Image: images/f9a2cc40a5870bcd764791981b82516a-20240927154908.jpg
 Slug: jesus-tongues
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Mystery of Jesus'' Divine Tongues: A Revelation for Believers'
 ---
 

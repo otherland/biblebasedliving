@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/He Cares for Us"
+Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-08-01'
 Description: Discover how the comforting truth that "God is with us" brings hope, peace, and strength in times of uncertainty and challenges. Explore the profound impact of God's presence in our lives.
 Image: images/f251ade40a975531a27dc2287a2008f7-20240927150427.jpg
 Slug: god-is-with-us
-Tags: null
+Tags: christianity
 Title: 'Divine Presence: God Is With Us Every Step of the Way'
 ---
 

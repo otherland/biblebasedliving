@@ -3,7 +3,7 @@ Category: Jesus Christ/The Cross and the Empty Tomb/The Road to the Cross
 Date: '2024-07-01'
 Description: Discover the historical events surrounding the crucifixion of Jesus and explore the different perspectives on who was responsible for his death.
 Slug: who-killed-jesus
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Truth: Who Killed Jesus and Why? A Christian Perspective'
 ---
 

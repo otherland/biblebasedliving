@@ -4,7 +4,7 @@ Date: '2024-09-08'
 Description: Discover the whimsical world of Flying Spaghetti Monsterism, a satirical religion that playfully challenges traditional beliefs. Explore the origins and principles of this parody faith in an insightful article.
 Image: images/924bc15b0eb5f4f0fa9b05be4566de5a-20240927145633.jpg
 Slug: flying-spaghetti-monsterism
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Truth About Flying Spaghetti Monsterism: A Christian Perspective'
 ---
 

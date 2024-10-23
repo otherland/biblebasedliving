@@ -4,7 +4,7 @@ Date: '2024-05-15'
 Description: Explore the divine nature of God in this enlightening article, delving into attributes, characteristics, and perceptions of the Almighty. Uncover insights into what God is like.
 Image: images/d4c2c437f6d7d20cf53295eb9903aa74-20240927143122.jpg
 Slug: what-is-god-like
-Tags: null
+Tags: christianity
 Title: 'Discovering the Divine: What God is Really Like'
 ---
 

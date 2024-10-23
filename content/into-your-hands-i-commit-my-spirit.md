@@ -4,7 +4,7 @@ Date: '2024-09-15'
 Description: Discover the profound meaning behind the phrase "into your hands I commit my spirit" in this insightful article that explores faith, trust, and surrender.
 Image: images/baac88fecfaf83cd7191356a714d0934-20240927160106.jpg
 Slug: into-your-hands-i-commit-my-spirit
-Tags: null
+Tags: christianity
 Title: 7 Powerful Ways to Commit Your Spirit Into God's Hands
 ---
 

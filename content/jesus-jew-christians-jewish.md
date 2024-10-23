@@ -3,7 +3,7 @@ Category: Jesus Christ/The Person of Jesus/Jesus’ Religion
 Date: '2024-05-20'
 Description: Explore the profound connections between Jesus, Judaism, and Christianity in this insightful article. Delve into the shared history and divergent paths of these faith traditions.
 Slug: jesus-jew-christians-jewish
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Jewish Roots of Jesus: A Christian Perspective'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-06-02'
 Description: Discover the controversial history of the Canaanites' extermination, shedding light on ancient conflicts and ethical debates. Uncover the truth behind this significant event.
 Image: images/684b3b718fc59928216e98164bd93499-20240927153125.jpg
 Slug: canaanites-extermination
-Tags: null
+Tags: christianity
 Title: 'The Divine Justice Behind Canaanites'' Extermination: Unveiling God''s Purpose'
 ---
 

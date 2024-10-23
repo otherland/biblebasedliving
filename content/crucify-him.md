@@ -4,7 +4,7 @@ Date: '2024-05-19'
 Description: Explore the historical significance and cultural impact of the phrase "Crucify Him" in this compelling article. Delve into the origins and interpretations of this powerful statement.
 Image: images/1b352b7267f180bd113cc042dd134ef3-20240927155905.jpg
 Slug: crucify-him
-Tags: null
+Tags: christianity
 Title: 'Crucify Him: Understanding the Ultimate Sacrifice in Christian Faith'
 ---
 

@@ -3,7 +3,7 @@ Category: God/Our Response to God/Knowing God
 Date: '2024-07-08'
 Description: Explore the profound journey of discovering knowledge of God in this enlightening article. Unveil the depths of spiritual understanding and connection.
 Slug: knowledge-of-god
-Tags: null
+Tags: christianity
 Title: 'Discovering the Divine: The Ultimate Guide to Deepening Your Knowledge of God'
 ---
 

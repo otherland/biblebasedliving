@@ -4,7 +4,7 @@ Date: '2024-07-16'
 Description: Explore the concept of the impassibility of God and how it relates to divine characteristics and theological understanding in this insightful article.
 Image: images/8d7970767c6948d9b1a19dc72e4edba5-20240927144531.jpg
 Slug: impassibility-of-god
-Tags: null
+Tags: christianity
 Title: 'Understanding the Impassibility of God: Exploring Divine Emotions in Christianity'
 ---
 

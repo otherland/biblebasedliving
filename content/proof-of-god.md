@@ -4,7 +4,7 @@ Date: '2024-06-21'
 Description: Explore compelling arguments and evidence supporting the existence of God in this thought-provoking article. Delve into philosophical, scientific, and theological perspectives on the proof of God's existence.
 Image: images/6e9d2bfde477af980a08aae31a990720-20240927144900.jpg
 Slug: proof-of-god
-Tags: null
+Tags: christianity
 Title: '7 Compelling Proofs of God''s Existence: A Christian Perspective'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-05-29'
 Description: Discover the intriguing ways in which different cultures perceive and worship God. Explore the diverse perspectives and beliefs that shape our understanding of the divine.
 Image: images/de8568f6d155d827316d8050d8a29ef4-20240927144241.jpg
 Slug: god-different
-Tags: null
+Tags: christianity
 Title: Discovering God's Unique and Transformative Differences
 ---
 

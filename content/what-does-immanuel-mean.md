@@ -4,7 +4,7 @@ Date: '2024-06-18'
 Description: Immanuel is a name of Hebrew origin meaning "God is with us." Discover the significance and cultural relevance of the name in this insightful article.
 Image: images/25600c8b6d18b5b8dcc2edb1af189717-20240927153413.jpg
 Slug: what-does-immanuel-mean
-Tags: null
+Tags: christianity
 Title: 'Unlocking the Meaning of Immanuel: A Christian Revelation'
 ---
 

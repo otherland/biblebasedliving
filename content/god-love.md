@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/He Cares for Us"
+Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-07-19'
 Description: Discover the profound connection between God and love in this insightful article, delving into the essence of divine affection and spirituality. Explore the transformative power of love rooted in faith and devotion.
 Image: images/6c7c4b43587933531a037be3a86155ba-20240927150322.jpg
 Slug: god-love
-Tags: null
+Tags: christianity
 Title: 'Divine Love Unveiled: Understanding God''s Unconditional Love for Christians'
 ---
 

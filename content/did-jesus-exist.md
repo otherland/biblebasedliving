@@ -3,7 +3,7 @@ Category: Jesus Christ/The Identity of Jesus/Basics
 Date: '2024-08-13'
 Description: Explore the historical evidence and debates surrounding the existence of Jesus in this thought-provoking article. Delve into the question of whether Jesus was a real historical figure.
 Slug: did-jesus-exist
-Tags: null
+Tags: christianity
 Title: Did Jesus Exist? Unveiling the Divine Truth Behind His Existence
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-08-01'
 Description: Discover the profound concept of immutability in relation to God and how it shapes our understanding of divine nature and attributes. Explore the implications of this theological principle in faith and philosophy.
 Image: images/a2b09dbef72ddb68d4cd090d2701fe11-20240927143423.jpg
 Slug: immutability-god
-Tags: null
+Tags: christianity
 Title: 'The Immutable Nature of God: Unveiling His Eternal Stability'
 ---
 

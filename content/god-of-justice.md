@@ -4,7 +4,7 @@ Date: '2024-08-10'
 Description: Discover the profound concept of the God of justice in various religious beliefs. Explore how this divine attribute shapes moral principles and influences ethical conduct.
 Image: images/94a5382cc2be089602fbde87eec48434-20240927144646.jpg
 Slug: god-of-justice
-Tags: null
+Tags: christianity
 Title: Unveiling the Divine Justice of the God of Righteousness
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-05-02'
 Description: Discover the awe-inspiring exploration of the God of wonders in this enlightening article. Delve into the magnificence of divine creation and the marvels of the universe.
 Image: images/41439b8e1c13ff89507ae1e19bfe2884-20240927144202.jpg
 Slug: god-of-wonders
-Tags: null
+Tags: christianity
 Title: 'Experience the Miracles of the God of Wonders: A Christian''s Guide'
 ---
 

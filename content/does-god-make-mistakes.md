@@ -4,7 +4,7 @@ Date: '2024-04-26'
 Description: 'Discover the age-old question: Does God make mistakes? Delve into the debate surrounding divine perfection and human understanding in this thought-provoking article.'
 Image: images/406120143a0ae44f8b4fbe884fa70c1b-20240927152532.jpg
 Slug: does-god-make-mistakes
-Tags: null
+Tags: christianity
 Title: Does God Make Mistakes? Understanding Divine Perfection in Christianity
 ---
 

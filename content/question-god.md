@@ -4,7 +4,7 @@ Date: '2024-08-21'
 Description: Explore the concept of God in various religions and philosophies. Understand different perspectives on divinity and the role of God in shaping beliefs and practices.
 Image: images/3b74685e6b0a06dc263168b8bb073fe4-20240927151522.jpg
 Slug: question-god
-Tags: null
+Tags: christianity
 Title: 'Seeking Answers: Questioning God''s Plan in Faith'
 ---
 

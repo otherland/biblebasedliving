@@ -4,7 +4,7 @@ Date: '2024-06-26'
 Description: Discover the religious identity of Jesus and explore the historical context surrounding his beliefs. Uncover the truth about whether Jesus belonged to a specific religion or if his teachings transcended traditional boundaries.
 Image: images/1854faf33653e145e8d93ed54aac7f30-20240927154803.jpg
 Slug: what-religion-was-jesus
-Tags: null
+Tags: christianity
 Title: Was Jesus a Christian? Exploring His Religious Identity
 ---
 

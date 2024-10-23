@@ -3,7 +3,7 @@ Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-08-15'
 Description: '"I AM" is an introspective article exploring the concept of self-identity and personal growth. Dive into the journey of self-discovery and empowerment.'
 Slug: i-am
-Tags: null
+Tags: christianity
 Title: 'I AM: Discovering the Ultimate Truth in Christian Faith'
 ---
 

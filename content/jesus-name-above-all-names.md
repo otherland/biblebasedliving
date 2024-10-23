@@ -4,7 +4,7 @@ Date: '2024-08-15'
 Description: Discover the significance of Jesus' name being above all names and its profound impact on faith and spirituality in this enlightening article.
 Image: images/f51e49a2676f26eccfcad2d763bbdbb3-20240927153423.jpg
 Slug: jesus-name-above-all-names
-Tags: null
+Tags: christianity
 Title: 'Exalting Jesus: The Supreme Name Above All Names'
 ---
 

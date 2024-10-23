@@ -4,7 +4,7 @@ Date: '2024-05-24'
 Description: 'Discover the age-old question: How old is God? Explore various perspectives and beliefs on the concept of God''s age in different religions and philosophies.'
 Image: images/093e0eeeb6f9dbc2d2ef6a13bec53c59-20240927143705.jpg
 Slug: how-old-is-god
-Tags: null
+Tags: christianity
 Title: 'Eternal Mysteries Unveiled: How Old is God According to the Bible'
 ---
 

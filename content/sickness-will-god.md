@@ -4,7 +4,7 @@ Date: '2024-05-07'
 Description: Explore the concept of sickness in relation to faith and divine intervention. Delve into the question of how individuals grapple with illness and seek solace in their beliefs.
 Image: images/b1179cd2390da2b259fda129db8c2998-20240927153016.jpg
 Slug: sickness-will-god
-Tags: null
+Tags: christianity
 Title: 'Divine Healing: Does Sickness Align with God''s Will?'
 ---
 

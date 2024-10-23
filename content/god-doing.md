@@ -4,7 +4,7 @@ Date: '2024-04-28'
 Description: Discover the divine actions of God and explore the profound impact of His interventions in this insightful article. Delve into the mysteries of God's workings and be inspired by His omnipotent presence.
 Image: images/a4374d1715fe3ceb125aa0abbf149109-20240927143658.jpg
 Slug: god-doing
-Tags: null
+Tags: christianity
 Title: 'Divine Acts: Unveiling God''s Purpose in Our Lives'
 ---
 

@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/He Cares for Us"
+Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-08-28'
 Description: Discover the profound concept of how God actively pursues us with love and grace, exploring the divine pursuit of humanity and the significance of this spiritual journey.
 Image: images/17d49bf44cbd576214e94167fc94fe52-20240927150609.jpg
 Slug: does-god-pursue-us
-Tags: null
+Tags: christianity
 Title: 'Divine Pursuit: How God''s Unwavering Love Seeks Us'
 ---
 

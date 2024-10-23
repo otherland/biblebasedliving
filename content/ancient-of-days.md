@@ -4,7 +4,7 @@ Date: '2024-09-07'
 Description: Discover the enigmatic figure of the "Ancient of Days" in this insightful article exploring its significance in ancient mythology and religious traditions.
 Image: images/b70c58a9d391107dba3f9748ccdbba87-20240927145405.jpg
 Slug: ancient-of-days
-Tags: null
+Tags: christianity
 Title: 'Ancient of Days Revealed: Unveiling the Majesty of God'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-05-09'
 Description: Discover the mystical power of the "Finger of God" in this intriguing article exploring its significance and symbolism. Uncover its ancient origins and modern interpretations.
 Image: images/70d90f9a1b6d5f651e83586464405fb5-20240927144428.jpg
 Slug: finger-of-god
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Divine Power: The Finger of God in Scripture'
 ---
 

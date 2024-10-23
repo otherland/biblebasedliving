@@ -4,7 +4,7 @@ Date: '2024-09-03'
 Description: Explore the intriguing concept of 'God changing his mind' in this thought-provoking article examining theological perspectives on divine changeability. Delve into the complexities of this idea within religious discourse.
 Image: images/4bd004348e7b809d7d44c657ddefb893-20240927144420.jpg
 Slug: god-change-mind
-Tags: null
+Tags: christianity
 Title: 'Divine Transformation: Understanding How God Changes His Mind'
 ---
 

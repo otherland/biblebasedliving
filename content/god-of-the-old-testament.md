@@ -4,7 +4,7 @@ Date: '2024-07-27'
 Description: Explore the enigmatic persona of the God of the Old Testament in this insightful article delving into divine wrath, mercy, and intricate narratives. Uncover the complexities and controversies surrounding this deity.
 Image: images/f58482fe97c689dc340c26cf102e2aaa-20240927152806.jpg
 Slug: god-of-the-old-testament
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Almighty: Exploring the God of the Old Testament'
 ---
 

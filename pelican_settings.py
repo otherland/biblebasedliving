@@ -133,3 +133,11 @@ METADATA_FIELDS = [
     ('keywords', 'Keywords'),
     ('description', ''),
 ]
+
+from random import sample
+def randomize(array, *args):
+    return sample(array, 10)
+
+JINJA_FILTERS = {
+    'randomize': randomize,
+}

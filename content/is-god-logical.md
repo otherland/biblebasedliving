@@ -4,7 +4,7 @@ Date: '2024-05-16'
 Description: 'Explore the age-old question: Is God logical? Delve into the philosophical arguments and perspectives that contemplate the rationality of divine existence.'
 Image: images/f8d589f2173bb5e0762f7c4ea9319a23-20240927143844.jpg
 Slug: is-god-logical
-Tags: null
+Tags: christianity
 Title: 'Ultimate Guide: Is God Logical? Exploring Divine Reasoning for Christian Believers'
 ---
 

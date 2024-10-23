@@ -4,7 +4,7 @@ Date: '2024-05-16'
 Description: 'Explore the age-old question: Is God imaginary? Delve into the debate surrounding the existence of a divine being and the implications it holds for humanity.'
 Image: images/d2e96520240b1ad6788edac0bdc9e795-20240927145714.jpg
 Slug: is-god-imaginary
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Truth: Is God Imaginary? Exploring the Reality of Divine Existence'
 ---
 

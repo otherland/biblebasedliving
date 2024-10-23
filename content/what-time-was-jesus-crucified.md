@@ -4,7 +4,7 @@ Date: '2024-05-08'
 Description: Discover the historical event of Jesus' crucifixion and learn about the timing of this significant event in Christian tradition. Explore the details surrounding the time of Jesus' crucifixion in this insightful article.
 Image: images/3ef0f7146e4fee311323d43f89c563b8-20240927160137.jpg
 Slug: what-time-was-jesus-crucified
-Tags: null
+Tags: christianity
 Title: 'When Was Jesus Crucified: Revealing the Sacred Hour'
 ---
 

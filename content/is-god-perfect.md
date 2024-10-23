@@ -4,7 +4,7 @@ Date: '2024-06-18'
 Description: Explore the concept of God's perfection and delve into philosophical debates surrounding this timeless question. Discover different perspectives on whether or not God is deemed perfect.
 Image: images/57749ac975d41a5755bef6fccf431e77-20240927144124.jpg
 Slug: is-god-perfect
-Tags: null
+Tags: christianity
 Title: Is God Perfect? Exploring the Divine Perfection in Christian Faith
 ---
 

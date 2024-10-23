@@ -4,7 +4,7 @@ Date: '2024-05-17'
 Description: 'Discover the intriguing question: Did Jesus ever laugh? Uncover insights into the emotional expressions of Jesus in this thought-provoking article.'
 Image: images/0b0dba01a665d0a984803b414555fe0d-20240927154412.jpg
 Slug: did-jesus-ever-laugh
-Tags: null
+Tags: christianity
 Title: Did Jesus Ever Laugh? Unveiling the Joyful Side of Christ
 ---
 

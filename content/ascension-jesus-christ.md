@@ -4,7 +4,7 @@ Date: '2024-06-01'
 Description: Explore the miraculous event of the Ascension of Jesus Christ, a pivotal moment in Christian faith, as He ascended to heaven in the presence of His disciples. Understand the significance and theological implications of this divine act.
 Image: images/57b3cce1310a8a1339731dc33b11179e-20240927155758.jpg
 Slug: ascension-jesus-christ
-Tags: null
+Tags: christianity
 Title: 'Divine Ascension: Unveiling the Transcendence of Jesus Christ'
 ---
 

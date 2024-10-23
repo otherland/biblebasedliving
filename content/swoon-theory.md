@@ -4,7 +4,7 @@ Date: '2024-04-25'
 Description: Explore the fascinating concept of Swoon Theory, a hypothesis that aims to explain the resurrection of Jesus in a naturalistic way. Delve into the intriguing debate around this theory and its implications on religious beliefs.
 Image: images/7168f4bb665e37c7ef6e1e974ad477d5-20240927160226.jpg
 Slug: swoon-theory
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Swoon Theory: Revealing the Truth Behind Jesus'' Resurrection'
 ---
 

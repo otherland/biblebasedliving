@@ -4,7 +4,7 @@ Date: '2024-09-25'
 Description: Discover the profound impact and significance of experiencing the presence of God in everyday life. Explore the transformative power of spiritual connection and divine guidance.
 Image: images/5d946b5857321d4703eccfab8e1c7532-20240927151317.jpg
 Slug: presence-of-god
-Tags: null
+Tags: christianity
 Title: 'Experiencing the Divine Presence: 7 Ways to Encounter God''s Glory'
 ---
 

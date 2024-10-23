@@ -4,7 +4,7 @@ Date: '2024-05-03'
 Description: Discover the mystery of who resurrected Jesus in this intriguing article. Unveil the historical and theological perspectives surrounding this pivotal event.
 Image: images/122c9fb637937c5979c91bd8a978638b-20240927160430.jpg
 Slug: who-resurrected-jesus
-Tags: null
+Tags: christianity
 Title: 'Divine Power Revealed: The Resurrection of Jesus Unveiled'
 ---
 

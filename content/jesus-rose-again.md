@@ -4,7 +4,7 @@ Date: '2024-05-01'
 Description: Discover the profound significance and historical impact of Jesus rising again in this enlightening article. Explore the resurrection and its implications.
 Image: images/771ce052e416e9f9156b0c8ab267111e-20240927160516.jpg
 Slug: jesus-rose-again
-Tags: null
+Tags: christianity
 Title: 'Ultimate Revelation: Jesus Rose Again - The Miracle of Resurrection'
 ---
 

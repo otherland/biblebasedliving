@@ -3,7 +3,7 @@ Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-09-22'
 Description: '"Explore the significance of INRI, an abbreviation found on the cross during Jesus'' crucifixion. Uncover the meaning and symbolism behind these letters."'
 Slug: inri
-Tags: null
+Tags: christianity
 Title: 'INRI Meaning and Significance: The Crucifixion Code Unveiled'
 ---
 

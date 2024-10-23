@@ -4,7 +4,7 @@ Date: '2024-06-15'
 Description: Discover the significance of the name of God in various religions and cultures. Explore the meaning and reverence attached to this divine appellation across different belief systems.
 Image: images/b0231ae7b8e7f6e4eabac72810cc0665-20240927145058.jpg
 Slug: name-of-god
-Tags: null
+Tags: christianity
 Title: 'Discovering the Sacred Name of God: Ultimate Guide for Christian Believers'
 ---
 

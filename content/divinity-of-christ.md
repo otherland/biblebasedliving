@@ -3,7 +3,7 @@ Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-05-18'
 Description: Explore the divinity of Christ in this enlightening article, delving into the theological significance of Jesus' divine nature and its implications. Unravel the mysteries of Christ's deity and its profound impact on Christian faith.
 Slug: divinity-of-christ
-Tags: null
+Tags: christianity
 Title: 'Unlocking the Divine Mystery: Understanding the Deity of Christ'
 ---
 

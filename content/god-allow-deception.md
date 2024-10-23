@@ -4,7 +4,7 @@ Date: '2024-07-17'
 Description: Explore the concept of why God allows deception in this thought-provoking article. Discover insights into the divine purpose behind allowing deceit in the world.
 Image: images/295c1aba898dec73333974244b8d1aae-20240927152249.jpg
 Slug: god-allow-deception
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Truth: Does God Allow Deception?'
 ---
 

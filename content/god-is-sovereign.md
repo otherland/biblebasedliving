@@ -4,7 +4,7 @@ Date: '2024-07-07'
 Description: Discover the profound truth of God's sovereignty in this insightful article. Explore how His absolute authority shapes our understanding of faith and divine providence.
 Image: images/e4e5a5118675437ebaee63411b404cd1-20240927144128.jpg
 Slug: god-is-sovereign
-Tags: null
+Tags: christianity
 Title: 'Divine Sovereignty Unveiled: Embracing God''s Ultimate Authority'
 ---
 

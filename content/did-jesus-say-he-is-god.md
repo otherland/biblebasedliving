@@ -3,7 +3,7 @@ Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-07-01'
 Description: Discover the truth about whether Jesus claimed to be God in this insightful article examining key biblical passages and scholarly interpretations. Explore the evidence and arguments surrounding this important theological question.
 Slug: did-jesus-say-he-is-god
-Tags: null
+Tags: christianity
 Title: Did Jesus Claim to Be God? Unveiling the Truth for Believers
 ---
 

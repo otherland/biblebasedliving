@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Father-God"
+Category: God/God's Relationship to Us/Father-God
 Date: '2024-05-02'
 Description: Discover diverse perspectives on the question of "Where is God?" Explore various beliefs and interpretations in this thought-provoking article.
 Image: images/ede76d094aeb3feecd60751f69a33fa1-20240927150055.jpg
 Slug: where-is-god
-Tags: null
+Tags: christianity
 Title: 'Discovering the Presence of God: Where is God in Your Life Today?'
 ---
 

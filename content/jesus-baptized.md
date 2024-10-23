@@ -4,7 +4,7 @@ Date: '2024-07-03'
 Description: Discover the significance of Jesus' baptism in this insightful article exploring the biblical event and its spiritual implications. Uncover the transformative power of this sacred act.
 Image: images/23555f6dd2a206730932c618564b16e7-20240927155618.jpg
 Slug: jesus-baptized
-Tags: null
+Tags: christianity
 Title: 'Embracing Faith: Jesus Baptized - A Divine Encounter Unveiled'
 ---
 

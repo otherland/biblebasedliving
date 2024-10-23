@@ -4,7 +4,7 @@ Date: '2024-08-30'
 Description: Discover the truth about whether Jesus drank wine in this insightful article. Uncover historical and biblical perspectives on this controversial topic.
 Image: images/d41e1a05ebcd568038ee4595acd1a345-20240927154410.jpg
 Slug: did-jesus-drink-wine
-Tags: null
+Tags: christianity
 Title: Did Jesus Drink Wine? Exploring Biblical Perspectives on Alcohol Consumption
 ---
 

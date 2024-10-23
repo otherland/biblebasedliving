@@ -3,7 +3,7 @@ Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-09-18'
 Description: Discover the profound nature of God the Son in Christian theology, exploring the unique attributes and role of Jesus Christ as part of the Holy Trinity. Delve into the significance of this divine figure in shaping beliefs and practices within the Christian faith.
 Slug: god-the-son
-Tags: null
+Tags: christianity
 Title: 'Discover the Divine Power of God the Son: A Christian Revelation'
 ---
 

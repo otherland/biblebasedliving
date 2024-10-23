@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Toward All People"
+Category: God/God's Relationship to Us/Toward All People
 Date: '2024-04-18'
 Description: Discover the concept of God's sovereignty and its implications on faith and theology. Explore the idea of divine control and authority in this insightful article.
 Image: images/cff3197527bab4a1b3aafcdf042a1779-20240927145802.jpg
 Slug: is-god-sovereign
-Tags: null
+Tags: christianity
 Title: 'Ultimate Guide: Understanding God''s Sovereignty in Christianity'
 ---
 

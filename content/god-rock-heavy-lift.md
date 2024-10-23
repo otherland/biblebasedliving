@@ -4,7 +4,7 @@ Date: '2024-05-24'
 Description: Discover the incredible strength of God Rock, a marvel of nature that defies expectations with its heavy lift. Explore the geological wonder and learn about the unique properties that make it a fascinating subject of study.
 Image: images/ef9b600bb2a40322e0e2f0d4b798afda-20240927143844.jpg
 Slug: god-rock-heavy-lift
-Tags: null
+Tags: christianity
 Title: 'God Rock Heavy Lift: Discover the Ultimate Power of Faith'
 ---
 

@@ -3,7 +3,7 @@ Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-08-18'
 Description: Discover the historical significance and religious implications of crucifixion in this insightful article. Explore the origins, practices, and impact of this ancient form of execution.
 Slug: crucifixion
-Tags: null
+Tags: christianity
 Title: 'The Divine Sacrifice: Understanding the Crucifixion in Christianity'
 ---
 

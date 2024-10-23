@@ -4,7 +4,7 @@ Date: '2024-09-24'
 Description: Explore the dangers and benefits of blind faith in this insightful article. Discover how blind faith impacts decision-making and belief systems.
 Image: images/c8a2e083a375fe617d104c2635c3f74b-20240927151256.jpg
 Slug: blind-faith
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Dangers of Blind Faith in Christianity: A Comprehensive Guide'
 ---
 

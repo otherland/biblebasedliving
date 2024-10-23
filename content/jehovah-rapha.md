@@ -4,7 +4,7 @@ Date: '2024-08-20'
 Description: Discover the profound meaning of "Jehovah Rapha" and how this biblical term signifies God as the ultimate healer and source of wholeness in this insightful article.
 Image: images/7f90339973aef877bdcd04d83711ee41-20240927145553.jpg
 Slug: jehovah-rapha
-Tags: null
+Tags: christianity
 Title: 'Discover the Healing Power of Jehovah Rapha: A Christian''s Guide'
 ---
 

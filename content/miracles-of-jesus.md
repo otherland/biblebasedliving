@@ -4,7 +4,7 @@ Date: '2024-07-30'
 Description: Explore the awe-inspiring miracles performed by Jesus in this enlightening article showcasing his divine power and extraordinary acts.
 Image: images/83dc4cc0157dd1c218c4456b2c775c4b-20240927160717.jpg
 Slug: miracles-of-jesus
-Tags: null
+Tags: christianity
 Title: '7 Miraculous Acts of Jesus: Revealing Divine Power and Grace'
 ---
 

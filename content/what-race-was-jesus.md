@@ -4,7 +4,7 @@ Date: '2024-04-21'
 Description: Discover the historical and debated topic of Jesus' race. Uncover various perspectives and insights on depictions of Jesus in art and literature. Gain a deeper understanding of the complexities surrounding this intriguing subject.
 Image: images/cfaf40be4dfd307602b5f1705c4c00fa-20240927154607.jpg
 Slug: what-race-was-jesus
-Tags: null
+Tags: christianity
 Title: Was Jesus Black, White, or Middle Eastern? Unveiling the True Race of Jesus
 ---
 

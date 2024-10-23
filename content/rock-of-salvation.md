@@ -4,7 +4,7 @@ Date: '2024-08-16'
 Description: Discover the significance of the "Rock of Salvation" in Christian theology and its symbolic representation of strength and refuge in times of need. Explore the biblical references and spiritual teachings associated with this powerful metaphor.
 Image: images/6cafd1e2680e6fc86ad08e684bfbbf63-20240927145312.jpg
 Slug: rock-of-salvation
-Tags: null
+Tags: christianity
 Title: 'Discovering the Rock of Salvation: Your Path to Redemption'
 ---
 

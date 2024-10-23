@@ -4,7 +4,7 @@ Date: '2024-07-16'
 Description: Discover the immeasurable size of God and explore the concept of His infinite nature in this thought-provoking article. Uncover the vastness of God's presence and power.
 Image: images/b91ba5875c9416bd33da07c081298448-20240927144408.jpg
 Slug: how-big-is-god
-Tags: null
+Tags: christianity
 Title: 'The Infinite Magnitude of God: Exploring His Boundless Greatness'
 ---
 

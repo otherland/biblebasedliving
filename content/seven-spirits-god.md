@@ -4,7 +4,7 @@ Date: '2024-05-30'
 Description: Explore the significance and symbolism of the Seven Spirits of God in Christian theology. Uncover the spiritual representation and biblical references in this enlightening article.
 Image: images/854ebd9839779d5b0ce925bb41a98b40-20240927143624.jpg
 Slug: seven-spirits-god
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Seven Spirits of God: Empowering Insights for Christian Believers'
 ---
 

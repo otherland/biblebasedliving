@@ -3,7 +3,7 @@ Category: Jesus Christ/The Ministry of Jesus/On Earth
 Date: '2024-08-09'
 Description: Discover the profound reasons behind why God sent Jesus to earth. Unveil the divine purpose and significance of this pivotal event in Christian theology.
 Slug: why-god-sent-jesus
-Tags: null
+Tags: christianity
 Title: 'Why God Sent Jesus: Unveiling the Divine Purpose'
 ---
 

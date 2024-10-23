@@ -4,7 +4,7 @@ Date: '2024-06-10'
 Description: Explore the theological debate on whether Jesus could have sinned and the implications of this question on his divine nature. Delve into the complexities of this topic.
 Image: images/5c38e52e7aad44026507e4d906182f90-20240927154309.jpg
 Slug: could-jesus-have-sinned
-Tags: null
+Tags: christianity
 Title: Could Jesus Have Sinned? Exploring the Divine Nature
 ---
 

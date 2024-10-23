@@ -4,7 +4,7 @@ Date: '2024-05-26'
 Description: Discover the intriguing discussion around whether Jesus had a last name, delving into historical context and religious perspectives on this debated topic. Unravel the mystery surrounding Jesus' surname.
 Image: images/33af3f1f3c1486fd9f0a476e49e04bcf-20240927153420.jpg
 Slug: jesus-last-name
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Mystery: Jesus'' Last Name Revealed'
 ---
 

@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/He Cares for Us"
+Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-04-07'
 Description: Discover the intriguing concept of a jealous God in various religious beliefs. Explore the implications and interpretations of this divine attribute.
 Image: images/000fa579aa4c94a80e96576803b24005-20240927150458.jpg
 Slug: jealous-god
-Tags: null
+Tags: christianity
 Title: 'Understanding the Jealous God: Revealing His Divine Love'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-08-16'
 Description: Explore the historical perspective on whether Jesus was black, delving into debates, theories, and cultural interpretations surrounding this intriguing question.
 Image: images/29ed2d9540a6800bc4d119ce649b7f8c-20240927154621.jpg
 Slug: was-jesus-black
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Truth: Was Jesus Black? Exploring His True Identity'
 ---
 

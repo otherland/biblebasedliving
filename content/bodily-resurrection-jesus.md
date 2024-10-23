@@ -4,7 +4,7 @@ Date: '2024-08-20'
 Description: Discover the profound significance of the bodily resurrection of Jesus in Christian belief. Uncover the theological implications and historical context in this enlightening article.
 Image: images/261277a294b54324bd55354409b8e86d-20240927160359.jpg
 Slug: bodily-resurrection-jesus
-Tags: null
+Tags: christianity
 Title: 'Ultimate Guide to Bodily Resurrection of Jesus: Unveiling the Divine Promise'
 ---
 

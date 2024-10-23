@@ -3,7 +3,7 @@ Category: Jesus Christ/The Identity of Jesus/Basics
 Date: '2024-09-02'
 Description: Discover the truth about Jesus' resurrection and whether he is alive today. Explore the evidence and significance of this belief in Christianity.
 Slug: is-jesus-alive
-Tags: null
+Tags: christianity
 Title: Is Jesus Alive Today? The Ultimate Christian Guide Revealed
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-07-12'
 Description: Discover the profound significance of "Adonai," a Hebrew word used to refer to God, in this enlightening article exploring its spiritual and cultural meanings.
 Image: images/c2614d839432941dd0c19da07acdfbb1-20240927145225.jpg
 Slug: meaning-of-adonai
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Sacred Meaning of Adonai: A Christian Revelation'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-09-24'
 Description: Discover the significance and role of the Second Person of the Trinity in Christian theology. Explore the nature and importance of this divine figure.
 Image: images/7516b3850e8b6e641d95086f97376166-20240927143537.jpg
 Slug: second-person-of-the-trinity
-Tags: null
+Tags: christianity
 Title: 'Exploring the Divine: Unveiling the Second Person of the Trinity'
 ---
 

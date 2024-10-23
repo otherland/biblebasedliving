@@ -4,7 +4,7 @@ Date: '2024-08-12'
 Description: Discover the spiritual significance behind why Jesus fasted. Uncover the motivations and lessons from this act of self-denial in this insightful article.
 Image: images/4c54f390974eba23315cc5a78b602059-20240927154826.jpg
 Slug: why-did-jesus-fast
-Tags: null
+Tags: christianity
 Title: 'Why Jesus Fasted: Revealing the Spiritual Power Behind His Actions'
 ---
 

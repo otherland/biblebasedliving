@@ -4,7 +4,7 @@ Date: '2024-08-11'
 Description: Explore the profound concept that God is Spirit in this insightful article. Delve into the spiritual essence of God and how it shapes beliefs and practices.
 Image: images/e0b409915c7e54e50d9857a0a828df13-20240927143328.jpg
 Slug: god-is-spirit
-Tags: null
+Tags: christianity
 Title: 'Discover the Transcendent Nature: God is Spirit Unveiled'
 ---
 

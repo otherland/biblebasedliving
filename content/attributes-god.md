@@ -4,7 +4,7 @@ Date: '2024-07-31'
 Description: Explore the divine attributes of God in this insightful article, delving into the essence and characteristics that define the supreme being.
 Image: images/bccb55427a5eb13e44a3732cdb294b56-20240927143331.jpg
 Slug: attributes-god
-Tags: null
+Tags: christianity
 Title: 'Discovering the Divine Attributes of God: A Christian Reflection'
 ---
 

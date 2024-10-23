@@ -3,7 +3,7 @@ Category: Jesus Christ/The Nature of Jesus/Humanity
 Date: '2024-06-21'
 Description: Discover the profound significance of Jesus as the Son of Man in this enlightening article. Explore his humanity and divinity intertwined in this captivating exploration.
 Slug: jesus-son-of-man
-Tags: null
+Tags: christianity
 Title: 'Understanding Jesus Son of Man: Unveiling the Divine Humanity'
 ---
 

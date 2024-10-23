@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Toward All People"
+Category: God/God's Relationship to Us/Toward All People
 Date: '2024-08-25'
 Description: Discover the fascinating debate on whether God helps themselves, exploring various perspectives and beliefs on divine intervention. Delve into the complex relationship between humanity and the divine in this thought-provoking article.
 Image: images/a9597642f317fbd818f3e20a8c220d88-20240927145834.jpg
 Slug: god-help-themselves
-Tags: null
+Tags: christianity
 Title: 'Divine Assistance: How God Empowers Believers to Help Themselves'
 ---
 

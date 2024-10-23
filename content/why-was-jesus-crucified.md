@@ -4,7 +4,7 @@ Date: '2024-09-26'
 Description: Learn about the historical events leading to Jesus' crucifixion, exploring the religious, political, and social reasons behind this pivotal moment.
 Image: images/53449f7192b293002682ff02118f5f64-20240927155959.jpg
 Slug: why-was-jesus-crucified
-Tags: null
+Tags: christianity
 Title: 'Why Was Jesus Crucified: Unveiling the Ultimate Sacrifice'
 ---
 

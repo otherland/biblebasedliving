@@ -3,7 +3,7 @@ Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-06-26'
 Description: Discover the profound significance of Jesus' suffering in this insightful article exploring the spiritual journey and sacrifice of Jesus Christ. Explore the depth of his suffering and the redemption it offers.
 Slug: jesus-suffering
-Tags: null
+Tags: christianity
 Title: 'Understanding Jesus'' Suffering: A Deep Dive into His Sacrifice'
 ---
 

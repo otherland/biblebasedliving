@@ -3,7 +3,7 @@ Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-04-30'
 Description: 'Explore the question: Is Jesus God? Uncover the theological debate surrounding the divinity of Jesus and the perspectives from different religious traditions.'
 Slug: is-jesus-god
-Tags: null
+Tags: christianity
 Title: Is Jesus Truly God? Exploring the Divine Nature of Christ
 ---
 

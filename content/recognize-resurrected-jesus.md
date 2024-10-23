@@ -4,7 +4,7 @@ Date: '2024-04-16'
 Description: Discover the awe-inspiring account of recognizing the resurrected Jesus in this enlightening article. Experience the profound significance and impact of this transformative encounter.
 Image: images/bdc25a32775e525f96c48bd9c7384014-20240927160418.jpg
 Slug: recognize-resurrected-jesus
-Tags: null
+Tags: christianity
 Title: 'Witness the Resurrected Jesus: Unveiling the Ultimate Truth'
 ---
 

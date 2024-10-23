@@ -4,7 +4,7 @@ Date: '2024-07-23'
 Description: Explore the fascinating topic of Joseph Jesus in this enlightening article that delves into historical and religious perspectives. Uncover insights about this significant figure in under 160 characters.
 Image: images/8aaa201e571c7d576a76844e018473d0-20240927155418.jpg
 Slug: joseph-jesus
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Divine Connection: Joseph Jesus Revealed'
 ---
 

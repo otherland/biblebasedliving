@@ -3,7 +3,7 @@ Category: God/The Character of God/How God Works
 Date: '2024-04-21'
 Description: Discover the remarkable miracles documented in the Bible, showcasing divine interventions and supernatural occurrences. Explore the awe-inspiring stories that showcase the power and presence of God throughout biblical history.
 Slug: miracles-bible
-Tags: null
+Tags: christianity
 Title: 7 Miracles in the Bible That Will Deepen Your Faith
 ---
 

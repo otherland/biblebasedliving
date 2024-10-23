@@ -4,7 +4,7 @@ Date: '2024-04-19'
 Description: Discover the intriguing historical and religious insights into the whereabouts of Jesus Christ in this compelling article. Explore the various theories and perspectives on where Jesus may have been during critical periods of his life.
 Image: images/9d1c246e4c98d4f041e7a57a7be1cb55-20240927160210.jpg
 Slug: where-was-jesus
-Tags: null
+Tags: christianity
 Title: 'Discovering the Whereabouts of Jesus: Unveiling His Divine Presence'
 ---
 

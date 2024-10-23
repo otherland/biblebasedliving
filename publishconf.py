@@ -134,4 +134,13 @@ METADATA_FIELDS = [
     ('description', ''),
 ]
 
+
+from random import sample
+def randomize(array, *args):
+    return sample(array, 10)
+
+JINJA_FILTERS = {
+    'randomize': randomize,
+}
+
 SITEURL = 'https://biblebasedliving.com'

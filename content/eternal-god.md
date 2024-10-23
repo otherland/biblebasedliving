@@ -4,7 +4,7 @@ Date: '2024-06-30'
 Description: Discover the concept of the eternal God in various religions and philosophies, exploring the timeless nature of divinity and its significance in human belief systems.
 Image: images/6ddf9ff0b708127910090103c1fb0f37-20240927143658.jpg
 Slug: eternal-god
-Tags: null
+Tags: christianity
 Title: 'Eternal God: Unveiling the Infinite Grace and Endless Love'
 ---
 

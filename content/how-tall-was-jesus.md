@@ -4,7 +4,7 @@ Date: '2024-08-05'
 Description: Discover the intriguing mystery of Jesus' height in this article. Unravel the different perspectives and historical context surrounding this topic.
 Image: images/6f1d82ea12551ccfe5daf26cac829c7a-20240927154616.jpg
 Slug: how-tall-was-jesus
-Tags: null
+Tags: christianity
 Title: How Tall Was Jesus? Unveiling the Physical Stature of Our Savior
 ---
 

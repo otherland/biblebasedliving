@@ -4,7 +4,7 @@ Date: '2024-09-14'
 Description: Discover the captivating story of the King of Glory in this enlightening article exploring the significance and legacy of this iconic figure in history. Unveil the mysteries surrounding the King of Glory with deep insights and analysis.
 Image: images/3f8b88417a1ed307b6a021bf6c2fdd2c-20240927145509.jpg
 Slug: king-of-glory
-Tags: null
+Tags: christianity
 Title: 'Revealing the Majesty: King of Glory Unveiled in Scripture'
 ---
 

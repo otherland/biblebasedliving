@@ -4,7 +4,7 @@ Date: '2024-05-07'
 Description: 'Discover an intriguing exploration on the question: "Can God lie?" Dive into the concept of divine truthfulness and the theological implications.'
 Image: images/bcca440db603820ad06bec65ae32ae10-20240927152529.jpg
 Slug: can-god-lie
-Tags: null
+Tags: christianity
 Title: Can God Lie? Unveiling the Divine Truth for Christian Believers
 ---
 

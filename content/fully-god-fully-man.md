@@ -4,7 +4,7 @@ Date: '2024-08-24'
 Description: Explore the concept of Jesus being fully God and fully man in this insightful article, delving into the theological implications and the significance of this dual nature.
 Image: images/6734c8bcfb02923b63c0b998313d36ca-20240927154221.jpg
 Slug: fully-god-fully-man
-Tags: null
+Tags: christianity
 Title: 'Fully God Fully Man: Understanding the Divine-Human Nature of Jesus'
 ---
 

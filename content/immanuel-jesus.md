@@ -4,7 +4,7 @@ Date: '2024-07-18'
 Description: Discover the intriguing connections between Immanuel and Jesus in this insightful article exploring their shared significance in religious contexts. Delve into the depths of their intertwined narratives and theological implications.
 Image: images/cdbc6d7bca2ee50914aafbd871183fa9-20240927153418.jpg
 Slug: immanuel-jesus
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Divine: Immanuel Jesus, the Savior of Souls'
 ---
 

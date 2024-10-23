@@ -4,7 +4,7 @@ Date: '2024-04-18'
 Description: Discover the significance of Jesus' baptism at the Jordan River. Explore the biblical account and historical context of this sacred event.
 Image: images/16017b3402a9714a057889e6159a06d6-20240927155620.jpg
 Slug: where-was-jesus-baptized
-Tags: null
+Tags: christianity
 Title: 'Where Was Jesus Baptized: The Holy Site Revealed'
 ---
 

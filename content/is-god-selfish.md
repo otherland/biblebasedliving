@@ -4,7 +4,7 @@ Date: '2024-08-11'
 Description: Explore the intriguing question - "Is God selfish?" Discover diverse perspectives on this thought-provoking topic.
 Image: images/e3dcaadca8841d9dd3c667333d2c4900-20240927152759.jpg
 Slug: is-god-selfish
-Tags: null
+Tags: christianity
 Title: Is God Selfish? Unveiling the Divine Compassion in Christianity
 ---
 

@@ -3,7 +3,7 @@ Category: Jesus Christ/The Person of Jesus/Jesus’ Character
 Date: '2024-06-17'
 Description: Explore the question of whether Jesus ate meat in this insightful article that delves into historical and religious perspectives. Gain insights into this intriguing aspect of Jesus' life.
 Slug: did-jesus-eat-meat
-Tags: null
+Tags: christianity
 Title: 'Did Jesus Eat Meat: Uncovering the Biblical Truths'
 ---
 

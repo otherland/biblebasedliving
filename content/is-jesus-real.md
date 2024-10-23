@@ -3,7 +3,7 @@ Category: Jesus Christ/The Identity of Jesus/Basics
 Date: '2024-04-30'
 Description: Discover the historical evidence and religious perspectives surrounding the question of Jesus' existence in this thought-provoking article. Explore the debate on whether Jesus was a real historical figure.
 Slug: is-jesus-real
-Tags: null
+Tags: christianity
 Title: Is Jesus Real? Exploring the Ultimate Truth for Christian Believers
 ---
 

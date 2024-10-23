@@ -4,7 +4,7 @@ Date: '2024-08-04'
 Description: Discover the historical significance of Jesus' birthplace in Bethlehem. Uncover the biblical account and archaeological findings surrounding this pivotal event.
 Image: images/676c9972711ac4512f349b5b4fe22495-20240927155331.jpg
 Slug: where-was-jesus-born
-Tags: null
+Tags: christianity
 Title: 'Where Was Jesus Born: Unveiling the Sacred Birthplace'
 ---
 

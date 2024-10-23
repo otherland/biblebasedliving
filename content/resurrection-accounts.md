@@ -4,7 +4,7 @@ Date: '2024-06-02'
 Description: Explore intriguing resurrection accounts from various cultures and religions, shedding light on the universal theme of life after death. Discover compelling narratives and beliefs surrounding resurrection phenomena.
 Image: images/f70185d5343dbad6633f2f0fb4896f68-20240927160452.jpg
 Slug: resurrection-accounts
-Tags: null
+Tags: christianity
 Title: 'Ultimate Guide to Biblical Resurrection Accounts: Unveiling the Miraculous Truth'
 ---
 

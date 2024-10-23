@@ -3,7 +3,7 @@ Category: God/The Nature of God/Time and Place
 Date: '2024-03-31'
 Description: Explore the limitless and immeasurable nature of God in this enlightening article. Delve into the concept of God's unlimited attributes and divine essence.
 Slug: god-unlimited-unmeasurable
-Tags: null
+Tags: christianity
 Title: 'Unlimited and Unmeasurable: Exploring the Infinite Nature of God'
 ---
 

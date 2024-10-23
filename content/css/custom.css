@@ -92,10 +92,10 @@ font-size: 1em;
     border: none;
     font-size: 1.5rem;
     cursor: pointer;
-    padding: 0.5rem;
+    padding-right: 0.5rem;
     color: white;
     position: absolute;
-    top: 1rem;
+    top: 0.7rem;
     right: 1rem;
     z-index: 1001;
 }
@@ -443,4 +443,146 @@ section.share span {
 
 .share img {
     color: var(--color-primary);
+}
+
+.article-list-container {
+    width: 100%; /* Default width for mobile devices */
+    margin: 0 auto; /* Center the container */
+  }
+
+  /* Media query for desktop screens */
+@media screen and (min-width: 768px) {
+    .article-list-container {
+      width: 70%; /* Width for desktop screens */
+    }
+}
+.button {
+    color: #fff;
+    background-color: #006600 !important;
+}
+
+/* Reset base styles */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Fix header width */
+.site-header {
+    width: 100vw;
+    margin: 0;
+    padding: 2rem;
+    box-sizing: border-box;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+/* Fix main content container */
+.main-content {
+    width: 100%;
+    max-width: 100%;
+    padding: 1rem;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+/* Fix flex container */
+.flex {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fix article width */
+.post {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Fix sidebar width */
+.sidebar {
+    width: 100%;
+    margin-top: 2rem;
+    box-sizing: border-box;
+}
+
+/* Responsive layout for larger screens */
+@media screen and (min-width: 54em) {
+    .main-content {
+        max-width: 70rem;
+        padding: 2rem;
+        margin: 0 auto;
+    }
+
+    .flex {
+        flex-direction: row;
+        gap: 2rem;
+    }
+
+    .post {
+        width: 70%;
+    }
+
+    .sidebar {
+        width: 30%;
+        margin-top: 0;
+    }
+}
+
+/* Fix navigation */
+.site-header nav ul {
+    width: 100%;
+    padding: 0;
+    margin: 1rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+/* Fix images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Fix iframe responsiveness */
+iframe {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+}
+
+/* Fix footer width */
+.site-footer {
+    width: 100%;
+    max-width: 100%;
+    padding: 2rem 1rem;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mobile-logo {
+    display: none;
+    font-weight: 700;
+    top: 1.2rem;
+    position: absolute;
+    left: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .mobile-logo {
+        display: block;
+    }
 }

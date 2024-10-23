@@ -4,7 +4,7 @@ Date: '2024-06-11'
 Description: Discover the concept of God's appearance and depiction across various religions and cultures in this intriguing article exploring the diverse perspectives on the physical form of a divine being.
 Image: images/c1122883a0413b77c43ee3ba325f7249-20240927144340.jpg
 Slug: what-does-god-look-like
-Tags: null
+Tags: christianity
 Title: What Does God Look Like? Revealing the Divine Image in Christianity
 ---
 

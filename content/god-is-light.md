@@ -4,7 +4,7 @@ Date: '2024-04-01'
 Description: Explore the profound symbolism of "God is light" in this enlightening article, delving into the spiritual significance and transformative power of divine illumination.
 Image: images/577b1f79405a45ce9e4feb434dff2ae8-20240927144137.jpg
 Slug: god-is-light
-Tags: null
+Tags: christianity
 Title: 'Divine Revelation: God is Light - Unveiling the Ultimate Truth'
 ---
 

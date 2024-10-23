@@ -4,7 +4,7 @@ Date: '2024-07-05'
 Description: 'Discover the age-old theological debate: Did God create evil? Unravel the complexities of this question and explore different perspectives in this thought-provoking article.'
 Image: images/7bd260fa9305aeddd7e41320d41f4796-20240927151808.jpg
 Slug: did-god-create-evil
-Tags: null
+Tags: christianity
 Title: Did God Create Evil? Unveiling the Divine Truth for Believers
 ---
 

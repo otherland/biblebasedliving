@@ -86,7 +86,7 @@
 
     <aside class="sidebar">
         <h3>Recent Articles</h3>
-        {% for article in articles[:5] %}
+        {% for article in articles | randomize %}
         <a href="{{ SITEURL }}/{{ article.url }}">
             {% if article.image %}
             <img loading="lazy" src="{{ SITEURL }}/{{ article.image }}" alt="{{ article.title }}"/>

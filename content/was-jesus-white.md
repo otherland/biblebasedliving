@@ -4,7 +4,7 @@ Date: '2024-07-23'
 Description: Discover the historical debate on whether Jesus was depicted as white in art and popular culture. Explore diverse perspectives on this controversial topic.
 Image: images/bd3426af0cbd7031a6ec80a7a94d1996-20240927154622.jpg
 Slug: was-jesus-white
-Tags: null
+Tags: christianity
 Title: Was Jesus White? Exploring the Truth About Jesus' Appearance
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-04-29'
 Description: Discover the transformative power of seeking God's face in prayer and meditation. Unlock spiritual growth and deepen your connection with the divine.
 Image: images/0cc6d1e7de08b355e79548615016c344-20240927150836.jpg
 Slug: seek-gods-face
-Tags: null
+Tags: christianity
 Title: Discover 5 Transformative Ways to Seek God's Face
 ---
 

@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Father-God"
+Category: God/God's Relationship to Us/Father-God
 Date: '2024-07-04'
 Description: Discover the intriguing concept of whether faith has the power to alter divine plans. Explore the relationship between faith and God's will in this thought-provoking article.
 Image: images/8136fd76d758ab6cb9d0d8caf9febcf2-20240927150240.jpg
 Slug: can-faith-change-god-plan
-Tags: null
+Tags: christianity
 Title: Can Faith Alter God's Plan? Exploring the Divine Will
 ---
 

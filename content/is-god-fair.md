@@ -4,7 +4,7 @@ Date: '2024-08-06'
 Description: 'Exploring the age-old question: "Is God fair?" Dive into the concept of divine justice and fairness in this thought-provoking article.'
 Image: images/ef3539a309015e8a09d6f335a818dfdd-20240927144652.jpg
 Slug: is-god-fair
-Tags: null
+Tags: christianity
 Title: 'Is God Fair? Unveiling Divine Justice: A Christian Perspective'
 ---
 

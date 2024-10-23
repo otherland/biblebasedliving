@@ -4,7 +4,7 @@ Date: '2024-05-14'
 Description: 'Discover the intriguing question: does God possess a soul? Delve into this philosophical inquiry to explore the concept of divinity and the nature of the soul.'
 Image: images/b32d99915ef63def2f7a35c782dd82a5-20240927143327.jpg
 Slug: does-god-have-a-soul
-Tags: null
+Tags: christianity
 Title: Does God Possess a Soul? Exploring the Divine Essence
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-05-07'
 Description: Discover the intriguing story behind Mary Thomas, a figure whose touch held mythical powers. Uncover the mystery surrounding her extraordinary gift in this captivating article.
 Image: images/6c8418472f8beba71c3206222399b633-20240927160400.jpg
 Slug: touch-mary-thomas
-Tags: null
+Tags: christianity
 Title: 'Encountering the Touch of Mary Thomas: A Christian''s Divine Experience'
 ---
 

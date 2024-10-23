@@ -4,7 +4,7 @@ Date: '2024-04-10'
 Description: Explore the controversial issue of sexism in the Bible, examining how interpretations vary and the implications for modern beliefs and values.
 Image: images/f60f99efec14576c86a4d9c8ade4e513-20240927152652.jpg
 Slug: god-bible-sexist
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Truth: Debunking Sexist Misconceptions in the Bible'
 ---
 

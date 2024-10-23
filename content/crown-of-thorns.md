@@ -3,7 +3,7 @@ Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-08-27'
 Description: Discover the historical significance and religious symbolism of the Crown of Thorns in this insightful article. Explore the origins and cultural impact of this iconic relic.
 Slug: crown-of-thorns
-Tags: null
+Tags: christianity
 Title: 'Crown of Thorns: Unveiling the Sacred Symbolism in Christianity'
 ---
 

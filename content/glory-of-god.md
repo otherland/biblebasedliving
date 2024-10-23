@@ -4,7 +4,7 @@ Date: '2024-08-26'
 Description: Discover the awe-inspiring glory of God in this enlightening article that delves into the magnificence of divine presence and power. Explore the profound beauty and majesty of God's glory.
 Image: images/f18a943bbce1246a6ada9fc3fbe52f5a-20240927144053.jpg
 Slug: glory-of-god
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Divine Glory: 7 Powerful Insights for Christian Believers'
 ---
 

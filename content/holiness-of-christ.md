@@ -4,7 +4,7 @@ Date: '2024-05-12'
 Description: Discover the profound holiness of Christ in this enlightening article that delves into His divine nature and significance, offering insights into His sacred character and eternal presence. Explore the awe-inspiring essence of Christ's holiness.
 Image: images/93b98e5f29cda1fa69b8dd4c2ae315ef-20240927154006.jpg
 Slug: holiness-of-christ
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Holiness of Christ: A Divine Encounter'
 ---
 

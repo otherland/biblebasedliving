@@ -4,7 +4,7 @@ Date: '2024-04-05'
 Description: Explore the concept of God's omniscience in this compelling article, delving into the divine understanding of all things past, present, and future. Understand the depth of God's knowledge and wisdom.
 Image: images/1e23714f39e21f857d7f2bdd0f7b6e3e-20240927143759.jpg
 Slug: god-omniscient
-Tags: null
+Tags: christianity
 Title: 'Divine Omniscience: Unveiling God''s Infinite Knowledge for Believers'
 ---
 

@@ -3,8 +3,8 @@ Category: Jesus Christ/The Cross and the Empty Tomb/The Road to the Cross
 Date: '2024-05-21'
 Description: Explore the profound events of Jesus' final hours, from the Last Supper to the crucifixion, in this insightful article uncovering the significance of his sacrifice. Understanding the key moments leading up to his death sheds light on the core of Christian faith.
 Slug: jesus-last-hours
-Tags: null
-Title: 'Jesus'' Final Hours: The Ultimate Story of Sacrifice and Redemption'
+Tags: christianity
+Title: "Jesus' Final Hours: The Ultimate Story of Sacrifice and Redemption"
 ---
 
 ## Jesus' Last Hours

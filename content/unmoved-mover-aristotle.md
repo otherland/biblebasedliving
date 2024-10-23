@@ -4,7 +4,7 @@ Date: '2024-05-17'
 Description: Explore Aristotle's concept of the "unmoved mover" and its significance in philosophy. Understand how this idea shaped his understanding of the universe and the role of God.
 Image: images/83053154af588885fb3cf0f0d7e92ca6-20240927145045.jpg
 Slug: unmoved-mover-aristotle
-Tags: null
+Tags: christianity
 Title: 'Divine Unmoved Mover: Understanding Aristotle’s Influence on Christian Theology'
 ---
 

@@ -3,7 +3,7 @@ Category: Jesus Christ/The Person of Jesus/Jesus’ Character
 Date: '2024-06-28'
 Description: Discover the profound teachings of Jesus as a pacifist in this insightful article. Explore how his messages of love and nonviolence continue to inspire and guide many today.
 Slug: jesus-pacifist
-Tags: null
+Tags: christianity
 Title: 'Jesus the Ultimate Pacifist: Embracing Nonviolence in Christian Faith'
 ---
 

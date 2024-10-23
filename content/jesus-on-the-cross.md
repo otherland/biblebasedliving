@@ -3,7 +3,7 @@ Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-04-30'
 Description: Discover the profound significance of Jesus on the cross in this insightful article. Explore the enduring message of sacrifice and redemption.
 Slug: jesus-on-the-cross
-Tags: null
+Tags: christianity
 Title: 'Jesus on the Cross: The Ultimate Sacrifice for Redemption'
 ---
 

@@ -4,7 +4,7 @@ Date: '2024-07-30'
 Description: Explore the concept of the immanence of God in this enlightening article, delving into how divine presence permeates all aspects of existence. Understand the significance of recognizing God's immanence in our daily lives.
 Image: images/467271efb6bb5029d029df353d220004-20240927143744.jpg
 Slug: immanence-of-god
-Tags: null
+Tags: christianity
 Title: 'The Divine Immanence: Understanding God''s Presence in Christianity'
 ---
 

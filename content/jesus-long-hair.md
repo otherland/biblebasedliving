@@ -4,7 +4,7 @@ Date: '2024-04-05'
 Description: Explore the significance of Jesus' long hair in religious art and cultural representations. Uncover the symbolism and interpretations surrounding this iconic depiction.
 Image: images/055e21e778b3e482690ebfcc16371949-20240927154652.jpg
 Slug: jesus-long-hair
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Mystical Truth: Did Jesus Have Long Hair?'
 ---
 

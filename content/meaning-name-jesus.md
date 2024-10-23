@@ -4,7 +4,7 @@ Date: '2024-04-09'
 Description: Discover the profound significance behind the name "Jesus" in this enlightening article. Unveil the historical, spiritual, and cultural implications tied to this iconic name.
 Image: images/81caca217e8501391b1d56d38ef1bc63-20240927153328.jpg
 Slug: meaning-name-jesus
-Tags: null
+Tags: christianity
 Title: 'Discover the Divine Meaning Behind the Name Jesus: A Christian Revelation'
 ---
 

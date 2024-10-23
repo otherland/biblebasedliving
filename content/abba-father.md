@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Father-God"
+Category: God/God's Relationship to Us/Father-God
 Date: '2024-04-05'
 Description: Discover the profound meaning and significance of addressing God as "Abba Father" in this enlightening article. Explore the depth of this intimate term and its implications for personal faith.
 Image: images/3cd7577c137af015c8b90c276a27ca5a-20240927150343.jpg
 Slug: abba-father
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Depth of Abba Father''s Love: A Christian Reflection'
 ---
 

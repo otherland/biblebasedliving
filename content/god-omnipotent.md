@@ -4,7 +4,7 @@ Date: '2024-08-13'
 Description: Discover the concept of God's omnipotence in this enlightening article. Explore the limitless power and authority attributed to the divine being.
 Image: images/0dce53a3e30ce6680c2f435aa011b57e-20240927143806.jpg
 Slug: god-omnipotent
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Almighty Power: Understanding God''s Omnipotence in Christian Faith'
 ---
 

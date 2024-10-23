@@ -4,7 +4,7 @@ Date: '2024-08-29'
 Description: Explore the philosophical debate surrounding the notion of God creating doomed individuals. Delve into the concept of predestination and free will in this thought-provoking article.
 Image: images/ee0882a270cc5e66fa8b07b35d7b429d-20240927152301.jpg
 Slug: god-create-doomed-people
-Tags: null
+Tags: christianity
 Title: 'Unveiling God''s Sovereignty: Why He Created Doomed People'
 ---
 

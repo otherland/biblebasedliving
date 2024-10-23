@@ -4,7 +4,7 @@ Date: '2024-08-20'
 Description: 'Explore the age-old debate: Is God man-made? Uncover the origins of religious beliefs and the philosophical implications in this thought-provoking article.'
 Image: images/00633302a57a83c7306068d56df69525-20240927145608.jpg
 Slug: is-god-man-made
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Truth: Is God Man-Made or Divine? Exploring the Origins of Faith'
 ---
 

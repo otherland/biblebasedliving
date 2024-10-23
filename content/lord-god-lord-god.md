@@ -4,7 +4,7 @@ Date: '2024-09-04'
 Description: Explore the significance and attributes of the Lord God in various religious traditions, delving into the divine characteristics and roles associated with this supreme being.
 Image: images/15a515736be750bb6d4fba802aefe1c0-20240927145205.jpg
 Slug: lord-god-lord-god
-Tags: null
+Tags: christianity
 Title: 'LORD GOD: Unveiling the Majesty and Grace'
 ---
 

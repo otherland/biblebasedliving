@@ -4,7 +4,7 @@ Date: '2024-07-15'
 Description: Discover the intriguing world of the Jesus papers in this thought-provoking article that delves into historical and religious perspectives. Explore the significance and controversies surrounding these documents.
 Image: images/df43bfdad6631d1ca736f30e3d424df8-20240927153705.jpg
 Slug: jesus-papers
-Tags: null
+Tags: christianity
 Title: 'Unveiling the Sacred Jesus Papers: 10 Revelations Every Christian Must Know'
 ---
 

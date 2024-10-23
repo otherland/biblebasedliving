@@ -1,10 +1,10 @@
 ---
-Category: "God/Godâ\x80\x99s Relationship to Us/Father-God"
+Category: God/God's Relationship to Us/Father-God
 Date: '2024-05-22'
 Description: 'Explore the concept of divine favoritism: Does God have favorites? Delve into the question of whether God plays favorites and the implications of such beliefs.'
 Image: images/7d621721ba8239f7d769b910d5361375-20240927150211.jpg
 Slug: does-god-have-favorites
-Tags: null
+Tags: christianity
 Title: Does God Play Favorites? Exploring Divine Fairness in Christian Beliefs
 ---
 

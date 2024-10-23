@@ -3,8 +3,8 @@ Category: Jesus Christ/The Cross and the Empty Tomb/The Resurrection
 Date: '2024-04-21'
 Description: Explore the mysteries surrounding Jesus' physical body in this insightful article, delving into the historical and theological aspects of this topic.
 Slug: jesus-physical-body
-Tags: null
-Title: 'Unveiling the Mystery of Jesus'' Physical Body: A Comprehensive Christian Perspective'
+Tags: christianity
+Title: "Unveiling the Mystery of Jesus' Physical Body: A Comprehensive Christian Perspective"
 ---
 
 ## Jesus' Physical Body
