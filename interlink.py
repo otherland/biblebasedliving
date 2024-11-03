@@ -6,11 +6,9 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
-import spacy
 import random
 import logging
 import sys
-import yaml
 from datetime import datetime
 import shutil 
 # Set up logging
@@ -19,21 +17,6 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # Download necessary NLTK data
 nltk.download('punkt', quiet=True)
 nltk.download('stopwords', quiet=True)
-
-# Check and download spaCy model if not present
-def download_spacy_model():
-    try:
-        nlp = spacy.load("en_core_web_sm")
-    except OSError:
-        logging.info("Downloading spaCy model. This may take a few minutes...")
-        import subprocess
-        subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
-    finally:
-        nlp = spacy.load("en_core_web_sm")
-    return nlp
-
-# Load spaCy model
-nlp = download_spacy_model()
 
 def duplicate_content_folder(folder_path):
     parent_dir = os.path.dirname(folder_path)
@@ -87,8 +70,21 @@ def preprocess_text(text):
     text = re.sub(r'http\S+', '', text)
     return text
 
+def get_nlp():
+    """Lazy load spaCy model"""
+    import spacy
+    try:
+        return spacy.load("en_core_web_sm")
+    except OSError:
+        logging.info("Downloading spaCy model...")
+        import subprocess
+        import sys
+        subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
+        return spacy.load("en_core_web_sm")
+
 def extract_keywords(content, frontmatter, num_keywords=20):
     # Prioritize tags from frontmatter
+    nlp = get_nlp()
     declared_keywords = []
     if 'Tags' in frontmatter:
         declared_keywords = [tag.strip().lower() for tag in frontmatter['Tags'].split(',')]
