@@ -445,14 +445,14 @@ section.share span {
     color: var(--color-primary);
 }
 
-.article-list-container {
+#article-list-container {
     width: 100%; /* Default width for mobile devices */
     margin: 0 auto; /* Center the container */
   }
 
   /* Media query for desktop screens */
 @media screen and (min-width: 768px) {
-    .article-list-container {
+    #article-list-container {
       width: 70%; /* Width for desktop screens */
     }
 }
@@ -521,7 +521,7 @@ html, body {
 /* Responsive layout for larger screens */
 @media screen and (min-width: 54em) {
     .main-content {
-        max-width: 70rem;
+        max-width: 80rem;
         padding: 2rem;
         margin: 0 auto;
     }
