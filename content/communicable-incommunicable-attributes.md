@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Attributes
 Date: '2024-05-15'
 Description: Explore the distinction between communicable and incommunicable attributes in this insightful article. Discover how these characteristics shape our identities and relationships.
-Image: images/9ba8c5fa27e10e5e66d6d68adc5c5330-20240927143904.jpg
+Image: images/9ba8c5fa27e10e5e66d6d68adc5c5330-20240927143904.webp
 Slug: communicable-incommunicable-attributes
 Tags: christianity
 Title: 'Unveiling the Divine: 5 Communicable and Incommunicable Attributes of God'

@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Names of God
 Date: '2024-04-16'
 Description: Discover the deep significance and origins of the name Yahweh in this insightful article exploring the meaning behind this sacred term.
-Image: images/2c72fa02a54b136c8556a7df6fb12642-20240927145112.jpg
+Image: images/2c72fa02a54b136c8556a7df6fb12642-20240927145112.webp
 Slug: meaning-of-yahweh
 Tags: christianity
 Title: 'Unveiling the Profound Meaning of Yahweh: The Ultimate Revelation for Christian Believers'

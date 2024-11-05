@@ -2,7 +2,7 @@
 Category: Entertainment and Media/Reclaiming Entertainment Industry
 Date: '2024-04-15'
 Description: Explore the evolving landscape of the British Christian music industry, featuring insights on promoting artists in mainstream markets, collaborations between gospel choirs and mainstream acts, and the impact of church partnerships. Discover the latest trends in Christian music festivals and the growing influence of UK labels in this dynamic sector.
-Image: images/79e10c53a756e58d459c96f735787dc4-20240912110806.jpg
+Image: images/79e10c53a756e58d459c96f735787dc4-20240912110806.webp
 Slug: christian-music-industry
 Tags: British Christian music labels, Promoting Christian artists mainstream, Church music industry partnerships, Christian music festivals UK, Gospel choir mainstream collaborations
 Title: Top 5 Trends Shaping the Christian Music Industry Today

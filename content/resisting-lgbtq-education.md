@@ -2,7 +2,7 @@
 Category: Family Values/Combating Lgbtq+ Agenda
 Date: '2024-06-08'
 Description: Discover how parents and communities are challenging LGBTQ+ education in schools, asserting parental rights and discussing biblical perspectives on sexuality with a Christian response to curriculum changes.
-Image: images/57a8848a026a0bc326cb36d2a3dd2859-20240911202400.jpg
+Image: images/57a8848a026a0bc326cb36d2a3dd2859-20240911202400.webp
 Slug: resisting-lgbtq-education
 Tags: Opting out LGBTQ+ school lessons, Christian response LGBT curriculum, Parental rights sexuality education, Biblical sexuality teaching children, Challenging gender ideology schools
 Title: 'Challenging Cultural Norms: Understanding Resistance to LGBTQ+ Education in Christian Communities'

@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-09-25'
 Description: Explore the question of whether God hates you in this insightful article, delving into common misconceptions and offering clarity on divine love.
-Image: images/285151e228642432c954d0fe1b0c2fce-20240927150346.jpg
+Image: images/285151e228642432c954d0fe1b0c2fce-20240927150346.webp
 Slug: does-god-hate-me
 Tags: christianity
 Title: Does God Hate Me? Understanding God's Unconditional Love for You

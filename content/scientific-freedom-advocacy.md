@@ -2,7 +2,7 @@
 Category: Science and Faith/Christian Scientific Resistance
 Date: '2024-03-18'
 Description: Discover the challenges faced by Christian scientists advocating for academic freedom and combating religious discrimination in science careers. Explore the complexities of protecting creationist researchers in the UK and ensuring faith-based scientific publication rights.
-Image: images/da93b111b0002ff46c3b29dbc1f0eca0-20240911181454.jpg
+Image: images/da93b111b0002ff46c3b29dbc1f0eca0-20240911181454.webp
 Slug: scientific-freedom-advocacy
 Tags: Christian scientists academic freedom, Religious discrimination science careers, Faith-based scientific publication rights, Protecting creationist researchers UK, Christian science anti-discrimination laws
 Title: 'Championing Scientific Freedom: A Christian Perspective on Advocacy'

@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Titles of God
 Date: '2024-05-17'
 Description: Discover the significance of acknowledging God Most High in various faith traditions and the profound impact this belief has on spirituality and daily life. Explore the concept of divine transcendence and its implications for personal growth and religious practice.
-Image: images/9f57dc6680f6916eecd5ad40402277ed-20240927145543.jpg
+Image: images/9f57dc6680f6916eecd5ad40402277ed-20240927145543.webp
 Slug: god-most-high
 Tags: christianity
 Title: 'Discover the Majesty of God Most High: Unveiling His Supreme Power'

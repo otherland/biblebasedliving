@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Family
 Date: '2024-07-23'
 Description: Explore the fascinating topic of Joseph Jesus in this enlightening article that delves into historical and religious perspectives. Uncover insights about this significant figure in under 160 characters.
-Image: images/8aaa201e571c7d576a76844e018473d0-20240927155418.jpg
+Image: images/8aaa201e571c7d576a76844e018473d0-20240927155418.webp
 Slug: joseph-jesus
 Tags: christianity
 Title: 'Unveiling the Divine Connection: Joseph Jesus Revealed'

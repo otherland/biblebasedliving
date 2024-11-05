@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/God and Man
 Date: '2024-04-06'
 Description: '"Explore the profound theological concept of kenosis, focusing on self-emptying and humility in Christian theology. Discover its significance and implications."'
-Image: images/aec982bdb7b6a3ce3f83f69b47b7ac2b-20240927154124.jpg
+Image: images/aec982bdb7b6a3ce3f83f69b47b7ac2b-20240927154124.webp
 Slug: kenosis
 Tags: christianity
 Title: 'Unlocking the Mystery of Kenosis: Revealing the Ultimate Act of Selflessness'

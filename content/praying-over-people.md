@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-07-11'
 Description: Learn how to pray for others and pray with someone effectively. Discover the power of interceding for others and how to pray over someone with this comprehensive guide.
-Image: images/4245434de7ae61f97091627931c3d0c9-20240827010128.jpg
+Image: images/4245434de7ae61f97091627931c3d0c9-20240827010128.webp
 Slug: praying-over-people
 Tags: how to pray for someone else, how do i pray for others, how to pray with someone, praying with someone, how do we pray for others, interceding for others, how to pray over someone
 Title: Powerful Prayers for Healing: Transforming Lives Through Prayer Ministry

@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-05-07'
 Description: 'Discover an intriguing exploration on the question: "Can God lie?" Dive into the concept of divine truthfulness and the theological implications.'
-Image: images/bcca440db603820ad06bec65ae32ae10-20240927152529.jpg
+Image: images/bcca440db603820ad06bec65ae32ae10-20240927152529.webp
 Slug: can-god-lie
 Tags: christianity
 Title: Can God Lie? Unveiling the Divine Truth for Christian Believers

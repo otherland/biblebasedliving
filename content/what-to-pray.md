@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-04-16'
 Description: Discover the right way to pray and tips on how to address God when praying. Explore the correct way to pray and find guidance on what to pray for.
-Image: images/ec5e4b50f3e43cd192fbb281236a79c0-20240827013535.jpg
+Image: images/ec5e4b50f3e43cd192fbb281236a79c0-20240827013535.webp
 Slug: what-to-pray
 Tags: how to address god when praying, is there a certain way to pray, is there a right way to pray, is there a correct way to pray, tips on praying, prayer tips, the right way to pray
 Title: Powerful Prayers: 7 Essential Ways to Strengthen Your Connection with God

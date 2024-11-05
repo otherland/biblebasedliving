@@ -2,7 +2,7 @@
 Category: Religion & Society/Countering Islamic Influence
 Date: '2024-05-27'
 Description: Explore the complexities of Christian-Islamic relations in the UK, delving into topics like Christian-Muslim dialogue, challenges in Islamic education, countering conversions, response to Sharia courts, and concerns surrounding interfaith marriages.
-Image: images/65121fc910700dc5524f80757fa9a1cf-20240911200049.jpg
+Image: images/65121fc910700dc5524f80757fa9a1cf-20240911200049.webp
 Slug: christian-islamic-relations
 Tags: Christian-Muslim dialogue UK critique, Challenging Islamic education Britain, Countering Islamic conversion UK, Christian response UK Sharia courts, Interfaith marriage concerns Christian
 Title: 'Navigating Christian-Islamic Relations: A Guide for Unity and Understanding'

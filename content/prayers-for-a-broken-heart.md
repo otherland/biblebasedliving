@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-05-20'
 Description: Discover powerful prayers for a broken heart and find solace in the healing embrace of the Lord. This article offers heartfelt prayers to mend what is broken, providing comfort and strength for those seeking guidance and healing in times of heartache.
-Image: images/354ac6943ad539e7b54b6da0e279ae49-20240827003447.jpg
+Image: images/354ac6943ad539e7b54b6da0e279ae49-20240827003447.webp
 Slug: prayers-for-a-broken-heart
 Tags: lord heal my heart, prayer to mend what is broken, prayers for a broken heart, prayer for a woman with a broken heart, prayer to heal heart, prayers for heart, prayer for heart, prayer to heal a broken heart, prayers for the brokenhearted, prayer for the brokenhearted
 Title: 10 Powerful Prayers for Healing a Broken Heart: Finding Comfort and Renewal in Christ

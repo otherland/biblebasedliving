@@ -2,7 +2,7 @@
 Category: Education/Creationism In Schools
 Date: '2024-06-07'
 Description: Explore the debate surrounding the integration of creationism in the UK science curriculum. Should schools teach Genesis alongside evolution? Delve into the controversy of using creationist textbooks in faith schools.
-Image: images/6a4ce87c034cd74929f1db8e7d97ccb5-20240910155200.jpg
+Image: images/6a4ce87c034cd74929f1db8e7d97ccb5-20240910155200.webp
 Slug: curriculum-integration
 Tags: UK creationism science curriculum, Biblical creation in biology classes, Teaching Genesis alongside evolution, Creationist textbooks UK schools, Faith schools creation science
 Title: 'Transform Your Christian Education: 5 Essential Strategies for Curriculum Integration'

@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Seeking God
 Date: '2024-04-26'
 Description: Discover the journey to find God through spirituality and personal reflection. Explore different paths and practices in the quest for divine connection.
-Image: images/027a2133aec2069c7b935c08ada37dcf-20240927150903.jpg
+Image: images/027a2133aec2069c7b935c08ada37dcf-20240927150903.webp
 Slug: find-god
 Tags: christianity
 Title: Discover 7 Proven Ways to Find God in Your Daily Life

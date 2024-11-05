@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-06-23'
 Description: Discover the power of intercessory prayers as you learn how to effectively pray for others. Explore meaningful prayers to uplift and support those in need, fostering compassion and empathy in your spiritual journey.
-Image: images/4c7f28fde27464170009e30cd6c0b9ea-20240827003859.jpg
+Image: images/4c7f28fde27464170009e30cd6c0b9ea-20240827003859.webp
 Slug: prayers-to-pray-for-others
 Tags: people praying for people, praying for someone else, prayers to pray for others, prayer for those in need, pray for them, praying for someone, prayer for people in need
 Title: 10 Powerful Prayers for Interceding on Behalf of Others

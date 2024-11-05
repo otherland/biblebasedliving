@@ -2,7 +2,7 @@
 Category: God/The Character of God/Anthropomorphism
 Date: '2024-04-14'
 Description: Discover the fascinating world of anthropomorphism in this article exploring the humanization of non-human entities. Explore how this concept shapes our understanding of animals and objects.
-Image: images/6409b4ea86e894a8b2e06d9c6b60a4f3-20240927144323.jpg
+Image: images/6409b4ea86e894a8b2e06d9c6b60a4f3-20240927144323.webp
 Slug: anthropomorphism
 Tags: christianity
 Title: 'Divine Reflection: Unveiling the Impact of Anthropomorphism on Christian Beliefs'

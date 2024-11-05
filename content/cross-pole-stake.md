@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-06-02'
 Description: Discover the utility of a cross pole stake in outdoor activities. Learn how this versatile tool enhances stability and support for various applications.
-Image: images/59dc51ba7cbca7f3cc39875d27fc9a6b-20240927160020.jpg
+Image: images/59dc51ba7cbca7f3cc39875d27fc9a6b-20240927160020.webp
 Slug: cross-pole-stake
 Tags: christianity
 Title: Unveiling the Sacred Symbolism of the Cross Pole Stake in Christian Faith

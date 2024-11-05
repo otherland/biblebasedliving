@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-07-29'
 Description: Discover the truth about feeling God's anger. Explore common beliefs and find comfort in understanding divine love and forgiveness.
-Image: images/9a19e06b5cb863b69dd03a648b72205e-20240927150645.jpg
+Image: images/9a19e06b5cb863b69dd03a648b72205e-20240927150645.webp
 Slug: is-god-mad-at-me
 Tags: christianity
 Title: Is God Mad at Me? Understanding Divine Love and Forgiveness

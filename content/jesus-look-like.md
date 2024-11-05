@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Person of Jesus/Jesus’ Appearance
 Date: '2024-04-20'
 Description: Discover the historical and artistic depictions of what Jesus may have looked like. Explore the various interpretations and representations in this intriguing article.
-Image: images/6511b6271593d54e720803b841336c26-20240927154523.jpg
+Image: images/6511b6271593d54e720803b841336c26-20240927154523.webp
 Slug: jesus-look-like
 Tags: christianity
 Title: What Did Jesus Really Look Like? Unveiling His True Appearance in History

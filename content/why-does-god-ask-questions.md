@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Father-God
 Date: '2024-09-21'
 Description: Discover the profound reasons behind why God asks questions in this insightful article. Explore the significance and purpose behind divine queries.
-Image: images/f48e03dca008031b3282372eb36195c3-20240927150046.jpg
+Image: images/f48e03dca008031b3282372eb36195c3-20240927150046.webp
 Slug: why-does-god-ask-questions
 Tags: christianity
 Title: 'Why Does God Ask Questions: Revealing the Divine Purpose'

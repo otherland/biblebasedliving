@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Resurrection
 Date: '2024-05-14'
 Description: Explore the intriguing concept of "Jesus zombie" and its implications in this thought-provoking article that delves into the intersection of religion and popular culture.
-Image: images/74c5d3e63ea44e9e9f9543155f29cbfb-20240927160514.jpg
+Image: images/74c5d3e63ea44e9e9f9543155f29cbfb-20240927160514.webp
 Slug: jesus-zombie
 Tags: christianity
 Title: 'Resurrected Savior: Unveiling the Truth About Jesus'' Resurrection'

@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Origin of God
 Date: '2024-07-28'
 Description: Explore the concept of God as the first cause in this enlightening article, delving into philosophical arguments and theological perspectives. Discover the implications of God being considered the ultimate originator of all existence.
-Image: images/7cdc3826eccd24772747e0f17b05a008-20240927145011.jpg
+Image: images/7cdc3826eccd24772747e0f17b05a008-20240927145011.webp
 Slug: god-first-cause
 Tags: christianity
 Title: 'Divine Revelation: Unveiling God as the Ultimate First Cause'

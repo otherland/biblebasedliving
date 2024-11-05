@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Significant Events
 Date: '2024-07-25'
 Description: Discover the significance and symbolism behind the Last Supper in this insightful article. Uncover the historical and religious aspects of this iconic event.
-Image: images/c5ee9749cad8d05b9acd9f8b16cc81fa-20240927155725.jpg
+Image: images/c5ee9749cad8d05b9acd9f8b16cc81fa-20240927155725.webp
 Slug: last-supper
 Tags: christianity
 Title: 'Ultimate Guide to Last Supper: Unveiling the Sacred Meal''s Significance'

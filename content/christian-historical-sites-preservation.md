@@ -2,7 +2,7 @@
 Category: History & Culture/Reclaiming Christian Heritage
 Date: '2024-07-01'
 Description: Discover how efforts are being made to preserve and restore UK church buildings, protect Christian archaeological sites, and promote Christian historical tourism. Learn about funding initiatives and strategies for reclaiming secularized religious sites in this insightful article.
-Image: images/d2fe3afda973de99998f5e40345a020d-20240911200306.jpg
+Image: images/d2fe3afda973de99998f5e40345a020d-20240911200306.webp
 Slug: christian-historical-sites-preservation
 Tags: UK church building restoration, Christian archaeological sites protection, Funding Christian heritage conservation, Promoting Christian historical tourism, Reclaiming secularized religious sites
 Title: 'Preserving Sacred History: 7 Christian Historical Sites Worth Exploring'

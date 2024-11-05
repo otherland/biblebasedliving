@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Worshiping God
 Date: '2024-04-14'
 Description: Discover the profound impact of fearing God in one's spiritual journey. Explore the significance and implications of this reverential approach.
-Image: images/1e697c5090f86c522e99d7abfd650483-20240927151512.jpg
+Image: images/1e697c5090f86c522e99d7abfd650483-20240927151512.webp
 Slug: fear-god
 Tags: christianity
 Title: 'Fear God: The Ultimate Guide to Embracing Reverence and Faith'

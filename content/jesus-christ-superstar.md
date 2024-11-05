@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Faulty Assumptions
 Date: '2024-08-03'
 Description: '"Discover the iconic rock opera phenomenon with ''Jesus Christ Superstar.'' Explore the timeless music and compelling story of this classic musical. Dive into the religious themes and cultural impact."'
-Image: images/768c31ff80660da97f4a18f37e452cbf-20240927153708.jpg
+Image: images/768c31ff80660da97f4a18f37e452cbf-20240927153708.webp
 Slug: jesus-christ-superstar
 Tags: christianity
 Title: 'Unveiling the Divine Drama: Jesus Christ Superstar Revealed'

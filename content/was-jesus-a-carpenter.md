@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Family
 Date: '2024-07-03'
 Description: Discover the intriguing truth about Jesus' profession as a carpenter and its significance in his life and teachings. Uncover the historical context and biblical references surrounding Jesus' carpentry work.
-Image: images/bf21982c2631d9dd9aec73ff42594aac-20240927155508.jpg
+Image: images/bf21982c2631d9dd9aec73ff42594aac-20240927155508.webp
 Slug: was-jesus-a-carpenter
 Tags: christianity
 Title: Was Jesus a Carpenter? Unveiling the Sacred Craft of the Savior

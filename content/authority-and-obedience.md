@@ -2,7 +2,7 @@
 Category: Child-rearing/Strict Biblical Parenting
 Date: '2024-08-12'
 Description: Explore the significance of child obedience and parental authority in Christian homes. Discover biblical teachings on honoring parents and fostering submissive children in the context of respecting elders within Christian families.
-Image: images/fa0c80b69cba8e66c9304f4fdc783e02-20240911202303.jpg
+Image: images/fa0c80b69cba8e66c9304f4fdc783e02-20240911202303.webp
 Slug: authority-and-obedience
 Tags: Child obedience biblical teaching, Parental authority Christian homes, Honoring parents biblical principle, Submissive children Bible verses, Respecting elders Christian families
 Title: 'Ultimate Guide to Christian Authority and Obedience: Unveiling Biblical Truths'

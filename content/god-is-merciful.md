@@ -2,7 +2,7 @@
 Category: God/The Character of God/God’s Love
 Date: '2024-04-28'
 Description: Discover how God's mercy is a guiding light in times of need. Explore the profound depth of divine compassion in this enlightening article.
-Image: images/2a08a4667b6013fb440239a4b196d149-20240927144007.jpg
+Image: images/2a08a4667b6013fb440239a4b196d149-20240927144007.webp
 Slug: god-is-merciful
 Tags: christianity
 Title: 'Divine Mercy Revealed: God''s Unconditional Love for Christians'

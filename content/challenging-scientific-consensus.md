@@ -2,7 +2,7 @@
 Category: Science and Faith/Christian Scientific Resistance
 Date: '2024-05-27'
 Description: Explore how Christian scientists are challenging scientific consensus by proposing biblically consistent theories and advocating for faith-based peer review alternatives. Dive into the implications of questioning the materialist science paradigm and the emergence of a potential Christian scientific revolution in the UK.
-Image: images/e8aa80cb09bde5920d14eb57ec7841ed-20240911181450.jpg
+Image: images/e8aa80cb09bde5920d14eb57ec7841ed-20240911181450.webp
 Slug: challenging-scientific-consensus
 Tags: Christian scientists against consensus, Faith-based peer review alternatives, Biblically consistent scientific theories, Questioning materialist science paradigm, Christian scientific revolution UK
 Title: 'Unlocking Truth: Challenging Scientific Consensus in Christian Faith'

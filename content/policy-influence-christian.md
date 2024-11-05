@@ -2,7 +2,7 @@
 Category: Science/Intelligent Design Advocacy
 Date: '2024-04-20'
 Description: '"Explore how Christian MPs are influencing UK education policy to include Intelligent Design in science curriculum, supported by think tanks and advocates."'
-Image: images/c76aff1816d5e0ba7502cdb0e8d6e902-20240911181525.jpg
+Image: images/c76aff1816d5e0ba7502cdb0e8d6e902-20240911181525.webp
 Slug: policy-influence-christian
 Tags: UK education policy ID inclusion, Christian MPs supporting ID, Lobbying for ID in science, Intelligent design think tanks, ID advocates education committees
 Title: 'Influential Christian Policies: Transforming Faith and Society'

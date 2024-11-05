@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Timeline
 Date: '2024-09-07'
 Description: Explore the concept of the pre-existence of Jesus, delving into theological perspectives on His existence before His earthly life. Discover the significance and implications of this belief in Christian faith.
-Image: images/adca7c3794a82acc42aff06447fa2777-20240927154949.jpg
+Image: images/adca7c3794a82acc42aff06447fa2777-20240927154949.webp
 Slug: pre-existence-jesus
 Tags: christianity
 Title: 'Unveiling the Mystery of Jesus'' Preexistence: A Christian Revelation'

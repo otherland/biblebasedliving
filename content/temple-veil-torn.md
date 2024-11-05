@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-07-14'
 Description: Explore the profound significance of the temple veil tearing event, a pivotal moment in Christian history symbolizing access to God's presence. Uncover the spiritual implications and historical context surrounding this powerful act of divine transformation.
-Image: images/f0887105aec6fe1c6583bbd8873408f6-20240927160109.jpg
+Image: images/f0887105aec6fe1c6583bbd8873408f6-20240927160109.webp
 Slug: temple-veil-torn
 Tags: christianity
 Title: Profound Significance of the Temple Veil Being Torn

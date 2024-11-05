@@ -2,7 +2,7 @@
 Category: God/God and Evil/Hardships
 Date: '2024-05-21'
 Description: 'Explore the age-old question: "Does God cause suffering?" Discover diverse perspectives on the role of God in human suffering and the complexities of faith in the face of adversity.'
-Image: images/eab1e2ba4950240579ad363a2aadc567-20240927152915.jpg
+Image: images/eab1e2ba4950240579ad363a2aadc567-20240927152915.webp
 Slug: does-god-cause-suffering
 Tags: christianity
 Title: Does God Cause Suffering? Unveiling the Divine Purpose Behind Pain

@@ -2,7 +2,7 @@
 Category: God/The Character of God/Emotion
 Date: '2024-07-11'
 Description: Delve into the intriguing question of whether God possesses emotions in this insightful exploration of theology and divine nature.
-Image: images/d50c9cd2ed90ab2106684f81f21464fb-20240927144520.jpg
+Image: images/d50c9cd2ed90ab2106684f81f21464fb-20240927144520.webp
 Slug: does-god-have-emotions
 Tags: christianity
 Title: Does God Experience Emotions? Exploring the Divine Heartfelt Nature

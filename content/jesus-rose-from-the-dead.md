@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Resurrection
 Date: '2024-07-25'
 Description: Discover the miraculous event of Jesus rising from the dead, a pivotal moment in Christianity's history. Explore the significance and impact of this resurrection.
-Image: images/6b483e1051275ea60b7502fffebcc231-20240927160307.jpg
+Image: images/6b483e1051275ea60b7502fffebcc231-20240927160307.webp
 Slug: jesus-rose-from-the-dead
 Tags: christianity
 Title: 'Miraculous Resurrection: Jesus Defeats Death and Rises Victorious'

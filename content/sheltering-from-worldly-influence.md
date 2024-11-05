@@ -2,7 +2,7 @@
 Category: Child-rearing/Strict Biblical Parenting
 Date: '2024-06-27'
 Description: Discover effective strategies for sheltering your children from worldly influences while balancing isolation and engagement in a secular culture. Learn how to guard kids from temptations and monitor media consumption.
-Image: images/d95a87ae887425cdd2f8e8e03e8d3fbf-20240911202350.jpg
+Image: images/d95a87ae887425cdd2f8e8e03e8d3fbf-20240911202350.webp
 Slug: sheltering-from-worldly-influence
 Tags: Guarding children secular culture, Christian bubble raising kids, Monitoring child media consumption, Protecting youth worldly temptations, Isolation vs engagement parenting
 Title: 'Sanctuary: Sheltering Your Soul from Worldly Influences'

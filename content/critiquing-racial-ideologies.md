@@ -2,7 +2,7 @@
 Category: Race and Ethnicity/Christian Racial Perspectives
 Date: '2024-04-01'
 Description: Explore a Christian critique of racial ideologies like Critical Race Theory, discussing the Biblical perspective on topics such as white privilege and identity politics in the Church. Discover alternatives to concepts like Black Lives Matter and insights on rejecting victimhood mentality within the faith community.
-Image: images/d84ee964617a22d2f857913c46a4a90c-20240912092653.jpg
+Image: images/d84ee964617a22d2f857913c46a4a90c-20240912092653.webp
 Slug: critiquing-racial-ideologies
 Tags: Christian response critical race theory, Biblical view white privilege concept, Dangers identity politics Church, Christian alternative Black Lives Matter, Rejecting victimhood mentality faith
 Title: 'Unveiling Biblical Truths: Critiquing Racial Ideologies through a Christian Lens'

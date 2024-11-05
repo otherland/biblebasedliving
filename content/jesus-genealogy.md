@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Birth
 Date: '2024-05-22'
 Description: Explore the fascinating genealogy of Jesus, tracing his ancestry back through biblical accounts. Delve into the rich history and significance of the lineage of Jesus Christ.
-Image: images/2349090b1e6c0aab1985eee3972e8274-20240927155239.jpg
+Image: images/2349090b1e6c0aab1985eee3972e8274-20240927155239.webp
 Slug: jesus-genealogy
 Tags: christianity
 Title: 'Unveiling the Divine Lineage: Exploring Jesus'' Genealogy in Depth'

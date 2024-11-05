@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Basics
 Date: '2024-04-10'
 Description: Explore the concept of whether God is considered a person, delving into theological perspectives and philosophical viewpoints. Discuss the nature of divinity and its relationship to humanity in this thought-provoking article.
-Image: images/ebe74a7b7f043d9ae5bc1697e457c07f-20240927143327.jpg
+Image: images/ebe74a7b7f043d9ae5bc1697e457c07f-20240927143327.webp
 Slug: is-god-a-person
 Tags: christianity
 Title: 'Is God a Person: Exploring the Divine Nature in Christianity'

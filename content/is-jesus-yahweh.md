@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Titles
 Date: '2024-05-06'
 Description: Discover the intriguing debate on whether Jesus is Yahweh, exploring the theological implications and historical perspectives. Uncover the relationship between Jesus and the divine name Yahweh.
-Image: images/b48c0a27786c73f4b71aa6b250ff82c0-20240927153628.jpg
+Image: images/b48c0a27786c73f4b71aa6b250ff82c0-20240927153628.webp
 Slug: is-jesus-yahweh
 Tags: christianity
 Title: 'Is Jesus Yahweh: Unveiling the Divine Identity'

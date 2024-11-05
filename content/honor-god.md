@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Worshiping God
 Date: '2024-04-12'
 Description: Discover meaningful ways to honor God in your daily life. Explore the importance of faith, gratitude, and service in strengthening your spiritual connection.
-Image: images/91f510122dc8f86a9f9438c10a82846b-20240927151421.jpg
+Image: images/91f510122dc8f86a9f9438c10a82846b-20240927151421.webp
 Slug: honor-god
 Tags: christianity
 Title: 'Honor God: 7 Powerful Ways to Deepen Your Spiritual Connection'

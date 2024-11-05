@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Faulty Assumptions
 Date: '2024-04-23'
 Description: Discover how Jesus was different from other historical figures in this insightful article. Explore unique aspects of his life and teachings.
-Image: images/b056399bfba664040d54a2a8f165a6cf-20240927153705.jpg
+Image: images/b056399bfba664040d54a2a8f165a6cf-20240927153705.webp
 Slug: jesus-different
 Tags: christianity
 Title: 'Discover 5 Ways Jesus Stands Out: What Makes Him Different'

@@ -2,7 +2,7 @@
 Category: Religion and Literature/Purging Liberal Theology
 Date: '2024-09-09'
 Description: '"Explore how UK conservative Christian publishers are promoting Orthodox theology literature, supporting traditional Christian authors, and cultivating biblical inerrancy through evangelical writing workshops."'
-Image: images/1e510cb4499aef2573b970792441b7df-20240912110745.jpg
+Image: images/1e510cb4499aef2573b970792441b7df-20240912110745.webp
 Slug: promoting-orthodox-christian-literature
 Tags: UK conservative Christian publishers, Orthodox theology book promotion, Traditional Christian author platform, Biblical inerrancy literature, Evangelical writing workshops UK
 Title: 5 Essential Strategies for Promoting Orthodox Christian Literature

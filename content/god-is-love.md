@@ -2,7 +2,7 @@
 Category: God/The Character of God/God’s Love
 Date: '2024-06-20'
 Description: Discover the profound essence of "God is love" in this enlightening article that explores the divine nature of unconditional love and its significance in spirituality.
-Image: images/568a0eb36492d74d7772356a7efa6816-20240927143927.jpg
+Image: images/568a0eb36492d74d7772356a7efa6816-20240927143927.webp
 Slug: god-is-love
 Tags: christianity
 Title: 'Divine Love: Exploring God''s Unconditional Affection for His People'

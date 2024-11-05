@@ -2,7 +2,7 @@
 Category: God/God and Evil/War and Disasters
 Date: '2024-09-02'
 Description: Discover the chilling parallels between Hitler and Saddam in this compelling analysis of two infamous dictators and their impact on history. Uncover their rise to power, ruthless regimes, and lasting legacies in a thought-provoking exploration of tyranny.
-Image: images/5acc665b7cf447d17a33868bfbc0246e-20240927153129.jpg
+Image: images/5acc665b7cf447d17a33868bfbc0246e-20240927153129.webp
 Slug: hitler-saddam
 Tags: christianity
 Title: 'Ultimate Comparison: Hitler vs Saddam - Lessons for Christian Faith'

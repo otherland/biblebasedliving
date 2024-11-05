@@ -2,7 +2,7 @@
 Category: Gender Issues/Anti-Feminist Christianity
 Date: '2024-08-12'
 Description: Explore Christian critiques of radical feminism, debunking feminist myths through a biblical lens, and providing an alternative perspective on International Women's Day in this insightful article.
-Image: images/2b306ab2f2ce1599bdc7f2c91ea4eaf1-20240912092521.jpg
+Image: images/2b306ab2f2ce1599bdc7f2c91ea4eaf1-20240912092521.webp
 Slug: countering-feminist-ideology
 Tags: Christian critique radical feminism, Exposing feminist anti-family agenda, Biblical response Me Too movement, Christian alternative International Women's Day, Debunking feminist myths Christianity
 Title: 'Empowering Christian Women: 5 Strategies to Challenge Feminist Ideology'

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Family
 Date: '2024-09-16'
 Description: Explore the age-old question of whether Jesus was married. Delve into historical perspectives, religious beliefs, and scholarly debates on this intriguing topic.
-Image: images/b8493bfb14af3006055cfd71b1112ced-20240927155416.jpg
+Image: images/b8493bfb14af3006055cfd71b1112ced-20240927155416.webp
 Slug: was-jesus-married
 Tags: christianity
 Title: 'Debunking the Myth: Was Jesus Married? Unveiling the Truth for Christian Believers'

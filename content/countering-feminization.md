@@ -2,7 +2,7 @@
 Category: Gender and Family/Biblical Patriarchy Revival
 Date: '2024-07-25'
 Description: Discover how the UK church is addressing the issue of feminization, advocating for a revival of masculine Christianity through robust theology and challenging worship styles. Explore strategies to counter the decline in male engagement.
-Image: images/8aeb47d8651995b1bdb9007e48312fbe-20240912092527.jpg
+Image: images/8aeb47d8651995b1bdb9007e48312fbe-20240912092527.webp
 Slug: countering-feminization
 Tags: Combating church feminization UK, Restoring masculine Christianity, Christian response male decline, Challenging effeminate worship styles, Reviving robust Christian theology
 Title: 'Empowering Christian Values: 5 Strategies to Combat Feminization'

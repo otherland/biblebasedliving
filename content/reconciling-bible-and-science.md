@@ -2,7 +2,7 @@
 Category: Faith and Science/Biblical Scientific Truth
 Date: '2024-04-17'
 Description: Explore how Christians can reconcile Genesis with scientific findings through a faith-friendly lens, delving into the theistic evolution perspective in the UK. Learn about harmonizing biblical interpretation with scientific data for a thoughtful approach to integrating faith and science.
-Image: images/1a91801580085a935dd445e5d53f5469-20240911181647.jpg
+Image: images/1a91801580085a935dd445e5d53f5469-20240911181647.webp
 Slug: reconciling-bible-and-science
 Tags: Harmonizing Genesis and science, Biblical interpretation scientific data, Christian approach science integration, Faith-friendly scientific explanations, Theistic evolution UK perspective
 Title: 'Harmonizing Faith and Science: The Ultimate Guide for Christian Seekers'

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Family
 Date: '2024-07-23'
 Description: Explore the life and teachings of Jesus of Nazareth, a central figure in Christianity. Uncover the historical significance and spiritual impact of his life.
-Image: images/8d243e28a4d03bcaaa871ab062dd6a4c-20240927155604.jpg
+Image: images/8d243e28a4d03bcaaa871ab062dd6a4c-20240927155604.webp
 Slug: jesus-of-nazareth
 Tags: christianity
 Title: 'Unveiling the Life and Teachings of Jesus of Nazareth: A Christian Exploration'

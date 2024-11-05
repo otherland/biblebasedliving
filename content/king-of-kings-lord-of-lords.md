@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Titles
 Date: '2024-08-26'
 Description: Explore the divine title "King of kings Lord of lords" in this captivating article, delving into its profound significance and majestic implications. Uncover the spiritual depth behind this powerful designation.
-Image: images/6db9cb875ffa3d573c81f68ee363fa63-20240927153608.jpg
+Image: images/6db9cb875ffa3d573c81f68ee363fa63-20240927153608.webp
 Slug: king-of-kings-lord-of-lords
 Tags: christianity
 Title: 'Revealing the Majesty: King of Kings, Lord of Lords Unveiled'

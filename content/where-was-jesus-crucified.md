@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-06-08'
 Description: Discover the historical site of Jesus' crucifixion, a significant event in Christian belief, and the location's impact on religious pilgrimage.
-Image: images/a67257074fbb0a28f161517019cae596-20240927160102.jpg
+Image: images/a67257074fbb0a28f161517019cae596-20240927160102.webp
 Slug: where-was-jesus-crucified
 Tags: christianity
 Title: Where Was Jesus Crucified? Unveiling the Sacred Site

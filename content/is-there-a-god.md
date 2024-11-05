@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Existence of God
 Date: '2024-06-06'
 Description: Explore the age-old question of the existence of God in this thought-provoking article. Delve into the philosophical and theological perspectives on this profound topic.
-Image: images/c28c2423b6870b8c9098c072ef3e913d-20240927144815.jpg
+Image: images/c28c2423b6870b8c9098c072ef3e913d-20240927144815.webp
 Slug: is-there-a-god
 Tags: christianity
 Title: 'Discovering the Truth: Is There a God? Exploring the Ultimate Question from a Christian Perspective'

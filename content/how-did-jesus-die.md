@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-08-15'
 Description: Discover the historical account of Jesus' crucifixion, the events leading up to it, and the significance of how Jesus died.
-Image: images/861bce1e6fcf76f013b549f61c14242e-20240927160210.jpg
+Image: images/861bce1e6fcf76f013b549f61c14242e-20240927160210.webp
 Slug: how-did-jesus-die
 Tags: christianity
 Title: 'How Jesus Died: Revealing the Ultimate Sacrifice'

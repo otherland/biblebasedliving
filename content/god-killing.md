@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-06-11'
 Description: Discover the controversial topic of God killing, exploring various perspectives and moral implications in this thought-provoking article.
-Image: images/8bfff05f46f2f13bdfb6aef6c824e67a-20240927152442.jpg
+Image: images/8bfff05f46f2f13bdfb6aef6c824e67a-20240927152442.webp
 Slug: god-killing
 Tags: christianity
 Title: 'Divine Justice Unveiled: Understanding God''s Act of Killing'

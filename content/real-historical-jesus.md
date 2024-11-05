@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Faulty Assumptions
 Date: '2024-08-28'
 Description: Uncover the real historical Jesus in this intriguing article that delves into the life and teachings of the enigmatic figure. Explore the evidence and theories about the true identity of Jesus Christ.
-Image: images/2441cff86a039a108d4bafd5e3f5964d-20240927153710.jpg
+Image: images/2441cff86a039a108d4bafd5e3f5964d-20240927153710.webp
 Slug: real-historical-jesus
 Tags: christianity
 Title: 'Unveiling the Historical Jesus: Discovering the Truth Behind His Life'

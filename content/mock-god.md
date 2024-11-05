@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Toward All People
 Date: '2024-07-17'
 Description: Explore the controversial topic of mocking God in modern society. Delve into the implications, boundaries, and impact of such actions.
-Image: images/f70675f172ff2085784d130ca606c42a-20240927145950.jpg
+Image: images/f70675f172ff2085784d130ca606c42a-20240927145950.webp
 Slug: mock-god
 Tags: christianity
 Title: 'Unveiling the Dangers of Mocking God: How to Honor Him in Every Aspect'

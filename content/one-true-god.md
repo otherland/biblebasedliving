@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Singularity
 Date: '2024-09-08'
 Description: Discover the concept of the one true God in various religions worldwide, exploring the similarities and differences in belief systems. Explore the significance of monotheism and its impact on cultures and societies.
-Image: images/fda05446b90f78cbcec54cca4a78de5a-20240927143609.jpg
+Image: images/fda05446b90f78cbcec54cca4a78de5a-20240927143609.webp
 Slug: one-true-god
 Tags: christianity
 Title: 'Discover the Ultimate Truth: One True God Revealed'

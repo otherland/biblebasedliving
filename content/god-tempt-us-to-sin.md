@@ -2,7 +2,7 @@
 Category: God/God and Evil/The Existence of Sin and Evil
 Date: '2024-06-29'
 Description: 'Explore the controversial question: Does God tempt us to sin? Delve into theological perspectives and biblical insights in this thought-provoking article.'
-Image: images/eb72f2a84b99dbcc69efbd9249045988-20240927152250.jpg
+Image: images/eb72f2a84b99dbcc69efbd9249045988-20240927152250.webp
 Slug: god-tempt-us-to-sin
 Tags: christianity
 Title: Does God Tempt Us to Sin? Understanding Biblical Truths

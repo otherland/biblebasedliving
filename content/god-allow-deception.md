@@ -2,7 +2,7 @@
 Category: God/God and Evil/The Existence of Sin and Evil
 Date: '2024-07-17'
 Description: Explore the concept of why God allows deception in this thought-provoking article. Discover insights into the divine purpose behind allowing deceit in the world.
-Image: images/295c1aba898dec73333974244b8d1aae-20240927152249.jpg
+Image: images/295c1aba898dec73333974244b8d1aae-20240927152249.webp
 Slug: god-allow-deception
 Tags: christianity
 Title: 'Unveiling the Truth: Does God Allow Deception?'

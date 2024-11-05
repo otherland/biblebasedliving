@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Titles of God
 Date: '2024-05-30'
 Description: Discover the significance of the title "God of Jeshurun" in biblical context, exploring its meaning and implications for believers. Unveil the unique attributes associated with this divine title.
-Image: images/f1df97d7fe59945b277e2794be08598b-20240927145546.jpg
+Image: images/f1df97d7fe59945b277e2794be08598b-20240927145546.webp
 Slug: god-of-jeshurun
 Tags: christianity
 Title: 'Unveiling the Powerful God of Jeshurun: A Divine Revelation for Christian Believers'

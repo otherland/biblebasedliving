@@ -2,7 +2,7 @@
 Category: Child-rearing/Strict Biblical Parenting
 Date: '2024-04-26'
 Description: Explore effective strategies for spiritual formation in children and youth through daily family Bible study, child evangelism techniques, scripture memorization, youth discipleship programs, and nurturing a child's prayer life.
-Image: images/7b02b042fffc49f0a28fc9187742e8ce-20240911202409.jpg
+Image: images/7b02b042fffc49f0a28fc9187742e8ce-20240911202409.webp
 Slug: spiritual-formation
 Tags: Daily family Bible study, Child evangelism techniques, Scripture memorization children, Youth discipleship home programs, Developing child's prayer life
 Title: 'Transform Your Faith: 5 Powerful Practices for Spiritual Formation'

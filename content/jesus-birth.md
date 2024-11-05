@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Birth
 Date: '2024-09-06'
 Description: Discover the miraculous story of Jesus' birth and the significance of this event in Christian theology. Explore the Nativity narrative and its impact on the world.
-Image: images/6dc0d5af34eafec765a8466aa9e55fd5-20240927155237.jpg
+Image: images/6dc0d5af34eafec765a8466aa9e55fd5-20240927155237.webp
 Slug: jesus-birth
 Tags: christianity
 Title: 'The Miraculous Birth of Jesus: Unveiling the Divine Arrival'

@@ -2,7 +2,7 @@
 Category: Art and Culture/Anti-Modernist Christian Art
 Date: '2024-08-01'
 Description: Explore a Christian critique of modern art, delving into abstract expressionism, conceptual art, and postmodern trends from a faith-based perspective. Uncover the spiritual void in contemporary artworks and the resistance to secularization in the art world.
-Image: images/a87b0770577049e1f3fe3a021a0833e1-20240912110552.jpg
+Image: images/a87b0770577049e1f3fe3a021a0833e1-20240912110552.webp
 Slug: critiquing-modern-art
 Tags: Christian critique abstract expressionism, Faith-based analysis conceptual art, Biblical perspective postmodern art, Exposing spiritual vacancy modern art, Christian resistance art secularization
 Title: 'Redeeming Modern Art: A Christian Critique and Perspective'

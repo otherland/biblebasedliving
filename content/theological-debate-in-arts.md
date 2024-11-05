@@ -2,7 +2,7 @@
 Category: Religion and Literature/Purging Liberal Theology
 Date: '2024-04-05'
 Description: Explore the fascinating realm of theological debate in the arts, delving into controversies between conservative and liberal Christian art, defending orthodoxy in creative works, and navigating doctrinal debates through artistic expression.
-Image: images/8c587d2f371e6ba8a250fd3f02c8ae9b-20240912110747.jpg
+Image: images/8c587d2f371e6ba8a250fd3f02c8ae9b-20240912110747.webp
 Slug: theological-debate-in-arts
 Tags: Conservative vs liberal Christian art, Theological controversies literature, Defending orthodoxy creative works, Christian apologetics British media, Artistic expression doctrinal debates
 Title: 'Theological Artistry: Unveiling Divine Debates in Christian Expression'

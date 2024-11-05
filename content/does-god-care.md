@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Father-God
 Date: '2024-04-06'
 Description: Discover whether God cares about your life and struggles. Explore the concept of divine care and its significance in personal faith and spirituality.
-Image: images/857b46ca73145db4168ce93576b9c28a-20240927150201.jpg
+Image: images/857b46ca73145db4168ce93576b9c28a-20240927150201.webp
 Slug: does-god-care
 Tags: christianity
 Title: Does God Care? Unveiling the Divine Love and Guidance for Christians

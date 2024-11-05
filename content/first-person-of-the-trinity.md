@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Trinity
 Date: '2024-05-24'
 Description: Discover the significance of the First Person of the Trinity in Christian theology. Explore the role and attributes of this divine figure in shaping beliefs and practices.
-Image: images/1f4912fa4b97dfb5a4cadc68bdcf7834-20240927143512.jpg
+Image: images/1f4912fa4b97dfb5a4cadc68bdcf7834-20240927143512.webp
 Slug: first-person-of-the-trinity
 Tags: christianity
 Title: 'Understanding the First Person of the Trinity: Unveiling the Mystery of God''s Triune Nature'

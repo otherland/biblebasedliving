@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Significant Events
 Date: '2024-06-28'
 Description: Explore the mystical art of transfiguration in this insightful article uncovering the intricacies of magical transformations. Delve into the world of shape-shifting and metamorphosis.
-Image: images/53dfba060ea6c3a72546d4c65aec46a1-20240927155701.jpg
+Image: images/53dfba060ea6c3a72546d4c65aec46a1-20240927155701.webp
 Slug: transfiguration
 Tags: christianity
 Title: 'Divine Transfiguration: Unveiling the Glory Within'

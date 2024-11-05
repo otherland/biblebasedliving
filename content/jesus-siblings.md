@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Family
 Date: '2024-06-11'
 Description: Discover the intriguing topic of Jesus' siblings in this article, exploring historical and biblical perspectives on his family relationships. Unveil the lesser-known aspects of Jesus' life through the lens of his siblings.
-Image: images/ed529f3a6a73295c3398bf8b9513282c-20240927155402.jpg
+Image: images/ed529f3a6a73295c3398bf8b9513282c-20240927155402.webp
 Slug: jesus-siblings
 Tags: christianity
 Title: 'Unveiling the Truth About Jesus'' Siblings: A Revealing Study for Christian Believers'

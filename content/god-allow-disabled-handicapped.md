@@ -2,7 +2,7 @@
 Category: God/God and Evil/Health Problems
 Date: '2024-05-24'
 Description: Explore the complex question of why God allows disabled individuals to exist. Delve into the theological, ethical, and philosophical implications in this thought-provoking article.
-Image: images/7cd2258146f309a32d8bc9795f74cc09-20240927153039.jpg
+Image: images/7cd2258146f309a32d8bc9795f74cc09-20240927153039.webp
 Slug: god-allow-disabled-handicapped
 Tags: christianity
 Title: 'Why God Allows Handicapped Individuals: Understanding His Divine Plan'

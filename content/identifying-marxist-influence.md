@@ -2,7 +2,7 @@
 Category: Culture and Ideology/Combating Cultural Marxism
 Date: '2024-03-25'
 Description: Uncover the hidden Marxist influences in British arts and media. Explore how leftist bias seeps into literature, entertainment, and cultural narratives, shaping perceptions and ideologies.
-Image: images/4e4815dc452d4192bd658cb188bb5954-20240912110607.jpg
+Image: images/4e4815dc452d4192bd658cb188bb5954-20240912110607.webp
 Slug: identifying-marxist-influence
 Tags: Cultural Marxism British arts, Detecting leftist bias literature, Marxist subversion Christian culture, Ideological analysis UK media, Exposing socialist agenda entertainment
 Title: 'Unveiling Marxist Influence: A Christian Perspective'

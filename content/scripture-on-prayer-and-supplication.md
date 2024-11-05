@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-08-24'
 Description: Discover the power of prayer and supplication with these inspiring Bible verses. Find guidance and encouragement as you explore the importance of seeking God through heartfelt prayers.
-Image: images/3152394d5737ba42d33f03582acaad04-20240827010314.jpg
+Image: images/3152394d5737ba42d33f03582acaad04-20240827010314.webp
 Slug: scripture-on-prayer-and-supplication
 Tags: supplication verses, supplication bible verses, bible verses about supplication, bible verses for supplication
 Title: 7 Powerful Scriptures on Prayer and Supplication: Strengthen Your Connection with God

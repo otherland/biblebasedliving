@@ -2,7 +2,7 @@
 Category: Ideology and Culture/Rejecting Cultural Marxism
 Date: '2024-04-27'
 Description: Discover how Christian alternative public education and homeschooling with a Biblical worldview in the UK are shaping education. Explore strategies to detect media bias against Christianity and develop Christian media alternatives.
-Image: images/ca2e0ff2f53bd2345b74bdbd1d654bac-20240912092720.jpg
+Image: images/ca2e0ff2f53bd2345b74bdbd1d654bac-20240912092720.webp
 Slug: education-and-media
 Tags: Christian alternative public education, Homeschooling Biblical worldview UK, Detecting media bias against Christianity, Christian response liberal arts education, Developing Christian media alternatives
 Title: 'Transforming Education Through Faith: 7 Impactful Ways Media Influences Christian Learning'

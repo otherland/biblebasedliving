@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Trinity
 Date: '2024-09-04'
 Description: Discover the concept of God in three persons - Father, Son, and Holy Spirit - exploring the unique relationship and unity within the Christian Trinity. Understanding the divine nature and roles of each person offers profound insights into the Christian faith.
-Image: images/32c09647ba6f1dd2b155cdb17ebb4e40-20240927143425.jpg
+Image: images/32c09647ba6f1dd2b155cdb17ebb4e40-20240927143425.webp
 Slug: god-in-three-persons
 Tags: christianity
 Title: 'Unveiling the Triune God: The Mystery of God in Three Persons'

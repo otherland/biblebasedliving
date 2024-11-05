@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Existence of God
 Date: '2024-05-18'
 Description: Explore the age-old question - "Is God real?" Discover compelling arguments, diverse perspectives, and philosophical insights in this thought-provoking article.
-Image: images/203effa72fa401a40b1ab4dc01c017d6-20240927144813.jpg
+Image: images/203effa72fa401a40b1ab4dc01c017d6-20240927144813.webp
 Slug: is-god-real
 Tags: christianity
 Title: 'Unveiling the Truth: Is God Real? Exploring the Ultimate Christian Perspective'

@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Knowing God
 Date: '2024-05-23'
 Description: Explore the profound journey of knowing God in this enlightening article. Discover insights on spirituality, faith, and personal growth.
-Image: images/e9dc124cf107cba5344547369a0f140a-20240927151301.jpg
+Image: images/e9dc124cf107cba5344547369a0f140a-20240927151301.webp
 Slug: knowing-god
 Tags: christianity
 Title: 'Knowing God: 7 Essential Steps to Deepen Your Relationship'

@@ -2,7 +2,7 @@
 Category: Science Criticism/Exposing Evolution Lies
 Date: '2024-09-05'
 Description: Discover how genetic evidence challenges traditional beliefs with a Christian critique, debunking the molecular clock theory and questioning common descent. Explore the intersection of faith, genetics, and biblical research in the UK.
-Image: images/d0dba0ee7f09a3132a617fd40296cc6f-20240911181504.jpg
+Image: images/d0dba0ee7f09a3132a617fd40296cc6f-20240911181504.webp
 Slug: genetic-evidence-challenges
 Tags: Christian critique genetic similarity, Debunking molecular clock theory, Faith perspective genetic diversity, Questioning common descent genetics, Biblical genetics research UK
 Title: 'Challenging Genetic Evidence: Unveiling the Truth in Christian Perspective'

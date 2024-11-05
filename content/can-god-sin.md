@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-06-24'
 Description: 'Explore the intriguing question: "Can God sin?" Discover varying perspectives on the nature of divinity and morality in this thought-provoking article.'
-Image: images/bf5b4693f4f7de26aaf84b2421fe087f-20240927152426.jpg
+Image: images/bf5b4693f4f7de26aaf84b2421fe087f-20240927152426.webp
 Slug: can-god-sin
 Tags: christianity
 Title: Can God Sin? Exploring the Divine Nature in Christianity

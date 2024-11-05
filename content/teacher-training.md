@@ -2,7 +2,7 @@
 Category: Education/Creationism In Schools
 Date: '2024-08-25'
 Description: Explore how Creationist teacher training in the UK is evolving with the Christian Biology Teachers Network. Discover insights into Creation science workshops, biblical teaching resources, and faith-based pedagogy for educators in this specialized field.
-Image: images/f49c9ab268043551363e7bb8fca7be2d-20240910155324.jpg
+Image: images/f49c9ab268043551363e7bb8fca7be2d-20240910155324.webp
 Slug: teacher-training
 Tags: Creationist teacher training UK, Christian biology teachers network, Creation science workshops educators, Biblical creation teaching resources, Faith-based science pedagogy
 Title: 'Empowering Christian Educators: Essential Teacher Training Tips'

@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-03-15'
 Description: Discover the power of prayer for resilience. Explore prayers and guidance to strengthen your inner strength and overcome challenges. Find inspiration to cultivate resilience through faith.
-Image: images/047fcb44084af5a3627069d5379957fe-20240827004051.jpg
+Image: images/047fcb44084af5a3627069d5379957fe-20240827004051.webp
 Slug: pray-for-resilience
 Tags: pray for resilience, prayer about resilience, prayer for resilience, prayers for resilience, resilience prayer
 Title: Pray for Resilience: Building Unshakeable Faith in Christ

@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Attributes
 Date: '2024-06-27'
 Description: Discover the magnificence and omnipotence of God in this enlightening article. Explore why God is great and how His greatness transcends all understanding.
-Image: images/5f33129f7f458f08e3756a0114478e15-20240927143916.jpg
+Image: images/5f33129f7f458f08e3756a0114478e15-20240927143916.webp
 Slug: god-is-great
 Tags: christianity
 Title: '7 Powerful Reasons Why God is Great: A Christian''s Ultimate Guide to Divine Greatness'

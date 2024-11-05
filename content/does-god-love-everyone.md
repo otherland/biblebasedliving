@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Toward All People
 Date: '2024-06-11'
 Description: Discover the theological debate on whether God loves everyone equally, exploring various perspectives and interpretations.
-Image: images/de3b1c1aec9be18d3f2100380ca40dfe-20240927145845.jpg
+Image: images/de3b1c1aec9be18d3f2100380ca40dfe-20240927145845.webp
 Slug: does-god-love-everyone
 Tags: christianity
 Title: Does God Truly Love Everyone? Exploring Divine Love in Christianity

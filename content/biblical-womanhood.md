@@ -2,7 +2,7 @@
 Category: Society and Culture/Traditional Gender Roles
 Date: '2024-09-05'
 Description: Explore the essence of biblical womanhood in the UK through teachings on Christian women's nurturing roles, godly submission in marriage, embracing modesty, and embodying a gentle, quiet spirit as highlighted in the Bible.
-Image: images/703937b8a9a7452de8f8afdb2ee30c12-20240912092522.jpg
+Image: images/703937b8a9a7452de8f8afdb2ee30c12-20240912092522.webp
 Slug: biblical-womanhood
 Tags: Christian women nurturing role, Biblical femininity teachings, Godly submission marriage UK, Christian modesty for women, Women's gentle quiet spirit Bible
 Title: 'Biblical Womanhood Unveiled: 7 Essential Principles for Christian Women'

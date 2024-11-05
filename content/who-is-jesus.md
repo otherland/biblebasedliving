@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Basics
 Date: '2024-05-24'
 Description: Discover who Jesus is - a central figure in Christianity and a revered prophet in Islam. Learn about his teachings, life, and impact on religious beliefs.
-Image: images/962845c5c96a7b987e5dc36ae694137a-20240927153232.jpg
+Image: images/962845c5c96a7b987e5dc36ae694137a-20240927153232.webp
 Slug: who-is-jesus
 Tags: christianity
 Title: 'Discovering the Truth: Who is Jesus Christ - Unveiling His Divine Identity'

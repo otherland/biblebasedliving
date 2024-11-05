@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Toward All People
 Date: '2024-08-27'
 Description: Explore the profound concept of the sovereignty of God in this enlightening article, delving into how divine power and control shape our understanding of faith and existence.
-Image: images/32f0bf17487ce676faed75e798209441-20240927145821.jpg
+Image: images/32f0bf17487ce676faed75e798209441-20240927145821.webp
 Slug: sovereignty-of-god
 Tags: christianity
 Title: 'Sovereignty of God: Unveiling the Divine Power in Christian Faith'

@@ -2,7 +2,7 @@
 Category: Politics/Christian Nationalist Movement
 Date: '2024-08-24'
 Description: Discover the resurgence of British Christian heritage in the UK, exploring the rise of Christian nationalist groups and efforts to restore Christian cultural dominance with the Restoring Christian Britain movement. Explore the manifesto driving the UK Christian nationalist agenda.
-Image: images/bbc75f63a416f3ac05696a23357c7b2b-20240830172905.jpg
+Image: images/bbc75f63a416f3ac05696a23357c7b2b-20240830172905.webp
 Slug: uk-christian-identity
 Tags: British Christian heritage revival, UK Christian nationalist groups, Christian cultural dominance Britain, Restoring Christian Britain movement, UK Christian nationalist manifesto
 Title: Unveiling UK Christian Identity: Embracing Faith in a Modern World

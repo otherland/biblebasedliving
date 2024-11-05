@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-04-30'
 Description: '"Discover 10 engaging ways to teach your child to pray, including a preschool lesson plan and practical tips on how to introduce prayer to children. Learn how to instill a meaningful understanding of prayer in kids and guide them in developing a personal prayer life."'
-Image: images/213309d68b4179260795c7fe372b87a9-20240827010543.jpg
+Image: images/213309d68b4179260795c7fe372b87a9-20240827010543.webp
 Slug: teaching-kids-about-prayer
 Tags: 10 ways to teach your child to pray, preschool lesson on prayer, how to teach a child to pray, teaching children to pray, teaching kids to pray, prayer lesson for kids, how to teach kids to pray, how to teach children to pray, teaching kids about prayer, how to teach prayer, teaching children about prayer, teaching children how to pray, teaching kids how to pray
 Title: Teaching Kids the Power of Prayer: A Comprehensive Guide for Christian Parents

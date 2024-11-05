@@ -2,7 +2,7 @@
 Category: God/The Character of God/Justice
 Date: '2024-05-26'
 Description: Explore the powerful concept of the "wrath of God" in religious beliefs and traditions. Uncover the significance, interpretations, and impact of this divine attribute in various faiths worldwide.
-Image: images/224daeecfff3852aedc183d80bfd1db1-20240927144808.jpg
+Image: images/224daeecfff3852aedc183d80bfd1db1-20240927144808.webp
 Slug: wrath-of-god
 Tags: christianity
 Title: 'Unleashing the Divine Wrath: Understanding God''s Judgment'

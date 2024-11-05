@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Basics
 Date: '2024-05-05'
 Description: Explore the depths of Christology - the study of the nature and person of Jesus Christ - in this insightful article delving into theological perspectives and historical significance.
-Image: images/9d6229eebd3c4119006acb43db03ce0b-20240927153224.jpg
+Image: images/9d6229eebd3c4119006acb43db03ce0b-20240927153224.webp
 Slug: christology
 Tags: christianity
 Title: 'Ultimate Guide to Christology: Exploring the Divinity of Christ'

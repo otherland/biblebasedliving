@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Names of God
 Date: '2024-09-27'
 Description: Discover the profound significance of Hashem, a term used to refer to God in Jewish tradition. Unveil the spiritual depth and cultural importance encapsulated in this sacred name.
-Image: images/3dc21063236c0b6c84678b8fec9f26af-20240927145235.jpg
+Image: images/3dc21063236c0b6c84678b8fec9f26af-20240927145235.webp
 Slug: meaning-of-hashem
 Tags: christianity
 Title: 'Understanding the Essence of Hashem: A Christian''s Guide'

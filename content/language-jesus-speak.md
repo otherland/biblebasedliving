@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Family
 Date: '2024-09-15'
 Description: Discover the language Jesus spoke and its significance in historical and religious contexts. Unravel the linguistic mysteries surrounding Jesus in this insightful article.
-Image: images/c5a899717fb543c5d1b2bdd9bd5ead5d-20240927155540.jpg
+Image: images/c5a899717fb543c5d1b2bdd9bd5ead5d-20240927155540.webp
 Slug: language-jesus-speak
 Tags: christianity
 Title: 'Discovering the Language Jesus Spoke: A Christian Revelation'

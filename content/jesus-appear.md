@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Resurrection
 Date: '2024-05-20'
 Description: Discover the profound impact and significance of Jesus' appearances in various contexts throughout history. Explore the spiritual and historical implications of Jesus appearing to individuals and groups in this insightful article.
-Image: images/495e4b9a04d429ae10107dee006d74e7-20240927160516.jpg
+Image: images/495e4b9a04d429ae10107dee006d74e7-20240927160516.webp
 Slug: jesus-appear
 Tags: christianity
 Title: '7 Miraculous Moments of Jesus Appearing: A Testament of Faith'

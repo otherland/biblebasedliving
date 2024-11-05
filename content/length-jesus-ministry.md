@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Timeline
 Date: '2024-07-10'
 Description: Discover the length of Jesus's ministry in this insightful article. Unveil the duration of his impactful teachings and spiritual journey.
-Image: images/75cc1d142effc2190c39a16973b998b3-20240927155022.jpg
+Image: images/75cc1d142effc2190c39a16973b998b3-20240927155022.webp
 Slug: length-jesus-ministry
 Tags: christianity
 Title: 'Unveiling the Length of Jesus'' Impactful Ministry: A Revealing Exploration'

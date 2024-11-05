@@ -2,7 +2,7 @@
 Category: Art and Culture/Anti-Modernist Christian Art
 Date: '2024-04-30'
 Description: Explore the vibrant world of UK Christian realist painting, figurative sculpture with religious themes, and contemporary depictions of Biblical scenes in this article promoting representational Christian artists and narrative art exhibitions.
-Image: images/2ce9212b367747cbbd2583b784fed6eb-20240912110600.jpg
+Image: images/2ce9212b367747cbbd2583b784fed6eb-20240912110600.webp
 Slug: promoting-figurative-christian-art
 Tags: UK Christian realist painting, Figurative sculpture religious themes, Narrative Christian art exhibitions, Biblical scene contemporary depictions, Promoting representational Christian artists
 Title: 'Reviving Faith: 7 Ways to Promote Figurative Christian Art'

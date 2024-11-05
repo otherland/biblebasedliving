@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Attributes
 Date: '2024-08-13'
 Description: Discover the concept of God's omnipotence in this enlightening article. Explore the limitless power and authority attributed to the divine being.
-Image: images/0dce53a3e30ce6680c2f435aa011b57e-20240927143806.jpg
+Image: images/0dce53a3e30ce6680c2f435aa011b57e-20240927143806.webp
 Slug: god-omnipotent
 Tags: christianity
 Title: 'Unveiling the Almighty Power: Understanding God''s Omnipotence in Christian Faith'

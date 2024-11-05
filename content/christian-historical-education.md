@@ -2,7 +2,7 @@
 Category: History & Culture/Reclaiming Christian Heritage
 Date: '2024-04-21'
 Description: Explore the rich tapestry of UK Christian history education, from curriculum integration to heritage school trips. Dive into the study of British Christian figures and the vital role of Church history in shaping national identity.
-Image: images/99bf24056af16412218d740392666f5d-20240911200324.jpg
+Image: images/99bf24056af16412218d740392666f5d-20240911200324.webp
 Slug: christian-historical-education
 Tags: UK Christian history curriculum, Christian heritage school trips, British Christian historical figures study, Church history public education, Christian role forming British identity
 Title: 'Unlocking the Power of Christian Historical Education: A Comprehensive Guide'

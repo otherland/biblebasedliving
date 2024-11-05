@@ -2,7 +2,7 @@
 Category: Art and Culture/Anti-Modernist Christian Art
 Date: '2024-07-01'
 Description: Discover how the UK Christian classical art movement is reviving traditional painting techniques and religious iconography, bringing biblical themes into contemporary art. Explore the resurgence of Christian artist guilds in Britain.
-Image: images/d45160ca0aeda9de2e51cdcfe4a2b358-20240912110559.jpg
+Image: images/d45160ca0aeda9de2e51cdcfe4a2b358-20240912110559.webp
 Slug: traditional-art-revival
 Tags: UK Christian classical art movement, Reviving religious iconography Britain, Traditional Christian painting techniques, Biblical themes contemporary art, Christian artist guilds UK
 Title: 'Reviving Traditional Christian Art: A Divine Renaissance'

@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Existence of God
 Date: '2024-08-02'
 Description: Discover the profound question of why God exists, exploring philosophical and theological perspectives on the existence of a higher power.
-Image: images/ccf106c20faece23b61058d054bf470e-20240927144942.jpg
+Image: images/ccf106c20faece23b61058d054bf470e-20240927144942.webp
 Slug: why-does-god-exist
 Tags: christianity
 Title: 'Why Does God Exist: Unveiling the Divine Purpose for Christian Believers'

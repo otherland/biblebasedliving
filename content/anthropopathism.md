@@ -2,7 +2,7 @@
 Category: God/The Character of God/Anthropomorphism
 Date: '2024-07-24'
 Description: Explore the concept of anthropopathism, which attributes human emotions and characteristics to deities or natural phenomena. Uncover its significance in various cultures and religious practices.
-Image: images/e51fb5e9291108799359fd837c8ab39a-20240927144329.jpg
+Image: images/e51fb5e9291108799359fd837c8ab39a-20240927144329.webp
 Slug: anthropopathism
 Tags: christianity
 Title: Unlocking the Power of Anthropopathism in Christian Worship

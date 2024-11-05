@@ -2,7 +2,7 @@
 Category: History & Culture/Christian Britain Restoration
 Date: '2024-08-12'
 Description: Discover the debate surrounding the reinstatement of Christian symbols in public spaces like government offices and public buildings. Explore the preservation of Christian monuments in the UK and the display of Nativity scenes on public property.
-Image: images/6fc84ba2a38448c9187a1c4dd7c7e608-20240911200032.jpg
+Image: images/6fc84ba2a38448c9187a1c4dd7c7e608-20240911200032.webp
 Slug: christian-symbols-in-public-spaces
 Tags: Reinstating crosses public buildings, Christian monuments preservation UK, Nativity scenes public property, Christian symbols government offices, Restoring prayer rooms public institutions
 Title: '7 Christian Symbols Transforming Public Spaces: A Faithful Perspective'

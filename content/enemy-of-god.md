@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Toward All People
 Date: '2024-04-28'
 Description: Discover the concept of the "enemy of God" and its significance in various religious beliefs. Explore the implications and interpretations of being perceived as such in different faith traditions.
-Image: images/b00957ea69eda118a5e4ed8e04a7e608-20240927145949.jpg
+Image: images/b00957ea69eda118a5e4ed8e04a7e608-20240927145949.webp
 Slug: enemy-of-god
 Tags: christianity
 Title: 'Unveiling the Ultimate Enemy of God: A Christian''s Definitive Guide'

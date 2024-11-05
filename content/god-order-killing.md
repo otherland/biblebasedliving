@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-05-21'
 Description: Explore the complex moral implications of divine commands to kill in religious texts. Delve into the theological justifications and ethical dilemmas surrounding God-ordered killings.
-Image: images/fe94fae86143963d4b3e7b58db90376c-20240927152517.jpg
+Image: images/fe94fae86143963d4b3e7b58db90376c-20240927152517.webp
 Slug: god-order-killing
 Tags: christianity
 Title: 'Divine Command: Understanding God''s Order on Killing'

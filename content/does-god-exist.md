@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Existence of God
 Date: '2024-06-01'
 Description: 'Explore the age-old question: Does God exist? Delve into philosophical, theological, and scientific perspectives on the existence of a higher power.'
-Image: images/e248c317d8e769e56b25c707eb10245e-20240927144825.jpg
+Image: images/e248c317d8e769e56b25c707eb10245e-20240927144825.webp
 Slug: does-god-exist
 Tags: christianity
 Title: Does God Exist? Exploring the Ultimate Truth for Christian Believers

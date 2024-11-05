@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Existence of God
 Date: '2024-08-24'
 Description: Explore compelling evidence for the existence of God in this thought-provoking article that delves into philosophical and scientific perspectives.
-Image: images/a9370c4116dedbc8c71f0ad801cd2f06-20240927144948.jpg
+Image: images/a9370c4116dedbc8c71f0ad801cd2f06-20240927144948.webp
 Slug: evidence-existence-god
 Tags: christianity
 Title: 'Title: "Ultimate Evidence for the Existence of God: A Christian Perspective'

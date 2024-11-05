@@ -2,7 +2,7 @@
 Category: Science/Intelligent Design Advocacy
 Date: '2024-08-09'
 Description: Explore the integration of Intelligent Design (ID) in UK university curricula, Christian colleges teaching ID, academic freedom surrounding ID, ID theory in scientific journals, and Intelligent Design PhD programs in this insightful article.
-Image: images/bb54d5efc78c84e73d172c435b7a65cc-20240911181447.jpg
+Image: images/bb54d5efc78c84e73d172c435b7a65cc-20240911181447.webp
 Slug: academic-recognition-creationisn
 Tags: ID in UK university curricula, Christian colleges teaching ID, Academic freedom intelligent design, ID theory scientific journals, Intelligent design PhD programs
 Title: 'Divine Recognition: 5 Transformative Steps to Embrace Creationism'

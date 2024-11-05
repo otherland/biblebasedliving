@@ -2,7 +2,7 @@
 Category: Entertainment and Media/Reclaiming Entertainment Industry
 Date: '2024-04-12'
 Description: Explore the dynamic landscape of Christian film production in the UK, from funding faith-based movies to scriptwriting competitions and distributing evangelical cinema. Discover the journey of bringing Biblical epics to life on screen.
-Image: images/0acbfc7e01ad18b8bcefb7f8410e1747-20240912110747.jpg
+Image: images/0acbfc7e01ad18b8bcefb7f8410e1747-20240912110747.webp
 Slug: christian-film-production
 Tags: UK Christian film studios, Faith-based movie funding, Christian screenwriting competitions, Biblical epic film productions, Evangelical cinema distribution
 Title: 'Transform Your Faith: 7 Key Strategies for Successful Christian Film Production'

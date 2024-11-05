@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Names
 Date: '2024-06-07'
 Description: Discover the profound teachings and life of Yeshua Jesus in this enlightening article, exploring his spiritual impact and timeless message of love and compassion.
-Image: images/b03bb619928303cbd2e95c1298015773-20240927153321.jpg
+Image: images/b03bb619928303cbd2e95c1298015773-20240927153321.webp
 Slug: yeshua-jesus
 Tags: christianity
 Title: 'Unveiling the Divine Truth of Yeshua Jesus: A Christian Revelation'

@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Seeking God
 Date: '2024-05-25'
 Description: Explore the defining characteristics of God, including omnipotence, omniscience, and omnipresence, in this insightful article. Gain a deeper understanding of the divine attributes.
-Image: images/ea206833ea8b16e7ee164992ba15acd9-20240927150719.jpg
+Image: images/ea206833ea8b16e7ee164992ba15acd9-20240927150719.webp
 Slug: characteristics-of-god
 Tags: christianity
 Title: '7 Divine Characteristics of God Unveiled: A Christian Perspective'

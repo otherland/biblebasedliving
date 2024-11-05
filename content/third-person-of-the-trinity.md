@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Trinity
 Date: '2024-04-29'
 Description: Discover the significance and role of the Third Person of the Trinity in Christian theology. Explore the divine attributes and functions of the Holy Spirit in this insightful article.
-Image: images/ba84fe315f40bfe49c2c5f9949c171df-20240927143546.jpg
+Image: images/ba84fe315f40bfe49c2c5f9949c171df-20240927143546.webp
 Slug: third-person-of-the-trinity
 Tags: christianity
 Title: Unveiling the Divine Mystery of the Third Person of the Trinity

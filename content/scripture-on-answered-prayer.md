@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-04-06'
 Description: Discover powerful scriptures on answered prayer in the Bible. Explore verses that highlight the faithfulness of God in responding to our prayers. Gain inspiration and encouragement as you delve into the promises of God and witness the assurance that our prayers are heard and answered.
-Image: images/027f1d2c8d129f64f6919a44ae038125-20240827010229.jpg
+Image: images/027f1d2c8d129f64f6919a44ae038125-20240827010229.webp
 Slug: scripture-on-answered-prayer
 Tags: answered prayer scriptures, bible verses answered prayer, bible verses about answered prayers, scriptures on answered prayers in the bible, verses about prayers being answered, bible verses about answered prayer, answer to prayer bible verse, scripture on answered prayer, bible quotes about answered prayers, bible scriptures on answered prayers, bible verse on prayers answered, scriptures on prayers being answered
 Title: 10 Powerful Scripture Verses for Answered Prayer: Strengthen Your Faith and Experience God''s Blessings

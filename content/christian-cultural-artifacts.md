@@ -2,7 +2,7 @@
 Category: History & Culture/Reclaiming Christian Heritage
 Date: '2024-06-19'
 Description: Explore the significance of repatriating UK Christian artifacts, preserving literature archives, and digitizing manuscripts in this article on Christian cultural heritage and symbols.
-Image: images/f2ed6673f149d3d4927d254a22132528-20240911200243.jpg
+Image: images/f2ed6673f149d3d4927d254a22132528-20240911200243.webp
 Slug: christian-cultural-artifacts
 Tags: Repatriating UK Christian artifacts, Christian art museum prominence, Preserving Christian literature archives, Digitizing UK Christian manuscripts, Christian symbols national emblems
 Title: Exploring 10 Divine Christian Cultural Artifacts for Spiritual Enrichment

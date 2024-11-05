@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/Humanity
 Date: '2024-09-21'
 Description: Explore the mystical realm of little lower angels in this captivating article, delving into their significance and role in spiritual beliefs. Discover the enchanting world of these celestial beings in a concise exploration.
-Image: images/08871da6254fe99d364f539827da9bec-20240927154307.jpg
+Image: images/08871da6254fe99d364f539827da9bec-20240927154307.webp
 Slug: little-lower-angels
 Tags: christianity
 Title: 'Unveiling the Divine Truth: Little Lower Angels Revealed'

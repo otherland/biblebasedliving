@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Timeline
 Date: '2024-04-24'
 Description: Explore the fascinating life of Christ in this insightful article, delving into His teachings, miracles, and impact on Christianity. Uncover the profound journey of Jesus with historical insights and spiritual reflections.
-Image: images/2e5135d1d34682c7dcc96927672fb27b-20240927155215.jpg
+Image: images/2e5135d1d34682c7dcc96927672fb27b-20240927155215.webp
 Slug: life-of-christ
 Tags: christianity
 Title: 'The Ultimate Guide to the Life of Christ: Key Events and Teachings'

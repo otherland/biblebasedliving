@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Titles
 Date: '2024-08-24'
 Description: Discover the profound significance of Agnus Dei in liturgical practices. Uncover the history, symbolism, and spiritual essence of this sacred Latin prayer.
-Image: images/539bf33c78c95098342e824eee2d3b82-20240927153517.jpg
+Image: images/539bf33c78c95098342e824eee2d3b82-20240927153517.webp
 Slug: agnus-dei
 Tags: christianity
 Title: 'Agnus Dei: The Sacred Lamb of God Revealed'

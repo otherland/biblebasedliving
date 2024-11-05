@@ -2,7 +2,7 @@
 Category: God/God and Evil/Health Problems
 Date: '2024-04-10'
 Description: Discover the power and hope behind the universal desire for divine healing as we explore the concept of God healing everyone in times of need. Explore the spiritual implications and profound impact this belief can have on individuals and communities.
-Image: images/ec218f0f45f8af865b8e719003b2f879-20240927153056.jpg
+Image: images/ec218f0f45f8af865b8e719003b2f879-20240927153056.webp
 Slug: god-heal-everyone
 Tags: christianity
 Title: 'Divine Healing: God''s Promise to Restore and Renew'

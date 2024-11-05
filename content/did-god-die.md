@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Faulty Assumptions
 Date: '2024-05-24'
 Description: 'Explore the age-old theological question: "Did God die?" Delve into the complexities of this inquiry and its implications in religious discourse.'
-Image: images/85a824325f8e2b0474f7d02b63f999a6-20240927145726.jpg
+Image: images/85a824325f8e2b0474f7d02b63f999a6-20240927145726.webp
 Slug: did-god-die
 Tags: christianity
 Title: Did God Die? Unveiling the Eternal Truth for Christian Believers

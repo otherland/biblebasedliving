@@ -2,7 +2,7 @@
 Category: Science Criticism/Exposing Evolution Lies
 Date: '2024-08-13'
 Description: Explore the clash between evolutionary ethics and Christian beliefs, highlighting the dangers of social Darwinism and contrasting biblical morality with evolutionary principles. Dive into the moral arguments against evolution and the faith-based critiques of evolutionary psychology in this thought-provoking article.
-Image: images/72037b561e2cf55807c80feeb32f0c48-20240911181504.jpg
+Image: images/72037b561e2cf55807c80feeb32f0c48-20240911181504.webp
 Slug: evolutionary-ethics-criticism
 Tags: Christian response evolutionary morality, Exposing social Darwinism dangers, Biblical ethics vs evolutionary ethics, Moral argument against evolution, Faith-based critique evolutionary psychology
 Title: 'Unveiling the Flaws in Evolutionary Ethics: A Christian Perspective'

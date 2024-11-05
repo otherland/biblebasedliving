@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Titles of God
 Date: '2024-05-31'
 Description: Discover the concept of the Creator God and explore the significance of this divine figure in various religious and spiritual traditions. Explore the role and attributes associated with the Creator God in shaping belief systems worldwide.
-Image: images/22c671dca1baa5897af86a48b9cecd53-20240927145346.jpg
+Image: images/22c671dca1baa5897af86a48b9cecd53-20240927145346.webp
 Slug: creator-god
 Tags: christianity
 Title: 'Discovering the Creator God: Unveiling the Divine Mystery'

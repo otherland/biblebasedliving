@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Seeking God
 Date: '2024-04-30'
 Description: Explore the profound impact of faith in God on individuals' lives and how it shapes their beliefs, values, and sense of purpose. Understand the significance of faith in navigating life's challenges and finding solace in a higher power.
-Image: images/2ed5a55a0d7a5f1ed4acee4defdb203a-20240927151137.jpg
+Image: images/2ed5a55a0d7a5f1ed4acee4defdb203a-20240927151137.webp
 Slug: faith-in-god
 Tags: christianity
 Title: 10 Powerful Ways to Strengthen Your Faith in God

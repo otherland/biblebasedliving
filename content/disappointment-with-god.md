@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Honest Questions
 Date: '2024-05-19'
 Description: Explore the complex emotions of disappointment with God in this insightful article, delving into the challenges and reflections on faith amidst struggles.
-Image: images/92e2536a8c875638e946c75fd4ed39dd-20240927151559.jpg
+Image: images/92e2536a8c875638e946c75fd4ed39dd-20240927151559.webp
 Slug: disappointment-with-god
 Tags: christianity
 Title: 'Overcoming Disappointment with God: Rekindling Faith and Hope'

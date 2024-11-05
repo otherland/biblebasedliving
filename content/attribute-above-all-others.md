@@ -2,7 +2,7 @@
 Category: God/The Character of God/God’s Holiness
 Date: '2024-09-05'
 Description: Discover the attribute above all others that distinguishes exceptional leaders from the rest. Uncover the key quality essential for success in leadership roles.
-Image: images/7f8d02949920595950d72c9fc7f13be1-20240927144056.jpg
+Image: images/7f8d02949920595950d72c9fc7f13be1-20240927144056.webp
 Slug: attribute-above-all-others
 Tags: christianity
 Title: The Ultimate Christian Attribute Above All Others

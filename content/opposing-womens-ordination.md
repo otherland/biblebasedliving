@@ -2,7 +2,7 @@
 Category: Gender Issues/Anti-Feminist Christianity
 Date: '2024-03-23'
 Description: Explore the contentious debate over women's ordination in the church, delving into the biblical arguments against female pastors and defending the traditional male-only priesthood. Discover how this issue is causing division in churches worldwide and challenging established clergy roles.
-Image: images/ac813c90c7f66d6a9385fae38d791805-20240912092528.jpg
+Image: images/ac813c90c7f66d6a9385fae38d791805-20240912092528.webp
 Slug: opposing-womens-ordination
 Tags: Biblical case against women pastors, Male-only priesthood defense, Challenging women's ordination UK, Church split women leaders issue, Preserving traditional clergy roles
 Title: 7 Reasons Why Opposing Women's Ordination Is Vital for Christian Faith

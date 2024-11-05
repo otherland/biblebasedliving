@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Basics
 Date: '2024-07-25'
 Description: Discover the concept of God - a divine being worshipped by various religions worldwide. Explore the significance and beliefs surrounding this omnipotent entity.
-Image: images/aa4c48b54ba1c2c13932ce7d88628b68-20240927143206.jpg
+Image: images/aa4c48b54ba1c2c13932ce7d88628b68-20240927143206.webp
 Slug: who-is-god
 Tags: christianity
 Title: 'Discovering the Divine: Unveiling the True Identity of God for Christian Believers'

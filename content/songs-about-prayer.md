@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-08-03'
 Description: Discover a collection of powerful and uplifting songs about prayer. From contemporary Christian hits to timeless classics, these worship songs will inspire and deepen your prayer life. Explore the best praise and worship songs that focus on prayer and find new anthems for your prayer time.
-Image: images/53f0001f73c888416ac85c9020274e2b-20240827010446.jpg
+Image: images/53f0001f73c888416ac85c9020274e2b-20240827010446.webp
 Slug: songs-about-prayer
 Tags: praise songs about prayer, praise and worship songs about prayer, worship songs for prayer, popular songs about prayer, contemporary christian songs about prayer, songs with prayer in the title, worship songs for prayer time, worship songs on prayer
 Title: 10 Powerful Christian Songs About Prayer: Inspiring Your Faith Journey

@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Names of God
 Date: '2024-08-14'
 Description: Discover the significance and beliefs surrounding Jehovah in this insightful article. Uncover the depths of Jehovah's role and importance in various religious contexts.
-Image: images/6944d2d09532bd193db69b1a416887fc-20240927145154.jpg
+Image: images/6944d2d09532bd193db69b1a416887fc-20240927145154.webp
 Slug: jehovah
 Tags: christianity
 Title: 'Unlocking the Power of Jehovah: A Christian Guide for Divine Understanding'

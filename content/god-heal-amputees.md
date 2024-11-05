@@ -2,7 +2,7 @@
 Category: God/God and Evil/Health Problems
 Date: '2024-04-25'
 Description: Discover the age-old question of whether God heals amputees in this thought-provoking article exploring faith, miracles, and the limits of divine intervention.
-Image: images/f7e904758e504af6447c78c5f69b30f3-20240927153057.jpg
+Image: images/f7e904758e504af6447c78c5f69b30f3-20240927153057.webp
 Slug: god-heal-amputees
 Tags: christianity
 Title: 'Miraculous Healing: Can God Restore Amputees? Discover the Truth'

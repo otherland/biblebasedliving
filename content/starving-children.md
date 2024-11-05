@@ -2,7 +2,7 @@
 Category: God/God and Evil/Hardships
 Date: '2024-05-04'
 Description: Discover the heartbreaking realities faced by starving children around the world in this eye-opening article shedding light on hunger crisis.
-Image: images/7716931cdba5725d447363ce570806b6-20240927152928.jpg
+Image: images/7716931cdba5725d447363ce570806b6-20240927152928.webp
 Slug: starving-children
 Tags: christianity
 Title: 'Transforming Lives: 5 Ways Christians Can Help Starving Children Today'

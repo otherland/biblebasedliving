@@ -2,7 +2,7 @@
 Category: Education/Creationism In Schools
 Date: '2024-06-21'
 Description: '"Exploring parental rights in education: UK parents'' push for creationism opt-in, Christian objections to evolution, and homeschooling choices in science curriculum."'
-Image: images/a7af7542a968c7ba17947e15b2d760ec-20240911164643.jpg
+Image: images/a7af7542a968c7ba17947e15b2d760ec-20240911164643.webp
 Slug: parental-rights
 Tags: UK parents creationism opt-in, Christian parents evolution objections, Homeschooling creationism rights, Parental choice science education, Faith-based curriculum requests
 Title: 'Divine Guidance: 6 Essential Insights on Christian Parental Rights'

@@ -2,7 +2,7 @@
 Category: God/The Character of God/Anthropomorphism
 Date: '2024-05-16'
 Description: Explore the concept of God having a physical body in various religious beliefs. Discover the theological implications and interpretations surrounding this intriguing topic.
-Image: images/ce706008fcc0f716b5d665315ed2b7ed-20240927144342.jpg
+Image: images/ce706008fcc0f716b5d665315ed2b7ed-20240927144342.webp
 Slug: god-physical-body
 Tags: christianity
 Title: 'Unveiling the Mystery of God''s Physical Body: A Divine Revelation for Christian Believers'

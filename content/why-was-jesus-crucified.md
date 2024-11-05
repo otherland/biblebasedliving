@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-09-26'
 Description: Learn about the historical events leading to Jesus' crucifixion, exploring the religious, political, and social reasons behind this pivotal moment.
-Image: images/53449f7192b293002682ff02118f5f64-20240927155959.jpg
+Image: images/53449f7192b293002682ff02118f5f64-20240927155959.webp
 Slug: why-was-jesus-crucified
 Tags: christianity
 Title: 'Why Was Jesus Crucified: Unveiling the Ultimate Sacrifice'

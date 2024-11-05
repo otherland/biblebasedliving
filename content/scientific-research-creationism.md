@@ -2,7 +2,7 @@
 Category: Science/Intelligent Design Advocacy
 Date: '2024-06-12'
 Description: Explore the latest UK scientific research on creationism and intelligent design, including studies by Christian scientists, evidence of irreducible complexity, funding for ID projects, and peer-reviewed papers supporting ID in the academic realm.
-Image: images/73b45cfc7ef186a054deb8c0b57190f9-20240911180907.jpg
+Image: images/73b45cfc7ef186a054deb8c0b57190f9-20240911180907.webp
 Slug: scientific-research-creationism
 Tags: UK intelligent design research, Christian scientists ID studies, Irreducible complexity evidence, Funding intelligent design projects, Peer-reviewed ID papers UK
 Title: 'Unveiling Truth: The Impact of Scientific Research on Creationism'

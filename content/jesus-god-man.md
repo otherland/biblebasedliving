@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/God and Man
 Date: '2024-06-02'
 Description: Discover the profound theological concept of Jesus as the God-man in this intriguing article exploring the dual nature of Christ. Unveil the mystery of how Jesus embodies both divinity and humanity.
-Image: images/b25e43a8531c55896af4be9dcb08489d-20240927154112.jpg
+Image: images/b25e43a8531c55896af4be9dcb08489d-20240927154112.webp
 Slug: jesus-god-man
 Tags: christianity
 Title: 'Understanding Jesus: The Divine Man Revealed'

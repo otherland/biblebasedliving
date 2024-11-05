@@ -2,7 +2,7 @@
 Category: God/God and Evil/The Existence of Sin and Evil
 Date: '2024-06-15'
 Description: Discover the profound goodness of God and how it impacts our lives in this enlightening article that delves into divine benevolence and grace. Uncover the essence of God's goodness and its transformative power.
-Image: images/2b8b575b189975a66b5cf47870957d28-20240927151953.jpg
+Image: images/2b8b575b189975a66b5cf47870957d28-20240927151953.webp
 Slug: goodness-of-god
 Tags: christianity
 Title: 'Unveiling the Divine Goodness: Exploring God''s Benevolence in Christian Faith'

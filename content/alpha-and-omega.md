@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Titles
 Date: '2024-08-18'
 Description: Explore the profound symbolism of "alpha and omega" in various cultures and religions. Uncover the significance of these terms as the beginning and end, encapsulating the concept of eternity and divine completeness.
-Image: images/abafd2ea85bc9a65f5fd0e359797ece0-20240927153542.jpg
+Image: images/abafd2ea85bc9a65f5fd0e359797ece0-20240927153542.webp
 Slug: alpha-and-omega
 Tags: christianity
 Title: 'Alpha and Omega: Unveiling the Ultimate Truth in Christian Faith'

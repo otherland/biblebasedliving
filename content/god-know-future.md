@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Time and Place
 Date: '2024-07-01'
 Description: Explore the concept of divine omniscience and whether God truly knows the future in this thought-provoking article. Delve into the theological implications and philosophical debates surrounding the idea of God's foreknowledge.
-Image: images/f3b497e091fe5f2105577bf6def9ca5e-20240927143658.jpg
+Image: images/f3b497e091fe5f2105577bf6def9ca5e-20240927143658.webp
 Slug: god-know-future
 Tags: christianity
 Title: 'Divine Revelation: How God Knows the Future Unfolding'

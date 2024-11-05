@@ -2,7 +2,7 @@
 Category: God/The Character of God/Anthropomorphism
 Date: '2024-05-05'
 Description: Explore how condescension can impact accommodations in various settings. Understand the dynamics of condescension within accommodations and its effects.
-Image: images/90cf823d7ac5b45545f7c5b83414e218-20240927144455.jpg
+Image: images/90cf823d7ac5b45545f7c5b83414e218-20240927144455.webp
 Slug: accommodation-condescension
 Tags: christianity
 Title: 'Overcoming Accommodation Condescension: A Christian''s Guide to Embracing Humility'

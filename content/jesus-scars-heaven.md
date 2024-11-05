@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Resurrection
 Date: '2024-07-24'
 Description: Discover the profound significance of Jesus' scars in heaven in this enlightening article. Explore the spiritual implications and symbolism behind this intriguing concept.
-Image: images/3864deaab24386e6ce1d0ef4275d7ef2-20240927160527.jpg
+Image: images/3864deaab24386e6ce1d0ef4275d7ef2-20240927160527.webp
 Slug: jesus-scars-heaven
 Tags: christianity
 Title: 'Jesus'' Heavenly Scars Revealed: A Divine Revelation for Believers'

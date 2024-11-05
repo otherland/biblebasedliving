@@ -2,7 +2,7 @@
 Category: God/The Character of God/God’s Holiness
 Date: '2024-06-23'
 Description: Explore the profound concept of the holiness of God in this enlightening article. Delve into the awe-inspiring nature of the divine and its significance in theology.
-Image: images/91603e1b124e30c5c9960814f1fcedae-20240927144059.jpg
+Image: images/91603e1b124e30c5c9960814f1fcedae-20240927144059.webp
 Slug: holy-god-holiness-of-god
 Tags: christianity
 Title: 'Unveiling the Holiness of God: A Divine Revelation for Believers'

@@ -2,7 +2,7 @@
 Category: Society & Politics/Rejecting Multiculturalism Uk
 Date: '2024-05-10'
 Description: Explore how UK church leaders are critiquing diversity initiatives, offering a Christian perspective against multicultural curriculum and cultural sensitivity training. Discover alternative diversity education perspectives in this thought-provoking article.
-Image: images/36db217889ed8082537be1d9a6699857-20240911200219.jpg
+Image: images/36db217889ed8082537be1d9a6699857-20240911200219.webp
 Slug: challenging-diversity-initiatives
 Tags: Christian critique UK diversity programs, Faith-based opposition multicultural curriculum, Resisting cultural sensitivity training, Christian alternative diversity education, UK church leaders against multiculturalism
 Title: '7 Powerful Strategies for Overcoming Challenges in Diversity Initiatives: A Christian Perspective'

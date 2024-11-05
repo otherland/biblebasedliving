@@ -2,7 +2,7 @@
 Category: God/The Character of God/Justice
 Date: '2024-04-15'
 Description: Explore the mesmerizing concept of a "consuming fire" in this intriguing article that delves into its symbolism and significance. Discover its powerful representation and spiritual implications.
-Image: images/8c082391bd9f53dcafbc3d49d7a6d19d-20240927144646.jpg
+Image: images/8c082391bd9f53dcafbc3d49d7a6d19d-20240927144646.webp
 Slug: consuming-fire
 Tags: christianity
 Title: '**"Unveiling The Consuming Fire: A Transformative Encounter for Christian Souls"**'

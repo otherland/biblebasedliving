@@ -2,7 +2,7 @@
 Category: God/The Character of God/How God Works
 Date: '2024-07-21'
 Description: Discover the awe-inspiring wonders of the God of miracles in this enlightening article. Explore the divine interventions and supernatural occurrences that defy explanation.
-Image: images/cefad71484a8021e09fba1aa5d0c16e0-20240927144201.jpg
+Image: images/cefad71484a8021e09fba1aa5d0c16e0-20240927144201.webp
 Slug: god-of-miracles
 Tags: christianity
 Title: Unlocking the Miraculous Power of the God of Wonders

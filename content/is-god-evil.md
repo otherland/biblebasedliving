@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-07-21'
 Description: 'Explore the age-old debate: Is God evil? Delve into discussions on morality, theology, and the nature of divinity in this thought-provoking article.'
-Image: images/8c5a4f8f80feb3d9ba118f3464b5747a-20240927152320.jpg
+Image: images/8c5a4f8f80feb3d9ba118f3464b5747a-20240927152320.webp
 Slug: is-god-evil
 Tags: christianity
 Title: 'Unveiling the Truth: Is God Evil or Just Misunderstood?'

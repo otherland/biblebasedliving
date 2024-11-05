@@ -2,7 +2,7 @@
 Category: Marriage Preservation/Anti-Divorce Legislation
 Date: '2024-06-16'
 Description: Discover how Christian marriage counseling in the UK, Church-based couple interventions, and pre-divorce Christian counseling can help save marriages using Bible principles. Explore reconciliation ministries for divorced couples, emphasizing the importance of preserving marriages through faith-based approaches.
-Image: images/ba9f5fda98a2d58c2a223a1ee8113736-20240911202551.jpg
+Image: images/ba9f5fda98a2d58c2a223a1ee8113736-20240911202551.webp
 Slug: marriage-preservation-programs
 Tags: Christian marriage counseling UK, Church-based couple intervention, Saving marriages Bible principles, Reconciliation ministry divorced couples, Pre-divorce Christian counseling mandatory
 Title: 'Reviving Love: 5 Essential Christian Marriage Preservation Programs'

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Timeline
 Date: '2024-06-05'
 Description: 'Explore the controversial question: "Was Jesus created?" Uncover differing perspectives on the origin of Jesus in this thought-provoking article.'
-Image: images/5c929ca3bb96533fc3cb80886ed5b71b-20240927154907.jpg
+Image: images/5c929ca3bb96533fc3cb80886ed5b71b-20240927154907.webp
 Slug: was-jesus-created
 Tags: christianity
 Title: 'Unveiling the Truth: Was Jesus Created or Eternal?'

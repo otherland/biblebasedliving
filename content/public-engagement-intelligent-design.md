@@ -2,7 +2,7 @@
 Category: Science/Intelligent Design Advocacy
 Date: '2024-05-11'
 Description: Explore the impact of public engagement with intelligent design through UK lectures, debates, outreach programs, social media campaigns, and conferences. Delve into the intersection of ID and evolution in Christian outreach efforts.
-Image: images/5b1a3815b896690ab5daf82e03c22d32-20240911181047.jpg
+Image: images/5b1a3815b896690ab5daf82e03c22d32-20240911181047.webp
 Slug: public-engagement-intelligent-design
 Tags: Intelligent design public lectures, UK ID vs evolution debates, Christian ID outreach programs, Social media ID campaigns, Intelligent design UK conferences
 Title: 'Unlocking Divine Wisdom: Enhancing Public Engagement with Intelligent Design'

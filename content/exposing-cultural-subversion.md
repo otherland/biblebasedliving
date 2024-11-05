@@ -2,7 +2,7 @@
 Category: Culture and Ideology/Combating Cultural Marxism
 Date: '2024-05-23'
 Description: Explore how Christian analysis uncovers Marxist infiltration in the arts, resisting moral relativism in media, and exposing anti-Christian bias in culture. Discover how faith-based cultural watchdog groups work to counter cultural degradation.
-Image: images/dd0bac13f492f1c1dabd590307361e4e-20240912110554.jpg
+Image: images/dd0bac13f492f1c1dabd590307361e4e-20240912110554.webp
 Slug: exposing-cultural-subversion
 Tags: Documenting Marxist infiltration arts, Christian analysis cultural degradation, Resisting moral relativism media, Exposing anti-Christian bias culture, Faith-based cultural watchdog groups
 Title: 'Unveiling Cultural Subversion: A Christian Perspective on Preserving Faith'

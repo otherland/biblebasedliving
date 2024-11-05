@@ -2,7 +2,7 @@
 Category: Sexual Ethics/Purity Culture Promotion
 Date: '2024-07-25'
 Description: Discover the impact of Christian abstinence programs on youth in the UK. Explore teachings on saving sex for marriage and the promotion of chastity among young adults.
-Image: images/eafbea2cf4f4c2077a84786d35bf2573-20240911202547.jpg
+Image: images/eafbea2cf4f4c2077a84786d35bf2573-20240911202547.webp
 Slug: abstinence-education
 Tags: Biblical sexual purity youth, Christian abstinence programs UK, Saving sex for marriage teaching, Purity pledges teenage Christians, Chastity promotion young adults
 Title: 7 Essential Benefits of Abstinence Education for Christian Youth

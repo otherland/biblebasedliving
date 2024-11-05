@@ -2,7 +2,7 @@
 Category: Family Values/Combating Lgbtq+ Agenda
 Date: '2024-07-05'
 Description: Discover how traditional marriage advocates in the UK are defending Biblical marriage, opposing same-sex unions, and protecting the sanctity of the nuclear family through awareness campaigns and legislative efforts.
-Image: images/4cc6542bc25353bccf3cbf73c299d100-20240911202349.jpg
+Image: images/4cc6542bc25353bccf3cbf73c299d100-20240911202349.webp
 Slug: preserving-traditional-marriage
 Tags: Biblical marriage UK defense, Christian opposition same-sex unions, Protecting nuclear family definition, Marriage sanctity awareness campaigns, Christian family values legislation
 Title: 'Preserve Traditional Marriage: A Christian Guide to Strengthening Your Union'

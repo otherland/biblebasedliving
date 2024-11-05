@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Toward All People
 Date: '2024-06-23'
 Description: Discover the concept of permissive will in estate planning. Learn how this approach offers flexibility and customization in distributing assets. Explore the benefits and considerations of implementing a permissive will structure.
-Image: images/a2cf34a3846fae8e4a9b3495cc225762-20240927150015.jpg
+Image: images/a2cf34a3846fae8e4a9b3495cc225762-20240927150015.webp
 Slug: permissive-will
 Tags: christianity
 Title: 'Understanding God''s Permissive Will: A Guide to Divine Grace'

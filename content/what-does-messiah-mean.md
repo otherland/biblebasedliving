@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Titles
 Date: '2024-04-27'
 Description: Discover the meaning of "Messiah" in this insightful article. Unravel the significance and historical context of this revered term.
-Image: images/42040348ef4ab588f394074fcf96e6cc-20240927153628.jpg
+Image: images/42040348ef4ab588f394074fcf96e6cc-20240927153628.webp
 Slug: what-does-messiah-mean
 Tags: christianity
 Title: 'Unveiling the Meaning of Messiah: A Christian''s Guide to Redemption'

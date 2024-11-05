@@ -2,7 +2,7 @@
 Category: History & Culture/Christian Britain Restoration
 Date: '2024-09-06'
 Description: Discover the influence of Christian values in governance, exploring the intersection of Biblical principles with UK legislation and government policies. Explore the significance of Christian ethics in shaping public service and political decision-making.
-Image: images/4cb30123a032b154125e8c685875eae7-20240911195948.jpg
+Image: images/4cb30123a032b154125e8c685875eae7-20240911195948.webp
 Slug: christian-values-in-governance
 Tags: Biblical principles UK legislation, Christian ethics government policy, Restoring Christian coronation oath, UK political Christian values test, Christian morality public service
 Title: 6 Key Ways Christian Values Influence Governance for Believers

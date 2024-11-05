@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-05-24'
 Description: Explore the concept of whether God is an egomaniac in this thought-provoking article that delves into theological perspectives on divine narcissism.
-Image: images/41575668c0bd24eb7097454cdcba6f5c-20240927152650.jpg
+Image: images/41575668c0bd24eb7097454cdcba6f5c-20240927152650.webp
 Slug: god-egomaniac
 Tags: christianity
 Title: 'Divine Reflection: Unveiling the Truth About God''s Nature'

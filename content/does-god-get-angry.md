@@ -2,7 +2,7 @@
 Category: God/The Character of God/Emotion
 Date: '2024-05-14'
 Description: Discover whether God experiences anger in this insightful article that delves into the concept of divine emotions and reactions. Explore the idea of God's anger and its significance in religious beliefs.
-Image: images/51170d6da2929e76cf2f292a3e327896-20240927144620.jpg
+Image: images/51170d6da2929e76cf2f292a3e327896-20240927144620.webp
 Slug: does-god-get-angry
 Tags: christianity
 Title: Does God Get Angry? Understanding Divine Wrath in Christianity

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Road to the Cross
 Date: '2024-06-13'
 Description: Discover how making the most of three days can transform your productivity and mindset. Explore actionable tips and strategies to maximize your time effectively in this insightful article.
-Image: images/9c45068d7346135612998ca2bc4dc27c-20240927155811.jpg
+Image: images/9c45068d7346135612998ca2bc4dc27c-20240927155811.webp
 Slug: three-days
 Tags: christianity
 Title: 'Three Days of Redemption: A Christian Journey Towards Grace'

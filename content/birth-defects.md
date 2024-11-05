@@ -2,7 +2,7 @@
 Category: God/God and Evil/Health Problems
 Date: '2024-04-27'
 Description: Discover the causes and effects of birth defects in this insightful article. Learn about prevention, treatment options, and support for families impacted by these conditions.
-Image: images/e77c9adabb77ceb44ccab59b9f079289-20240927153027.jpg
+Image: images/e77c9adabb77ceb44ccab59b9f079289-20240927153027.webp
 Slug: birth-defects
 Tags: christianity
 Title: 'Protecting God''s Gift: Understanding and Overcoming Birth Defects'

@@ -2,7 +2,7 @@
 Category: Culture & Society/Christian Cultural Supremacy
 Date: '2024-08-31'
 Description: Explore the significant impact of Christian voices in shaping public discourse, from Church leaders influencing policy to faith-based think tanks and public intellectuals offering unique perspectives on current events in the UK media landscape.
-Image: images/36829e84edd035e5e910962c0cd85f28-20240911200219.jpg
+Image: images/36829e84edd035e5e910962c0cd85f28-20240911200219.webp
 Slug: christian-influence-public-discourse
 Tags: Christian voices UK media platforms, Church leaders public policy input, Christian perspective current events, Faith-based think tanks influence, Christian public intellectuals prominence
 Title: 'Christian Influence: Shaping Public Discourse with Faith'

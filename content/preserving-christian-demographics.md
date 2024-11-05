@@ -2,7 +2,7 @@
 Category: Society & Politics/Rejecting Multiculturalism Uk
 Date: '2024-04-13'
 Description: "\"Exploring strategies to preserve Christian demographics in the UK through policies promoting Christian birth rates and controlling non-Christian immigration. Learn more!\" \n\nCharacter count: 135"
-Image: images/bab0444bb67b4285d4bd1386218ee05e-20240911200251.jpg
+Image: images/bab0444bb67b4285d4bd1386218ee05e-20240911200251.webp
 Slug: preserving-christian-demographics
 Tags: Maintaining UK Christian majority, Christian-focused immigration policies, Incentivizing Christian birth rates, Discouraging non-Christian immigration, Promoting Christian population growth
 Title: 'Preserving Christian Demographics: 5 Crucial Strategies for Sustaining Faithful Communities'

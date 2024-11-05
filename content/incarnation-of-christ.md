@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/Humanity
 Date: '2024-09-15'
 Description: Explore the profound concept of the incarnation of Christ, delving into the theological significance of God becoming human in Christianity. Understand the implications and importance of this central belief.
-Image: images/9a0eb99dc122ddb7ea893bf553104597-20240927154227.jpg
+Image: images/9a0eb99dc122ddb7ea893bf553104597-20240927154227.webp
 Slug: incarnation-of-christ
 Tags: christianity
 Title: 'Unveiling the Divine Mystery: The Incarnation of Christ Explained'

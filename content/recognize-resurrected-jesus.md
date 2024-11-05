@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Resurrection
 Date: '2024-04-16'
 Description: Discover the awe-inspiring account of recognizing the resurrected Jesus in this enlightening article. Experience the profound significance and impact of this transformative encounter.
-Image: images/bdc25a32775e525f96c48bd9c7384014-20240927160418.jpg
+Image: images/bdc25a32775e525f96c48bd9c7384014-20240927160418.webp
 Slug: recognize-resurrected-jesus
 Tags: christianity
 Title: 'Witness the Resurrected Jesus: Unveiling the Ultimate Truth'

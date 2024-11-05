@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Person of Jesus/Jesus’ Character
 Date: '2024-06-09'
 Description: Explore the seldom-discussed aspect of Jesus' anger in this insightful article, shedding light on instances where his emotions manifested powerfully.
-Image: images/474b2af9333f2d0a3941ea74f2a010b4-20240927154410.jpg
+Image: images/474b2af9333f2d0a3941ea74f2a010b4-20240927154410.webp
 Slug: jesus-angry
 Tags: christianity
 Title: '7 Surprising Instances of Jesus Showing Anger: Revealing His Humanity and Divinity'

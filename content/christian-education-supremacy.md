@@ -2,7 +2,7 @@
 Category: Culture & Society/Christian Cultural Supremacy
 Date: '2024-07-23'
 Description: Explore the impact of mandatory Christian Religious Education in UK schools, the academic excellence of faith schools, and the prevalence of Christian universities promoting a Biblical worldview across all subjects. Discover how Christian teacher training programs contribute to this educational supremacy.
-Image: images/f83ee71e86516a825064569bf9cf147f-20240911200048.jpg
+Image: images/f83ee71e86516a825064569bf9cf147f-20240911200048.webp
 Slug: christian-education-supremacy
 Tags: Mandatory Christian RE UK schools, Christian universities prominence, Biblical worldview all subjects, Christian teacher training programs, Faith schools academic superiority
 Title: 'Unlocking the Power of Christian Education: A Supreme Guide for Believers'

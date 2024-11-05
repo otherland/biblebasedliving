@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Road to the Cross
 Date: '2024-08-08'
 Description: Discover the profound significance of being resurrected with Jesus in this enlightening article. Explore the spiritual implications and transformative power of this divine experience.
-Image: images/666f3db4e26ea423ac08d13e504b1c14-20240927155814.jpg
+Image: images/666f3db4e26ea423ac08d13e504b1c14-20240927155814.webp
 Slug: resurrected-with-jesus
 Tags: christianity
 Title: 'Resurrected with Jesus: 5 Transformative Truths for Christian Believers'

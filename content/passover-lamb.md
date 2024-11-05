@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Ministry of Jesus/Salvation
 Date: '2024-06-08'
 Description: Discover the significance of the Passover Lamb in Jewish tradition, its symbolism, and ritualistic importance in the celebration of Passover. Learn about the history and customs surrounding this sacred symbol.
-Image: images/adb865b1834b1fdfbd8f8b0a910498d0-20240927160630.jpg
+Image: images/adb865b1834b1fdfbd8f8b0a910498d0-20240927160630.webp
 Slug: passover-lamb
 Tags: christianity
 Title: 'The Divine Significance of the Passover Lamb: A Christian Reflection'

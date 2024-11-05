@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-05-16'
 Description: Discover the power of prayer in times of hopelessness. Learn how to find solace and strength through prayers specifically designed for those experiencing despair and hopelessness. Find hope and renewed faith with these powerful prayers for the hopeless.
-Image: images/b7be4fd6459193ab5ca23021a26844df-2024-08-27 00:24:22.281626.jpg
+Image: images/b7be4fd6459193ab5ca23021a26844df-2024-08-27 00:24:22.281626.webp
 Slug: prayer-of-hopelessness
 Tags: prayer of hopelessness, prayers for despair, prayer for the hopeless, prayers for hopelessness, prayer for despair, prayer for hopelessness
 Title: Finding Hope in the Depths: Unveiling the Prayer of Hopelessness

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Road to the Cross
 Date: '2024-08-03'
 Description: Discover how Jesus foretold his own death in the Bible with profound insights and significance. Explore the predictions made by Jesus about his crucifixion and resurrection.
-Image: images/d82e41b29227df503de6e6a4ff5abca7-20240927155918.jpg
+Image: images/d82e41b29227df503de6e6a4ff5abca7-20240927155918.webp
 Slug: jesus-predict-his-death
 Tags: christianity
 Title: 'Jesus Predicts His Crucifixion: The Divine Prophecy Unveiled'

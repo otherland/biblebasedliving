@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Time and Place
 Date: '2024-08-25'
 Description: Discover the intriguing concept of omnipresence and delve into its implications on existence and spirituality. Explore the idea of presence in various contexts in this enlightening article.
-Image: images/3788c241e74d3add3da9dffb238f0173-20240927143736.jpg
+Image: images/3788c241e74d3add3da9dffb238f0173-20240927143736.webp
 Slug: presence-omnipresence
 Tags: christianity
 Title: 'Divine Presence: Unlocking the Power of Omnipresence in Your Christian Walk'

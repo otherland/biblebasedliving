@@ -2,7 +2,7 @@
 Category: God/The Character of God/Anthropomorphism
 Date: '2024-08-27'
 Description: Explore the intriguing concept of God repenting in this thought-provoking article. Delve into theological perspectives and interpretations.
-Image: images/decfc7d593099669cfc9193fca623da9-20240927144422.jpg
+Image: images/decfc7d593099669cfc9193fca623da9-20240927144422.webp
 Slug: god-repented
 Tags: christianity
 Title: 'Divine Repentance: Understanding God''s Change of Heart'

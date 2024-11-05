@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Person of Jesus/Jesus’ Character
 Date: '2024-08-25'
 Description: Discover the truth about Jesus's wealth - was Jesus rich? Uncover insights into the historical perspectives surrounding Jesus's financial status.
-Image: images/0e11f0d00a0008598d43bdd55fcf5b66-20240927154401.jpg
+Image: images/0e11f0d00a0008598d43bdd55fcf5b66-20240927154401.webp
 Slug: was-jesus-rich
 Tags: christianity
 Title: Was Jesus Wealthy? Unveiling the Truth about Jesus' Riches

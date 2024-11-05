@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Honest Questions
 Date: '2024-09-03'
 Description: Discover how individuals navigate feeling angry with God, exploring the complexities of faith and frustration in times of hardship.
-Image: images/af35283d20f01d0d354aaf4552c9330e-20240927151737.jpg
+Image: images/af35283d20f01d0d354aaf4552c9330e-20240927151737.webp
 Slug: angry-with-god
 Tags: christianity
 Title: 'Finding Peace: Overcoming Anger with God Through Faith'

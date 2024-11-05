@@ -2,7 +2,7 @@
 Category: Faith and Science/Biblical Scientific Truth
 Date: '2024-06-14'
 Description: Explore the fascinating intersection of faith and science with Scripture-based scientific models like Biblical cosmology, Genesis-inspired physics, and Christian geology flood evidence in this enlightening article.
-Image: images/03ff47908e9e144bc49565383432e4db-20240911181631.jpg
+Image: images/03ff47908e9e144bc49565383432e4db-20240911181631.webp
 Slug: scripture-based-scientific-models
 Tags: Biblical cosmology scientific model, Genesis-based physics theories, Scripture-inspired biology research, Christian geology flood evidence, Bible-aligned astronomical studies
 Title: 'Unlocking Truth: Scripture-Based Scientific Models Revealed'

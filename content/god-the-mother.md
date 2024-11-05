@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Faulty Assumptions
 Date: '2024-08-13'
 Description: Discover the significance of God the mother in various religions and belief systems. Explore the concept's spiritual and cultural implications.
-Image: images/fcb49f5019f938f6d4e5a41d2d699e5a-20240927145632.jpg
+Image: images/fcb49f5019f938f6d4e5a41d2d699e5a-20240927145632.webp
 Slug: god-the-mother
 Tags: christianity
 Title: Discover the Divine Revelation of God the Mother in Christianity

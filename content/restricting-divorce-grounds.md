@@ -2,7 +2,7 @@
 Category: Marriage Preservation/Anti-Divorce Legislation
 Date: '2024-03-29'
 Description: '"Exploring the resurgence of Biblical grounds for divorce in the UK: Christians push for a return to fault-based divorce laws, potentially eliminating the no-fault option."'
-Image: images/522f0adeadff6e53190b03caf60f7864-20240911202537.jpg
+Image: images/522f0adeadff6e53190b03caf60f7864-20240911202537.webp
 Slug: restricting-divorce-grounds
 Tags: Biblical grounds divorce UK, Tightening divorce laws Christians, Fault-based divorce system return, Eliminating no-fault divorce option, Christian influence divorce legislation
 Title: Ultimate Guide to Christian Perspectives on Restricting Divorce Grounds

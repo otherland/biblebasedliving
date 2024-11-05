@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-05-16'
 Description: Explore the controversial concept of whether God is a moral monster in this thought-provoking article delving into ethics and theology.
-Image: images/0ae7a2bddab9ed2b84166c2cb2d98d86-20240927152658.jpg
+Image: images/0ae7a2bddab9ed2b84166c2cb2d98d86-20240927152658.webp
 Slug: god-moral-monster
 Tags: christianity
 Title: 'Unveiling the Truth: Is God a Moral Monster? Exploring the Christian Perspective'

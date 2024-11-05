@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Trinity
 Date: '2024-07-05'
 Description: '"The Trinity is a central doctrine in Christianity, understanding God as Father, Son, and Holy Spirit. Explore the significance and complexities of this belief."'
-Image: images/8f5f217ad776ba92571795751c1d61d6-20240927143415.jpg
+Image: images/8f5f217ad776ba92571795751c1d61d6-20240927143415.webp
 Slug: what-is-the-trinity
 Tags: christianity
 Title: 'Unveiling the Divine Mystery: Understanding the Trinity in Christian Faith'

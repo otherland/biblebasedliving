@@ -2,7 +2,7 @@
 Category: God/God and Evil/Hardships
 Date: '2024-05-21'
 Description: Discover the intriguing reasons behind God's creation of mosquitoes. Unveil the purpose and significance of these tiny creatures in the grand scheme of creation.
-Image: images/814217405e5b78d96ace14995aa6aedc-20240927152930.jpg
+Image: images/814217405e5b78d96ace14995aa6aedc-20240927152930.webp
 Slug: why-did-god-create-mosquitoes
 Tags: christianity
 Title: 'Why God Allowed Mosquitoes: Unveiling Divine Purpose'

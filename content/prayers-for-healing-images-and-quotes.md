@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-07-30'
 Description: Discover a collection of powerful prayers for healing, accompanied by inspiring images and quotes. Find comfort, strength, and hope as you explore these beautiful visuals that convey the healing power of prayer.
-Image: images/1b32528ba7b1ad6652ed31ef8cdcf128-20240827003812.jpg
+Image: images/1b32528ba7b1ad6652ed31ef8cdcf128-20240827003812.webp
 Slug: prayers-for-healing-images-and-quotes
 Tags: prayer for healing images and quotes, prayer for healing quotes images, prayers for healing images, healing prayer images quotes, prayer for healing picture quotes
 Title: Powerful Prayers for Healing: Inspiring Images and Quotes

@@ -2,7 +2,7 @@
 Category: Marriage Preservation/Anti-Divorce Legislation
 Date: '2024-08-24'
 Description: Discover the essence of covenant marriage promotion in the UK, emphasizing lifetime commitment, no-divorce pledge, and biblical teachings for Christian couples. Explore the beauty of permanent partnerships rooted in faith.
-Image: images/5bc50f3c37bb2d470e184a38ae1e2e7e-20240911202548.jpg
+Image: images/5bc50f3c37bb2d470e184a38ae1e2e7e-20240911202548.webp
 Slug: covenant-marriage-promotion
 Tags: Covenant marriage UK introduction, Lifetime marriage commitment Christians, No-divorce pledge newlyweds, Biblical marriage covenant teaching, Permanent marriage Christian couples
 Title: '10 Vital Strategies for Covenant Marriage Promotion: A Guide for Christian Couples'

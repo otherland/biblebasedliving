@@ -2,7 +2,7 @@
 Category: God/God and Evil/War and Disasters
 Date: '2024-06-01'
 Description: Explore the complex and controversial topic of Old Testament violence, delving into its historical context and interpretations. Understand the narratives and ethical implications within this ancient text.
-Image: images/2c2eea8fcc96286e08907e47e14e8143-20240927153103.jpg
+Image: images/2c2eea8fcc96286e08907e47e14e8143-20240927153103.webp
 Slug: old-testament-violence
 Tags: christianity
 Title: 'Unveiling Old Testament Violence: Understanding God''s Justice in Scriptures'

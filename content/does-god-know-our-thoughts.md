@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Toward All People
 Date: '2024-04-01'
 Description: Discover whether God can truly know our innermost thoughts in this insightful article exploring the concept of divine omniscience. Explore the depths of spiritual belief and understanding.
-Image: images/484219741eda5c43430effc248ec9a71-20240927145834.jpg
+Image: images/484219741eda5c43430effc248ec9a71-20240927145834.webp
 Slug: does-god-know-our-thoughts
 Tags: christianity
 Title: 'Does God Know Our Thoughts: Unveiling the Divine Understanding'

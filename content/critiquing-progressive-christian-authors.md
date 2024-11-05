@@ -2,7 +2,7 @@
 Category: Religion and Literature/Purging Liberal Theology
 Date: '2024-05-09'
 Description: Explore a critical analysis of progressive Christian authors, challenging liberal interpretations of the Bible and engaging with the emergent church movement. Discover a conservative perspective on contemporary Christian publications.
-Image: images/836a207551df9d1e3b75df881668ea03-20240912110709.jpg
+Image: images/836a207551df9d1e3b75df881668ea03-20240912110709.webp
 Slug: critiquing-progressive-christian-authors
 Tags: Exposing liberal Christian writers, Biblical critique progressive theology, Refuting liberal Bible interpretation, Conservative response emergent church, Challenging liberal Christian publications
 Title: 'Unveiling Truth: Critiquing Progressive Christian Authors for Spiritual Growth'

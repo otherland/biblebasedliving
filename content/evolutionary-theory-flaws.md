@@ -2,7 +2,7 @@
 Category: Science Criticism/Exposing Evolution Lies
 Date: '2024-06-23'
 Description: Explore the critical analysis of evolutionary theory flaws, including gaps in the record, Christian skepticism of natural selection, and mathematical challenges to Darwinian concepts. Uncover the complexities and controversies surrounding evolutionary theory in this insightful article.
-Image: images/a7c3c61e588c07a2278d1ac24f39793c-20240911181457.jpg
+Image: images/a7c3c61e588c07a2278d1ac24f39793c-20240911181457.webp
 Slug: evolutionary-theory-flaws
 Tags: Gaps in evolutionary record, Christian critique natural selection, Exposing Darwinian theory errors, Mathematical improbability evolution, Faith-based evolution skepticism
 Title: 'Unveiling the Top 5 Evolutionary Theory Flaws: A Christian Perspective'

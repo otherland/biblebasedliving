@@ -2,7 +2,7 @@
 Category: Family Values/Combating Lgbtq+ Agenda
 Date: '2024-05-15'
 Description: Discover how faith-based organizations in the UK offer support for individuals seeking to change their sexual orientation through ex-gay ministries and Christian counseling. Learn about overcoming same-sex attraction and addressing gender confusion with biblical therapy approaches.
-Image: images/9c8a31dd525e6e07ae57fb028f02386e-20240911202347.jpg
+Image: images/9c8a31dd525e6e07ae57fb028f02386e-20240911202347.webp
 Slug: conversion-therapy-support
 Tags: Faith-based orientation change, Ex-gay ministry UK support, Christian sexual identity counseling, Overcoming same-sex attraction, Biblical therapy gender confusion
 Title: Christian Guide to Overcoming Conversion Therapy Challenges

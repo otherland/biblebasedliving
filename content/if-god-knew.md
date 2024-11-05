@@ -2,7 +2,7 @@
 Category: God/God and Evil/The Existence of Sin and Evil
 Date: '2024-07-29'
 Description: 'Explore the intriguing concept of God''s omniscience and its implications on fate, free will, and the nature of existence. Delve into the age-old question: If God knew everything, what does that mean for human choices and the course of history?'
-Image: images/3e74e07615f90009907bc6cf1e8abd9c-20240927151954.jpg
+Image: images/3e74e07615f90009907bc6cf1e8abd9c-20240927151954.webp
 Slug: if-god-knew
 Tags: christianity
 Title: 'Divine Knowledge Unveiled: If God Knew - Ultimate Christian Insights'

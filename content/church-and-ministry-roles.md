@@ -2,7 +2,7 @@
 Category: Gender Roles/Women'S Submission Teaching
 Date: '2024-06-05'
 Description: Explore the Biblical foundations and contemporary debates surrounding women's roles in church leadership, the boundaries set for women's ministry, and the scriptural basis for male-only eldership in a complementarian church structure in the UK.
-Image: images/c1ba05d885a46642cb6dc3d0d320f706-20240911202532.jpg
+Image: images/c1ba05d885a46642cb6dc3d0d320f706-20240911202532.webp
 Slug: church-and-ministry-roles
 Tags: Women's roles church leadership, Biblical restrictions women teaching, Complementarian church structure UK, Male-only eldership scriptural basis, Women's ministry biblical boundaries
 Title: 'Empowering Your Ministry: 5 Essential Church Roles for Impactful Service'

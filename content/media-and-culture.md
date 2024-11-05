@@ -2,7 +2,7 @@
 Category: Family Values/Combating Lgbtq+ Agenda
 Date: '2024-04-05'
 Description: Discover how Christian media is navigating LGBTQ+ representation and countering the gay agenda in entertainment. Explore family-friendly alternatives and strategies for promoting heteronormative culture in this insightful article.
-Image: images/b4e6cceb6fd2b803b77094590aacbddd-20240911202427.jpg
+Image: images/b4e6cceb6fd2b803b77094590aacbddd-20240911202427.webp
 Slug: media-and-culture
 Tags: Christian media LGBTQ+ representation, Countering gay agenda entertainment, Family-friendly media alternatives, Boycotting pro-LGBTQ+ corporations, Promoting heteronormative culture
 Title: 'Transforming Culture Through Faith: Unveiling the Impact of Media on Christian Values'

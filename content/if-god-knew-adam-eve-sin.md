@@ -2,7 +2,7 @@
 Category: God/God and Evil/The Existence of Sin and Evil
 Date: '2024-05-25'
 Description: Explore the intriguing theological question of whether God knew Adam and Eve would sin, delving into the concept of divine omniscience and human free will. Discover how this topic challenges traditional beliefs and interpretations.
-Image: images/2aaa9c7aff459b5cc41250bf4c5b191a-20240927152144.jpg
+Image: images/2aaa9c7aff459b5cc41250bf4c5b191a-20240927152144.webp
 Slug: if-god-knew-adam-eve-sin
 Tags: christianity
 Title: Did God Know? Understanding Adam and Eve's Sin in Christian Perspective

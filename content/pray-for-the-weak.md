@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-04-19'
 Description: '"Discover the power of prayer for the weak. Explore heartfelt prayers and find solace in seeking divine intervention for those facing physical, emotional, or spiritual weakness. Pray for strength, healing, and guidance for the vulnerable."'
-Image: images/310a471f9002d2dac1b0a00ef2c8ed2e-20240827004141.jpg
+Image: images/310a471f9002d2dac1b0a00ef2c8ed2e-20240827004141.webp
 Slug: pray-for-the-weak
 Tags: prayer for weak, weakness prayer, pray for the weak, prayers for the weak
 Title: Pray for the Weak: Igniting Divine Strength for the Vulnerable

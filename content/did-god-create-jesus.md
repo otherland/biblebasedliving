@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Timeline
 Date: '2024-08-04'
 Description: Explore the theological debate on whether God created Jesus in this thought-provoking article. Delve into differing perspectives and discover the significance of this belief.
-Image: images/d59b7491c597d27049c55645a6ab6ce8-20240927154921.jpg
+Image: images/d59b7491c597d27049c55645a6ab6ce8-20240927154921.webp
 Slug: did-god-create-jesus
 Tags: christianity
 Title: Did God Create Jesus? Exploring the Divine Origins of Christ

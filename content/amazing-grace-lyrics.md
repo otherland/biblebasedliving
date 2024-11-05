@@ -2,7 +2,7 @@
 Category: Christian Music & Artists/Worship Music And Hymns
 Date: '2024-03-25'
 Description: Discover the timeless beauty of the "Amazing Grace" hymn with printable lyrics. Immerse yourself in the powerful words and melody of this beloved hymn, reflecting on its profound message of redemption and gratitude. Explore the history and significance of "Amazing Grace" as you sing along to its sweet sound.
-Image: images/9e4c38cb8deec00628dffe4be153d487-20240827013835.jpg
+Image: images/9e4c38cb8deec00628dffe4be153d487-20240827013835.webp
 Slug: amazing-grace-lyrics
 Tags: printable words to amazing grace hymn, printable lyrics to amazing grace, amazing grace how sweet the sound hymn, american grace lyrics
 Title: Amazing Grace Lyrics: Embracing God''s Unending Love

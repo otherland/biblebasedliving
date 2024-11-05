@@ -2,7 +2,7 @@
 Category: Christian Music & Artists/Worship Music And Hymns
 Date: '2024-06-19'
 Description: Discover the most uplifting adoration songs that will deepen your connection with God. From powerful hymns to contemporary worship songs, explore a collection of heartfelt melodies that express love and devotion towards the Divine.
-Image: images/1edfc503a1d228823efdb4a66c2497dc-20240827013742.jpg
+Image: images/1edfc503a1d228823efdb4a66c2497dc-20240827013742.webp
 Slug: adoration-songs
 Tags: hymns of adoration, songs for adoration, songs about adoration, songs of adoration, songs about worshipping god, adoration songs
 Title: 10 Essential Adoration Songs to Deepen Your Christian Faith

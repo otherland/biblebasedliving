@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Ministry of Jesus/On Earth
 Date: '2024-08-18'
 Description: Explore the intriguing biblical account of Jesus cursing a fig tree, uncovering its symbolic significance and the lessons it holds. Delve into the story's profound meaning and implications.
-Image: images/40ab92965530c4d37e49e07721aabb49-20240927160717.jpg
+Image: images/40ab92965530c4d37e49e07721aabb49-20240927160717.webp
 Slug: curse-fig-tree
 Tags: christianity
 Title: 'Unveiling the Mystery: The Curse of the Fig Tree Revealed'

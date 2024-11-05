@@ -2,7 +2,7 @@
 Category: Gender Issues/Anti-Feminist Christianity
 Date: '2024-04-20'
 Description: Exploring the tensions between Biblical womanhood and feminism, this article critiques feminist theology within a Christian context, addressing the dangers of misinterpretation and heresy.
-Image: images/6876003af4b70d265fcb18e443201e50-20240912092529.jpg
+Image: images/6876003af4b70d265fcb18e443201e50-20240912092529.webp
 Slug: critiquing-feminist-theology
 Tags: Biblical womanhood vs feminism, Exposing Christian feminist heresy, Egalitarian theology refutation, Dangers feminist Bible interpretation, Conservative women's Bible study UK
 Title: 'Unveiling Truths: Critiquing Feminist Theology in Christian Perspective'

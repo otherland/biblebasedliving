@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Basics
 Date: '2024-09-10'
 Description: Discover the profound significance of Jesus as the Savior in this enlightening article exploring His role in Christianity and the salvation of humanity.
-Image: images/1df0b25063e0fc810355909ed2f64de1-20240927153302.jpg
+Image: images/1df0b25063e0fc810355909ed2f64de1-20240927153302.webp
 Slug: jesus-is-the-savior
 Tags: christianity
 Title: Ultimate 7 Reasons Why Jesus is the Savior for Christians

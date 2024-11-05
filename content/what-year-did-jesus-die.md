@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Timeline
 Date: '2024-08-18'
 Description: Discover the historical timeline of Jesus' crucifixion in this article that explores the year of Jesus' death, shedding light on this significant event.
-Image: images/87c050265b89776c9fe329740ed8f1fc-20240927155113.jpg
+Image: images/87c050265b89776c9fe329740ed8f1fc-20240927155113.webp
 Slug: what-year-did-jesus-die
 Tags: christianity
 Title: 'When Did Jesus Die: Revealing the Crucial Year'

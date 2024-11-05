@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-08-03'
 Description: Discover the profound connection between Jesus and God as referenced in Deuteronomy 6:4. Unveil the significance of this biblical verse in understanding the divine nature.
-Image: images/5eefa5ec998cb9ea888e8b2ac9ed4f97-20240927153903.jpg
+Image: images/5eefa5ec998cb9ea888e8b2ac9ed4f97-20240927153903.webp
 Slug: jesus-god-one-deuteronomy-6-4
 Tags: christianity
 Title: Discover the One God of Deuteronomy 6:4 - Unveiling the Ultimate Truth

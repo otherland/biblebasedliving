@@ -2,7 +2,7 @@
 Category: God/The Character of God/How God Works
 Date: '2024-03-31'
 Description: Discover the concept of the "right hand of God" in religious beliefs. Explore the significance and symbolism of this divine position.
-Image: images/2f4a392adb4ea9987466ca8fc6f2193b-20240927144204.jpg
+Image: images/2f4a392adb4ea9987466ca8fc6f2193b-20240927144204.webp
 Slug: right-hand-god
 Tags: christianity
 Title: 'Discover the Role of the Right Hand of God in Christian Faith: A Divine Perspective'

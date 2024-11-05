@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-07-09'
 Description: Explore the controversial concept of whether God can be perceived as a megalomaniac. Delve into the complexities of divine attributes and human interpretations in this thought-provoking article.
-Image: images/c603265edf21a5e8da169702227675f7-20240927152658.jpg
+Image: images/c603265edf21a5e8da169702227675f7-20240927152658.webp
 Slug: god-megalomaniac
 Tags: christianity
 Title: 'Unveiling the Divine Truth: Is God a Megalomaniac?'

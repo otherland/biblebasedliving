@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/God and Man
 Date: '2024-04-09'
 Description: Discover why the concept of God transcends human limitations in our insightful exploration of how God is not a man. Delve into the divine nature beyond the confines of human understanding.
-Image: images/469ebaa5b4891dd5e9716afcf66ebb7f-20240927154211.jpg
+Image: images/469ebaa5b4891dd5e9716afcf66ebb7f-20240927154211.webp
 Slug: god-is-not-a-man
 Tags: christianity
 Title: 'Divine Truth Revealed: God Is Not a Man'

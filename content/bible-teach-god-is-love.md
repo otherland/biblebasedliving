@@ -2,7 +2,7 @@
 Category: God/The Character of God/God’s Love
 Date: '2024-08-20'
 Description: Discover how the Bible teaches that God is love, exploring the profound message of divine love and its significance in Christian faith.
-Image: images/e6e0ef1bd16280d6a74d545f732213b7-20240927143923.jpg
+Image: images/e6e0ef1bd16280d6a74d545f732213b7-20240927143923.webp
 Slug: bible-teach-god-is-love
 Tags: christianity
 Title: 'God is Love: Unveiling the Divine Essence in the Bible'

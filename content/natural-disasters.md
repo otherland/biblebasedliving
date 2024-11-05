@@ -2,7 +2,7 @@
 Category: God/God and Evil/War and Disasters
 Date: '2024-04-11'
 Description: Explore the devastating impact of natural disasters in this insightful article. Learn about their causes, consequences, and ways to mitigate their effects.
-Image: images/2d1902d371cbba17a2ce7b65874af38d-20240927153205.jpg
+Image: images/2d1902d371cbba17a2ce7b65874af38d-20240927153205.webp
 Slug: natural-disasters
 Tags: christianity
 Title: 'Divine Protection: 7 Biblical Responses to Natural Disasters'

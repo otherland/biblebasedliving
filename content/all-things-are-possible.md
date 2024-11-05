@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-06-29'
 Description: Explore the power of belief and manifestation in this enlightening article about how all things are possible when you unlock your potential. Discover the limitless opportunities that await with a positive mindset.
-Image: images/fc53007ce4a47f7d5611a6d0ccd9b457-20240927150538.jpg
+Image: images/fc53007ce4a47f7d5611a6d0ccd9b457-20240927150538.webp
 Slug: all-things-are-possible
 Tags: christianity
 Title: 'All Things Are Possible: Unleashing God''s Limitless Power in Your Life'

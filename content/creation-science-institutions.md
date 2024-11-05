@@ -2,7 +2,7 @@
 Category: Science and Faith/Christian Scientific Resistance
 Date: '2024-06-08'
 Description: Explore the realm of Christian scientific research at UK creation science institutions, offering faith-based education and training in a biblical worldview. Learn about funding for creation science programs in the UK.
-Image: images/460d937f703b0d2535b8007b10ed883a-20240911181453.jpg
+Image: images/460d937f703b0d2535b8007b10ed883a-20240911181453.webp
 Slug: creation-science-institutions
 Tags: UK creation science institutes, Christian scientific research centers, Faith-based science education programs, Biblical worldview scientific training, Creation science funding UK
 Title: 'Exploring Creation Science Institutions: A Christian Perspective'

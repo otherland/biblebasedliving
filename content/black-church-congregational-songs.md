@@ -2,7 +2,7 @@
 Category: Christian Music & Artists/Worship Music And Hymns
 Date: '2024-07-01'
 Description: Discover the uplifting power of black church congregational songs. From soulful gospel melodies to powerful devotional hymns, explore a list of captivating songs that ignite the spirit and bring communities together in worship.
-Image: images/3cc0ecda9b1067bff3d8c7cde7849359-20240827014028.jpg
+Image: images/3cc0ecda9b1067bff3d8c7cde7849359-20240827014028.webp
 Slug: black-church-congregational-songs
 Tags: congregational church songs, congregational songs, gospel congregational songs, list of black gospel congregational songs, list of black gospel devotional songs, black church congregational songs
 Title: 10 Powerful Black Church Congregational Songs: A Soul-Stirring Collection for Christian Worship

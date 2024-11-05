@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-05-20'
 Description: Discover the power of scripture prayers for pastors and learn how to uplift and support your pastor and their family. Explore 5 impactful Bible verses to pray for your pastor and strengthen their ministry. Praying for pastors is a vital part of nurturing their spiritual well-being and effectiveness in leading a congregation.
-Image: images/c1a632f8e1b82e4c790db2332446e138-20240827010353.jpg
+Image: images/c1a632f8e1b82e4c790db2332446e138-20240827010353.webp
 Slug: scripture-prayers-for-pastors
 Tags: praying for pastor and family, praying pastors, scripture prayers for pastors, pray for our pastors scripture, 5 scriptures to pray for your pastor, pray for your pastor bible verse, praying for pastors scriptures, scripture on praying for pastors, pray for your pastor scripture, scriptures to pray for pastors, pray for pastors bible verse, pray for the pastor scripture, bible verse pray for our pastors
 Title: Powerful Scripture Prayers for Pastors: Strengthening Faith and Ministry

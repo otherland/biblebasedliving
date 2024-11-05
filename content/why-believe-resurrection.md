@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Resurrection
 Date: '2024-04-15'
 Description: Discover the compelling reasons behind belief in resurrection as this article explores historical, religious, and philosophical perspectives on the topic.
-Image: images/f5b21469714b066641eb8344179804da-20240927160317.jpg
+Image: images/f5b21469714b066641eb8344179804da-20240927160317.webp
 Slug: why-believe-resurrection
 Tags: christianity
 Title: '7 Compelling Reasons to Believe in the Resurrection: A Christian Perspective'

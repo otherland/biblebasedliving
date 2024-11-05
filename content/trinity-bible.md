@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Trinity
 Date: '2024-07-04'
 Description: Discover the profound significance of the Trinity in the Bible, exploring the theological concept of the Father, Son, and Holy Spirit as one Godhead. Delve into the biblical foundation and implications of this core Christian doctrine.
-Image: images/5a06f54ee7e4d75bb750020d61e0a233-20240927143426.jpg
+Image: images/5a06f54ee7e4d75bb750020d61e0a233-20240927143426.webp
 Slug: trinity-bible
 Tags: christianity
 Title: 'Unveiling the Divine Mystery of the Trinity Bible: A Christian''s Guide'

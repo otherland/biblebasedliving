@@ -2,7 +2,7 @@
 Category: History & Culture/Christian Britain Restoration
 Date: '2024-09-05'
 Description: '"Discover how efforts are underway to revive Christian traditions in the UK, from restoring Sunday observance to increasing church attendance and reinstating Christian public holidays."'
-Image: images/0f213f13c497819870d1bdd327c9911f-20240911200101.jpg
+Image: images/0f213f13c497819870d1bdd327c9911f-20240911200101.webp
 Slug: reviving-christian-traditions
 Tags: UK Christian festivals revival, Restoring Sunday observance Britain, Christian public holiday reinstatement, UK church attendance increase strategies, Reviving Christian rites of passage
 Title: 'Reviving Christian Traditions: 7 Powerful Steps to Renew Your Faith'

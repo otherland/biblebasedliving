@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Trinity
 Date: '2024-04-14'
 Description: Explore the concept of subordination within the Trinity, examining the hierarchical relationship and roles of the Father, Son, and Holy Spirit in Christian theology. Delve into how this theological principle shapes beliefs about divinity and unity within the Christian faith.
-Image: images/cc50997759346bd33351169402d093e3-20240927143501.jpg
+Image: images/cc50997759346bd33351169402d093e3-20240927143501.webp
 Slug: subordination-trinity
 Tags: christianity
 Title: 'Unveiling the Divine Subordination Trinity: A Christian Perspective'

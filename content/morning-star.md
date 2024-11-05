@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Titles
 Date: '2024-05-31'
 Description: Discover the mystical allure of the morning star in this enlightening article. Unveil the symbolism and significance of this celestial marvel.
-Image: images/3726d6e9f2b134a1eb4bc583e4b9c148-20240927153537.jpg
+Image: images/3726d6e9f2b134a1eb4bc583e4b9c148-20240927153537.webp
 Slug: morning-star
 Tags: christianity
 Title: 'Discover the Divine Light: Morning Star Devotions for Christian Awakening'

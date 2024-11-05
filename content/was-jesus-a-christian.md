@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Person of Jesus/Jesus’ Religion
 Date: '2024-04-23'
 Description: Discover the intriguing question of whether Jesus was a Christian. Uncover the historical and theological perspectives on this topic.
-Image: images/af6f6d18caba355d3ca37a304e5bb905-20240927154800.jpg
+Image: images/af6f6d18caba355d3ca37a304e5bb905-20240927154800.webp
 Slug: was-jesus-a-christian
 Tags: christianity
 Title: Was Jesus a Christian? Unveiling the Truth Behind His Faith

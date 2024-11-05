@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Timeline
 Date: '2024-04-13'
 Description: Discover the profound knowledge that Jesus possessed and how it continues to impact faith and spirituality. Explore the depth of understanding and wisdom attributed to Jesus in various religious traditions.
-Image: images/3854c5f89e27f4d1b2fe7a4fb2424f52-20240927155023.jpg
+Image: images/3854c5f89e27f4d1b2fe7a4fb2424f52-20240927155023.webp
 Slug: jesus-know
 Tags: christianity
 Title: 7 Profound Truths Jesus Knows About You

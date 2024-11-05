@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Existence of God
 Date: '2024-04-25'
 Description: Explore the age-old question of God's existence and why it matters. Delve into both philosophical arguments and personal reflections on faith and belief.
-Image: images/c7f99410312c2763b853f1e496ee4a84-20240927144921.jpg
+Image: images/c7f99410312c2763b853f1e496ee4a84-20240927144921.webp
 Slug: care-god-exists
 Tags: christianity
 Title: Does God Exist? Exploring the Ultimate Truth for Christian Believers

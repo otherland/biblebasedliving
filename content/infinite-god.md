@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Time and Place
 Date: '2024-08-04'
 Description: Explore the concept of an infinite God in this enlightening article that delves into the boundless nature of deity without limits or boundaries. Discover the depth and awe-inspiring essence of a divine being beyond human comprehension.
-Image: images/17a03e72f05013d78d74b748d58908d1-20240927143632.jpg
+Image: images/17a03e72f05013d78d74b748d58908d1-20240927143632.webp
 Slug: infinite-god
 Tags: christianity
 Title: 'Unlocking the Infinite Majesty of God: A Christian''s Guide to Understanding His Limitless Nature'

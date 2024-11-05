@@ -2,7 +2,7 @@
 Category: God/The Character of God/Emotion
 Date: '2024-05-01'
 Description: Explore the profound question of whether God sheds tears and the theological implications behind the concept of divine emotions. Delve into the intriguing debate on whether the Almighty experiences sorrow and empathy.
-Image: images/422717a8b4e48fac5a4d5119932e0ff3-20240927144643.jpg
+Image: images/422717a8b4e48fac5a4d5119932e0ff3-20240927144643.webp
 Slug: does-god-cry
 Tags: christianity
 Title: Does God Cry? Exploring the Divine Emotions of Our Heavenly Father

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Timeline
 Date: '2024-07-12'
 Description: Discover the age of Jesus at His death and explore the significance of this pivotal moment in Christian history. Gain insights into the life and teachings of Jesus in this enlightening article.
-Image: images/83e82aa2486dab1fda05ef213753c41a-20240927155152.jpg
+Image: images/83e82aa2486dab1fda05ef213753c41a-20240927155152.webp
 Slug: how-old-was-jesus-when-he-died
 Tags: christianity
 Title: 'How Old Was Jesus When He Died: Revealing the Truth Behind His Final Years'

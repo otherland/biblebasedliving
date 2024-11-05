@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Faulty Assumptions
 Date: '2024-09-07'
 Description: Explore the intriguing question of whether God has a wife and delve into the various perspectives and beliefs surrounding this topic. Discover the mysteries and myths that have sparked curiosity throughout history.
-Image: images/c87951716679544aa9767b3133cecab2-20240927145751.jpg
+Image: images/c87951716679544aa9767b3133cecab2-20240927145751.webp
 Slug: does-god-have-a-wife
 Tags: christianity
 Title: 'Divine Mysteries Unveiled: Does God Have a Wife? Exploring Biblical Truths'

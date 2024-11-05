@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Knowing God
 Date: '2024-07-23'
 Description: Explore the concept of God imposing His will on humanity in this thought-provoking article. Delve into the implications and debates surrounding divine intervention and human free will.
-Image: images/b534432a7d264bbf2bd50412d8ca525a-20240927151333.jpg
+Image: images/b534432a7d264bbf2bd50412d8ca525a-20240927151333.webp
 Slug: god-imposing
 Tags: christianity
 Title: 'Divine Authority: Understanding God''s Imposing Will'

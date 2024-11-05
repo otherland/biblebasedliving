@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Road to the Cross
 Date: '2024-06-20'
 Description: Discover the importance of preparing effectively before an important event or task. Learn strategies and tips for maximizing productivity on your day of preparation.
-Image: images/c7951bc86ff78c336d8baf2505f2a7da-20240927155900.jpg
+Image: images/c7951bc86ff78c336d8baf2505f2a7da-20240927155900.webp
 Slug: day-of-preparation
 Tags: christianity
 Title: 'Prepare Your Heart: Ultimate Guide to the Day of Preparation in Christian Faith'

@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-03-16'
 Description: Discover powerful prayers to strengthen your faith and trust in God. From prayers for trust in difficult times to seeking guidance and surrendering control, these prayers will help you deepen your relationship with God and find peace in His plan.
-Image: images/a48a66075d425a30d59dc586e08f55cf-20240827003704.jpg
+Image: images/a48a66075d425a30d59dc586e08f55cf-20240827003704.webp
 Slug: prayers-for-faith-and-trust
 Tags: prayer for trust, trust prayer, prayer to trust god, prayer to trust in god, prayer for trust in god, prayer of trust in god, trust in the lord prayer, trust in god prayers, prayers for faith and trust, prayers for trusting god
 Title: 10 Powerful Prayers for Unwavering Faith and Trust in God

@@ -2,7 +2,7 @@
 Category: Race and Ethnicity/Christian Racial Perspectives
 Date: '2024-06-11'
 Description: Explore the evolving landscape of church ethnic composition in the UK and the Christian response to demographic changes. Delve into the debate between maintaining cultural heritage in ethnic churches versus promoting integration in Western Christian traditions.
-Image: images/907350e9dc095c9ad3d3924092816f96-20240912092710.jpg
+Image: images/907350e9dc095c9ad3d3924092816f96-20240912092710.webp
 Slug: church-ethnic-composition
 Tags: Preserving UK church cultural heritage, Christian response demographic changes, Ethnic churches vs integration debate, Maintaining Western Christian traditions, Assimilation vs multiculturalism church
 Title: 'Diverse Church Congregations: Embracing Multicultural Faith Communities'

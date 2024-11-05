@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Ministry of Jesus/On Earth
 Date: '2024-06-25'
 Description: Discover the miraculous story of feeding the 5000, a biblical account of Jesus feeding a multitude with just five loaves and two fish. Explore the significance and implications of this extraordinary event in Christian faith.
-Image: images/7eefb4515ae1a371a41f8f0bfb8f2e0d-20240927160719.jpg
+Image: images/7eefb4515ae1a371a41f8f0bfb8f2e0d-20240927160719.webp
 Slug: feeding-the-5000
 Tags: christianity
 Title: 'Miraculous Feeding of 5000: Divine Abundance Unveiled'

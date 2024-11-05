@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Names of God
 Date: '2024-07-14'
 Description: Discover the significance and power behind the phrase "breathe Yahweh" and explore its spiritual implications in this enlightening article.
-Image: images/5bd02fcfe8eaf90adcebb9835556e745-20240927145257.jpg
+Image: images/5bd02fcfe8eaf90adcebb9835556e745-20240927145257.webp
 Slug: breathe-yahweh
 Tags: christianity
 Title: 'Breathe Yahweh: Experience the Power of God''s Presence'

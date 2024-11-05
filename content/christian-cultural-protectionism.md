@@ -2,7 +2,7 @@
 Category: Society & Politics/Rejecting Multiculturalism Uk
 Date: '2024-08-09'
 Description: '"Explore the rise of Christian cultural protectionism in the UK, as advocates strive to safeguard British Christian traditions against foreign influences and maintain a pure Christian identity. Discover the movement resisting cultural fusion within Christianity."'
-Image: images/113ea38804599e88c80d437ef98a7898-20240911200249.jpg
+Image: images/113ea38804599e88c80d437ef98a7898-20240911200249.webp
 Slug: christian-cultural-protectionism
 Tags: Protecting UK Christian traditions, Resisting foreign cultural influences, Preserving Christian British identity, Christian cultural purity movement, Opposing cultural fusion Christianity
 Title: 'Protecting Our Faith: Unveiling Christian Cultural Preservation Strategies'

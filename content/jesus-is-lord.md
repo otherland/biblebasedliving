@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Titles
 Date: '2024-08-15'
 Description: Discover the profound significance of 'Jesus is Lord' in this enlightening article. Uncover the spiritual and theological implications of this powerful declaration.
-Image: images/e3df5e429624709b53eab8c5b0963430-20240927153537.jpg
+Image: images/e3df5e429624709b53eab8c5b0963430-20240927153537.webp
 Slug: jesus-is-lord
 Tags: christianity
 Title: 'Jesus is Lord: Embracing the Ultimate Authority in Christian Faith'

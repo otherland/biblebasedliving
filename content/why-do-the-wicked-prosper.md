@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-05-18'
 Description: Discover the perplexing reality of why the wicked prosper, exploring the complex interplay of morality and success in society. Uncover insights into this age-old question.
-Image: images/e13a8b6b0a11698628e4c07f05db7600-20240927152317.jpg
+Image: images/e13a8b6b0a11698628e4c07f05db7600-20240927152317.webp
 Slug: why-do-the-wicked-prosper
 Tags: christianity
 Title: 'Why Do the Wicked Prosper: Understanding God''s Plan for Justice'

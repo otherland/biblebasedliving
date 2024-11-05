@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Jesus’ Birth
 Date: '2024-08-25'
 Description: Discover the historical mystery of Jesus' birth year in this insightful article, exploring the prevailing theories and evidence surrounding the date.
-Image: images/53d17d913bfca33e0c3ab9487f8a76b1-20240927155312.jpg
+Image: images/53d17d913bfca33e0c3ab9487f8a76b1-20240927155312.webp
 Slug: what-year-was-jesus-born
 Tags: christianity
 Title: 'Divine Revelation: What Year Was Jesus Born? The Ultimate Guide'

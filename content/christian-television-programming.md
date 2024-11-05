@@ -2,7 +2,7 @@
 Category: Entertainment and Media/Reclaiming Entertainment Industry
 Date: '2024-04-07'
 Description: Explore the vibrant world of Christian television programming, from UK networks to faith-based reality shows and evangelical talk shows. Learn about biblical series on mainstream channels and captivating children's programming in this insightful article.
-Image: images/f5ac41b53a5cb9180efe32f6ac19df38-20240912110858.jpg
+Image: images/f5ac41b53a5cb9180efe32f6ac19df38-20240912110858.webp
 Slug: christian-television-programming
 Tags: UK Christian TV networks, Faith-based reality show concepts, Christian children's programming, Evangelical talk shows production, Biblical series mainstream channels
 Title: Top 10 Inspiring Christian Television Shows Every Believer Should Watch

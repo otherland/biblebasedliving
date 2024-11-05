@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Trinity
 Date: '2024-08-03'
 Description: Discover the profound concept of the Ontological Trinity, exploring the theological understanding of the three persons within God's essence. Unravel the intricacies of this doctrine in theology and its significance in Christian beliefs.
-Image: images/94c82107393fc3f1992719303aff5b4b-20240927143504.jpg
+Image: images/94c82107393fc3f1992719303aff5b4b-20240927143504.webp
 Slug: ontological-trinity
 Tags: christianity
 Title: 'Unveiling the Sacred Mystery of the Ontological Trinity: A Christian Perspective'

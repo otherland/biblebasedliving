@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-04-29'
 Description: Discover 10 powerful topics to pray for others and yourself. From health and relationships to guidance and peace, find inspiration for your prayer list here.
-Image: images/4650399a3023a805ee6c841dc0ba14b8-20240827010645.jpg
+Image: images/4650399a3023a805ee6c841dc0ba14b8-20240827010645.webp
 Slug: things-to-pray-for
 Tags: list of things to pray for, list of things to pray for others, 10 things to pray for, prayer list ideas, topics to pray for, topics to pray about, how to pray for other people, good things to pray for, topics for prayer, things to pray for daily, things to pray for, how do you pray for others, how to pray for people, things to pray for others, pray list, how do i pray for someone, prayer list example, how to pray for someone, things to pray about, how to pray for others, pray for people, what to pray for others, prayer topics for prayer meeting, 40 things to pray for, what can i pray for, how do you pray for someone, what to pray about, things to ask god for, what to pray for, things to pray for everyday
 Title: 10 Essential Things to Pray for: Strengthen Your Christian Faith

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Significant Events
 Date: '2024-06-08'
 Description: Discover the profound significance of Jesus being anointed in this enlightening article. Explore the spiritual and historical context of this sacred act.
-Image: images/db97c93cbf43a35a4451260554f03393-20240927155704.jpg
+Image: images/db97c93cbf43a35a4451260554f03393-20240927155704.webp
 Slug: jesus-anointed
 Tags: christianity
 Title: 'Divine Anointing of Jesus: Exploring His Sacred Blessing'

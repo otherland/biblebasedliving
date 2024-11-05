@@ -2,7 +2,7 @@
 Category: God/God and Evil/God’s Character
 Date: '2024-08-23'
 Description: Explore the age-old question of whether God is cruel in this thought-provoking article. Delve into various perspectives on divine nature and morality.
-Image: images/a62e2981b166d71ca887e76e8b3a2cbb-20240927152655.jpg
+Image: images/a62e2981b166d71ca887e76e8b3a2cbb-20240927152655.webp
 Slug: is-god-cruel
 Tags: christianity
 Title: Is God Cruel? Understanding the Loving Nature of God in Christianity

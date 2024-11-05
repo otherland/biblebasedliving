@@ -2,7 +2,7 @@
 Category: Religion & Society/Countering Islamic Influence
 Date: '2024-05-16'
 Description: '"Explore the debate surrounding limiting Islamic visibility in the UK, from opposing mosque construction to regulating halal food and countering Islamic street preaching. Learn about the challenges and controversies shaping these discussions."'
-Image: images/d2f5c44487697aeb4a7ec21c74b41dee-20240911200047.jpg
+Image: images/d2f5c44487697aeb4a7ec21c74b41dee-20240911200047.webp
 Slug: limiting-islamic-visibility
 Tags: Opposing UK mosque construction, Restricting Islamic dress public, Limiting Muslim call prayer Britain, Regulating halal food availability, Countering Islamic street preaching
 Title: 'Unveiling the Truth: Exposing the Impact of Limiting Islamic Visibility'

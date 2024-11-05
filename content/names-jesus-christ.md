@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Names
 Date: '2024-06-14'
 Description: Explore the profound impact of Jesus Christ on Christianity and the world in this insightful article. Delve into his teachings, miracles, and enduring legacy.
-Image: images/296602090df0f09097d6bcc225019c6a-20240927153330.jpg
+Image: images/296602090df0f09097d6bcc225019c6a-20240927153330.webp
 Slug: names-jesus-christ
 Tags: christianity
 Title: Discover the Divine Significance of Names Jesus Christ Holds

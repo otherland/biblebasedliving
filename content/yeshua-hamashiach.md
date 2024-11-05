@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Names
 Date: '2024-08-25'
 Description: Discover the significance of Yeshua Hamashiach, a Hebrew term for Jesus the Messiah, in Christian theology and faith. Explore the deep spiritual meaning behind this title.
-Image: images/a666eaa4314a77008cc52d5a0ea73907-20240927153423.jpg
+Image: images/a666eaa4314a77008cc52d5a0ea73907-20240927153423.webp
 Slug: yeshua-hamashiach
 Tags: christianity
 Title: 'Discovering the Divine Truth of Yeshua Hamashiach: A Christian Revelation'

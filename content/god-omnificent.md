@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Attributes
 Date: '2024-08-30'
 Description: Discover the concept of God's omnificence in this enlightening article. Explore the divine attribute of being all-creating and all-powerful.
-Image: images/b507eed25376c0a6927ada51a1023c4e-20240927143821.jpg
+Image: images/b507eed25376c0a6927ada51a1023c4e-20240927143821.webp
 Slug: god-omnificent
 Tags: christianity
 Title: 'Discover the Majesty of God''s Omnificent Creation: A Christian Reflection'

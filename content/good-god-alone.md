@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-08-14'
 Description: Discover the profound significance and attributes of a good God alone in this thought-provoking article. Explore the concept of divine goodness, its implications, and its relevance in our lives.
-Image: images/3e48db9a25002c5ff921e85857bc52f7-20240927153911.jpg
+Image: images/3e48db9a25002c5ff921e85857bc52f7-20240927153911.webp
 Slug: good-god-alone
 Tags: christianity
 Title: 'Discover the Power of the Good God Alone: A Christian Journey'

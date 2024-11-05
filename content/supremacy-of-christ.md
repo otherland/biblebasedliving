@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-08-10'
 Description: Discover the profound significance of the supremacy of Christ in this enlightening article, exploring His unparalleled authority and divine sovereignty. Uncover the transformative power of acknowledging Christ's preeminence in all aspects of life.
-Image: images/c829d0c24cf125b7f458d07284d786e8-20240927154002.jpg
+Image: images/c829d0c24cf125b7f458d07284d786e8-20240927154002.webp
 Slug: supremacy-of-christ
 Tags: christianity
 Title: 'Unveiling the Supreme Reign of Christ: A Christian''s Ultimate Guide'

@@ -2,7 +2,7 @@
 Category: God/God and Evil/The Existence of Sin and Evil
 Date: '2024-09-17'
 Description: 'Discover the complex relationship between God and Satan: Does God truly love the fallen angel? Unravel this theological dilemma here.'
-Image: images/e9d8003edf0881528a641267bdd4169d-20240927151950.jpg
+Image: images/e9d8003edf0881528a641267bdd4169d-20240927151950.webp
 Slug: does-god-love-satan
 Tags: christianity
 Title: Does God Truly Love Satan? Exploring the Divine Relationship

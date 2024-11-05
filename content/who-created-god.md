@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Origin of God
 Date: '2024-05-28'
 Description: 'Exploring the concept of the Creator: Can we fathom who or what created God? Delve into the eternal question of the origin of deity.'
-Image: images/743fb93c4be2a33204b7833dc1c26943-20240927144957.jpg
+Image: images/743fb93c4be2a33204b7833dc1c26943-20240927144957.webp
 Slug: who-created-god
 Tags: christianity
 Title: 'Unveiling the Eternal Mystery: Who Created God Revealed'

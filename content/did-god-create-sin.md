@@ -2,7 +2,7 @@
 Category: God/God and Evil/The Existence of Sin and Evil
 Date: '2024-05-17'
 Description: Explore the theological debate on whether God created sin in this thought-provoking article. Delve into the complexities of sin's origins and implications.
-Image: images/a878394aaf063b9764e948822972c8a6-20240927151948.jpg
+Image: images/a878394aaf063b9764e948822972c8a6-20240927151948.webp
 Slug: did-god-create-sin
 Tags: christianity
 Title: Did God Create Sin? Exploring the Divine Role in Moral Imperfection

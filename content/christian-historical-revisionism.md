@@ -2,7 +2,7 @@
 Category: History & Culture/Christian Britain Restoration
 Date: '2024-04-21'
 Description: Explore the resurgence of Christian historical revisionism in the UK, focusing on efforts to emphasize Christianity's role in the British Empire and restore a Christian narrative in education. Discover the push to rewrite textbooks and highlight Christian founders in reclaiming the nation's heritage.
-Image: images/ddbff2954aea0fd6b0f23b65a0618f51-20240911200043.jpg
+Image: images/ddbff2954aea0fd6b0f23b65a0618f51-20240911200043.webp
 Slug: christian-historical-revisionism
 Tags: UK Christian history rewriting, Emphasizing Christian role British Empire, Christian founders historical focus, Restoring Christian narrative textbooks, UK Christian heritage education push
 Title: 'Unveiling Christian Historical Revisionism: Restoring Truth and Faith'

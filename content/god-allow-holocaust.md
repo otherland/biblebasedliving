@@ -2,7 +2,7 @@
 Category: God/God and Evil/War and Disasters
 Date: '2024-06-15'
 Description: Explore the complex question of why God allowed the Holocaust, delving into theological perspectives and historical contexts in this thought-provoking article.
-Image: images/95a3e3cece6f7ad207b2b922558e9a67-20240927153205.jpg
+Image: images/95a3e3cece6f7ad207b2b922558e9a67-20240927153205.webp
 Slug: god-allow-holocaust
 Tags: christianity
 Title: 'Why Did God Allow the Holocaust: Divine Purpose Revealed'

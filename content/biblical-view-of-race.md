@@ -2,7 +2,7 @@
 Category: Race and Ethnicity/Christian Racial Perspectives
 Date: '2024-06-15'
 Description: Explore the Biblical perspective on race, unity in Christ, and reconciliation amidst racial differences. Discover insights on Christian identity, ethnic heritage, and the implications of Babel's dispersion on the diversity of races.
-Image: images/776696ffa15bf3f2cf3cb060a7d07311-20240912092659.jpg
+Image: images/776696ffa15bf3f2cf3cb060a7d07311-20240912092659.webp
 Slug: biblical-view-of-race
 Tags: Christian teaching racial differences, Unity in Christ racial reconciliation, Biblical nationalism vs globalism, Christian identity ethnic heritage, Babel dispersion races Biblical
 Title: 'Biblical Insights on Race: Understanding God''s Design for Unity'

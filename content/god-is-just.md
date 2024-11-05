@@ -2,7 +2,7 @@
 Category: God/The Character of God/Justice
 Date: '2024-06-04'
 Description: Explore the concept of divine justice and the attributes of a just God in this insightful article that delves into the belief in God's fairness and righteousness.
-Image: images/5d1c37bdafbc01e758f9cbf62d8601b7-20240927144718.jpg
+Image: images/5d1c37bdafbc01e758f9cbf62d8601b7-20240927144718.webp
 Slug: god-is-just
 Tags: christianity
 Title: 'Discovering God''s Justice: Unveiling His Righteous Ways'

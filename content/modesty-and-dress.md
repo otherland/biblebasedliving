@@ -2,7 +2,7 @@
 Category: Sexual Ethics/Purity Culture Promotion
 Date: '2024-07-10'
 Description: Explore the significance of Biblical modesty guidelines in the UK, navigating Christian dress codes for youth and promoting purity in fashion choices. Learn about the impact of modesty culture on young women and how Christian families teach modesty values.
-Image: images/1906775395fd838a37a2a6bedd93fa17-20240911202539.jpg
+Image: images/1906775395fd838a37a2a6bedd93fa17-20240911202539.webp
 Slug: modesty-and-dress
 Tags: Biblical modesty guidelines UK, Christian dress codes youth, Modesty culture young women, Purity in fashion choices, Teaching modesty Christian families
 Title: '7 Biblical Principles for Modesty and Dressing with Grace: A Christian Guide'

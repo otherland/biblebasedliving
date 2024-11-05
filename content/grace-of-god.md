@@ -2,7 +2,7 @@
 Category: God/The Character of God/God’s Love
 Date: '2024-08-28'
 Description: Discover the transformative power and blessings bestowed through the grace of God. Explore how divine favor shapes lives and brings hope. Embrace the profound impact of God's grace in this enlightening article.
-Image: images/d3cdb9f292c0d484033228dcde67c23b-20240927143959.jpg
+Image: images/d3cdb9f292c0d484033228dcde67c23b-20240927143959.webp
 Slug: grace-of-god
 Tags: christianity
 Title: 'Experiencing the Transformative Grace of God: A Christian''s Guide to Embracing Divine Favor'

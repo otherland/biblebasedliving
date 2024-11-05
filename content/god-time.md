@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Time and Place
 Date: '2024-04-08'
 Description: Explore the concept of God's time and its significance in our lives. Understand how the divine timing influences events and shapes our understanding of faith and destiny.
-Image: images/8e73e839718c41b01f9d50d1e9b195ce-20240927143654.jpg
+Image: images/8e73e839718c41b01f9d50d1e9b195ce-20240927143654.webp
 Slug: god-time
 Tags: christianity
 Title: 'Unveiling God''s Time: Understanding Divine Timing for Christian Believers'

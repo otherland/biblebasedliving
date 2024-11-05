@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Ministry of Jesus/Salvation
 Date: '2024-06-21'
 Description: Discover how Jesus Christ conquered death in a powerful display of resurrection, offering hope and salvation to believers worldwide.
-Image: images/4978330d97f4e99ad199f2ba497bf5b8-20240927160604.jpg
+Image: images/4978330d97f4e99ad199f2ba497bf5b8-20240927160604.webp
 Slug: jesus-christ-conquered-death
 Tags: christianity
 Title: 'Victorious Savior: Jesus Christ Overcomes Death'

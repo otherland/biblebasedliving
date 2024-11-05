@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Worshiping God
 Date: '2024-08-07'
 Description: Discover the power of praising the Lord in this insightful article that explores the significance and impact of expressing gratitude and devotion. Join us in reflecting on the blessings that come from praising the Lord.
-Image: images/250a90282563ea7ff089a1f008a39118-20240927151419.jpg
+Image: images/250a90282563ea7ff089a1f008a39118-20240927151419.webp
 Slug: praise-the-lord
 Tags: christianity
 Title: 'Praise the Lord: Your Guide to Ultimate Worship and Devotion'

@@ -2,7 +2,7 @@
 Category: God/The Character of God/Anthropomorphism
 Date: '2024-08-02'
 Description: Explore the profound symbolism and significance behind God's outstretched arm, reflecting divine power, protection, and deliverance in religious contexts. Unveil the timeless meaning of this powerful gesture in faith and spirituality.
-Image: images/2964fd5689b6459eb51a78b97a1a38b7-20240927144438.jpg
+Image: images/2964fd5689b6459eb51a78b97a1a38b7-20240927144438.webp
 Slug: god-outstretched-arm
 Tags: christianity
 Title: 'Unveiling the Power of God''s Outstretched Arm: A Divine Revelation for Believers'

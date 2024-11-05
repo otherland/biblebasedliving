@@ -2,7 +2,7 @@
 Category: Race and Ethnicity/Christian Racial Perspectives
 Date: '2024-08-24'
 Description: Explore the intersection of mission and ethnicity, focusing on prioritizing unreached people groups, home missions within ethnic British communities, biblical approaches to cross-cultural ministry, Christian responses to mass migration, and ethnicity considerations in church planting.
-Image: images/e94029dd69e33184144fb1c25b199320-20240912092705.jpg
+Image: images/e94029dd69e33184144fb1c25b199320-20240912092705.webp
 Slug: mission-and-ethnicity
 Tags: Prioritizing unreached people groups, Home missions ethnic British communities, Cross-cultural ministry Biblical approach, Christian response mass migration, Ethnicity considerations church planting
 Title: 'Unlocking the Divine Connection: Mission and Ethnicity in Christian Faith'

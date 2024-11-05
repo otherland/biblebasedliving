@@ -2,7 +2,7 @@
 Category: God/The Character of God/God’s Love
 Date: '2024-08-28'
 Description: Discover the profound nature of God's patience and how it shapes our lives. Explore the significance of God's enduring patience in times of trials and growth.
-Image: images/079590e635e2e1af4102cecd65ce6db7-20240927144024.jpg
+Image: images/079590e635e2e1af4102cecd65ce6db7-20240927144024.webp
 Slug: god-is-patient
 Tags: christianity
 Title: 'Divine Patience: Understanding God''s Enduring Love for His People'

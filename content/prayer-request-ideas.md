@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-07-21'
 Description: Discover a list of the top ten prayer requests and find inspiration for your own prayer meetings. Explore examples of effective prayer requests and gain ideas for meaningful and impactful prayers.
-Image: images/dd4ee0f1b0e765e3b947eeec50ab6864-20240827003431.jpg
+Image: images/dd4ee0f1b0e765e3b947eeec50ab6864-20240827003431.webp
 Slug: prayer-request-ideas
 Tags: top ten prayer requests, list of prayer request, prayer points for prayer meetings, prayer request list, example of a prayer request, examples of prayer requests, sample prayer list, good prayer requests, prayer request ideas, prayer request examples, christian prayer meeting topics, prayer meeting topics
 Title: 10 Powerful Prayer Request Ideas for Christian Believers

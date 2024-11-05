@@ -2,7 +2,7 @@
 Category: Gender Roles/Women'S Submission Teaching
 Date: '2024-09-04'
 Description: Discover the Biblical model of marriage hierarchy with a focus on husband headship and wives' submission, exploring the roles within a Christian household. Explore the concept of complementarian marriages in the UK and the importance of male spiritual leadership at home.
-Image: images/221e7e05074b678fd47df52863ca3605-20240911202356.jpg
+Image: images/221e7e05074b678fd47df52863ca3605-20240911202356.webp
 Slug: biblical-marriage-hierarchy
 Tags: Husband headship biblical model, Wives submission scripture teaching, Complementarian marriage UK, Male spiritual leadership home, Christian wife's role family
 Title: 'Unlocking the Divine Blueprint: Biblical Marriage Hierarchy Revealed'

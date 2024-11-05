@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Basics
 Date: '2024-04-26'
 Description: Discover the concept of God - a divine being revered in various religions. Explore the idea of God's nature, attributes, and significance in human belief systems.
-Image: images/728b065347cfdc78fc0f313f3a475be9-20240927143237.jpg
+Image: images/728b065347cfdc78fc0f313f3a475be9-20240927143237.webp
 Slug: what-is-god
 Tags: christianity
 Title: 'Discovering the True Nature of God: A Comprehensive Guide for Christian Believers'

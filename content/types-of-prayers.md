@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-05-27'
 Description: Discover the different types of prayers in Christianity and Catholicism. Explore four distinct forms of prayer and learn how they can deepen your spiritual connection.
-Image: images/312612617c04b0937da52379068f8fc4-20240827010720.jpg
+Image: images/312612617c04b0937da52379068f8fc4-20240827010720.webp
 Slug: types-of-prayers
 Tags: 3 kinds of prayer, two types of prayers in christianity, four types of prayer catholic, prayer styles, 4 types of prayer examples, kinds of prayer catholic, forms of prayer catholic, 4 types of prayer catholic, types of prayer catholic, form of prayers, what are the 4 types of prayer
 Title: 7 Powerful Types of Prayers Every Christian Should Know

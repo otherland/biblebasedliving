@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Names of God
 Date: '2024-04-20'
 Description: Discover the significance of the YHWH tetragrammaton in religious texts, its historical context, and its importance in ancient Hebrew beliefs. Explore the mystery behind this sacred name.
-Image: images/ddeea1744c6a63234357aa3c3dbd7cca-20240927145131.jpg
+Image: images/ddeea1744c6a63234357aa3c3dbd7cca-20240927145131.webp
 Slug: yhwh-tetragrammaton
 Tags: christianity
 Title: 'Unveiling the Sacred Mystery: YHWH Tetragrammaton Revealed in Christian Faith'

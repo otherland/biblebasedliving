@@ -2,7 +2,7 @@
 Category: History & Culture/Reclaiming Christian Heritage
 Date: '2024-05-21'
 Description: '"Discover the movement towards reviving Christian customs in the UK, focusing on reinstating holidays, promoting traditional names, and restoring Sabbath observance. Explore the resurgence of Christian folk traditions and ceremonial roles in government."'
-Image: images/ff8ce50611594aa1773a95408e4ab86f-20240911200226.jpg
+Image: images/ff8ce50611594aa1773a95408e4ab86f-20240911200226.webp
 Slug: reviving-christian-customs
 Tags: Reinstating UK Christian holidays, Promoting traditional Christian names, Reviving Christian folk traditions, Christian ceremonial roles government, Restoring Christian Sabbath observance
 Title: 'Reviving Christian Customs: 5 Powerful Ways to Renew Your Faith'

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Life of Jesus/Significant Events
 Date: '2024-07-19'
 Description: Discover the profound teachings of Jesus in the Sermon on the Mount. Explore timeless wisdom on love, compassion, and ethical living in this enlightening article.
-Image: images/0aaffd55690fdeded882df95181e06b6-20240927155722.jpg
+Image: images/0aaffd55690fdeded882df95181e06b6-20240927155722.webp
 Slug: sermon-on-the-mount
 Tags: christianity
 Title: 'Unlocking the Divine Wisdom: Sermon on the Mount Explained'

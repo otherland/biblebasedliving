@@ -2,7 +2,7 @@
 Category: God/God and Evil/Hardships
 Date: '2024-07-25'
 Description: Explore the heartbreaking reality of innocent individuals who endure unjust suffering in a world full of complexities and challenges. Delve into the profound impact of innocence in the face of adversity.
-Image: images/b1d275c807fab5d80775dd5d5f3dcb6b-20240927152816.jpg
+Image: images/b1d275c807fab5d80775dd5d5f3dcb6b-20240927152816.webp
 Slug: innocent-suffer
 Tags: christianity
 Title: 'Why the Innocent Suffer: Finding Hope and Redemption in Christian Faith'

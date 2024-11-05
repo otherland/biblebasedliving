@@ -2,7 +2,7 @@
 Category: Christian Music & Artists/Worship Music And Hymns
 Date: '2024-07-04'
 Description: Looking for uplifting acoustic worship songs? Discover a collection of heartfelt Christian songs with acoustic guitar that will inspire your spirit. From gospel classics to contemporary favorites, these acoustic guitar worship songs are perfect for worship gatherings and personal devotion.
-Image: images/682138f46c476def3a6cfcffd953dbed-20240827013705.jpg
+Image: images/682138f46c476def3a6cfcffd953dbed-20240827013705.webp
 Slug: acoustic-guitar-worship-songs
 Tags: upbeat acoustic worship songs, christian songs acoustic guitar, christian songs with acoustic guitar, acoustic guitar worship songs, gospel acoustic guitar songs
 Title: 10 Essential Acoustic Guitar Worship Songs for Christian Devotion

@@ -2,7 +2,7 @@
 Category: Culture and Ideology/Combating Cultural Marxism
 Date: '2024-09-06'
 Description: Discover how Christian family values are portrayed in British media, traditional morality in literature, and patriotic themes in Christian art. Explore the celebration of Western civilization through conservative cultural events.
-Image: images/a5cec0c3282098a2f49847d59a00d4c9-20240912110602.jpg
+Image: images/a5cec0c3282098a2f49847d59a00d4c9-20240912110602.webp
 Slug: promoting-traditional-values
 Tags: Christian family values British media, Traditional morality in literature, Patriotic themes Christian art, Celebrating Western civilization art, Conservative Christian cultural events
 Title: 'Empowering Christian Faith: 5 Essential Ways to Promote Traditional Values'

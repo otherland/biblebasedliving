@@ -2,7 +2,7 @@
 Category: Gender and Family/Biblical Patriarchy Revival
 Date: '2024-07-07'
 Description: Explore the dynamics of Father-led Christian households, Biblical submission in marriage, and raising sons as patriarchs in this insightful article on traditional family structures and values. Discover the significance of Christian wife roles, and the comparison between courtship and dating based on a Biblical model.
-Image: images/26a3d2de25160766345e7cb6c22977a8-20240912092526.jpg
+Image: images/26a3d2de25160766345e7cb6c22977a8-20240912092526.webp
 Slug: family-structure
 Tags: Father-led Christian households, Biblical submission in marriage, Raising sons as patriarchs, Christian wife traditional roles, Courtship vs dating Biblical model
 Title: 'Faith-Filled Family Structure: Building a Strong Foundation in Christ'

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Person of Jesus/Jesus’ Friendships
 Date: '2024-08-30'
 Description: Discover the heartwarming interactions between Jesus and children in this insightful article. Explore how Jesus' love and teachings impacted the lives of the young ones around Him.
-Image: images/560f2679fd4146775c4ffcc5c7cef6eb-20240927154505.jpg
+Image: images/560f2679fd4146775c4ffcc5c7cef6eb-20240927154505.webp
 Slug: jesus-and-children
 Tags: christianity
 Title: 10 Heartwarming Lessons from Jesus and Children

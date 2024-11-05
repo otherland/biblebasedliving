@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/Toward All People
 Date: '2024-07-29'
 Description: Discover why the phrase "God is not mocked" holds profound significance in religious contexts, exploring its implications and the importance of reverence and respect.
-Image: images/b7915da798b86c879e54faa4a8f93b14-20240927145925.jpg
+Image: images/b7915da798b86c879e54faa4a8f93b14-20240927145925.webp
 Slug: god-is-not-mocked
 Tags: christianity
 Title: 'Unyielding Truth: God is Not Mocked in Christian Faith'

@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Faulty Assumptions
 Date: '2024-05-03'
 Description: Explore the ancient deities Yahweh, Edomite, and Canaanite gods in this insightful article delving into their significance and connections in religious history.
-Image: images/44ef9ccb645bc205678cbb8c9b9712cf-20240927145657.jpg
+Image: images/44ef9ccb645bc205678cbb8c9b9712cf-20240927145657.webp
 Slug: yahweh-edomite-canaanite-god
 Tags: christianity
 Title: 'Unveiling the Yahweh Edomite Canaanite God: A Christian Perspective'

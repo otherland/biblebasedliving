@@ -2,7 +2,7 @@
 Category: God/The Character of God/How God Works
 Date: '2024-09-06'
 Description: Explore the concept of God as a hidden presence, delving into the complexities of faith and existence in this thought-provoking article.
-Image: images/a4238de0cc37bb1f01c25699871e4faa-20240927144302.jpg
+Image: images/a4238de0cc37bb1f01c25699871e4faa-20240927144302.webp
 Slug: god-hidden
 Tags: christianity
 Title: 'Uncovering the Mystery: God''s Hidden Presence Revealed in Scripture'

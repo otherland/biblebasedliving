@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Tomb
 Date: '2024-07-02'
 Description: 'Explore the intriguing question: "Did Jesus go to hell?" Unravel the biblical context and theological perspectives in this thought-provoking article.'
-Image: images/defd68774b9df81c1d049db1f2732008-20240927160225.jpg
+Image: images/defd68774b9df81c1d049db1f2732008-20240927160225.webp
 Slug: did-jesus-go-to-hell
 Tags: christianity
 Title: Did Jesus Descend to Hell? Exploring the Biblical Truth

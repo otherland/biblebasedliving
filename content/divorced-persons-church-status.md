@@ -2,7 +2,7 @@
 Category: Marriage Preservation/Anti-Divorce Legislation
 Date: '2024-06-19'
 Description: Discover the complexities of church discipline for divorced members, including remarriage restrictions, restoration processes, and biblical perspectives on separation vs legal divorce in Christianity.
-Image: images/5e3dcaf153e2cbb23ba07cc42503aafa-20240911202607.jpg
+Image: images/5e3dcaf153e2cbb23ba07cc42503aafa-20240911202607.webp
 Slug: divorced-persons-church-status
 Tags: Church discipline divorced members, Remarriage restrictions Christianity, Divorced leaders church policy, Restoration process divorced Christians, Biblical separation vs legal divorce
 Title: 'Reclaiming Faith: 5 Ways Divorced Persons Can Find Healing and Renewal in the Church'

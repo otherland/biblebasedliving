@@ -2,7 +2,7 @@
 Category: God/God's Relationship to Us/He Cares For Us
 Date: '2024-09-06'
 Description: Discover how God provides for His people in times of need, offering hope, comfort, and guidance. Explore the ways faith can strengthen and sustain us.
-Image: images/2e1df6d3dc6c8ee8c958508603fa7de7-20240927150451.jpg
+Image: images/2e1df6d3dc6c8ee8c958508603fa7de7-20240927150451.webp
 Slug: god-provides
 Tags: christianity
 Title: 'Divine Provision: How God Provides for His Believers'

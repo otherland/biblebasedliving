@@ -2,7 +2,7 @@
 Category: God/The Character of God/Anthropomorphism
 Date: '2024-09-08'
 Description: Explore the significance of using masculine pronouns for God in religious contexts, examining the implications and controversies surrounding this linguistic tradition. Delve into the theological and cultural aspects shaping this practice.
-Image: images/fc11ccc18f51597decb27816dd432d8f-20240927144401.jpg
+Image: images/fc11ccc18f51597decb27816dd432d8f-20240927144401.webp
 Slug: masculine-pronouns-god
 Tags: christianity
 Title: 'Revisiting the Masculine Pronouns of God: Unveiling Biblical Truths'

@@ -2,7 +2,7 @@
 Category: Culture & Society/Christian Cultural Supremacy
 Date: '2024-06-06'
 Description: Explore the growing influence of Christian cultural institutions, from museums and community centers to festivals and heritage sites. Discover how faith-based organizations are expanding their reach in the UK and beyond.
-Image: images/275bcc86a2de63b38ffb19050f16a6f2-20240911200155.jpg
+Image: images/275bcc86a2de63b38ffb19050f16a6f2-20240911200155.webp
 Slug: christian-cultural-institutions
 Tags: Christian museums UK expansion, Church-run community centers, Christian cultural festivals prominence, Faith-based theatre companies, Christian heritage sites tourism
 Title: 'Unlocking the Power of Christian Cultural Institutions: A Comprehensive Guide'

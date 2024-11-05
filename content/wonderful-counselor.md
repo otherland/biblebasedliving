@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Titles
 Date: '2024-08-19'
 Description: Discover the significance of the title "Wonderful Counselor" and explore its meaning in relation to guidance and wisdom. Uncover the qualities that make this counselor truly exceptional.
-Image: images/721f042b11d8063c0dc2fb7b4b285c3e-20240927153628.jpg
+Image: images/721f042b11d8063c0dc2fb7b4b285c3e-20240927153628.webp
 Slug: wonderful-counselor
 Tags: christianity
 Title: 'Discover the Power of the Wonderful Counselor: Ultimate Guide for Christian Wisdom'

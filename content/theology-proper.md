@@ -2,7 +2,7 @@
 Category: God/The Nature of God/The Basics
 Date: '2024-07-13'
 Description: Explore the depths of Theology Proper, diving into the study of God's nature, attributes, and existence in this enlightening article.
-Image: images/18f8ff94ce3d125e00f04ba5b7841008-20240927143414.jpg
+Image: images/18f8ff94ce3d125e00f04ba5b7841008-20240927143414.webp
 Slug: theology-proper
 Tags: christianity
 Title: 'Unlocking the Depths of Theology Proper: A Christian''s Essential Guide'

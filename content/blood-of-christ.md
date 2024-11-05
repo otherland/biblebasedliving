@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Ministry of Jesus/Salvation
 Date: '2024-06-30'
 Description: Discover the profound significance of the blood of Christ in Christian theology, exploring its symbolic and spiritual implications in salvation. Delve into the meaning and importance of this central concept in Christian faith.
-Image: images/e1e2fccd44e18825749f4e5637e598b2-20240927160602.jpg
+Image: images/e1e2fccd44e18825749f4e5637e598b2-20240927160602.webp
 Slug: blood-of-christ
 Tags: christianity
 Title: 'The Sacred Blood of Christ: Unveiling Its Divine Power for Christian Redemption'

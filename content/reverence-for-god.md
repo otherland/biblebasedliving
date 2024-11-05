@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Worshiping God
 Date: '2024-05-16'
 Description: Discover the essence of reverence for God in this insightful article, exploring the significance and depth of spiritual devotion. Gain a deeper understanding of the profound connection between faith and reverence.
-Image: images/cc54eec2f65e164c676bdd5142ae89f3-20240927151510.jpg
+Image: images/cc54eec2f65e164c676bdd5142ae89f3-20240927151510.webp
 Slug: reverence-for-god
 Tags: christianity
 Title: '10 Ways to Cultivate Reverence for God: A Comprehensive Guide for Christian Readers'

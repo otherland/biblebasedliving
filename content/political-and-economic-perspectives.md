@@ -2,7 +2,7 @@
 Category: Ideology and Culture/Rejecting Cultural Marxism
 Date: '2024-03-28'
 Description: Explore the clash between Biblical economics and socialism, Christian critiques of the welfare state, and defenses of free market capitalism from a Christian perspective. Delve into the Church's response to the growing power of the state and its stance on property rights.
-Image: images/5733b4933cf94e35cc9ea64b1de370ea-20240912092714.jpg
+Image: images/5733b4933cf94e35cc9ea64b1de370ea-20240912092714.webp
 Slug: political-and-economic-perspectives
 Tags: Biblical economics vs socialism, Christian critique welfare state, Free market capitalism Christian defense, Church response growing state power, Christian perspective property rights
 Title: 'Divine Insights: 5 Essential Truths on Political and Economic Perspectives for Christian Believers'

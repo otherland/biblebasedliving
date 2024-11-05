@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-05-24'
 Description: Discover the transformative power in invoking the name of Jesus. Unleash spiritual strength and experience divine intervention through faith and prayer in this enlightening article.
-Image: images/94692bad63ac9c4447c4cdc1576dde39-20240927154002.jpg
+Image: images/94692bad63ac9c4447c4cdc1576dde39-20240927154002.webp
 Slug: power-in-the-name-of-jesus
 Tags: christianity
 Title: 'Unleashing the Power of Jesus'' Name: A Christian''s Guide to Supernatural Authority'

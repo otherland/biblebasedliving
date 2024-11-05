@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-05-08'
 Description: Discover the historical event of Jesus' crucifixion and learn about the timing of this significant event in Christian tradition. Explore the details surrounding the time of Jesus' crucifixion in this insightful article.
-Image: images/3ef0f7146e4fee311323d43f89c563b8-20240927160137.jpg
+Image: images/3ef0f7146e4fee311323d43f89c563b8-20240927160137.webp
 Slug: what-time-was-jesus-crucified
 Tags: christianity
 Title: 'When Was Jesus Crucified: Revealing the Sacred Hour'

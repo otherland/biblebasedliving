@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Faulty Assumptions
 Date: '2024-07-05'
 Description: Explore the controversial findings of the Jesus Seminar, a group of scholars analyzing historical evidence to uncover the authentic teachings of Jesus. Delve into their methodologies and debates surrounding the authenticity of biblical texts.
-Image: images/076696f4e068d5b879268b7a14dfcc96-20240927153707.jpg
+Image: images/076696f4e068d5b879268b7a14dfcc96-20240927153707.webp
 Slug: jesus-seminar
 Tags: christianity
 Title: 'Unveiling the Controversial Jesus Seminar: Exploring Modern Perspectives on Jesus'

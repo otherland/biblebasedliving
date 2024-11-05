@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Titles of God
 Date: '2024-09-13'
 Description: Discover the profound meaning behind "Jehovah Jireh," exploring its significance in biblical context and how it relates to divine provision and faith.
-Image: images/baff0fb8daeca22601a7b745da1e9a4c-20240927145426.jpg
+Image: images/baff0fb8daeca22601a7b745da1e9a4c-20240927145426.webp
 Slug: jehovah-jireh
 Tags: christianity
 Title: 'Ultimate Guide to Jehovah Jireh: Unveiling God''s Provision for Christian Living'

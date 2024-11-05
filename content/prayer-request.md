@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-06-06'
 Description: Looking for a 24/7 prayer hotline? Submit your Christian prayer request and get connected to a dedicated evangelical prayer line. Find out how to ask for prayer support and access the prayer line number on the phone.
-Image: images/e951033100c75c3327ebcadfbb57f45a-2024-08-27 00:25:13.689963.jpg
+Image: images/e951033100c75c3327ebcadfbb57f45a-2024-08-27 00:25:13.689963.webp
 Slug: prayer-request
 Tags: prayer request evangelical, prayer submission, 24 hour prayer hotline, prayer line number on the phone, prayer hotline 24 7, christian prayer request, asking for prayer request, prayer line 24 hours
 Title: 10 Powerful Prayer Requests for Christians: Strengthen Your Faith and Find Peace

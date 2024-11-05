@@ -2,7 +2,7 @@
 Category: Christian Living/Bible Study
 Date: '2024-03-05'
 Description: Discover a wealth of daily Christian devotionals, inspirational Bible verses, and online devotional communities in this comprehensive guide to devotional resources. Explore devotionals for specific life situations and top Bible study apps and websites.
-Image: images/b9e1a4397adb333c41e3a3793d74854b-20240830172716.jpg
+Image: images/b9e1a4397adb333c41e3a3793d74854b-20240830172716.webp
 Slug: devotional-resources
 Tags: daily Christian devotionals, inspirational Bible verses, devotionals for specific life situations, online devotional communities, Bible study apps and websites
 Title: Top 10 Devotional Resources to Deepen Your Christian Faith

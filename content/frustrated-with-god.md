@@ -2,7 +2,7 @@
 Category: God/Our Response to God/Honest Questions
 Date: '2024-06-28'
 Description: Struggling with faith? Explore the complexities of feeling frustrated with God in this insightful article that delves into doubts and seeking answers.
-Image: images/e9d20209af862ab04fa80fc5653b28b4-20240927151702.jpg
+Image: images/e9d20209af862ab04fa80fc5653b28b4-20240927151702.webp
 Slug: frustrated-with-god
 Tags: christianity
 Title: 'Finding Peace: Overcoming Frustration with God Through Faith'

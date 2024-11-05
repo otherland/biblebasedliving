@@ -2,7 +2,7 @@
 Category: Child-rearing/Strict Biblical Parenting
 Date: '2024-04-03'
 Description: Discover the controversy surrounding Biblical corporal punishment in the UK, exploring Godly discipline and Christian spanking from a scriptural perspective. Delve into the debate on firm parenting techniques based on religious teachings.
-Image: images/3ec33b37753b7b779bf7c1d2256c7893-20240911202351.jpg
+Image: images/3ec33b37753b7b779bf7c1d2256c7893-20240911202351.webp
 Slug: discipline-methods
 Tags: Biblical corporal punishment UK, Godly discipline child-rearing, Christian spanking controversy, Scripture-based behavior correction, Firm parenting biblical perspective
 Title: '7 Biblical Discipline Methods for Christian Parents: A Comprehensive Guide'

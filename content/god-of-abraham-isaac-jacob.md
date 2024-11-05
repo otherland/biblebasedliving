@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Titles of God
 Date: '2024-07-16'
 Description: Discover the powerful legacy of the God of Abraham, Isaac, and Jacob in this enlightening article. Unveil the divine connections and spiritual significance within these biblical figures.
-Image: images/f312f658b404d8e8cff5c207a554e783-20240927145538.jpg
+Image: images/f312f658b404d8e8cff5c207a554e783-20240927145538.webp
 Slug: god-of-abraham-isaac-jacob
 Tags: christianity
 Title: 'Unlocking the Divine Promise: God of Abraham, Isaac & Jacob Revealed'

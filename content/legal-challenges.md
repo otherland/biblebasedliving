@@ -2,7 +2,7 @@
 Category: Education/Creationism In Schools
 Date: '2024-03-20'
 Description: '"Explore legal battles over creationism in UK education, challenges to evolution-only policies, and regulatory conflicts faced by Christian schools. Discover the intersections of religious freedom and science education."'
-Image: images/5cb573de6da14f8f323a67cb7bc9b88a-20240911164852.jpg
+Image: images/5cb573de6da14f8f323a67cb7bc9b88a-20240911164852.webp
 Slug: legal-challenges
 Tags: UK creationism education lawsuits, Legal defense teaching creation, Challenging evolution-only policies, Religious freedom science class, Christian schools regulatory battles
 Title: 'Navigating Legal Challenges: 5 Biblical Insights for Christian Resilience'

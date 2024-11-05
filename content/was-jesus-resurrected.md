@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Resurrection
 Date: '2024-08-30'
 Description: Discover the historical evidence and theological significance surrounding the resurrection of Jesus, exploring its impact on Christianity and beliefs about life after death.
-Image: images/8dff4aa42295dd00a3031a3d1bbc0fec-20240927160302.jpg
+Image: images/8dff4aa42295dd00a3031a3d1bbc0fec-20240927160302.webp
 Slug: was-jesus-resurrected
 Tags: christianity
 Title: 'Ultimate Evidence of Jesus'' Resurrection: Unveiling the Truth'

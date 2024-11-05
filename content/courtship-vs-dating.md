@@ -2,7 +2,7 @@
 Category: Sexual Ethics/Purity Culture Promotion
 Date: '2024-07-08'
 Description: Discover the key differences between courtship and dating, exploring the Biblical courtship model in the UK, Christian alternatives to casual dating, parental involvement in partner selection, and the importance of emotional purity in relationships.
-Image: images/14dd68981b2a0c65f60692f95b776a3c-20240911202621.jpg
+Image: images/14dd68981b2a0c65f60692f95b776a3c-20240911202621.webp
 Slug: courtship-vs-dating
 Tags: Biblical courtship model UK, Christian alternative casual dating, Parental involvement partner selection, Courtship rules Christian youth, Emotional purity relationships
 Title: 'Christian Courtship vs Dating: The Ultimate Guide for Godly Relationships'

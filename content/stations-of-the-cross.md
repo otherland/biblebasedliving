@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/The Road to the Cross
 Date: '2024-07-25'
 Description: Explore the profound journey of the Stations of the Cross, a visual depiction of Jesus Christ's path to crucifixion. Delve into the rich symbolism and significance behind each station in this devotional practice.
-Image: images/ff7f6aa651da2a79d18ea8b897916096-20240927155907.jpg
+Image: images/ff7f6aa651da2a79d18ea8b897916096-20240927155907.webp
 Slug: stations-of-the-cross
 Tags: christianity
 Title: 'Unlocking the Spiritual Journey: 7 Stations of the Cross Explained'

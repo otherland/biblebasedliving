@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Ministry of Jesus/On Earth
 Date: '2024-04-26'
 Description: Discover effective techniques for calming the storm within yourself and finding peace amidst chaos in this insightful article.
-Image: images/17f411441ca9fdc924ec4c4c09a5fcb2-20240927160715.jpg
+Image: images/17f411441ca9fdc924ec4c4c09a5fcb2-20240927160715.webp
 Slug: calming-the-storm
 Tags: christianity
 Title: 'Finding Peace in the Storm: 7 Essential Ways to Calm Your Heart'

@@ -2,7 +2,7 @@
 Category: God/The Nature of God/Attributes
 Date: '2024-08-19'
 Description: Explore the intriguing question of whether God possesses free will in this thought-provoking article. Delve into the theological implications and philosophical perspectives on this complex topic.
-Image: images/f0b4372a971bedc008d152a89613782c-20240927143828.jpg
+Image: images/f0b4372a971bedc008d152a89613782c-20240927143828.webp
 Slug: does-god-have-free-will
 Tags: christianity
 Title: Does God Truly Possess Free Will? Exploring Divine Autonomy in Christianity

@@ -2,7 +2,7 @@
 Category: Religion and Literature/Purging Liberal Theology
 Date: '2024-05-19'
 Description: Discover effective strategies for countering secular humanism in literature and preserving the sacred in a secular culture. Explore how to engage in spiritual warfare within creative industries against atheist authors and critique secular art with faith-based perspectives.
-Image: images/39a7e4161e6c5e11fabb601c71fe7ca5-20240912110747.jpg
+Image: images/39a7e4161e6c5e11fabb601c71fe7ca5-20240912110747.webp
 Slug: resisting-secular-influence
 Tags: Countering secular humanism literature, Christian resistance atheist authors, Preserving sacred in secular culture, Faith-based critique secular art, Spiritual warfare creative industries
 Title: 7 Strategies to Defend Your Faith Against Secular Influences

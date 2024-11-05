@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Nature of Jesus/The Deity of Christ
 Date: '2024-08-22'
 Description: Discover the profound concept of "God with us" and its significance in various faith traditions. Explore how this belief shapes spiritual practices and offers comfort and guidance in times of need.
-Image: images/d5584205eb7387b913f96018ca670a34-20240927153954.jpg
+Image: images/d5584205eb7387b913f96018ca670a34-20240927153954.webp
 Slug: god-with-us
 Tags: christianity
 Title: 'God with Us: The Ultimate Guide to Understanding His Presence'

@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Cross and the Empty Tomb/On the Cross
 Date: '2024-08-26'
 Description: Discover how Jesus surpasses Levitical sacrifices in fulfillment and significance, shedding light on the transformative power of His sacrifice.
-Image: images/1f52457558d655674ca884e76c1b270d-20240927160109.jpg
+Image: images/1f52457558d655674ca884e76c1b270d-20240927160109.webp
 Slug: jesus-better-levitical-sacrifices
 Tags: christianity
 Title: 'Jesus'' Superiority Over Levitical Sacrifices: The Ultimate Comparison'

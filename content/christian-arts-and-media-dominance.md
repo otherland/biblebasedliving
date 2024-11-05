@@ -2,7 +2,7 @@
 Category: Culture & Society/Christian Cultural Supremacy
 Date: '2024-05-25'
 Description: '"Exploring the rise of Christian arts and media dominance in the UK, from promoting British literature to supporting the film industry and expanding the music sector. Discover how Christian themes are making their mark in mainstream media."'
-Image: images/b2d2bbb1ce242cabdeaba320d8e42f47-20240911200058.jpg
+Image: images/b2d2bbb1ce242cabdeaba320d8e42f47-20240911200058.webp
 Slug: christian-arts-and-media-dominance
 Tags: Promoting Christian British literature, UK Christian film industry support, Christian themes mainstream media, Funding Christian visual artists, Christian music industry expansion
 Title: 'Unveiling the Reign of Christian Arts and Media: Empowering Believers in Today’s World'

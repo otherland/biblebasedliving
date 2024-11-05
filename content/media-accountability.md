@@ -2,7 +2,7 @@
 Category: Media and Communication/Christian Media Censorship
 Date: '2024-04-24'
 Description: '"Explore how Christian media watchdog groups are combating anti-Christian bias in news reporting through fact-checking and accountability initiatives based on biblical values."'
-Image: images/963f7d8dd8cd4a92de8ecb9b55528f1c-20240912110742.jpg
+Image: images/963f7d8dd8cd4a92de8ecb9b55528f1c-20240912110742.webp
 Slug: media-accountability
 Tags: Christian media watchdog organizations, Reporting anti-Christian bias news, Faith-based fact-checking initiatives, Holding media accountable biblical values, Christian response media misinformation
 Title: 'Faithful Media Accountability Guide: Empowering Christians in Truth'

@@ -2,7 +2,7 @@
 Category: God/The Identity of God/The Titles of God
 Date: '2024-07-16'
 Description: Discover the powerful symbolism and significance of the title "Lord of Hosts" in religious texts. Uncover the divine authority and leadership associated with this majestic title.
-Image: images/58309393e7b7c27f30938f6b9a574f0e-20240927145442.jpg
+Image: images/58309393e7b7c27f30938f6b9a574f0e-20240927145442.webp
 Slug: lord-of-hosts
 Tags: christianity
 Title: 'Unleashing the Power of the Lord of Hosts: A Christian''s Guide to Divine Protection'

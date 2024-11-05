@@ -2,7 +2,7 @@
 Category: God/The Character of God/Emotion
 Date: '2024-05-24'
 Description: Discover the divine laughter in the realm of God humor. Explore the joy and hilarity found in spiritual anecdotes and uplifting jokes. Uncover a lighter side to faith and spirituality.
-Image: images/67f03ff5070b38ff28d7bacf53ca3642-20240927144537.jpg
+Image: images/67f03ff5070b38ff28d7bacf53ca3642-20240927144537.webp
 Slug: god-humor
 Tags: christianity
 Title: 'Divine Laughter: Unveiling God''s Humor in Christian Faith'

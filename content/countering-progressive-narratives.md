@@ -2,7 +2,7 @@
 Category: Culture and Ideology/Combating Cultural Marxism
 Date: '2024-04-27'
 Description: Discover how Christian counter-narrative literature and conservative Christian film production are effectively countering progressive narratives in the media landscape. Explore the impact of faith-based alternative media in shaping a biblical worldview through creative writing and resisting leftist propaganda art.
-Image: images/3220f1060d1ce0d8ac75b9b2169c76b5-20240912110608.jpg
+Image: images/3220f1060d1ce0d8ac75b9b2169c76b5-20240912110608.webp
 Slug: countering-progressive-narratives
 Tags: Christian counter-narrative literature, Resisting leftist propaganda art, Biblical worldview creative writing, Conservative Christian film production, Faith-based alternative media UK
 Title: '10 Powerful Strategies to Combat Progressive Narratives: A Christian Perspective'

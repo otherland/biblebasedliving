@@ -2,7 +2,7 @@
 Category: Art and Culture/Anti-Modernist Christian Art
 Date: '2024-06-19'
 Description: Explore the intersection of Biblical beauty in art theory and the challenges Christian aesthetics face against modernism. Delve into the theology of beauty in art creation and discover how to restore the sacred in visual arts with God-glorifying artistic standards.
-Image: images/1c2472696f591cf3e3a6401a3463b0e1-20240912110558.jpg
+Image: images/1c2472696f591cf3e3a6401a3463b0e1-20240912110558.webp
 Slug: christian-aesthetics-philosophy
 Tags: Biblical beauty in art theory, Christian aesthetics vs modernism, Theology of beauty art creation, Restoring sacred in visual arts, God-glorifying artistic standards
 Title: 'Exploring Christian Aesthetics Philosophy: Unveiling Beauty Through Faith'

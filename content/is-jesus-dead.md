@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Identity of Jesus/Faulty Assumptions
 Date: '2024-07-20'
 Description: Discover the truth about Jesus' death in this thought-provoking article. Explore the historical and religious perspectives to uncover the mystery.
-Image: images/2ac3f82ea3b2f6f60c5adcacd66b314d-20240927153804.jpg
+Image: images/2ac3f82ea3b2f6f60c5adcacd66b314d-20240927153804.webp
 Slug: is-jesus-dead
 Tags: christianity
 Title: Is Jesus Dead? Exploring the Resurrection Truth

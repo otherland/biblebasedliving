@@ -2,7 +2,7 @@
 Category: Jesus Christ/The Person of Jesus/Jesus’ Religion
 Date: '2024-05-18'
 Description: Discover the historical truth behind whether Jesus was a Jew. Uncover the religious and cultural implications of Jesus' Jewish heritage in this insightful article.
-Image: images/9a6efdbb9620dd73ea9b4928ebc483c1-20240927154801.jpg
+Image: images/9a6efdbb9620dd73ea9b4928ebc483c1-20240927154801.webp
 Slug: was-jesus-a-jew
 Tags: christianity
 Title: Was Jesus a Jew? Exploring the Faith Roots of Our Savior

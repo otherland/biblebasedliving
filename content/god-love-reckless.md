@@ -2,7 +2,7 @@
 Category: God/The Character of God/God’s Love
 Date: '2024-07-05'
 Description: Explore the intriguing concept of God's love being perceived as reckless, delving into the depth of divine affection beyond conventional boundaries. Discover the profound meaning and implications of this unconventional perspective.
-Image: images/6dac43ab0694d4313c042c1768ef255f-20240927144009.jpg
+Image: images/6dac43ab0694d4313c042c1768ef255f-20240927144009.webp
 Slug: god-love-reckless
 Tags: christianity
 Title: 'Reckless Love of God: Embracing His Unwavering Grace'
