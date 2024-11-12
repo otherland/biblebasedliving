@@ -76,6 +76,8 @@ Weekly Activities:
 - Cultural programs
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8__tUm8PR8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Core Beliefs and Practices {#beliefs}
 
 ### Essential Beliefs Comparison
@@ -445,6 +447,8 @@ Support Systems:
 - Legal Advocacy: 55%
 - Educational Resources: 72%
 ```
+
+![Pelican](../images/messianic-judaism2.jpeg)
 
 ### Interfaith Relations
 
