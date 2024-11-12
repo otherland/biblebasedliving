@@ -5,7 +5,7 @@ Description: Explore the concept of divine justice and the attributes of a just 
 Image: images/5d1c37bdafbc01e758f9cbf62d8601b7-20240927144718.webp
 Slug: god-is-just
 Tags: christianity
-Title: 'Discovering God''s Justice: Unveiling His Righteous Ways'
+Title: "Discovering God's Justice: Unveiling His Righteous Ways"
 ---
 
 ## God is Just

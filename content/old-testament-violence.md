@@ -5,7 +5,7 @@ Description: Explore the complex and controversial topic of Old Testament violen
 Image: images/2c2eea8fcc96286e08907e47e14e8143-20240927153103.webp
 Slug: old-testament-violence
 Tags: christianity
-Title: 'Unveiling Old Testament Violence: Understanding God''s Justice in Scriptures'
+Title: "Unveiling Old Testament Violence: Understanding God's Justice in Scriptures"
 ---
 
 ## Old Testament Violence

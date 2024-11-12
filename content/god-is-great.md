@@ -5,7 +5,7 @@ Description: Discover the magnificence and omnipotence of God in this enlighteni
 Image: images/5f33129f7f458f08e3756a0114478e15-20240927143916.webp
 Slug: god-is-great
 Tags: christianity
-Title: '7 Powerful Reasons Why God is Great: A Christian''s Ultimate Guide to Divine Greatness'
+Title: "7 Powerful Reasons Why God is Great: A Christian's Ultimate Guide to Divine Greatness"
 ---
 
 ## God is Great

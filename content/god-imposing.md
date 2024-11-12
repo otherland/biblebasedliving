@@ -5,7 +5,7 @@ Description: Explore the concept of God imposing His will on humanity in this th
 Image: images/b534432a7d264bbf2bd50412d8ca525a-20240927151333.webp
 Slug: god-imposing
 Tags: christianity
-Title: 'Divine Authority: Understanding God''s Imposing Will'
+Title: "Divine Authority: Understanding God's Imposing Will"
 ---
 
 ## God's Nature: Love Personified

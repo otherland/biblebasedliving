@@ -5,7 +5,7 @@ Description: Discover the concept of the "enemy of God" and its significance in 
 Image: images/b00957ea69eda118a5e4ed8e04a7e608-20240927145949.webp
 Slug: enemy-of-god
 Tags: christianity
-Title: 'Unveiling the Ultimate Enemy of God: A Christian''s Definitive Guide'
+Title: "Unveiling the Ultimate Enemy of God: A Christian's Definitive Guide"
 ---
 
 ## The Enemy of God: Understanding Opposition to God's Presence and Purposes

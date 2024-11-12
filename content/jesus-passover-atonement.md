@@ -5,7 +5,7 @@ Description: Discover the profound significance of Jesus' Passover atonement in 
 Image: images/2b94e1866268b357ad2672738fef4da6-20240927160605.webp
 Slug: jesus-passover-atonement
 Tags: christianity
-Title: 'Jesus'' Ultimate Passover Atonement: Revealing the Divine Sacrifice'
+Title: "Jesus' Ultimate Passover Atonement: Revealing the Divine Sacrifice"
 ---
 
 ## Jesus' Passover Atonement

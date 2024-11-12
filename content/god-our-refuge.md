@@ -5,7 +5,7 @@ Description: Discover the comforting embrace of God as our refuge in times of tr
 Image: images/34f831ee417e5e7bb8e72b12051a9b5e-20240927150436.webp
 Slug: god-our-refuge
 Tags: christianity
-Title: 'Ultimate Refuge: God''s Unfailing Protection for Christians'
+Title: "Ultimate Refuge: God's Unfailing Protection for Christians"
 ---
 
 ## God Our Refuge

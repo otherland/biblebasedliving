@@ -5,7 +5,7 @@ Description: Discover the profound meaning of "Jehovah Rapha" and how this bibli
 Image: images/7f90339973aef877bdcd04d83711ee41-20240927145553.webp
 Slug: jehovah-rapha
 Tags: christianity
-Title: 'Discover the Healing Power of Jehovah Rapha: A Christian''s Guide'
+Title: "Discover the Healing Power of Jehovah Rapha: A Christian's Guide"
 ---
 
 ## Jehovah Rapha: The Lord Who Heals

@@ -5,7 +5,7 @@ Description: Explore the concept of God's omniscience in this compelling article
 Image: images/1e23714f39e21f857d7f2bdd0f7b6e3e-20240927143759.webp
 Slug: god-omniscient
 Tags: christianity
-Title: 'Divine Omniscience: Unveiling God''s Infinite Knowledge for Believers'
+Title: "Divine Omniscience: Unveiling God's Infinite Knowledge for Believers"
 ---
 
 ## God's Omniscience

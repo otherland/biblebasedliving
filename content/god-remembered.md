@@ -5,7 +5,7 @@ Description: Discover the profound significance of "God remembered" in biblical 
 Image: images/e6d2ebcaf7e45ad3b981205fbdb65298-20240927144201.webp
 Slug: god-remembered
 Tags: christianity
-Title: 'Divine Remembrance: Unveiling God''s Faithfulness in Scripture'
+Title: "Divine Remembrance: Unveiling God's Faithfulness in Scripture"
 ---
 
 ## God Remembered

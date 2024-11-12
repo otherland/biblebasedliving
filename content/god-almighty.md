@@ -5,7 +5,7 @@ Description: Discover the awe-inspiring essence of God Almighty in this enlighte
 Image: images/73f085451a5a4989325309ea5b609e66-20240927145404.webp
 Slug: god-almighty
 Tags: christianity
-Title: 'Discover the Almighty Power of God: A Christian''s Ultimate Guide'
+Title: "Discover the Almighty Power of God: A Christian's Ultimate Guide"
 ---
 
 ## God Almighty

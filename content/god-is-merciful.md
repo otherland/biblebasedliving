@@ -5,7 +5,7 @@ Description: Discover how God's mercy is a guiding light in times of need. Explo
 Image: images/2a08a4667b6013fb440239a4b196d149-20240927144007.webp
 Slug: god-is-merciful
 Tags: christianity
-Title: 'Divine Mercy Revealed: God''s Unconditional Love for Christians'
+Title: "Divine Mercy Revealed: God's Unconditional Love for Christians"
 ---
 
 ## God's Mercy: A Gift of Love and Forgiveness

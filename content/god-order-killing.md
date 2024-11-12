@@ -5,7 +5,7 @@ Description: Explore the complex moral implications of divine commands to kill i
 Image: images/fe94fae86143963d4b3e7b58db90376c-20240927152517.webp
 Slug: god-order-killing
 Tags: christianity
-Title: 'Divine Command: Understanding God''s Order on Killing'
+Title: "Divine Command: Understanding God's Order on Killing"
 ---
 
 ## The Value of Human Life

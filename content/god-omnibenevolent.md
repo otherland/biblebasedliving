@@ -5,7 +5,7 @@ Description: Explore the concept of God's omnibenevolence and what it means for 
 Image: images/a7b823b48307a20ed8b29dea49d13455-20240927143949.webp
 Slug: god-omnibenevolent
 Tags: christianity
-Title: 'Divine Love Unveiled: Understanding God''s Omnibenevolence'
+Title: "Divine Love Unveiled: Understanding God's Omnibenevolence"
 ---
 
 ## God: The Omnibenevolent Being

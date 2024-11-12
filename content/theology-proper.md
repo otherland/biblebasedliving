@@ -5,7 +5,7 @@ Description: Explore the depths of Theology Proper, diving into the study of God
 Image: images/18f8ff94ce3d125e00f04ba5b7841008-20240927143414.webp
 Slug: theology-proper
 Tags: christianity
-Title: 'Unlocking the Depths of Theology Proper: A Christian''s Essential Guide'
+Title: "Unlocking the Depths of Theology Proper: A Christian's Essential Guide"
 ---
 
 ## Theology Proper: Understanding God and His Attributes

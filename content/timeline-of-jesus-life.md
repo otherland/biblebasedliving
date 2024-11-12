@@ -5,7 +5,7 @@ Description: Explore the timeline of Jesus' life, from his birth in Bethlehem to
 Image: images/91d8354d3622dd946fdf1b2954b6cf49-20240927155219.webp
 Slug: timeline-of-jesus-life
 Tags: christianity
-Title: 'The Ultimate Timeline of Jesus'' Life: A Comprehensive Journey Through His Ministry'
+Title: "The Ultimate Timeline of Jesus' Life: A Comprehensive Journey Through His Ministry"
 ---
 
 ## Timeline of Jesus' Life

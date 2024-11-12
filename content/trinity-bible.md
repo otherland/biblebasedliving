@@ -5,7 +5,7 @@ Description: Discover the profound significance of the Trinity in the Bible, exp
 Image: images/5a06f54ee7e4d75bb750020d61e0a233-20240927143426.webp
 Slug: trinity-bible
 Tags: christianity
-Title: 'Unveiling the Divine Mystery of the Trinity Bible: A Christian''s Guide'
+Title: "Unveiling the Divine Mystery of the Trinity Bible: A Christian's Guide"
 ---
 
 ## Understanding the Trinity in the Bible

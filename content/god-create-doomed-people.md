@@ -5,7 +5,7 @@ Description: Explore the philosophical debate surrounding the notion of God crea
 Image: images/ee0882a270cc5e66fa8b07b35d7b429d-20240927152301.webp
 Slug: god-create-doomed-people
 Tags: christianity
-Title: 'Unveiling God''s Sovereignty: Why He Created Doomed People'
+Title: "Unveiling God's Sovereignty: Why He Created Doomed People"
 ---
 
 ## God's Love and Human Choice: Understanding Salvation

@@ -5,7 +5,7 @@ Description: Explore the profound impact of belief in God on individuals and soc
 Image: images/88942409bad1746ab6e968b75c021363-20240927151047.webp
 Slug: believe-in-god
 Tags: christianity
-Title: '10 Powerful Reasons to Believe in God: A Christian''s Guide to Faith'
+Title: "10 Powerful Reasons to Believe in God: A Christian's Guide to Faith"
 ---
 
 ## Believing in God

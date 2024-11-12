@@ -5,7 +5,7 @@ Description: Explore the powerful concept of the "wrath of God" in religious bel
 Image: images/224daeecfff3852aedc183d80bfd1db1-20240927144808.webp
 Slug: wrath-of-god
 Tags: christianity
-Title: 'Unleashing the Divine Wrath: Understanding God''s Judgment'
+Title: "Unleashing the Divine Wrath: Understanding God's Judgment"
 ---
 
 ## The Wrath of God

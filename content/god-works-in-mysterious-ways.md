@@ -5,7 +5,7 @@ Description: Explore the concept of "God works in mysterious ways" in this enlig
 Image: images/bb9834c67435d1960605c596bfcb6f95-20240927144200.webp
 Slug: god-works-in-mysterious-ways
 Tags: christianity
-Title: 'Unveiling God''s Mysterious Ways: A Christian''s Guide to Divine Providence'
+Title: "Unveiling God's Mysterious Ways: A Christian"'s Guide to Divine Providence'
 ---
 
 ## God's Mysterious Ways

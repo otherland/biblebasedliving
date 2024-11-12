@@ -5,7 +5,7 @@ Description: Discover the profound goodness of God and how it impacts our lives 
 Image: images/2b8b575b189975a66b5cf47870957d28-20240927151953.webp
 Slug: goodness-of-god
 Tags: christianity
-Title: 'Unveiling the Divine Goodness: Exploring God''s Benevolence in Christian Faith'
+Title: "Unveiling the Divine Goodness: Exploring God's Benevolence in Christian Faith"
 ---
 
 ## The Goodness of God

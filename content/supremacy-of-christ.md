@@ -5,7 +5,7 @@ Description: Discover the profound significance of the supremacy of Christ in th
 Image: images/c829d0c24cf125b7f458d07284d786e8-20240927154002.webp
 Slug: supremacy-of-christ
 Tags: christianity
-Title: 'Unveiling the Supreme Reign of Christ: A Christian''s Ultimate Guide'
+Title: "Unveiling the Supreme Reign of Christ: A Christian's Ultimate Guide"
 ---
 
 ## The Supremacy of Christ

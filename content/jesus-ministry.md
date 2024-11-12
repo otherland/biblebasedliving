@@ -4,7 +4,7 @@ Date: '2024-06-27'
 Description: Explore the transformative impact of Jesus' ministry, delving into his teachings, miracles, and message of love and salvation. Discover the profound legacy of this influential figure in history.
 Slug: jesus-ministry
 Tags: christianity
-Title: 'Unlocking the Transformative Power of Jesus'' Ministry: A Comprehensive Guide'
+Title: "Unlocking the Transformative Power of Jesus' Ministry: A Comprehensive Guide"
 ---
 
 ## Jesus' Ministry

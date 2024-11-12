@@ -5,7 +5,7 @@ Description: Explore the intriguing phenomenon of "blood water Jesus" in this ar
 Image: images/4e19a67aece6123512b271e89a09f5f3-20240927160018.webp
 Slug: blood-water-jesus
 Tags: christianity
-Title: 'Jesus'' Blood Water: The Ultimate Redemption Story Unveiled'
+Title: "Jesus' Blood Water: The Ultimate Redemption Story Unveiled"
 ---
 
 ## The Flogging of Jesus: Understanding His Sacrifice

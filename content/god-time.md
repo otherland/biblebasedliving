@@ -5,7 +5,7 @@ Description: Explore the concept of God's time and its significance in our lives
 Image: images/8e73e839718c41b01f9d50d1e9b195ce-20240927143654.webp
 Slug: god-time
 Tags: christianity
-Title: 'Unveiling God''s Time: Understanding Divine Timing for Christian Believers'
+Title: "Unveiling God's Time: Understanding Divine Timing for Christian Believers"
 ---
 
 ## God and Time

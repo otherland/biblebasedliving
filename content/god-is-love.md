@@ -5,7 +5,7 @@ Description: Discover the profound essence of "God is love" in this enlightening
 Image: images/568a0eb36492d74d7772356a7efa6816-20240927143927.webp
 Slug: god-is-love
 Tags: christianity
-Title: 'Divine Love: Exploring God''s Unconditional Affection for His People'
+Title: "Divine Love: Exploring God's Unconditional Affection for His People"
 ---
 
 ## God is Love

@@ -5,7 +5,7 @@ Description: Discover the profound nature of God's patience and how it shapes ou
 Image: images/079590e635e2e1af4102cecd65ce6db7-20240927144024.webp
 Slug: god-is-patient
 Tags: christianity
-Title: 'Divine Patience: Understanding God''s Enduring Love for His People'
+Title: "Divine Patience: Understanding God's Enduring Love for His People"
 ---
 
 ## God's Patience: A Testament of Love and Mercy

@@ -5,7 +5,7 @@ Description: Explore the concept of whether God is an egomaniac in this thought-
 Image: images/41575668c0bd24eb7097454cdcba6f5c-20240927152650.webp
 Slug: god-egomaniac
 Tags: christianity
-Title: 'Divine Reflection: Unveiling the Truth About God''s Nature'
+Title: "Divine Reflection: Unveiling the Truth About God's Nature"
 ---
 
 ## God: Perfect and Worthy of Worship

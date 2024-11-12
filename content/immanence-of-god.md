@@ -5,7 +5,7 @@ Description: Explore the concept of the immanence of God in this enlightening ar
 Image: images/467271efb6bb5029d029df353d220004-20240927143744.webp
 Slug: immanence-of-god
 Tags: christianity
-Title: 'The Divine Immanence: Understanding God''s Presence in Christianity'
+Title: "The Divine Immanence: Understanding God's Presence in Christianity"
 ---
 
 ## The Immanence of God

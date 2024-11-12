@@ -5,7 +5,7 @@ Description: Explore the mystery of the empty tomb in this captivating article. 
 Image: images/ac658ef08d8450eeea89e7bbf7a9e825-20240927160325.webp
 Slug: empty-tomb
 Tags: christianity
-Title: '**Unveiling the Power of the Empty Tomb: A Christian''s Redemption Story**'
+Title: "**Unveiling the Power of the Empty Tomb: A Christian's Redemption Story**"
 ---
 
 ## The Empty Tomb: Evidence of the Resurrection

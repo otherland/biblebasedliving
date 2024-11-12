@@ -5,7 +5,7 @@ Description: Discover the profound significance of Hashem, a term used to refer 
 Image: images/3dc21063236c0b6c84678b8fec9f26af-20240927145235.webp
 Slug: meaning-of-hashem
 Tags: christianity
-Title: 'Understanding the Essence of Hashem: A Christian''s Guide'
+Title: "Understanding the Essence of Hashem: A Christian's Guide"
 ---
 
 ## The Meaning of Hashem

@@ -5,7 +5,7 @@ Description: Discover the power and hope behind the universal desire for divine 
 Image: images/ec218f0f45f8af865b8e719003b2f879-20240927153056.webp
 Slug: god-heal-everyone
 Tags: christianity
-Title: 'Divine Healing: God''s Promise to Restore and Renew'
+Title: "Divine Healing: God's Promise to Restore and Renew"
 ---
 
 ## God's Healing: Understanding His Will

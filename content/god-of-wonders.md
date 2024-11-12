@@ -5,7 +5,7 @@ Description: Discover the awe-inspiring exploration of the God of wonders in thi
 Image: images/41439b8e1c13ff89507ae1e19bfe2884-20240927144202.webp
 Slug: god-of-wonders
 Tags: christianity
-Title: 'Experience the Miracles of the God of Wonders: A Christian''s Guide'
+Title: "Experience the Miracles of the God of Wonders: A Christian's Guide"
 ---
 
 ## God of Wonders

@@ -5,7 +5,7 @@ Description: Discover the intriguing discussion around whether Jesus had a last 
 Image: images/33af3f1f3c1486fd9f0a476e49e04bcf-20240927153420.webp
 Slug: jesus-last-name
 Tags: christianity
-Title: 'Unveiling the Mystery: Jesus'' Last Name Revealed'
+Title: "Unveiling the Mystery: Jesus' Last Name Revealed"
 ---
 
 ## Jesus: The Chosen One

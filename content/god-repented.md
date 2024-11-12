@@ -5,7 +5,7 @@ Description: Explore the intriguing concept of God repenting in this thought-pro
 Image: images/decfc7d593099669cfc9193fca623da9-20240927144422.webp
 Slug: god-repented
 Tags: christianity
-Title: 'Divine Repentance: Understanding God''s Change of Heart'
+Title: "Divine Repentance: Understanding God's Change of Heart"
 ---
 
 ## God's Repentance: Understanding the Biblical Perspective

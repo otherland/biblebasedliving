@@ -5,7 +5,7 @@ Description: Explore the principles of deism - a belief in a higher power based 
 Image: images/1afc6f07907da1847675225930c95eed-20240927145727.webp
 Slug: deism
 Tags: christianity
-Title: 'Unveiling the Truth About Deism: A Christian Perspective on God''s Plan'
+Title: "Unveiling the Truth About Deism: A Christian Perspective on God's Plan"
 ---
 
 ## Deism

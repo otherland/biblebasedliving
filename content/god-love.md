@@ -5,7 +5,7 @@ Description: Discover the profound connection between God and love in this insig
 Image: images/6c7c4b43587933531a037be3a86155ba-20240927150322.webp
 Slug: god-love
 Tags: christianity
-Title: 'Divine Love Unveiled: Understanding God''s Unconditional Love for Christians'
+Title: "Divine Love Unveiled: Understanding God's Unconditional Love for Christians"
 ---
 
 ## God's Love: Understanding the Depth of His Love for Us

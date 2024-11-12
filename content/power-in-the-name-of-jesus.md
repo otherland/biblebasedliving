@@ -5,7 +5,7 @@ Description: Discover the transformative power in invoking the name of Jesus. Un
 Image: images/94692bad63ac9c4447c4cdc1576dde39-20240927154002.webp
 Slug: power-in-the-name-of-jesus
 Tags: christianity
-Title: 'Unleashing the Power of Jesus'' Name: A Christian''s Guide to Supernatural Authority'
+Title: "Unleashing the Power of Jesus' Name: A Christian"'s Guide to Supernatural Authority'
 ---
 
 ## Power in the Name of Jesus

@@ -5,7 +5,7 @@ Description: Discover the profound meaning behind "Jehovah Jireh," exploring its
 Image: images/baff0fb8daeca22601a7b745da1e9a4c-20240927145426.webp
 Slug: jehovah-jireh
 Tags: christianity
-Title: 'Ultimate Guide to Jehovah Jireh: Unveiling God''s Provision for Christian Living'
+Title: "Ultimate Guide to Jehovah Jireh: Unveiling God's Provision for Christian Living"
 ---
 
 ## Jehovah Jireh: The LORD Will Provide

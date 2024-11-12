@@ -5,7 +5,7 @@ Description: Explore the intriguing concept of God's presence in hell in this th
 Image: images/1f018865114e71cc481168ba283e4cbc-20240927143736.webp
 Slug: god-in-hell
 Tags: christianity
-Title: 'Revealing God''s Presence in Hell: A Christian Perspective'
+Title: "Revealing God's Presence in Hell: A Christian Perspective"
 ---
 
 ## God in Hell

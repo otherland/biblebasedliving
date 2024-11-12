@@ -5,7 +5,7 @@ Description: Discover the concept of God's sovereignty and its implications on f
 Image: images/cff3197527bab4a1b3aafcdf042a1779-20240927145802.webp
 Slug: is-god-sovereign
 Tags: christianity
-Title: 'Ultimate Guide: Understanding God''s Sovereignty in Christianity'
+Title: "Ultimate Guide: Understanding God's Sovereignty in Christianity"
 ---
 
 ## Is God Sovereign?

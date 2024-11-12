@@ -5,7 +5,7 @@ Description: Discover the powerful symbolism and significance of the title "Lord
 Image: images/58309393e7b7c27f30938f6b9a574f0e-20240927145442.webp
 Slug: lord-of-hosts
 Tags: christianity
-Title: 'Unleashing the Power of the Lord of Hosts: A Christian''s Guide to Divine Protection'
+Title: "Unleashing the Power of the Lord of Hosts: A Christian's Guide to Divine Protection"
 ---
 
 ## Lord of Hosts

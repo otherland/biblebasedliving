@@ -5,7 +5,7 @@ Description: Discover the divine role of God as our sustainer in this enlighteni
 Image: images/1ed659da3881f9f1f93c67f08d81e1ff-20240927150644.webp
 Slug: god-is-our-sustainer
 Tags: christianity
-Title: 'Divine Sustenance: God''s Unfailing Support for Believers'
+Title: "Divine Sustenance: God's Unfailing Support for Believers"
 ---
 
 ## God is Our Sustainer

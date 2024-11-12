@@ -5,7 +5,7 @@ Description: Explore the profound significance of Jesus's real sacrifice in Chri
 Image: images/d64b9267bcf1edd9ae3b9d6f573885f8-20240927160258.webp
 Slug: jesus-real-sacrifice
 Tags: christianity
-Title: 'Unveiling the True Depth of Jesus'' Sacrifice: A Christian Revelation'
+Title: "Unveiling the True Depth of Jesus' Sacrifice: A Christian Revelation"
 ---
 
 ## Jesus' Real Sacrifice

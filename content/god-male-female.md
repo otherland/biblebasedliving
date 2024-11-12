@@ -4,7 +4,7 @@ Date: '2024-06-26'
 Description: Discover the intriguing debate surrounding the gender of God. Explore theological perspectives on whether God is male, female, or beyond gender in this thought-provoking article.
 Slug: god-male-female
 Tags: christianity
-Title: 'Divine Gender: Exploring God''s Nature as Male and Female'
+Title: "Divine Gender: Exploring God's Nature as Male and Female"
 ---
 
 ## God: Male or Female?

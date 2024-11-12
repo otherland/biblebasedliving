@@ -5,7 +5,7 @@ Description: Discover the significance and symbolism of Jesus tongues in religio
 Image: images/f9a2cc40a5870bcd764791981b82516a-20240927154908.webp
 Slug: jesus-tongues
 Tags: christianity
-Title: 'Unveiling the Mystery of Jesus'' Divine Tongues: A Revelation for Believers'
+Title: "Unveiling the Mystery of Jesus' Divine Tongues: A Revelation for Believers"
 ---
 
 ## Jesus and Speaking in Tongues

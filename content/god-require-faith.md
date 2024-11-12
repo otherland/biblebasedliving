@@ -5,7 +5,7 @@ Description: Explore why having faith in God is considered a fundamental require
 Image: images/551b9101b8e572531f38512c59505c94-20240927151241.webp
 Slug: god-require-faith
 Tags: christianity
-Title: 'Essential Faith: Understanding God''s Requirement for Believers'
+Title: "Essential Faith: Understanding God's Requirement for Believers"
 ---
 
 ## God Requires Faith

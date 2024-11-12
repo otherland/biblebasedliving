@@ -5,7 +5,7 @@ Description: Discover the profound impact and significance of experiencing the p
 Image: images/5d946b5857321d4703eccfab8e1c7532-20240927151317.webp
 Slug: presence-of-god
 Tags: christianity
-Title: 'Experiencing the Divine Presence: 7 Ways to Encounter God''s Glory'
+Title: "Experiencing the Divine Presence: 7 Ways to Encounter God's Glory"
 ---
 
 ## The Presence of God

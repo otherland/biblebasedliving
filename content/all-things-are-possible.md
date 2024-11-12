@@ -5,7 +5,7 @@ Description: Explore the power of belief and manifestation in this enlightening 
 Image: images/fc53007ce4a47f7d5611a6d0ccd9b457-20240927150538.webp
 Slug: all-things-are-possible
 Tags: christianity
-Title: 'All Things Are Possible: Unleashing God''s Limitless Power in Your Life'
+Title: "All Things Are Possible: Unleashing God's Limitless Power in Your Life"
 ---
 
 ## All Things Are Possible

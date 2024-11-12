@@ -5,7 +5,7 @@ Description: Explore the intriguing concept of "Jesus zombie" and its implicatio
 Image: images/74c5d3e63ea44e9e9f9543155f29cbfb-20240927160514.webp
 Slug: jesus-zombie
 Tags: christianity
-Title: 'Resurrected Savior: Unveiling the Truth About Jesus'' Resurrection'
+Title: "Resurrected Savior: Unveiling the Truth About Jesus' Resurrection"
 ---
 
 ## Jesus' Resurrection: A True Return to Life

@@ -5,7 +5,7 @@ Description: Discover the significance and power behind the phrase "breathe Yahw
 Image: images/5bd02fcfe8eaf90adcebb9835556e745-20240927145257.webp
 Slug: breathe-yahweh
 Tags: christianity
-Title: 'Breathe Yahweh: Experience the Power of God''s Presence'
+Title: "Breathe Yahweh: Experience the Power of God's Presence"
 ---
 
 ## Breathe Yahweh

@@ -5,7 +5,7 @@ Description: Discover the concept of permissive will in estate planning. Learn h
 Image: images/a2cf34a3846fae8e4a9b3495cc225762-20240927150015.webp
 Slug: permissive-will
 Tags: christianity
-Title: 'Understanding God''s Permissive Will: A Guide to Divine Grace'
+Title: "Understanding God's Permissive Will: A Guide to Divine Grace"
 ---
 
 ## Permissive Will

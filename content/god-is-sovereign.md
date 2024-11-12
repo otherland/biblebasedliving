@@ -5,7 +5,7 @@ Description: Discover the profound truth of God's sovereignty in this insightful
 Image: images/e4e5a5118675437ebaee63411b404cd1-20240927144128.webp
 Slug: god-is-sovereign
 Tags: christianity
-Title: 'Divine Sovereignty Unveiled: Embracing God''s Ultimate Authority'
+Title: "Divine Sovereignty Unveiled: Embracing God's Ultimate Authority"
 ---
 
 ## God's Sovereignty: Understanding His Rule and Control

@@ -5,7 +5,7 @@ Description: Discover the significance of the First Person of the Trinity in Chr
 Image: images/1f4912fa4b97dfb5a4cadc68bdcf7834-20240927143512.webp
 Slug: first-person-of-the-trinity
 Tags: christianity
-Title: 'Understanding the First Person of the Trinity: Unveiling the Mystery of God''s Triune Nature'
+Title: "Understanding the First Person of the Trinity: Unveiling the Mystery of God's Triune Nature"
 ---
 
 ## The First Person of the Trinity

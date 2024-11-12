@@ -5,7 +5,7 @@ Description: Discover the intriguing story behind Mary Thomas, a figure whose to
 Image: images/6c8418472f8beba71c3206222399b633-20240927160400.webp
 Slug: touch-mary-thomas
 Tags: christianity
-Title: 'Encountering the Touch of Mary Thomas: A Christian''s Divine Experience'
+Title: "Encountering the Touch of Mary Thomas: A Christian's Divine Experience"
 ---
 
 ## Touching Jesus: Understanding the Words to Mary Thomas

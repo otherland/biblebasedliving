@@ -5,7 +5,7 @@ Description: Discover the essence of God's perfect will in this insightful artic
 Image: images/1b2ed6e50d6d2e0c1f1d78af93aaaf18-20240927151414.webp
 Slug: gods-perfect-will
 Tags: christianity
-Title: 'Unveiling God''s Perfect Will: A Christian''s Guide to Divine Guidance'
+Title: "Unveiling God's Perfect Will: A Christian"'s Guide to Divine Guidance'
 ---
 
 ## God's Perfect Will

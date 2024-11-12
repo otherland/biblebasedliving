@@ -5,7 +5,7 @@ Description: Explore the Biblical perspective on race, unity in Christ, and reco
 Image: images/776696ffa15bf3f2cf3cb060a7d07311-20240912092659.webp
 Slug: biblical-view-of-race
 Tags: Christian teaching racial differences, Unity in Christ racial reconciliation, Biblical nationalism vs globalism, Christian identity ethnic heritage, Babel dispersion races Biblical
-Title: 'Biblical Insights on Race: Understanding God''s Design for Unity'
+Title: "Biblical Insights on Race: Understanding God's Design for Unity"
 ---
 
 ## <h2>What does the Bible say about race?</h2>

@@ -5,7 +5,7 @@ Description: Discover the concept of God's omnificence in this enlightening arti
 Image: images/b507eed25376c0a6927ada51a1023c4e-20240927143821.webp
 Slug: god-omnificent
 Tags: christianity
-Title: 'Discover the Majesty of God''s Omnificent Creation: A Christian Reflection'
+Title: "Discover the Majesty of God's Omnificent Creation: A Christian Reflection"
 ---
 
 ## God's Omnificence: The Power to Create All Things

@@ -5,7 +5,7 @@ Description: Explore the fascinating concept of Swoon Theory, a hypothesis that 
 Image: images/7168f4bb665e37c7ef6e1e974ad477d5-20240927160226.webp
 Slug: swoon-theory
 Tags: christianity
-Title: 'Unveiling the Swoon Theory: Revealing the Truth Behind Jesus'' Resurrection'
+Title: "Unveiling the Swoon Theory: Revealing the Truth Behind Jesus' Resurrection"
 ---
 
 ## The Swoon Theory: Did Jesus Really Die on the Cross?

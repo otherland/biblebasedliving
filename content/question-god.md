@@ -5,7 +5,7 @@ Description: Explore the concept of God in various religions and philosophies. U
 Image: images/3b74685e6b0a06dc263168b8bb073fe4-20240927151522.webp
 Slug: question-god
 Tags: christianity
-Title: 'Seeking Answers: Questioning God''s Plan in Faith'
+Title: "Seeking Answers: Questioning God's Plan in Faith"
 ---
 
 ## Questioning God

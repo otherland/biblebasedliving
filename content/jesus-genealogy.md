@@ -5,7 +5,7 @@ Description: Explore the fascinating genealogy of Jesus, tracing his ancestry ba
 Image: images/2349090b1e6c0aab1985eee3972e8274-20240927155239.webp
 Slug: jesus-genealogy
 Tags: christianity
-Title: 'Unveiling the Divine Lineage: Exploring Jesus'' Genealogy in Depth'
+Title: "Unveiling the Divine Lineage: Exploring Jesus' Genealogy in Depth"
 ---
 
 ## Jesus' Genealogy: Tracing the Lineage of Jesus

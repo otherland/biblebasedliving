@@ -5,7 +5,7 @@ Description: '"Discover how Christian families can combat pornography addiction,
 Image: images/1907cfc0bb43349133d6497dd96c9ced-20240911202537.webp
 Slug: fighting-pornography
 Tags: Christian porn addiction recovery, Protecting families internet pornography, Biblical view masturbation purity, Accountability partners sexual sin, Porn-free homes technology solutions
-Title: 'Victory Over Pornography: A Christian''s Guide to Overcoming Temptation'
+Title: "Victory Over Pornography: A Christian's Guide to Overcoming Temptation"
 ---
 
 ## Fighting Pornography: A Biblical Perspective

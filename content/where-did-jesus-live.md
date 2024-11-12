@@ -5,7 +5,7 @@ Description: Discover where Jesus lived and walked during his time on Earth. Exp
 Image: images/07b1fb00a67a443bc5f9ca21d113d71f-20240927155039.webp
 Slug: where-did-jesus-live
 Tags: christianity
-Title: 'Where Did Jesus Live: Exploring the Holy Land''s Sacred Sites'
+Title: "Where Did Jesus Live: Exploring the Holy Land's Sacred Sites"
 ---
 
 ## Where Did Jesus Live?

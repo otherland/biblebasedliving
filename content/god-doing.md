@@ -5,7 +5,7 @@ Description: Discover the divine actions of God and explore the profound impact 
 Image: images/a4374d1715fe3ceb125aa0abbf149109-20240927143658.webp
 Slug: god-doing
 Tags: christianity
-Title: 'Divine Acts: Unveiling God''s Purpose in Our Lives'
+Title: "Divine Acts: Unveiling God's Purpose in Our Lives"
 ---
 
 ## God's Activities Before Creation

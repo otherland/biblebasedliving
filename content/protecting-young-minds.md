@@ -4,7 +4,7 @@ Date: '2024-09-11'
 Description: Discover how to shield Christian youth from secular influences with faith-based media guidelines & biblical discernment practices. Explore the importance of Christian family media contracts for managing screen time effectively.
 Slug: protecting-young-minds
 Tags: Christian youth media guidelines, Faith-based approach screen time, Shielding children secular influence, Christian family media contracts, Biblical discernment media consumption
-Title: 'Guarding Young Hearts: 5 Essential Ways Christian Parents Can Protect Their Children''s Minds'
+Title: "Guarding Young Hearts: 5 Essential Ways Christian Parents Can Protect Their Children's Minds"
 ---
 
 ## Protecting Young Minds: A Biblical Approach

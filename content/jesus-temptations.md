@@ -5,7 +5,7 @@ Description: Explore the profound significance of Jesus' temptations in the wild
 Image: images/5617f328e34646c5bf6f992375e8d600-20240927155635.webp
 Slug: jesus-temptations
 Tags: christianity
-Title: 'Unlocking the Spiritual Lessons from Jesus'' Temptations: A Christian Perspective'
+Title: "Unlocking the Spiritual Lessons from Jesus' Temptations: A Christian Perspective"
 ---
 
 ## Jesus' Temptations

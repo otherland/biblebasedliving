@@ -4,7 +4,7 @@ Date: '2024-04-10'
 Description: Explore the profound concept that God is truth in this enlightening article. Delve into the relationship between divinity and ultimate truth.
 Slug: god-is-truth
 Tags: christianity
-Title: 'Discover the Ultimate Truth: God''s Unwavering Reality'
+Title: "Discover the Ultimate Truth: God's Unwavering Reality"
 ---
 
 ## God is Truth

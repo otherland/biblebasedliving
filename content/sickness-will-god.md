@@ -5,7 +5,7 @@ Description: Explore the concept of sickness in relation to faith and divine int
 Image: images/b1179cd2390da2b259fda129db8c2998-20240927153016.webp
 Slug: sickness-will-god
 Tags: christianity
-Title: 'Divine Healing: Does Sickness Align with God''s Will?'
+Title: "Divine Healing: Does Sickness Align with God's Will?"
 ---
 
 ## Sickness and the Sovereignty of God

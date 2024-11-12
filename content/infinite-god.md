@@ -5,7 +5,7 @@ Description: Explore the concept of an infinite God in this enlightening article
 Image: images/17a03e72f05013d78d74b748d58908d1-20240927143632.webp
 Slug: infinite-god
 Tags: christianity
-Title: 'Unlocking the Infinite Majesty of God: A Christian''s Guide to Understanding His Limitless Nature'
+Title: "Unlocking the Infinite Majesty of God: A Christian's Guide to Understanding His Limitless Nature"
 ---
 
 ## The Infinite Nature of God

@@ -5,7 +5,7 @@ Description: Discover how Jesus interacted with sinners, showing love, compassio
 Image: images/d70e1fc41dce85f54bd8fb724acee0a7-20240927154459.webp
 Slug: jesus-with-sinners
 Tags: christianity
-Title: 'Embracing Grace: Jesus'' Transformative Encounters with Sinners'
+Title: "Embracing Grace: Jesus' Transformative Encounters with Sinners"
 ---
 
 ## Jesus Eating with Sinners

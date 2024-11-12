@@ -5,7 +5,7 @@ Description: Explore compelling arguments and evidence supporting the existence 
 Image: images/6e9d2bfde477af980a08aae31a990720-20240927144900.webp
 Slug: proof-of-god
 Tags: christianity
-Title: '7 Compelling Proofs of God''s Existence: A Christian Perspective'
+Title: "7 Compelling Proofs of God's Existence: A Christian Perspective"
 ---
 
 ## Proof of God

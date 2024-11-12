@@ -5,7 +5,7 @@ Description: Explore the concept of God having a physical body in various religi
 Image: images/ce706008fcc0f716b5d665315ed2b7ed-20240927144342.webp
 Slug: god-physical-body
 Tags: christianity
-Title: 'Unveiling the Mystery of God''s Physical Body: A Divine Revelation for Christian Believers'
+Title: "Unveiling the Mystery of God's Physical Body: A Divine Revelation for Christian Believers"
 ---
 
 ## God's Physical Body: Exploring the Nature of God

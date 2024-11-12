@@ -5,7 +5,7 @@ Description: Discover the transformative power and blessings bestowed through th
 Image: images/d3cdb9f292c0d484033228dcde67c23b-20240927143959.webp
 Slug: grace-of-god
 Tags: christianity
-Title: 'Experiencing the Transformative Grace of God: A Christian''s Guide to Embracing Divine Favor'
+Title: "Experiencing the Transformative Grace of God: A Christian's Guide to Embracing Divine Favor"
 ---
 
 ## Grace of God

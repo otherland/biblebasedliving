@@ -5,7 +5,7 @@ Description: Explore the profound concept of Christ's two natures in this enligh
 Image: images/f3a3fd195361a3f2d21790e57ab38e17-20240927154111.webp
 Slug: christ-two-natures
 Tags: christianity
-Title: 'Unveiling the Divine Mystery: Christ''s Dual Nature Explained'
+Title: "Unveiling the Divine Mystery: Christ's Dual Nature Explained"
 ---
 
 ## Christ's Two Natures

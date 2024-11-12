@@ -5,7 +5,7 @@ Description: Discover the profound belief that God still speaks to individuals, 
 Image: images/0310e0f69c874543d587f5d1b642f126-20240927150502.webp
 Slug: god-still-speak
 Tags: christianity
-Title: 'Divine Revelation: God''s Continued Communication with His Believers'
+Title: "Divine Revelation: God's Continued Communication with His Believers"
 ---
 
 ## God Still Speaks

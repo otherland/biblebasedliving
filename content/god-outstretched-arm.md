@@ -5,7 +5,7 @@ Description: Explore the profound symbolism and significance behind God's outstr
 Image: images/2964fd5689b6459eb51a78b97a1a38b7-20240927144438.webp
 Slug: god-outstretched-arm
 Tags: christianity
-Title: 'Unveiling the Power of God''s Outstretched Arm: A Divine Revelation for Believers'
+Title: "Unveiling the Power of God's Outstretched Arm: A Divine Revelation for Believers"
 ---
 
 ## God's Outstretched Arm

@@ -5,7 +5,7 @@ Description: Discover the causes and effects of birth defects in this insightful
 Image: images/e77c9adabb77ceb44ccab59b9f079289-20240927153027.webp
 Slug: birth-defects
 Tags: christianity
-Title: 'Protecting God''s Gift: Understanding and Overcoming Birth Defects'
+Title: "Protecting God's Gift: Understanding and Overcoming Birth Defects"
 ---
 
 ## Birth Defects: Understanding the Impact of Sin

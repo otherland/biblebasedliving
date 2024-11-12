@@ -5,7 +5,7 @@ Description: Explore how condescension can impact accommodations in various sett
 Image: images/90cf823d7ac5b45545f7c5b83414e218-20240927144455.webp
 Slug: accommodation-condescension
 Tags: christianity
-Title: 'Overcoming Accommodation Condescension: A Christian''s Guide to Embracing Humility'
+Title: "Overcoming Accommodation Condescension: A Christian's Guide to Embracing Humility"
 ---
 
 ## Accommodation and Condescension: Understanding God's Communication

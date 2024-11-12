@@ -5,7 +5,7 @@ Description: Explore the concept of God as a hidden presence, delving into the c
 Image: images/a4238de0cc37bb1f01c25699871e4faa-20240927144302.webp
 Slug: god-hidden
 Tags: christianity
-Title: 'Uncovering the Mystery: God''s Hidden Presence Revealed in Scripture'
+Title: "Uncovering the Mystery: God's Hidden Presence Revealed in Scripture"
 ---
 
 ## God's Hiddenness: Understanding God's Revelation and His Presence Today

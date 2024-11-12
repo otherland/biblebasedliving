@@ -5,7 +5,7 @@ Description: Discover the controversial history of the Canaanites' extermination
 Image: images/684b3b718fc59928216e98164bd93499-20240927153125.webp
 Slug: canaanites-extermination
 Tags: christianity
-Title: 'The Divine Justice Behind Canaanites'' Extermination: Unveiling God''s Purpose'
+Title: "The Divine Justice Behind Canaanites' Extermination: Unveiling God"'s Purpose'
 ---
 
 ## Canaanites Extermination

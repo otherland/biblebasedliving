@@ -5,7 +5,7 @@ Description: Discover the profound concept of how God actively pursues us with l
 Image: images/17d49bf44cbd576214e94167fc94fe52-20240927150609.webp
 Slug: does-god-pursue-us
 Tags: christianity
-Title: 'Divine Pursuit: How God''s Unwavering Love Seeks Us'
+Title: "Divine Pursuit: How God's Unwavering Love Seeks Us"
 ---
 
 ## Does God Pursue Us

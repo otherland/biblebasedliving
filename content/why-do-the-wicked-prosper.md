@@ -5,7 +5,7 @@ Description: Discover the perplexing reality of why the wicked prosper, explorin
 Image: images/e13a8b6b0a11698628e4c07f05db7600-20240927152317.webp
 Slug: why-do-the-wicked-prosper
 Tags: christianity
-Title: 'Why Do the Wicked Prosper: Understanding God''s Plan for Justice'
+Title: "Why Do the Wicked Prosper: Understanding God's Plan for Justice"
 ---
 
 ## Why Do the Wicked Prosper?

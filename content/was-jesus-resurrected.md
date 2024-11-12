@@ -5,7 +5,7 @@ Description: Discover the historical evidence and theological significance surro
 Image: images/8dff4aa42295dd00a3031a3d1bbc0fec-20240927160302.webp
 Slug: was-jesus-resurrected
 Tags: christianity
-Title: 'Ultimate Evidence of Jesus'' Resurrection: Unveiling the Truth'
+Title: "Ultimate Evidence of Jesus' Resurrection: Unveiling the Truth"
 ---
 
 ## Was Jesus Resurrected?
