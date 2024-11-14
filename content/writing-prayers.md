@@ -2,7 +2,7 @@
 Category: Prayer/Prayer And Devotion
 Date: '2024-05-23'
 Description: Discover how to write heartfelt and impactful prayers. Learn the step-by-step process to compose meaningful prayers that connect with your spirituality and communicate your deepest desires to God.
-Image: images/ea3430d2351618a7919aa88ca9f10474-20240827013614.webp
+Image: images/703937b8a9a7452de8f8afdb2ee30c12-20240912092522.webp
 Slug: writing-prayers
 Tags: how to write prayers, how do you write a prayer, write a prayer, how to write prayer, how to write a prayer, how to compose a prayer, writing prayers, prayer writing, can i write my prayers to god
 Title: Powerful Prayers: 10 Essential Tips for Writing Heartfelt Christian Prayers
