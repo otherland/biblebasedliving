@@ -1,6 +1,6 @@
 ---
 Image: images/Create an -1715861700.webp
-Title: Understanding the Differences Between Messianic Judaism and Christianity: A Comprehensive Guide
+Title: "Messianic Judaism vs Christianity: The Secret Jewish Sect That Claims Jesus Is Their Messiah"
 Date: 2024-02-16
 Category: Theology/The Divinity Of Jesus
 Slug: understanding-the-differences-between-messianic-judaism-and-christianity-a-comprehensive-guide

@@ -5,33 +5,144 @@ Description: 'Discover the age-old question: How old is God? Explore various per
 Image: images/093e0eeeb6f9dbc2d2ef6a13bec53c59-20240927143705.webp
 Slug: how-old-is-god
 Tags: christianity
-Title: 'Eternal Mysteries Unveiled: How Old is God According to the Bible'
+Title: 'How Old is God According to the Bible'
 ---
 
-## How Old is God?
+# How Old is God According to the Bible?
 
-Age is a concept that measures the span from beginning to end. We determine age based on birthdays, counting the time that has passed since a person's birth. However, when it comes to God, we cannot assign Him an age because He did not have a beginning. God exists outside of time, so the question "how old is God?" doesn't apply to Him.
+According to the Bible, God has no age as He exists eternally, without beginning or end. Scripture states "Before the mountains were brought forth... from everlasting to everlasting you are God" (Psalm 90:2). As the Creator of time itself, God exists outside temporal limitations. Biblical names like "I AM" (Exodus 3:14) and "Alpha and Omega" (Revelation 1:8) emphasize His eternal nature.
 
-God created time as part of this universe to mark the passing of seasons and years for us ([Genesis 1:14](https://www.bibleref.com/Genesis/1/Genesis-1-14.html); [Psalm 104:19](https://www.bibleref.com/Psalm/104/Psalm-104-19.html)). But He Himself is not subject to time. In the New Testament, God describes Himself as "the alpha and omega, the beginning and the end" ([Revelation 1:8](https://www.bibleref.com/Revelation/1/Revelation-1-8.html), 11; 22:13). This means that God is always present at all times. There is no past or future with God; everything is as though it were occurring right now. This can be difficult for us to comprehend as we are bound by time.
+### Direct Biblical Statements About God's Age
 
-When God revealed Himself to Moses, He said His name was "I AM WHO I AM" ([Exodus 3:14](https://www.bibleref.com/Exodus/3/Exodus-3-14.html)). From these Hebrew words, we derive the more familiar name for God: YAHWEH. By calling Himself "I AM," God was teaching Moses that He was incomparable and self-sufficient. Time cannot confine or define God. He has always been and always will be.
+1. **Before Creation**
+- [Psalm 90:2](https://www.bibleref.com/Psalm/90/Psalm-90-2.html): "Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God"
+- [Proverbs 8:22-23](https://www.bibleref.com/Proverbs/8/Proverbs-8-22.html): "The Lord possessed me at the beginning of his way, before his works of old. I was set up from everlasting, from the beginning, before the earth was"
+- [John 17:5](https://www.bibleref.com/John/17/John-17-5.html): "And now, Father, glorify me in your own presence with the glory that I had with you before the world existed"
 
-Asking "how old is God?" is an example of a category mistake—imputing a quality to something that properly belongs only to things of another category. Other category mistakes can be seen in questions such as "how long has this gravel been dead?" (it was never alive) or "what does the color orange sound like?" (colors are not sensed audibly). The question assumes that God should be categorized as having age, but He is timeless and does not belong in the same category as things subject to time.
+2. **Eternal Existence**
+- [1 Timothy 1:17](https://www.bibleref.com/1-Timothy/1/1-Timothy-1-17.html): "To the King eternal, immortal, invisible, the only God, be honor and glory forever and ever"
+- [Deuteronomy 33:27](https://www.bibleref.com/Deuteronomy/33/Deuteronomy-33-27.html): "The eternal God is your dwelling place, and underneath are the everlasting arms"
+- [Isaiah 40:28](https://www.bibleref.com/Isaiah/40/Isaiah-40-28.html): "The Lord is the everlasting God, the Creator of the ends of the earth"
 
-Jesus, who is God in human form, had a physical birth on earth around the year 5 BC. However, this was simply the incarnation of the eternal Son of God, who exists outside of time. The Lord existed before His physical incarnation. In fact, the Bible states that the earth was created by Him and through Him ([Colossians 1:16](https://www.bibleref.com/Colossians/1/Colossians-1-16.html); [John 1:1](https://www.bibleref.com/John/1/John-1-1.html)–3). Before Abraham was born, Jesus said, "I am" ([John 8:58](https://www.bibleref.com/John/8/John-8-58.html)).
+3. **No Beginning or End**
+- [Revelation 1:8](https://www.bibleref.com/Revelation/1/Revelation-1-8.html): "I am the Alpha and the Omega, says the Lord God, who is and who was and who is to come, the Almighty"
+- [Revelation 22:13](https://www.bibleref.com/Revelation/22/Revelation-22-13.html): "I am the Alpha and the Omega, the first and the last, the beginning and the end"
+- [Hebrews 7:3](https://www.bibleref.com/Hebrews/7/Hebrews-7-3.html): "Having neither beginning of days nor end of life"
 
-In summary, God does not have an age because He is timeless. He is eternal ([Genesis 21:33](https://www.bibleref.com/Genesis/21/Genesis-21-33.html)) and holds the universe together. Without Him, nothing would exist ([John 1:3](https://www.bibleref.com/John/1/John-1-3.html)). If God had an age, it would mean He had a beginning and there was a time when there was no God, which is impossible. Because God has always been, we can trust that He will always be, and the future is secure for those who put their trust in Him ([Psalm 9:10](https://www.bibleref.com/Psalm/9/Psalm-9-10.html); [Proverbs 30:5](https://www.bibleref.com/Proverbs/30/Proverbs-30-5.html)).
+## Understanding Time in the Bible
 
+### God's Creation of Time
+
+The Bible shows God existed before time and created it:
+
+1. **Creation of Time Markers**
+- [Genesis 1:1](https://www.bibleref.com/Genesis/1/Genesis-1-1.html): "In the beginning God created the heavens and the earth"
+- [Genesis 1:14](https://www.bibleref.com/Genesis/1/Genesis-1-14.html): "Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years"
+
+2. **God's Relationship to Time**
+- [2 Peter 3:8](https://www.bibleref.com/2-Peter/3/2-Peter-3-8.html): "With the Lord one day is as a thousand years, and a thousand years as one day"
+- [Psalm 102:24-27](https://www.bibleref.com/Psalm/102/Psalm-102-24.html): "Your years endure throughout all generations... they will perish, but you will remain"
+
+### Biblical Timeline and God's Existence
+
+The Bible presents a clear timeline showing God's existence:
+
+1. **Before Creation**
+- God exists eternally
+- No beginning point mentioned
+- Active before universe creation
+
+2. **Creation Week**
+- God creates time ([Genesis 1:1-5](https://www.bibleref.com/Genesis/1/Genesis-1-1.html))
+- Establishes day/night cycle
+- Sets up celestial time markers
+
+3. **Throughout History**
+- Present in all biblical events
+- Consistently described as eternal
+- Never changes or ages
+
+4. **Future Eternity**
+- [Revelation 1:4](https://www.bibleref.com/Revelation/1/Revelation-1-4.html): "who is and who was and who is to come"
+- [Psalm 102:27](https://www.bibleref.com/Psalm/102/Psalm-102-27.html): "but you are the same, and your years have no end"
+- Exists beyond end of current creation
+
+## God's Self-Revelation About His Age
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m8CPx66Jz6M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### The Meaning of "I AM"
 
-### Why This Matters
+When God revealed Himself to Moses in [Exodus 3:14](https://www.bibleref.com/Exodus/3/Exodus-3-14.html):
 
-Understanding that God is timeless and exists outside of time helps us recognize His incomparable nature. It reminds us that He is not limited by temporal constraints like we are. This knowledge can deepen our trust in Him and give us confidence in His promises. It also encourages us to approach God with humility and reverence, recognizing His eternal existence and supreme authority.
+1. **Hebrew Name Explanation**
+- YHWH (יהוה) means "I AM WHO I AM"
+- Indicates eternal present existence
+- Shows existence independent of time
 
-### Think About It
+2. **Biblical Usage**
+- Used over 6,800 times in Old Testament
+- Consistently represents eternal nature
+- Connected to God's unchanging character
 
-1. How does the concept of God being timeless impact your understanding of His nature?
-2. What implications does it have for your relationship with Him?
-3. How does recognizing God's eternal existence affect your trust in His plans for your life?
+### Other Biblical Names Indicating God's Ageless Nature
+
+1. **El Olam (עוֹלָם אֵל)**
+- Meaning: The Everlasting God
+- First used in [Genesis 21:33](https://www.bibleref.com/Genesis/21/Genesis-21-33.html)
+- Emphasizes God's eternal existence
+
+2. **Ancient of Days**
+- Used in [Daniel 7:9](https://www.bibleref.com/Daniel/7/Daniel-7-9.html)
+- Represents eternal authority
+- Shows God's existence before time
+
+## Common Questions About God's Age
+
+### Does God Have a Beginning?
+
+The Bible clearly teaches that God has no beginning:
+
+1. **Biblical Evidence**
+- Never mentions God's beginning
+- Describes God before creation
+- Uses terms indicating eternal existence
+
+2. **Scriptural Support**
+- [Psalm 93:2](https://www.bibleref.com/Psalm/93/Psalm-93-2.html): "Your throne is established from of old; you are from everlasting"
+- [Isaiah 43:13](https://www.bibleref.com/Isaiah/43/Isaiah-43-13.html): "From eternity I am He"
+
+### Can We Calculate God's Age?
+
+The Bible shows why God's age cannot be calculated:
+
+1. **Beyond Time**
+- Exists outside time framework
+- Created time itself
+- Not bound by temporal limits
+
+2. **Biblical Perspective**
+- No starting point to measure from
+- Eternal nature transcends measurement
+- Exists in eternal present
+
+## Biblical Summary of God's Age
+
+According to Scripture:
+
+1. **God is Eternal**
+- No beginning
+- No end
+- Outside time itself
+
+2. **Biblical Proof**
+- Consistent testimony throughout Scripture
+- Multiple divine names indicating eternality
+- Clear statements about God's timeless nature
+
+3. **Key Truth**
+- God doesn't have an age in human terms
+- Exists eternally past and future
+- Created and transcends time itself
+
+This biblical understanding shows that asking "How old is God?" reflects our time-bound perspective. The Bible consistently teaches that God exists eternally, without beginning or end, transcending the very concept of age itself.
