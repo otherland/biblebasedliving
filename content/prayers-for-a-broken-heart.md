@@ -21,9 +21,6 @@ Praying for a broken heart helps us acknowledge our pain and surrender it to God
 - [Psalm 34:18](https://www.bibleref.com/Psalm/34/Psalm-34-18.html) (NIV) - "The Lord is close to the brokenhearted and saves those who are crushed in spirit."
 - [Matthew 11:28-30](https://www.bibleref.com/Matthew/11/Matthew-11-28.html) (NIV) - "Come to me, all you who are weary and burdened, and I will give you rest."
 
-[The ESV Study Bible (https://amzn.to/405FJx3) provides in-depth commentary on passages about healing and comfort, including Psalm 34:18 and other verses of hope.]
-
-
 ## 2. What are [some specific prayers](/prayers-to-pray-for-others) for a broken heart?
 
 When praying for a broken heart, there are various prayers we can offer to God. These prayers can help us find strength, healing, and restoration in our brokenness. Here are a few specific prayers for a broken heart:
@@ -41,9 +38,6 @@ When praying for a broken heart, there are various prayers we can offer to God. 
 
 - [Psalm 147:3](https://www.bibleref.com/Psalm/147/Psalm-147-3.html) (NIV) - "He heals the brokenhearted and binds up their wounds."
 - [Psalm 55:22](https://www.bibleref.com/Psalm/55/Psalm-55-22.html) (NIV) - "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
-
-[Keep your favorite healing and comfort verses easily accessible with these Bible Tabs (https://amzn.to/4a5XSzk).]
-
 
 ## 3. [How can prayer](/prayer-of-hopelessness) bring hope to a woman with a broken heart?
 
