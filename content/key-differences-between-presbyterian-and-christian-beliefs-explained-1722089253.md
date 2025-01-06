@@ -10,7 +10,7 @@ Description: Presbyterianism is a branch of Protestant Christianity so all Presb
 
 **Presbyterianism is a branch of Protestant Christianity, so all Presbyterians are Christians, but not all Christians are Presbyterians. Christians encompass a wide range of denominations, including Baptist, Lutheran, Methodist, and more. Presbyterianism is a specific denomination within the larger Christian faith.**
 
-[Looking to study Protestant Christian beliefs in detail? The ESV Study Bible (https://amzn.to/405FJx3) provides comprehensive theological notes and denominational comparisons.]
+[Looking to study Protestant Christian beliefs in detail? The ESV Study Bible provides comprehensive theological notes and denominational comparisons.](https://amzn.to/405FJx3)
 
 In terms of beliefs and practices, Presbyterians emphasize the sovereignty of God, the authority of the Bible, salvation through grace alone, and the priesthood of all believers. They adhere to a system of church governance led by elected elders, who oversee the spiritual direction and administration of the church. The Presbyterian Church is known for its commitment to education, social justice, and mission work both locally and globally. 
 
@@ -34,7 +34,7 @@ Presbyterians and Catholics have theological differences in areas such as the un
 
 - In terms of worship practices, Presbyterians often have simpler church services focused on preaching and communal prayer, while Catholic liturgies are more elaborate and include rituals such as the Eucharist and veneration of relics.
 
-[For deeper understanding of Protestant and Catholic differences, The Moody Bible Commentary (https://amzn.to/3BYEFmM) offers clear historical and theological insights.]
+[For deeper understanding of Protestant and Catholic differences, The Moody Bible Commentary offers clear historical and theological insights.](https://amzn.to/3BYEFmM) 
 
 ## What is the difference between Protestant and Presbyterian?
 

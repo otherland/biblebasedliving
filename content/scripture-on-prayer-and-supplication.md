@@ -14,7 +14,7 @@ Prayer is a vital part of [the Christian faith](/prayers-to-pray-for-others). It
 
 Supplication is [an essential aspect](/prayer-life) of prayer as it involves making specific requests to God. It goes beyond general prayers of praise or thanksgiving and allows believers to bring [their specific needs](/discipline-methods) before the Lord. When we engage in supplication, we humbly acknowledge our dependence on God and His ability to meet our needs. It is an act of surrendering our desires to His will and seeking His guidance in all matters.
 
-[Need a comprehensive study Bible to explore prayer verses? The ESV Study Bible (https://amzn.to/405FJx3) includes detailed commentary on key prayer passages and cross-references.]
+[Need a comprehensive study Bible to explore prayer verses? The ESV Study Bible includes detailed commentary on key prayer passages and cross-references.](https://amzn.to/405FJx3)
 
 ### Bible Verses on Supplication:
 
@@ -28,7 +28,7 @@ These verses highlight the importance of bringing our specific requests before G
 
 Prayer is not just about reciting words but having a genuine conversation with God. It is an opportunity to connect with Him intimately and share our hearts and thoughts. When it comes to supplication, we should approach it with humility, faith, and persistence. We are called to pray in alignment with God's will, trusting in His sovereignty and wisdom.
 
-[For a convenient way to mark important prayer verses, consider these Bible Tabs (https://amzn.to/4a5XSzk) to quickly find your favorite passages.]
+[For a convenient way to mark important prayer verses, consider these Bible Tabs to quickly find your favorite passages.](https://amzn.to/4a5XSzk) 
 
 ### Bible Verses on Prayer and Supplication:
 
