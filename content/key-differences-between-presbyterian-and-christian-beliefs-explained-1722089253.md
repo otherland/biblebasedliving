@@ -10,6 +10,8 @@ Description: Presbyterianism is a branch of Protestant Christianity so all Presb
 
 **Presbyterianism is a branch of Protestant Christianity, so all Presbyterians are Christians, but not all Christians are Presbyterians. Christians encompass a wide range of denominations, including Baptist, Lutheran, Methodist, and more. Presbyterianism is a specific denomination within the larger Christian faith.**
 
+[Looking to study Protestant Christian beliefs in detail? The ESV Study Bible (https://amzn.to/405FJx3) provides comprehensive theological notes and denominational comparisons.]
+
 In terms of beliefs and practices, Presbyterians emphasize the sovereignty of God, the authority of the Bible, salvation through grace alone, and the priesthood of all believers. They adhere to a system of church governance led by elected elders, who oversee the spiritual direction and administration of the church. The Presbyterian Church is known for its commitment to education, social justice, and mission work both locally and globally. 
 
 *[Colossians 3:17](https://www.bibleref.com/Colossians/3/Colossians-3-17.html) - "And whatever you do, whether in word or deed, do it all in the name of [the Lord Jesus](/christian-symbols-in-public-spaces), giving thanks to God the Father through him."*
@@ -31,6 +33,8 @@ Presbyterians and Catholics have theological differences in areas such as the un
 - Another key difference is in the understanding of salvation: Presbyterians believe in justification by faith alone, while Catholics believe in a combination of faith and good works for salvation.
 
 - In terms of worship practices, Presbyterians often have simpler church services focused on preaching and communal prayer, while Catholic liturgies are more elaborate and include rituals such as the Eucharist and veneration of relics.
+
+[For deeper understanding of Protestant and Catholic differences, The Moody Bible Commentary (https://amzn.to/3BYEFmM) offers clear historical and theological insights.]
 
 ## What is the difference between Protestant and Presbyterian?
 

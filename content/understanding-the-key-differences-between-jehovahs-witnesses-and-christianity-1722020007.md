@@ -12,6 +12,8 @@ Description: Jehovahs Witnesses have distinct beliefs that set them apart from m
 
 Jehovah's Witnesses have distinct beliefs that set them apart from mainstream Christianity. They reject the doctrine of the Trinity, believing that **God** is a single being and that Jesus is a created being. They also do not celebrate holidays like **Christmas** and **Easter**, considering them to have pagan origins.  contrast, Christianity upholds the belief in the Trinity - the Father, Son, and Holy Spirit as one God - and celebrates the birth and resurrection of Jesus Christ.
 
+[The Moody Bible Commentary (https://amzn.to/3BYEFmM) offers scholarly insight into original Biblical texts and translations.]
+
 In Christianity, the **Bible** is considered the inspired and authoritative word of God, guiding believers in their faith and practice. Jehovah's Witnesses, on the other hand, use their own translation of the Bible called the **New World Translation** which has been criticized for altering certain passages to fit their beliefs.  difference in interpretation can lead to varying perspectives on key theological doctrines.
 
 * **[John 1:1](https://www.bibleref.com/John/1/John-1-1.html)**: "In the beginning was the Word, and the Word was with God, and the Word was God."
@@ -20,6 +22,9 @@ In Christianity, the **Bible** is considered the inspired and authoritative word
 * Jehovah's Witnesses also do not believe in the concept of hell as a place of eternal punishment. They interpret hell as the common grave of mankind, where the wicked will be annihilated rather than suffering forever.
 * Unlike many Christian denominations, Jehovah's Witnesses do not participate in politics or military service, as they believe in remaining politically neutral and following the example set by Jesus in the Bible.
 * Jehovah's Witnesses emphasize the importance of evangelizing and spreading their beliefs through door-to-door preaching and distributing literature, viewing it as a fundamental aspect of their faith and obedience to God's commandments.
+
+[For deep study of Biblical doctrines and interpretations, the ESV Study Bible (https://amzn.to/405FJx3) provides comprehensive theological notes and cross-references.]
+
 
 ## How do Jehovah's Witnesses view salvation compared to Christianity?
 
