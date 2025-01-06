@@ -30,6 +30,9 @@ In addition to the armor of God, there are **50 weapons of spiritual warfare** l
 - The effectiveness of spiritual weapons is not based on human strength or ability, but on the power of God working through believers. When we rely on God's strength and guidance, we can be confident in our victory over the enemy.
 When engaging in spiritual warfare, **believers** are equipped with a powerful arsenal of weapons to combat the enemy. These weapons are not physical but spiritual in nature, designed to protect, defend, and overcome the schemes of the devil. In [Ephesians 6:10-18](https://www.bibleref.com/Ephesians/6/Ephesians-6-10.html), the apostle Paul outlines the **armor of God**, which includes the **belt of truth, breastplate of righteousness, feet fitted with the readiness that comes from the gospel of peace, shield of faith, helmet of salvation, and the sword of the Spirit, which is the word of God**. These pieces of armor serve as both defensive and offensive weapons in the battle against spiritual forces of evil.
 
+[For in-depth study of spiritual warfare passages, the ESV Study Bible provides comprehensive notes and cross-references on key verses like Ephesians 6:10-18.](https://amzn.to/405FJx3) 
+
+
 ## How Do We Put On the Full Armor of God Daily?
 
 ### Biblical Foundation
@@ -360,6 +363,8 @@ Key indicators include:
   * Examine the day
   * Repent if needed
   * Thank God for victories
+
+[Keep track of important spiritual warfare verses with Bible Tabs - perfect for quick reference during prayer and study.](https://amzn.to/4a5XSzk) 
 
 ### Prayer Points for Spiritual Warfare
 

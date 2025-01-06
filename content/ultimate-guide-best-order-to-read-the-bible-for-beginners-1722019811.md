@@ -10,6 +10,8 @@ Description: If you are reading the Bible for the first time it can be overwhelm
 
 If you are **reading the Bible for the first time**, it can be overwhelming to know where to start. Many people recommend beginning with the **Gospel of John**, as it provides a clear and concise introduction to the life and teachings of Jesus Christ. Starting with the New Testament can be more accessible for beginners, as it focuses on the teachings of Jesus and the early Christian church.
 
+[For new Bible readers, we recommend the ESV Study Bible which includes helpful book introductions, maps, and study notes to guide your reading journey.](https://amzn.to/405FJx3) 
+
 One verse that highlights the importance of starting with the Gospels is **[John 1:1](https://www.bibleref.com/John/1/John-1-1.html)**, which says, "In the beginning was the Word, and the Word was with God, and the Word was God." This verse sets the stage for understanding [the divinity of Jesus](/10-fascinating-facts-about-jesus-christ-a-comprehensive-guide-for-christian-readers) and his role in salvation.  beginning with the Gospel of John, you can gain a foundational understanding of the central figure of [the Christian faith](/nurturing-faith-and-family-comprehensive-guide-christian-parenting-life).
 
 - Another benefit of starting with the Gospel of John is that it offers a unique perspective on Jesus' ministry, focusing more on [his divine nature](/unveiling-the-divine-comprehensive-exploration-jesus-christ-divinity) and the spiritual significance of his teachings.
@@ -37,6 +39,8 @@ In **[Psalm 119:105](https://www.bibleref.com/Psalm/119/Psalm-119-105.html)**, i
 - It can be helpful to set aside a specific time each day for reading the Bible, whether it's in the morning before starting your day or in the evening before bed. Consistency is key when it comes to completing a reading plan in a year.
 
 ## What order to read the Bible in for beginners?
+
+[Consider using The Action Bible alongside your regular Bible - its illustrated format can help bring biblical stories to life while you learn.](https://amzn.to/4h6x0Sl)
 
 For beginners, it is helpful to start with the **New Testament** before diving into [the Old Testament](/where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers).  New Testament focuses on the life, teachings, death, and resurrection of Jesus Christ, making it more accessible for those new to the Bible. Begin with the **Gospels** to learn about Jesus' ministry, then explore the **Epistles** to understand the early church's teachings.
 
